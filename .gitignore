@@ -15,7 +15,7 @@ bin/**
 /out/
 
 **/*.log
-
+.ipynb_checkpoints/
 # don't commit the autobuilt version file
 src/main/resources/version.txt
 
