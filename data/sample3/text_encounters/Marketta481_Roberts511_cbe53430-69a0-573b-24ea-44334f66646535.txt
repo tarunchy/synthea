@@ -1,0 +1,43 @@
+Marketta481 Roberts511
+======================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 44
+Birth Date:          1978-07-30
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1989-08-13 : Encounter at STARTING LINE WELLNESS LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1989-08-13 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

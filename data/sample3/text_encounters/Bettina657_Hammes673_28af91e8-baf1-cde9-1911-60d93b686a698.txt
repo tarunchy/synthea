@@ -1,0 +1,45 @@
+Bettina657 Hammes673
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 18
+Birth Date:          2004-12-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-11-29 : Encounter at THE LOWELL GENERAL HOSPITAL : Encounter for Contraception care (regime/therapy)
+Type: outpatient
+   
+   MEDICATIONS:
+  2020-11-29 : Jolivette 28 Day Pack
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-01-17 : Severe anxiety (panic) (finding)
+  2019-01-11 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

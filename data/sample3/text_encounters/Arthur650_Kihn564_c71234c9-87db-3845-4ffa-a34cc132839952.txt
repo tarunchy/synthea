@@ -1,0 +1,43 @@
+Arthur650 Kihn564
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 26
+Birth Date:          1997-04-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2000-09-14 : Encounter at PERSONAL PHYSICIANS HEALTHCARE PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2000-09-14 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

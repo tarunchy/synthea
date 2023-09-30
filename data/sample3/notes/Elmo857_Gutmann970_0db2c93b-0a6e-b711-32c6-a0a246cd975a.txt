@@ -1,0 +1,442 @@
+
+2013-07-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Elmo857
+ is a newborn nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2014-04-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Elmo857
+ is a 9 month-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was placed on a careplan:
+- self-care interventions (procedure)
+
+
+
+2014-05-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Elmo857
+ is a 9 month-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with allergy to substance (finding), shellfish (substance). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- cetirizine hydrochloride 5 mg oral tablet
+- nda020800 0.3 ml epinephrine 1 mg/ml auto-injector
+
+
+
+2014-06-23
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Elmo857
+ is a 11 month-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2014-09-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Elmo857
+ is a 1 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2016-06-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Elmo857
+ is a 2 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2017-06-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Elmo857
+ is a 3 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2019-07-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Elmo857
+ is a 5 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2020-07-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Elmo857
+ is a 6 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2020-11-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Elmo857
+ is a 7 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with acute viral pharyngitis (disorder). 
+
+## Plan
+
+
+
+
+2021-07-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Elmo857
+ is a 7 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2022-01-04
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Elmo857
+ is a 8 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2022-02-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Elmo857
+ is a 8 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2022-07-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Elmo857
+ is a 9 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+

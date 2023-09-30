@@ -1,0 +1,58 @@
+Carma664 Fernande593 Fadel536
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 30
+Birth Date:          1992-12-22
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-08-07 : Encounter at STEWARD GOOD SAMARITAN MEDICAL CENTER, INC. : Encounter for Normal pregnancy
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2018-08-07 : Auscultation of the fetal heart for Normal pregnancy
+  2018-08-07 : Evaluation of uterine fundal height for Normal pregnancy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-01-09 : Normal pregnancy
+  2016-03-01 : Stress (finding)
+  2016-03-01 : Body mass index 30+ - obesity (finding)
+  2014-02-06 : Fibromyalgia (disorder)
+  2014-02-06 : Chronic low back pain (finding)
+  2014-02-06 : Chronic pain (finding)
+  2012-02-21 : Full-time employment (finding)
+  2011-02-15 : Limited social contact (finding)
+  2011-02-15 : Received certificate of high school equivalency (finding)
+   
+   MEDICATIONS:
+  2018-03-13 : Acetaminophen 325 MG Oral Tablet [Tylenol]
+   
+   CAREPLANS:
+  2018-01-09 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+   
+--------------------------------------------------------------------------------

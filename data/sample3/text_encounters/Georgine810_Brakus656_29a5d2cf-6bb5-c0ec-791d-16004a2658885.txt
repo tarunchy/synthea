@@ -1,0 +1,44 @@
+Georgine810 Brakus656
+=====================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 5
+Birth Date:          2018-05-26
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-06-17 : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Viral sinusitis (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2021-06-17 : Viral sinusitis (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-10-31 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

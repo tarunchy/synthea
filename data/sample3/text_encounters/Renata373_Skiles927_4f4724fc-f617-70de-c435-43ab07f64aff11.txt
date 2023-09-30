@@ -1,0 +1,43 @@
+Renata373 Skiles927
+===================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 20
+Birth Date:          2002-09-07
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2014-09-27 : Encounter at DUTTON FAMILY CARE ASSOCIATES LLP
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2014-09-27 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

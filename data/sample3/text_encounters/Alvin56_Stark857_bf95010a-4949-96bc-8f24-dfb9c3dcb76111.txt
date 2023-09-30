@@ -1,0 +1,67 @@
+Alvin56 Stark857
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 19
+Birth Date:          2004-05-13
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-06-20 : Encounter at PRIMARY & PREVENTIVE CARE, INC.
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2019-06-20 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2019-06-20 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+   
+   OBSERVATIONS:
+  2019-06-20 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+  2019-06-20 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2019-06-20 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-06-20 : Respiratory rate                         14.0 /min
+  2019-06-20 : Heart rate                               71.0 /min
+  2019-06-20 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2019-06-20 : Body mass index (BMI) [Percentile] Per age and sex 83.4 %
+  2019-06-20 : Body mass index (BMI) [Ratio]            23.2 kg/m2
+  2019-06-20 : Body Weight                              66.1 kg
+  2019-06-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2019-06-20 : Body Height                              168.7 cm
+   
+   PROCEDURES:
+  2019-06-20 : Anticipatory guidance (procedure)
+  2019-06-20 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2019-06-20 : Assessment of substance use (procedure)
+  2019-06-20 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2019-06-20 : Depression screening (procedure)
+  2019-06-20 : Assessment of anxiety (procedure)
+   
+   IMMUNIZATIONS:
+  2019-06-20 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2016-06-02 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

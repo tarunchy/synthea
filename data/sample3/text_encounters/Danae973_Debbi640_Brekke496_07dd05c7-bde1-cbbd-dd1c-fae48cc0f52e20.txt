@@ -1,0 +1,50 @@
+Danae973 Debbi640 Brekke496
+===========================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 66
+Birth Date:          1957-07-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2011-10-12 : Encounter at FIRST PSYCHIATRIC PLANNERS, INC : Encounter for Escherichia coli urinary tract infection
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2011-10-12 : Recurrent urinary tract infection
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2011-08-09 : Medication review due (situation)
+  2003-08-05 : Stress (finding)
+  2001-07-31 : Body mass index 30+ - obesity (finding)
+  1979-09-18 : Limited social contact (finding)
+  1975-09-09 : Social isolation (finding)
+  1975-09-09 : Received certificate of high school equivalency (finding)
+  1974-09-03 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

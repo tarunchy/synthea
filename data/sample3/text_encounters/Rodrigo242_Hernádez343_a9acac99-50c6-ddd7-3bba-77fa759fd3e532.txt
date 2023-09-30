@@ -1,0 +1,103 @@
+Rodrigo242 Hernádez343
+===============á======
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 76
+Birth Date:          1946-07-29
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-03-05 : Encounter at HOLYOKE MEDICAL CENTER INC : Encounter for Chronic kidney disease stage 4 (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+  2023-03-05 : 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] for Anemia (disorder)
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2023-03-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2023-03-05 : Weight difference [Mass difference] --pre dialysis - post dialysis 1.1 kg
+   
+   PROCEDURES:
+  2023-03-05 : Renal dialysis (procedure) for Chronic kidney disease stage 4 (disorder)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2023-02-20 : Medication review due (situation)
+  2022-11-14 : Full-time employment (finding)
+  2022-11-06 : Awaiting transplantation of kidney (situation)
+  2022-09-19 : Chronic kidney disease stage 4 (disorder)
+  2022-08-17 : Recurrent rectal polyp
+  2021-07-28 : Polyp of colon
+  2019-10-28 : Victim of intimate partner abuse (finding)
+  2017-11-13 : Chronic kidney disease stage 3 (disorder)
+  2015-07-23 : History of coronary artery bypass grafting (situation)
+  2015-07-15 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2015-07-06 : Ischemic heart disease (disorder)
+  2014-06-30 : Chronic kidney disease stage 2 (disorder)
+  2011-04-04 : Chronic kidney disease stage 1 (disorder)
+  2003-12-12 : History of renal transplant (situation)
+  1994-01-10 : Chronic sinusitis (disorder)
+  1990-09-03 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  1988-10-17 : Metabolic syndrome X (disorder)
+  1988-10-10 : Body mass index 30+ - obesity (finding)
+  1986-01-20 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1985-01-14 : Refugee (person)
+  1984-01-09 : Disorder of kidney due to diabetes mellitus (disorder)
+  1982-01-04 : Septic shock (disorder)
+  1982-01-04 : Sepsis (disorder)
+  1967-10-09 : Anemia (disorder)
+  1967-10-09 : Prediabetes
+  1965-09-27 : Lack of access to transportation (finding)
+  1964-09-21 : Transport problem (finding)
+  1964-09-21 : Received higher education (finding)
+  1964-09-21 : Essential hypertension (disorder)
+   
+   MEDICATIONS:
+  2023-02-20 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2023-02-20 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2023-02-20 + 24 HR tacrolimus 1 MG Extended Release Oral Tablet for History of renal transplant (situation)
+  2023-02-20 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2023-02-20 + insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2015-07-13 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2015-07-13 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  2015-07-13 : Simvastatin 20 MG Oral Tablet
+  2015-07-13 : Clopidogrel 75 MG Oral Tablet
+   
+   CAREPLANS:
+  2003-12-12 : Care plan (record artifact)
+                         Activity: Transplantation of kidney regime (regime/therapy)
+                         Activity: Post-surgical wound care (regime/therapy)
+                         Activity: Renal function monitoring (regime/therapy)
+                         Activity: Very low sodium diet (finding)
+  1998-09-17 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1967-10-09 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1964-09-21 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

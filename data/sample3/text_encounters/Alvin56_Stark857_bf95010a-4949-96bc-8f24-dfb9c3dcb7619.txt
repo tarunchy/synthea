@@ -1,0 +1,86 @@
+Alvin56 Stark857
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 19
+Birth Date:          2004-05-13
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-12-11 : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Suspected COVID-19
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2020-12-11 : COVID-19
+  2020-12-11 : Loss of taste (finding)
+  2020-12-11 : Fever (finding)
+  2020-12-11 : Wheezing (finding)
+  2020-12-11 : Dyspnea (finding)
+  2020-12-11 : Fatigue (finding)
+  2020-12-11 : Cough (finding)
+   
+   CARE PLANS:
+  2020-12-11 : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Isolation of infected patient (procedure)
+  2020-12-11 : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Personal protective equipment (physical object)
+   
+   REPORTS:
+  2020-12-11 : Respiratory pathogens DNA and RNA panel - Respiratory specimen by NAA with probe detection
+           - Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-12-11 : SARS-CoV-2 RNA Pnl Resp NAA+probe
+           - SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+   
+   OBSERVATIONS:
+  2020-12-11 : SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2020-12-11 : Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-12-11 : Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-12-11 : Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-12-11 : Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-12-11 : Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-12-11 : Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-12-11 : Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-12-11 : Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-12-11 : Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-12-11 : Body Weight                              76.2 kg
+  2020-12-11 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2020-12-11 : Oxygen saturation in Arterial blood      75.9 %
+  2020-12-11 : Heart rate                               118.6 /min
+  2020-12-11 : Respiratory rate                         18.6 /min
+  2020-12-11 : Body temperature                         40.1 Cel
+   
+   PROCEDURES:
+  2020-12-11 : Face mask (physical object) for Suspected COVID-19
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

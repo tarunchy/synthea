@@ -1,0 +1,47 @@
+Zulema784 Sanford861
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 24
+Birth Date:          1998-08-12
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2016-10-05 : Encounter at UNITED MEDICAL CARE LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2016-10-06 : Unhealthy alcohol drinking behavior (finding)
+  2016-10-06 : Limited social contact (finding)
+  2016-10-06 : Unemployed (finding)
+  2016-10-06 : Received higher education (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+  2016-07-21 : Errin 28 Day Pack
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,44 @@
+Berry486 Hickle134
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 23
+Birth Date:          1999-12-31
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-01-05 : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Contraception care (regime/therapy)
+Type: outpatient
+   
+   MEDICATIONS:
+  2018-01-05 : Seasonique 91 Day Pack
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2017-02-17 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

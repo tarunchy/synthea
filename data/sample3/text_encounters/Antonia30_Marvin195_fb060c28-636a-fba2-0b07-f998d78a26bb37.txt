@@ -1,0 +1,50 @@
+Antonia30 Marvin195
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 38
+Birth Date:          1984-11-18
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1986-02-19 : Tree nut (substance)
+  1986-02-19 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+1999-07-12 : Encounter at BETH ISRAEL DEACONESS HOSPITAL MILTON INC : Encounter for Dependent drug abuse (disorder)
+Type: inpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1999-07-12 : Dependent drug abuse (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1999-01-28 : Chronic intractable migraine without aura
+  1998-12-22 : Impacted molars
+   
+   MEDICATIONS:
+  1986-02-19 : Chlorpheniramine Maleate 2 MG/ML Oral Solution
+   
+   CAREPLANS:
+  1986-02-03 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,56 @@
+Alvin56 Stark857
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 19
+Birth Date:          2004-05-13
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-03-07 : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Acute bronchitis (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+  2023-03-07 : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+   
+   CONDITIONS:
+  2023-03-07 : Acute bronchitis (disorder)
+   
+   CARE PLANS:
+  2023-03-07 : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2023-03-07 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2022-07-07 : Refugee (person)
+  2022-07-07 : Stress (finding)
+  2022-07-07 : Limited social contact (finding)
+  2022-07-07 : Full-time employment (finding)
+  2022-07-07 : Received higher education (finding)
+  2022-07-07 : Housing unsatisfactory (finding)
+  2022-07-07 : Medication review due (situation)
+  2021-07-01 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

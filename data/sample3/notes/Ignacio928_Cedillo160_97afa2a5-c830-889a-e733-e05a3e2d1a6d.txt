@@ -1,0 +1,606 @@
+
+1994-01-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ignacio928
+ is a newborn hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+1994-05-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ignacio928
+ is a 3 month-old hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+1994-10-08
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ignacio928
+ is a 8 month-old hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+1995-01-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ignacio928
+ is a 11 month-old hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+1996-07-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ignacio928
+ is a 2 year-old hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+1999-01-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ignacio928
+ is a 4 year-old hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2000-01-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ignacio928
+ is a 5 year-old hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2005-02-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ignacio928
+ is a 11 year-old hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2007-02-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ignacio928
+ is a 13 year-old hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2008-03-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ignacio928
+ is a 14 year-old hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2011-03-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ignacio928
+ is a 17 year-old hispanic white male.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2012-03-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ignacio928
+ is a 18 year-old hispanic white male.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation), received higher education (finding), full-time employment (finding), transport problem (finding). 
+
+## Plan
+
+
+
+
+2013-03-30
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ignacio928
+ is a 19 year-old hispanic white male.
+
+# Social History
+Patient is married. Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with lack of access to transportation (finding). 
+
+## Plan
+
+
+
+
+2016-04-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ignacio928
+ is a 22 year-old hispanic white male.
+
+# Social History
+Patient is married. Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation), stress (finding), reports of violence in the environment (finding). 
+
+## Plan
+
+
+
+
+2018-07-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ignacio928
+ is a 24 year-old hispanic white male.
+
+# Social History
+Patient is married. Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+
+
+2019-04-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ignacio928
+ is a 25 year-old hispanic white male.
+
+# Social History
+Patient is married. Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2021-03-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ignacio928
+ is a 27 year-old hispanic white male.
+
+# Social History
+Patient is married. Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: sars-cov-2 (covid-19) vaccine, mrna, spike protein, lnp, preservative free, 100 mcg/0.5ml dose. 
+
+
+
+2021-04-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ignacio928
+ is a 27 year-old hispanic white male.
+
+# Social History
+Patient is married. Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: sars-cov-2 (covid-19) vaccine, mrna, spike protein, lnp, preservative free, 100 mcg/0.5ml dose. 
+
+
+
+2022-04-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ignacio928
+ is a 28 year-old hispanic white male.
+
+# Social History
+Patient is married. Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+
+
+

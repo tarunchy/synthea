@@ -1,0 +1,68 @@
+Jann271 Bartell116
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2006-04-11
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-05-18 : Encounter at RHEUMATOLOGY AND INTERNAL MEDICINE ASSOCIATES PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2021-05-18 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2021-05-18 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+   
+   OBSERVATIONS:
+  2021-05-18 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2021-05-18 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2021-05-18 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-05-18 : Respiratory rate                         14.0 /min
+  2021-05-18 : Heart rate                               83.0 /min
+  2021-05-18 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 69.0 mm[Hg]
+           - Systolic Blood Pressure                  96.0 mm[Hg]
+  2021-05-18 : Body mass index (BMI) [Percentile] Per age and sex 23.6 %
+  2021-05-18 : Body mass index (BMI) [Ratio]            18.1 kg/m2
+  2021-05-18 : Body Weight                              48.0 kg
+  2021-05-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-05-18 : Body Height                              162.8 cm
+   
+   PROCEDURES:
+  2021-05-18 : Anticipatory guidance (procedure)
+  2021-05-18 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-05-18 : Assessment of substance use (procedure)
+  2021-05-18 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-05-18 : Depression screening (procedure)
+  2021-05-18 : Assessment of anxiety (procedure)
+   
+   IMMUNIZATIONS:
+  2021-05-18 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-05-12 : Medication review due (situation)
+   
+   MEDICATIONS:
+  2019-10-13 : Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

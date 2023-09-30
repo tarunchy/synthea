@@ -1,0 +1,43 @@
+Faustino767 Mills423
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 81
+Birth Date:          1942-01-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1945-12-15 : Encounter at LAKEVILLE FAMILY MEDICINE PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1945-12-15 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,43 @@
+Caryl47 Hills818
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 22
+Birth Date:          2001-03-14
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2017-04-26 : Encounter at SUN MEDICAL CLINIC, PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2017-04-26 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

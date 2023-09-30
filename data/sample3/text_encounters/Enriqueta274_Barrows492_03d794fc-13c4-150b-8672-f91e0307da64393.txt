@@ -1,0 +1,53 @@
+Enriqueta274 Barrows492
+=======================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1965-06-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1983-09-09 : Encounter at HEBREW REHABILITATION CENTER : Encounter for Essential hypertension (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+  1983-09-09 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1983-08-10 : Stress (finding)
+  1983-08-10 : Received higher education (finding)
+  1983-08-10 : Essential hypertension (disorder)
+   
+   MEDICATIONS:
+  1983-08-10 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CAREPLANS:
+  1983-08-10 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

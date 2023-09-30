@@ -1,0 +1,58 @@
+Regena252 Botsford977
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2005-09-23
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-10-25 : Encounter at RHEUMATOLOGY AND INTERNAL MEDICINE ASSOCIATES PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2019-10-25 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2019-10-25 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-10-25 : Respiratory rate                         13.0 /min
+  2019-10-25 : Heart rate                               68.0 /min
+  2019-10-25 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2019-10-25 : Body mass index (BMI) [Percentile] Per age and sex 27.3 %
+  2019-10-25 : Body mass index (BMI) [Ratio]            17.8 kg/m2
+  2019-10-25 : Body Weight                              42.7 kg
+  2019-10-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-10-25 : Body Height                              154.6 cm
+   
+   PROCEDURES:
+  2019-10-25 : Anticipatory guidance (procedure)
+  2019-10-25 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2019-10-25 : Assessment of substance use (procedure)
+   
+   IMMUNIZATIONS:
+  2019-10-25 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

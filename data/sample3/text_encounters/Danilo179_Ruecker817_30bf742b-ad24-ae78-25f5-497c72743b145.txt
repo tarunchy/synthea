@@ -1,0 +1,141 @@
+Danilo179 Ruecker817
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 47
+Birth Date:          1976-03-15
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2001-06-26 : Sulfamethoxazole / Trimethoprim
+  2001-06-26 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-09-07 : Encounter at HARBOR HEALTH SERVICES INC
+Type: wellness
+   
+   MEDICATIONS:
+  2020-09-07 : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2020-09-07 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2020-09-07 : tramadol hydrochloride 50 MG Oral Tablet
+  2020-09-07 : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2020-09-07 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+  2020-09-07 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-09-07 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           84.4 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     11.1 mg/dL
+           - Creatinine [Mass/volume] in Blood        1.1 mg/dL
+           - Calcium [Mass/volume] in Blood           8.6 mg/dL
+           - Sodium [Moles/volume] in Blood           143.7 mmol/L
+           - Potassium [Moles/volume] in Blood        4.1 mmol/L
+           - Chloride [Moles/volume] in Blood         110.6 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 21.7 mmol/L
+  2020-09-07 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2020-09-07 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+   
+   OBSERVATIONS:
+  2020-09-07 : Total score [DAST-10]                    2.0 {score}
+  2020-09-07 : Total score [HARK]                       0.0 {score}
+  2020-09-07 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Medicine or Any Health Care (Medical, Dental, Mental Health, Vision) 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 18594 /a
+           - Primary insurance                        Medicaid 
+           - Employment status - current              Unemployed 
+           - Highest level of education               More than high school 
+           - Address                                  695 Hoppe Throughway 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 7.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2020-09-07 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-09-07 : Carbon dioxide, total [Moles/volume] in Blood 21.7 mmol/L
+  2020-09-07 : Chloride [Moles/volume] in Blood         110.6 mmol/L
+  2020-09-07 : Potassium [Moles/volume] in Blood        4.1 mmol/L
+  2020-09-07 : Sodium [Moles/volume] in Blood           143.7 mmol/L
+  2020-09-07 : Calcium [Mass/volume] in Blood           8.6 mg/dL
+  2020-09-07 : Creatinine [Mass/volume] in Blood        1.1 mg/dL
+  2020-09-07 : Urea nitrogen [Mass/volume] in Blood     11.1 mg/dL
+  2020-09-07 : Glucose [Mass/volume] in Blood           84.4 mg/dL
+  2020-09-07 : Respiratory rate                         15.0 /min
+  2020-09-07 : Heart rate                               71.0 /min
+  2020-09-07 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2020-09-07 : Body mass index (BMI) [Ratio]            28.9 kg/m2
+  2020-09-07 : Body Weight                              85.0 kg
+  2020-09-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-09-07 : Body Height                              171.6 cm
+  2020-09-07 : Hemoglobin A1c/Hemoglobin.total in Blood 5.8 %
+   
+   PROCEDURES:
+  2020-09-07 : Screening for drug abuse (procedure)
+  2020-09-07 : Assessment of substance use (procedure)
+  2020-09-07 : Screening for domestic abuse (procedure)
+  2020-09-07 : Assessment of health and social care needs (procedure)
+  2020-09-07 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2020-09-07 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-09-02 : Unemployed (finding)
+  2014-02-05 : Chronic low back pain (finding)
+  2014-02-05 : Chronic pain (finding)
+  2003-06-02 : Metabolic syndrome X (disorder)
+  2002-05-27 : Body mass index 30+ - obesity (finding)
+  2001-05-21 : Anemia (disorder)
+  2001-05-21 : Prediabetes
+  2001-05-21 : Essential hypertension (disorder)
+  1995-05-15 : Lack of access to transportation (finding)
+  1994-05-09 : Transport problem (finding)
+  1994-05-09 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2014-03-28 : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2001-06-26 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2001-06-26 : Fexofenadine hydrochloride 60 MG Oral Tablet
+  2001-06-12 + Hydrocortisone 10 MG/ML Topical Cream for Contact dermatitis
+   
+   CAREPLANS:
+  2014-03-28 : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavioral therapy (regime/therapy)
+  2001-06-26 : Self-care interventions (procedure)
+                         Activity: Allergy education
+  2001-05-21 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2001-05-21 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

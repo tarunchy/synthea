@@ -1,0 +1,120 @@
+Marta91 Quiñónez764
+===========ñó======
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 22
+Birth Date:          2001-02-17
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-04-23 : Encounter at MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2023-04-23 : Not in labor force (finding)
+  2023-04-23 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2023-04-23 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.7 %
+           - MCV [Entitic volume] by Automated count  92.2 fL
+           - MCH [Entitic mass] by Automated count    29.3 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.7 fL
+           - Platelets [#/volume] in Blood by Automated count 246.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 517.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  2023-04-23 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2023-04-23 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+   
+   OBSERVATIONS:
+  2023-04-23 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2023-04-23 : Total score [HARK]                       0.0 {score}
+  2023-04-23 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 32963 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Otherwise unemployed but not seeking work (ex: student, retired, disabled, unpaid primary care giver) 
+           - Highest level of education               More than high school 
+           - Address                                  758 Greenfelder Forge 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 5.0 {#}
+           - Preferred language                       Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2023-04-23 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-04-23 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  2023-04-23 : Platelet distribution width [Entitic volume] in Blood by Automated count 517.8 fL
+  2023-04-23 : Platelets [#/volume] in Blood by Automated count 246.9 10*3/uL
+  2023-04-23 : Erythrocyte distribution width [Entitic volume] by Automated count 39.7 fL
+  2023-04-23 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2023-04-23 : MCH [Entitic mass] by Automated count    29.3 pg
+  2023-04-23 : MCV [Entitic volume] by Automated count  92.2 fL
+  2023-04-23 : Hematocrit [Volume Fraction] of Blood by Automated count 43.7 %
+  2023-04-23 : Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+  2023-04-23 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2023-04-23 : Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+  2023-04-23 : Respiratory rate                         15.0 /min
+  2023-04-23 : Heart rate                               88.0 /min
+  2023-04-23 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2023-04-23 : Body mass index (BMI) [Ratio]            20.6 kg/m2
+  2023-04-23 : Body Weight                              57.1 kg
+  2023-04-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2023-04-23 : Body Height                              166.5 cm
+   
+   PROCEDURES:
+  2023-04-23 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2023-04-23 : Depression screening (procedure)
+  2023-04-23 : Screening for domestic abuse (procedure)
+  2023-04-23 : Assessment of health and social care needs (procedure)
+  2023-04-23 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2023-04-23 : meningococcal MCV4P
+  2023-04-23 : Hep B, adult
+  2023-04-23 : Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+  2023-04-23 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-04-19 : Has a criminal record (finding)
+  2019-04-14 : Stress (finding)
+  2019-04-14 : Limited social contact (finding)
+  2019-04-14 : Received higher education (finding)
+  2017-04-02 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+  2022-05-31 : Levora 0.15/30 28 Day Pack
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

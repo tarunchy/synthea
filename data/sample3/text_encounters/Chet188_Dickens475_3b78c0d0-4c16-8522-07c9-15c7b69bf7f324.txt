@@ -1,0 +1,125 @@
+Chet188 Dickens475
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1990-05-13 : Encounter at WALTHAM WESTON INTERNAL MEDICINE ASSOCIATES, P.C.
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1990-05-13 : Stress (finding)
+  1990-05-13 : Full-time employment (finding)
+  1990-05-13 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  1990-05-13 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           79.2 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     17.2 mg/dL
+           - Creatinine [Mass/volume] in Blood        0.8 mg/dL
+           - Calcium [Mass/volume] in Blood           9.8 mg/dL
+           - Sodium [Moles/volume] in Blood           140.1 mmol/L
+           - Potassium [Moles/volume] in Blood        3.8 mmol/L
+           - Chloride [Moles/volume] in Blood         107.9 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 26.7 mmol/L
+  1990-05-13 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       0.0 {#}
+           - Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  1990-05-13 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  1990-05-13 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+   
+   OBSERVATIONS:
+  1990-05-13 : Total score [AUDIT-C]                    2.0 {score}
+  1990-05-13 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  1990-05-13 : Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  1990-05-13 : Fall risk total [Morse Fall Scale]       0.0 {#}
+  1990-05-13 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 123104 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  620 Hoeger Crossroad Unit 5 
+           - Are you worried about losing your housing? Yes 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 4.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  1990-05-13 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  1990-05-13 : Carbon dioxide, total [Moles/volume] in Blood 26.7 mmol/L
+  1990-05-13 : Chloride [Moles/volume] in Blood         107.9 mmol/L
+  1990-05-13 : Potassium [Moles/volume] in Blood        3.8 mmol/L
+  1990-05-13 : Sodium [Moles/volume] in Blood           140.1 mmol/L
+  1990-05-13 : Calcium [Mass/volume] in Blood           9.8 mg/dL
+  1990-05-13 : Creatinine [Mass/volume] in Blood        0.8 mg/dL
+  1990-05-13 : Urea nitrogen [Mass/volume] in Blood     17.2 mg/dL
+  1990-05-13 : Glucose [Mass/volume] in Blood           79.2 mg/dL
+  1990-05-13 : Respiratory rate                         14.0 /min
+  1990-05-13 : Heart rate                               73.0 /min
+  1990-05-13 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 70.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  1990-05-13 : Body mass index (BMI) [Ratio]            27.5 kg/m2
+  1990-05-13 : Body Weight                              81.8 kg
+  1990-05-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1990-05-13 : Body Height                              172.5 cm
+  1990-05-13 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+   
+   PROCEDURES:
+  1990-05-13 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  1990-05-13 : Assessment of substance use (procedure)
+  1990-05-13 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  1990-05-13 : Depression screening (procedure)
+  1990-05-13 : Assessment using Morse Fall Scale (procedure)
+  1990-05-13 : Assessment of health and social care needs (procedure)
+  1990-05-13 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  1990-05-13 : pneumococcal polysaccharide vaccine, 23 valent
+  1990-05-13 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1964-02-16 : Anemia (disorder)
+  1964-02-16 : Prediabetes
+  1943-04-11 : Lack of access to transportation (finding)
+  1942-04-05 : Transport problem (finding)
+  1942-04-05 : Received higher education (finding)
+  1942-04-05 : Housing unsatisfactory (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1964-02-16 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

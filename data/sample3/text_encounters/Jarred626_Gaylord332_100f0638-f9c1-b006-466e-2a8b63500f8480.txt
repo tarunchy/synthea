@@ -1,0 +1,45 @@
+Jarred626 Gaylord332
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 64
+Birth Date:          1959-01-29
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1981-04-02 : Encounter at DARTMOUTH PRIMARY MEDICINE, LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1981-04-02 : Part-time employment (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1978-03-30 : Medication review due (situation)
+  1977-02-17 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

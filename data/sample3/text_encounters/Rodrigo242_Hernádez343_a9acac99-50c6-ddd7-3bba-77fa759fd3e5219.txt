@@ -1,0 +1,73 @@
+Rodrigo242 Hernádez343
+===============á======
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 76
+Birth Date:          1946-07-29
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1989-10-09 : Encounter at HOLYOKE MEDICAL CENTER INC
+Type: outpatient
+   
+   MEDICATIONS:
+  1989-10-09 : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  1989-10-09 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  1989-10-09 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  1989-10-09 : insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1989-02-06 : Stress (finding)
+  1988-11-21 : Medication review due (situation)
+  1988-10-17 : Metabolic syndrome X (disorder)
+  1988-10-10 : Body mass index 30+ - obesity (finding)
+  1986-01-20 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1986-01-20 : Chronic kidney disease stage 2 (disorder)
+  1985-01-14 : Refugee (person)
+  1984-01-09 : Disorder of kidney due to diabetes mellitus (disorder)
+  1984-01-09 : Chronic kidney disease stage 1 (disorder)
+  1982-01-04 : Septic shock (disorder)
+  1982-01-04 : Sepsis (disorder)
+  1967-10-09 : Anemia (disorder)
+  1967-10-09 : Prediabetes
+  1965-09-27 : Lack of access to transportation (finding)
+  1964-09-21 : Transport problem (finding)
+  1964-09-21 : Received higher education (finding)
+  1964-09-21 : Essential hypertension (disorder)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1967-10-09 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1964-09-21 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

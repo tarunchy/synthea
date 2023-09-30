@@ -1,0 +1,553 @@
+Jasper743 Casper496
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1991-07-08 : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC. : Encounter for Awaiting transplantation of kidney (situation)
+Type: inpatient
+   
+   MEDICATIONS:
+  1991-07-18 : 24 HR tacrolimus 1 MG Extended Release Oral Tablet for History of renal transplant (situation)
+  1991-07-18 : 1 ML tacrolimus 5 MG/ML Injection for History of renal transplant (situation)
+  1991-07-17 : 1 ML tacrolimus 5 MG/ML Injection for History of renal transplant (situation)
+  1991-07-16 : 1 ML tacrolimus 5 MG/ML Injection for History of renal transplant (situation)
+  1991-07-15 : 1 ML tacrolimus 5 MG/ML Injection for History of renal transplant (situation)
+  1991-07-14 : 1 ML tacrolimus 5 MG/ML Injection for History of renal transplant (situation)
+  1991-07-13 : 1 ML tacrolimus 5 MG/ML Injection for History of renal transplant (situation)
+  1991-07-12 : 1 ML tacrolimus 5 MG/ML Injection for History of renal transplant (situation)
+  1991-07-11 : 1 ML tacrolimus 5 MG/ML Injection for History of renal transplant (situation)
+  1991-07-10 : 1 ML tacrolimus 5 MG/ML Injection for History of renal transplant (situation)
+  1991-07-09 : 1 ML tacrolimus 5 MG/ML Injection for History of renal transplant (situation)
+  1991-07-08 : 1 ML tacrolimus 5 MG/ML Injection for Awaiting transplantation of kidney (situation)
+   
+   CONDITIONS:
+  1991-07-08 : History of renal transplant (situation)
+   
+   CARE PLANS:
+  1991-07-08 : Care plan (record artifact)
+                         Activity: Transplantation of kidney regime (regime/therapy)
+                         Activity: Post-surgical wound care (regime/therapy)
+                         Activity: Renal function monitoring (regime/therapy)
+                         Activity: Very low sodium diet (finding)
+   
+   REPORTS:
+  1991-07-08 : Basic Metabolic 2000 Panel
+           - Glucose                                  77.5 mg/dL
+           - Urea Nitrogen                            10.9 mg/dL
+           - Creatinine                               2.8 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   136.5 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 108.2 mmol/L
+           - Carbon Dioxide                           20.9 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 12.3 mL/min
+  1991-07-08 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 2.2 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.3 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 15.2 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                5.6 pH
+           - Protein [Mass/volume] in Urine by Test strip 375.6 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  1991-07-09 : Basic Metabolic Panel
+           - Glucose                                  77.5 mg/dL
+           - Urea Nitrogen                            10.9 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   136.5 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 108.2 mmol/L
+           - Carbon Dioxide                           20.9 mmol/L
+  1991-07-09 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.2 %
+           - MCV [Entitic volume] by Automated count  82.1 fL
+           - MCH [Entitic mass] by Automated count    32.0 pg
+           - MCHC [Mass/volume] by Automated count    34.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.4 fL
+           - Platelets [#/volume] in Blood by Automated count 287.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 350.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  1991-07-10 : Basic Metabolic Panel
+           - Glucose                                  77.5 mg/dL
+           - Urea Nitrogen                            10.9 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   136.5 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 108.2 mmol/L
+           - Carbon Dioxide                           20.9 mmol/L
+  1991-07-10 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.7 %
+           - MCV [Entitic volume] by Automated count  83.9 fL
+           - MCH [Entitic mass] by Automated count    32.6 pg
+           - MCHC [Mass/volume] by Automated count    35.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.1 fL
+           - Platelets [#/volume] in Blood by Automated count 165.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 193.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  1991-07-11 : Basic Metabolic Panel
+           - Glucose                                  77.5 mg/dL
+           - Urea Nitrogen                            10.9 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   136.5 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 108.2 mmol/L
+           - Carbon Dioxide                           20.9 mmol/L
+  1991-07-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.9 %
+           - MCV [Entitic volume] by Automated count  88.7 fL
+           - MCH [Entitic mass] by Automated count    30.5 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.7 fL
+           - Platelets [#/volume] in Blood by Automated count 398.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 244.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  1991-07-12 : Basic Metabolic Panel
+           - Glucose                                  77.5 mg/dL
+           - Urea Nitrogen                            10.9 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   136.5 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 108.2 mmol/L
+           - Carbon Dioxide                           20.9 mmol/L
+  1991-07-12 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.0 %
+           - MCV [Entitic volume] by Automated count  93.7 fL
+           - MCH [Entitic mass] by Automated count    32.5 pg
+           - MCHC [Mass/volume] by Automated count    35.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.5 fL
+           - Platelets [#/volume] in Blood by Automated count 194.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 419.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  1991-07-13 : Basic Metabolic Panel
+           - Glucose                                  77.5 mg/dL
+           - Urea Nitrogen                            10.9 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   136.5 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 108.2 mmol/L
+           - Carbon Dioxide                           20.9 mmol/L
+  1991-07-13 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.4 %
+           - MCV [Entitic volume] by Automated count  85.2 fL
+           - MCH [Entitic mass] by Automated count    32.1 pg
+           - MCHC [Mass/volume] by Automated count    35.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.5 fL
+           - Platelets [#/volume] in Blood by Automated count 379.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 207.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  1991-07-14 : Basic Metabolic Panel
+           - Glucose                                  72.6 mg/dL
+           - Urea Nitrogen                            15.1 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   138.1 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 108.5 mmol/L
+           - Carbon Dioxide                           21.8 mmol/L
+  1991-07-14 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.2 %
+           - MCV [Entitic volume] by Automated count  88.2 fL
+           - MCH [Entitic mass] by Automated count    29.3 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.2 fL
+           - Platelets [#/volume] in Blood by Automated count 365.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 305.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  1991-07-15 : Basic Metabolic Panel
+           - Glucose                                  72.6 mg/dL
+           - Urea Nitrogen                            15.1 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   138.1 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 108.5 mmol/L
+           - Carbon Dioxide                           21.8 mmol/L
+  1991-07-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.6 %
+           - MCV [Entitic volume] by Automated count  87.1 fL
+           - MCH [Entitic mass] by Automated count    28.6 pg
+           - MCHC [Mass/volume] by Automated count    35.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.3 fL
+           - Platelets [#/volume] in Blood by Automated count 350.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 342.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  1991-07-16 : Basic Metabolic Panel
+           - Glucose                                  72.6 mg/dL
+           - Urea Nitrogen                            15.1 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   138.1 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 108.5 mmol/L
+           - Carbon Dioxide                           21.8 mmol/L
+  1991-07-16 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.9 %
+           - MCV [Entitic volume] by Automated count  82.1 fL
+           - MCH [Entitic mass] by Automated count    27.4 pg
+           - MCHC [Mass/volume] by Automated count    35.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.8 fL
+           - Platelets [#/volume] in Blood by Automated count 385.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 320.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  1991-07-17 : Basic Metabolic Panel
+           - Glucose                                  72.6 mg/dL
+           - Urea Nitrogen                            15.1 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   138.1 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 108.5 mmol/L
+           - Carbon Dioxide                           21.8 mmol/L
+  1991-07-17 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.4 %
+           - MCV [Entitic volume] by Automated count  87.4 fL
+           - MCH [Entitic mass] by Automated count    31.5 pg
+           - MCHC [Mass/volume] by Automated count    34.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.1 fL
+           - Platelets [#/volume] in Blood by Automated count 216.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 490.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  1991-07-18 : Basic Metabolic Panel
+           - Glucose                                  72.6 mg/dL
+           - Urea Nitrogen                            15.1 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   138.1 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 108.5 mmol/L
+           - Carbon Dioxide                           21.8 mmol/L
+  1991-07-18 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.3 %
+           - MCV [Entitic volume] by Automated count  84.3 fL
+           - MCH [Entitic mass] by Automated count    27.8 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.7 fL
+           - Platelets [#/volume] in Blood by Automated count 324.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 291.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+   
+   OBSERVATIONS:
+  1991-07-18 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  1991-07-18 : Platelet distribution width [Entitic volume] in Blood by Automated count 291.6 fL
+  1991-07-18 : Platelets [#/volume] in Blood by Automated count 324.9 10*3/uL
+  1991-07-18 : Erythrocyte distribution width [Entitic volume] by Automated count 39.7 fL
+  1991-07-18 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  1991-07-18 : MCH [Entitic mass] by Automated count    27.8 pg
+  1991-07-18 : MCV [Entitic volume] by Automated count  84.3 fL
+  1991-07-18 : Hematocrit [Volume Fraction] of Blood by Automated count 45.3 %
+  1991-07-18 : Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+  1991-07-18 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  1991-07-18 : Leukocytes [#/volume] in Blood by Automated count 3.5 10*3/uL
+  1991-07-18 : Carbon Dioxide                           21.8 mmol/L
+  1991-07-18 : Chloride                                 108.5 mmol/L
+  1991-07-18 : Potassium                                4.7 mmol/L
+  1991-07-18 : Sodium                                   138.1 mmol/L
+  1991-07-18 : Calcium                                  9.5 mg/dL
+  1991-07-18 : Creatinine                               1.1 mg/dL
+  1991-07-18 : Urea Nitrogen                            15.1 mg/dL
+  1991-07-18 : Glucose                                  72.6 mg/dL
+  1991-07-17 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  1991-07-17 : Platelet distribution width [Entitic volume] in Blood by Automated count 490.3 fL
+  1991-07-17 : Platelets [#/volume] in Blood by Automated count 216.6 10*3/uL
+  1991-07-17 : Erythrocyte distribution width [Entitic volume] by Automated count 42.1 fL
+  1991-07-17 : MCHC [Mass/volume] by Automated count    34.5 g/dL
+  1991-07-17 : MCH [Entitic mass] by Automated count    31.5 pg
+  1991-07-17 : MCV [Entitic volume] by Automated count  87.4 fL
+  1991-07-17 : Hematocrit [Volume Fraction] of Blood by Automated count 42.4 %
+  1991-07-17 : Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+  1991-07-17 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  1991-07-17 : Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+  1991-07-17 : Carbon Dioxide                           21.8 mmol/L
+  1991-07-17 : Chloride                                 108.5 mmol/L
+  1991-07-17 : Potassium                                4.7 mmol/L
+  1991-07-17 : Sodium                                   138.1 mmol/L
+  1991-07-17 : Calcium                                  9.5 mg/dL
+  1991-07-17 : Creatinine                               1.1 mg/dL
+  1991-07-17 : Urea Nitrogen                            15.1 mg/dL
+  1991-07-17 : Glucose                                  72.6 mg/dL
+  1991-07-16 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  1991-07-16 : Platelet distribution width [Entitic volume] in Blood by Automated count 320.2 fL
+  1991-07-16 : Platelets [#/volume] in Blood by Automated count 385.8 10*3/uL
+  1991-07-16 : Erythrocyte distribution width [Entitic volume] by Automated count 41.8 fL
+  1991-07-16 : MCHC [Mass/volume] by Automated count    35.5 g/dL
+  1991-07-16 : MCH [Entitic mass] by Automated count    27.4 pg
+  1991-07-16 : MCV [Entitic volume] by Automated count  82.1 fL
+  1991-07-16 : Hematocrit [Volume Fraction] of Blood by Automated count 40.9 %
+  1991-07-16 : Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+  1991-07-16 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  1991-07-16 : Leukocytes [#/volume] in Blood by Automated count 9.3 10*3/uL
+  1991-07-16 : Carbon Dioxide                           21.8 mmol/L
+  1991-07-16 : Chloride                                 108.5 mmol/L
+  1991-07-16 : Potassium                                4.7 mmol/L
+  1991-07-16 : Sodium                                   138.1 mmol/L
+  1991-07-16 : Calcium                                  9.5 mg/dL
+  1991-07-16 : Creatinine                               1.1 mg/dL
+  1991-07-16 : Urea Nitrogen                            15.1 mg/dL
+  1991-07-16 : Glucose                                  72.6 mg/dL
+  1991-07-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  1991-07-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 342.0 fL
+  1991-07-15 : Platelets [#/volume] in Blood by Automated count 350.2 10*3/uL
+  1991-07-15 : Erythrocyte distribution width [Entitic volume] by Automated count 41.3 fL
+  1991-07-15 : MCHC [Mass/volume] by Automated count    35.4 g/dL
+  1991-07-15 : MCH [Entitic mass] by Automated count    28.6 pg
+  1991-07-15 : MCV [Entitic volume] by Automated count  87.1 fL
+  1991-07-15 : Hematocrit [Volume Fraction] of Blood by Automated count 37.6 %
+  1991-07-15 : Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+  1991-07-15 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  1991-07-15 : Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+  1991-07-15 : Carbon Dioxide                           21.8 mmol/L
+  1991-07-15 : Chloride                                 108.5 mmol/L
+  1991-07-15 : Potassium                                4.7 mmol/L
+  1991-07-15 : Sodium                                   138.1 mmol/L
+  1991-07-15 : Calcium                                  9.5 mg/dL
+  1991-07-15 : Creatinine                               1.1 mg/dL
+  1991-07-15 : Urea Nitrogen                            15.1 mg/dL
+  1991-07-15 : Glucose                                  72.6 mg/dL
+  1991-07-14 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  1991-07-14 : Platelet distribution width [Entitic volume] in Blood by Automated count 305.6 fL
+  1991-07-14 : Platelets [#/volume] in Blood by Automated count 365.9 10*3/uL
+  1991-07-14 : Erythrocyte distribution width [Entitic volume] by Automated count 44.2 fL
+  1991-07-14 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  1991-07-14 : MCH [Entitic mass] by Automated count    29.3 pg
+  1991-07-14 : MCV [Entitic volume] by Automated count  88.2 fL
+  1991-07-14 : Hematocrit [Volume Fraction] of Blood by Automated count 45.2 %
+  1991-07-14 : Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+  1991-07-14 : Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+  1991-07-14 : Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+  1991-07-14 : Carbon Dioxide                           21.8 mmol/L
+  1991-07-14 : Chloride                                 108.5 mmol/L
+  1991-07-14 : Potassium                                4.7 mmol/L
+  1991-07-14 : Sodium                                   138.1 mmol/L
+  1991-07-14 : Calcium                                  9.5 mg/dL
+  1991-07-14 : Creatinine                               1.1 mg/dL
+  1991-07-14 : Urea Nitrogen                            15.1 mg/dL
+  1991-07-14 : Glucose                                  72.6 mg/dL
+  1991-07-13 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  1991-07-13 : Platelet distribution width [Entitic volume] in Blood by Automated count 207.9 fL
+  1991-07-13 : Platelets [#/volume] in Blood by Automated count 379.9 10*3/uL
+  1991-07-13 : Erythrocyte distribution width [Entitic volume] by Automated count 42.5 fL
+  1991-07-13 : MCHC [Mass/volume] by Automated count    35.2 g/dL
+  1991-07-13 : MCH [Entitic mass] by Automated count    32.1 pg
+  1991-07-13 : MCV [Entitic volume] by Automated count  85.2 fL
+  1991-07-13 : Hematocrit [Volume Fraction] of Blood by Automated count 46.4 %
+  1991-07-13 : Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+  1991-07-13 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  1991-07-13 : Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+  1991-07-13 : Carbon Dioxide                           20.9 mmol/L
+  1991-07-13 : Chloride                                 108.2 mmol/L
+  1991-07-13 : Potassium                                4.3 mmol/L
+  1991-07-13 : Sodium                                   136.5 mmol/L
+  1991-07-13 : Calcium                                  9.4 mg/dL
+  1991-07-13 : Creatinine                               1.1 mg/dL
+  1991-07-13 : Urea Nitrogen                            10.9 mg/dL
+  1991-07-13 : Glucose                                  77.5 mg/dL
+  1991-07-12 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  1991-07-12 : Platelet distribution width [Entitic volume] in Blood by Automated count 419.6 fL
+  1991-07-12 : Platelets [#/volume] in Blood by Automated count 194.4 10*3/uL
+  1991-07-12 : Erythrocyte distribution width [Entitic volume] by Automated count 41.5 fL
+  1991-07-12 : MCHC [Mass/volume] by Automated count    35.0 g/dL
+  1991-07-12 : MCH [Entitic mass] by Automated count    32.5 pg
+  1991-07-12 : MCV [Entitic volume] by Automated count  93.7 fL
+  1991-07-12 : Hematocrit [Volume Fraction] of Blood by Automated count 36.0 %
+  1991-07-12 : Hemoglobin [Mass/volume] in Blood        12.5 g/dL
+  1991-07-12 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  1991-07-12 : Leukocytes [#/volume] in Blood by Automated count 4.5 10*3/uL
+  1991-07-12 : Carbon Dioxide                           20.9 mmol/L
+  1991-07-12 : Chloride                                 108.2 mmol/L
+  1991-07-12 : Potassium                                4.3 mmol/L
+  1991-07-12 : Sodium                                   136.5 mmol/L
+  1991-07-12 : Calcium                                  9.4 mg/dL
+  1991-07-12 : Creatinine                               1.1 mg/dL
+  1991-07-12 : Urea Nitrogen                            10.9 mg/dL
+  1991-07-12 : Glucose                                  77.5 mg/dL
+  1991-07-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  1991-07-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 244.3 fL
+  1991-07-11 : Platelets [#/volume] in Blood by Automated count 398.0 10*3/uL
+  1991-07-11 : Erythrocyte distribution width [Entitic volume] by Automated count 42.7 fL
+  1991-07-11 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  1991-07-11 : MCH [Entitic mass] by Automated count    30.5 pg
+  1991-07-11 : MCV [Entitic volume] by Automated count  88.7 fL
+  1991-07-11 : Hematocrit [Volume Fraction] of Blood by Automated count 37.9 %
+  1991-07-11 : Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+  1991-07-11 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  1991-07-11 : Leukocytes [#/volume] in Blood by Automated count 8.6 10*3/uL
+  1991-07-11 : Carbon Dioxide                           20.9 mmol/L
+  1991-07-11 : Chloride                                 108.2 mmol/L
+  1991-07-11 : Potassium                                4.3 mmol/L
+  1991-07-11 : Sodium                                   136.5 mmol/L
+  1991-07-11 : Calcium                                  9.4 mg/dL
+  1991-07-11 : Creatinine                               1.1 mg/dL
+  1991-07-11 : Urea Nitrogen                            10.9 mg/dL
+  1991-07-11 : Glucose                                  77.5 mg/dL
+  1991-07-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  1991-07-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 193.3 fL
+  1991-07-10 : Platelets [#/volume] in Blood by Automated count 165.8 10*3/uL
+  1991-07-10 : Erythrocyte distribution width [Entitic volume] by Automated count 45.1 fL
+  1991-07-10 : MCHC [Mass/volume] by Automated count    35.9 g/dL
+  1991-07-10 : MCH [Entitic mass] by Automated count    32.6 pg
+  1991-07-10 : MCV [Entitic volume] by Automated count  83.9 fL
+  1991-07-10 : Hematocrit [Volume Fraction] of Blood by Automated count 35.7 %
+  1991-07-10 : Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+  1991-07-10 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  1991-07-10 : Leukocytes [#/volume] in Blood by Automated count 4.9 10*3/uL
+  1991-07-10 : Carbon Dioxide                           20.9 mmol/L
+  1991-07-10 : Chloride                                 108.2 mmol/L
+  1991-07-10 : Potassium                                4.3 mmol/L
+  1991-07-10 : Sodium                                   136.5 mmol/L
+  1991-07-10 : Calcium                                  9.4 mg/dL
+  1991-07-10 : Creatinine                               1.1 mg/dL
+  1991-07-10 : Urea Nitrogen                            10.9 mg/dL
+  1991-07-10 : Glucose                                  77.5 mg/dL
+  1991-07-09 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  1991-07-09 : Platelet distribution width [Entitic volume] in Blood by Automated count 350.8 fL
+  1991-07-09 : Platelets [#/volume] in Blood by Automated count 287.6 10*3/uL
+  1991-07-09 : Erythrocyte distribution width [Entitic volume] by Automated count 44.4 fL
+  1991-07-09 : MCHC [Mass/volume] by Automated count    34.2 g/dL
+  1991-07-09 : MCH [Entitic mass] by Automated count    32.0 pg
+  1991-07-09 : MCV [Entitic volume] by Automated count  82.1 fL
+  1991-07-09 : Hematocrit [Volume Fraction] of Blood by Automated count 45.2 %
+  1991-07-09 : Hemoglobin [Mass/volume] in Blood        12.5 g/dL
+  1991-07-09 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  1991-07-09 : Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+  1991-07-09 : Carbon Dioxide                           20.9 mmol/L
+  1991-07-09 : Chloride                                 108.2 mmol/L
+  1991-07-09 : Potassium                                4.3 mmol/L
+  1991-07-09 : Sodium                                   136.5 mmol/L
+  1991-07-09 : Calcium                                  9.4 mg/dL
+  1991-07-09 : Creatinine                               1.1 mg/dL
+  1991-07-09 : Urea Nitrogen                            10.9 mg/dL
+  1991-07-09 : Glucose                                  77.5 mg/dL
+  1991-07-08 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  1991-07-08 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  1991-07-08 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  1991-07-08 : Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+  1991-07-08 : Protein [Mass/volume] in Urine by Test strip 375.6 mg/dL
+  1991-07-08 : pH of Urine by Test strip                5.6 pH
+  1991-07-08 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  1991-07-08 : Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+  1991-07-08 : Ketones [Mass/volume] in Urine by Test strip 15.2 mg/dL
+  1991-07-08 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  1991-07-08 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.3 mg/dL
+  1991-07-08 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  1991-07-08 : Glucose [Mass/volume] in Urine by Test strip 2.2 mg/dL
+  1991-07-08 : Color of Urine                           Brown color (qualifier value) {nominal}
+  1991-07-08 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  1991-07-08 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  1991-07-08 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  1991-07-08 : Glomerular filtration rate/1.73 sq M.predicted 12.3 mL/min
+  1991-07-08 : Carbon Dioxide                           20.9 mmol/L
+  1991-07-08 : Chloride                                 108.2 mmol/L
+  1991-07-08 : Potassium                                4.3 mmol/L
+  1991-07-08 : Sodium                                   136.5 mmol/L
+  1991-07-08 : Calcium                                  9.4 mg/dL
+  1991-07-08 : Creatinine                               2.8 mg/dL
+  1991-07-08 : Urea Nitrogen                            10.9 mg/dL
+  1991-07-08 : Glucose                                  77.5 mg/dL
+   
+   PROCEDURES:
+  1991-07-18 : Transplantation of kidney regime (regime/therapy) for History of renal transplant (situation)
+  1991-07-17 : Transplantation of kidney regime (regime/therapy) for History of renal transplant (situation)
+  1991-07-16 : Transplantation of kidney regime (regime/therapy) for History of renal transplant (situation)
+  1991-07-15 : Transplantation of kidney regime (regime/therapy) for History of renal transplant (situation)
+  1991-07-14 : Transplantation of kidney regime (regime/therapy) for History of renal transplant (situation)
+  1991-07-13 : Transplantation of kidney regime (regime/therapy) for History of renal transplant (situation)
+  1991-07-12 : Transplantation of kidney regime (regime/therapy) for History of renal transplant (situation)
+  1991-07-11 : Transplantation of kidney regime (regime/therapy) for History of renal transplant (situation)
+  1991-07-10 : Transplantation of kidney regime (regime/therapy) for History of renal transplant (situation)
+  1991-07-09 : Transplantation of kidney regime (regime/therapy) for History of renal transplant (situation)
+  1991-07-08 : Transplant of kidney (procedure) for Awaiting transplantation of kidney (situation)
+  1991-07-08 : Pretransplant evaluation of kidney recipient (procedure) for Awaiting transplantation of kidney (situation)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1991-06-23 : Medication review due (situation)
+  1991-02-03 : History of coronary artery bypass grafting (situation)
+  1991-01-20 : Full-time employment (finding)
+  1991-01-09 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  1990-12-20 : Ischemic heart disease (disorder)
+  1984-07-01 : Osteoporosis (disorder)
+  1976-09-05 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  1974-07-14 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1973-07-08 : Disorder of kidney due to diabetes mellitus (disorder)
+  1968-06-09 : Body mass index 30+ - obesity (finding)
+  1961-04-30 : Essential hypertension (disorder)
+  1942-04-05 : Received higher education (finding)
+   
+   MEDICATIONS:
+  1991-06-23 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  1991-06-23 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  1991-06-23 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  1990-12-27 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1990-12-27 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+   
+   CAREPLANS:
+  1987-05-13 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1961-04-30 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

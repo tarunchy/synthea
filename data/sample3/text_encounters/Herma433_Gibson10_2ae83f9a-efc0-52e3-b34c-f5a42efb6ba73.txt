@@ -1,0 +1,48 @@
+Herma433 Gibson10
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 21
+Birth Date:          2002-05-20
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-09-20 : Encounter at WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC : Encounter for Viral sinusitis (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2021-09-20 : Viral sinusitis (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-07-19 : Victim of intimate partner abuse (finding)
+  2021-07-19 : Stress (finding)
+  2021-07-19 : Unemployed (finding)
+  2021-07-19 : Medication review due (situation)
+  2020-07-13 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

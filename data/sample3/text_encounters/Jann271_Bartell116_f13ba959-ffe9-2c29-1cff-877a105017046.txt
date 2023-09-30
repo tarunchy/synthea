@@ -1,0 +1,45 @@
+Jann271 Bartell116
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2006-04-11
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-01-14 : Encounter at TEWKSBURY HOSPITAL : Encounter for Concussion injury of brain (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-11-16 : Brain damage - traumatic
+  2020-05-12 : Medication review due (situation)
+   
+   MEDICATIONS:
+  2019-10-13 : Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,120 @@
+Caleb651 Kuhn96
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 56
+Birth Date:          1966-11-14
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-07-12 : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2022-07-12 : Not in labor force (finding)
+  2022-07-12 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2022-07-12 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           80.8 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     12.8 mg/dL
+           - Creatinine [Mass/volume] in Blood        1.0 mg/dL
+           - Calcium [Mass/volume] in Blood           8.6 mg/dL
+           - Sodium [Moles/volume] in Blood           142.4 mmol/L
+           - Potassium [Moles/volume] in Blood        4.9 mmol/L
+           - Chloride [Moles/volume] in Blood         110.0 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 23.4 mmol/L
+  2022-07-12 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2022-07-12 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2022-07-12 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+   
+   OBSERVATIONS:
+  2022-07-12 : Total score [AUDIT-C]                    1.0 {score}
+  2022-07-12 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2022-07-12 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2022-07-12 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 454752 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Otherwise unemployed but not seeking work (ex: student, retired, disabled, unpaid primary care giver) 
+           - Highest level of education               More than high school 
+           - Address                                  654 Hagenes Mews Apt 98 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 3.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     I choose not to answer this question 
+           - Do you consider yourself Hispanic/Latino? No 
+  2022-07-12 : Tobacco smoking status                   Ex-smoker (finding) 
+  2022-07-12 : Carbon dioxide, total [Moles/volume] in Blood 23.4 mmol/L
+  2022-07-12 : Chloride [Moles/volume] in Blood         110.0 mmol/L
+  2022-07-12 : Potassium [Moles/volume] in Blood        4.9 mmol/L
+  2022-07-12 : Sodium [Moles/volume] in Blood           142.4 mmol/L
+  2022-07-12 : Calcium [Mass/volume] in Blood           8.6 mg/dL
+  2022-07-12 : Creatinine [Mass/volume] in Blood        1.0 mg/dL
+  2022-07-12 : Urea nitrogen [Mass/volume] in Blood     12.8 mg/dL
+  2022-07-12 : Glucose [Mass/volume] in Blood           80.8 mg/dL
+  2022-07-12 : Respiratory rate                         15.0 /min
+  2022-07-12 : Heart rate                               96.0 /min
+  2022-07-12 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2022-07-12 : Body mass index (BMI) [Ratio]            27.7 kg/m2
+  2022-07-12 : Body Weight                              85.5 kg
+  2022-07-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-07-12 : Body Height                              175.8 cm
+  2022-07-12 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+   
+   PROCEDURES:
+  2022-07-12 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-07-12 : Assessment of substance use (procedure)
+  2022-07-12 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-07-12 : Depression screening (procedure)
+  2022-07-12 : Assessment of anxiety (procedure)
+  2022-07-12 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+  2022-07-12 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2022-06-29 : Streptococcal sore throat (disorder)
+  2020-12-08 : Has a criminal record (finding)
+  2011-08-30 : Anemia (disorder)
+  2008-11-24 : Prediabetes
+  1985-01-08 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2011-09-06 : Vitamin B12 5 MG/ML Injectable Solution
+   
+   CAREPLANS:
+  2008-11-24 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

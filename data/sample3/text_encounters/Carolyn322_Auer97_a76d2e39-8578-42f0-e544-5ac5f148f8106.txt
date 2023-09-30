@@ -1,0 +1,158 @@
+Carolyn322 Auer97
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 58
+Birth Date:          1965-01-04
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-02-14 : Encounter at NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2022-02-14 : Social isolation (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2022-02-14 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           94.6 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     10.2 mg/dL
+           - Creatinine [Mass/volume] in Blood        0.9 mg/dL
+           - Calcium [Mass/volume] in Blood           9.1 mg/dL
+           - Sodium [Moles/volume] in Blood           136.7 mmol/L
+           - Potassium [Moles/volume] in Blood        4.9 mmol/L
+           - Chloride [Moles/volume] in Blood         105.6 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 24.1 mmol/L
+  2022-02-14 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.9 %
+           - MCV [Entitic volume] by Automated count  89.4 fL
+           - MCH [Entitic mass] by Automated count    28.0 pg
+           - MCHC [Mass/volume] by Automated count    35.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.3 fL
+           - Platelets [#/volume] in Blood by Automated count 268.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 365.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  2022-02-14 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2022-02-14 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2022-02-14 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-02-14 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+   
+   OBSERVATIONS:
+  2022-02-14 : Total score [AUDIT-C]                    1.0 {score}
+  2022-02-14 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-02-14 : Total score [HARK]                       0.0 {score}
+  2022-02-14 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2022-02-14 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 24206 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  1015 Farrell Heights 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 4.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2022-02-14 : Tobacco smoking status                   Ex-smoker (finding) 
+  2022-02-14 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  2022-02-14 : Platelet distribution width [Entitic volume] in Blood by Automated count 365.6 fL
+  2022-02-14 : Platelets [#/volume] in Blood by Automated count 268.0 10*3/uL
+  2022-02-14 : Erythrocyte distribution width [Entitic volume] by Automated count 45.3 fL
+  2022-02-14 : MCHC [Mass/volume] by Automated count    35.2 g/dL
+  2022-02-14 : MCH [Entitic mass] by Automated count    28.0 pg
+  2022-02-14 : MCV [Entitic volume] by Automated count  89.4 fL
+  2022-02-14 : Hematocrit [Volume Fraction] of Blood by Automated count 46.9 %
+  2022-02-14 : Hemoglobin [Mass/volume] in Blood        17.1 g/dL
+  2022-02-14 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2022-02-14 : Leukocytes [#/volume] in Blood by Automated count 8.6 10*3/uL
+  2022-02-14 : Carbon dioxide, total [Moles/volume] in Blood 24.1 mmol/L
+  2022-02-14 : Chloride [Moles/volume] in Blood         105.6 mmol/L
+  2022-02-14 : Potassium [Moles/volume] in Blood        4.9 mmol/L
+  2022-02-14 : Sodium [Moles/volume] in Blood           136.7 mmol/L
+  2022-02-14 : Calcium [Mass/volume] in Blood           9.1 mg/dL
+  2022-02-14 : Creatinine [Mass/volume] in Blood        0.9 mg/dL
+  2022-02-14 : Urea nitrogen [Mass/volume] in Blood     10.2 mg/dL
+  2022-02-14 : Glucose [Mass/volume] in Blood           94.6 mg/dL
+  2022-02-14 : Respiratory rate                         16.0 /min
+  2022-02-14 : Heart rate                               62.0 /min
+  2022-02-14 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  95.0 mm[Hg]
+  2022-02-14 : Body mass index (BMI) [Ratio]            28.2 kg/m2
+  2022-02-14 : Body Weight                              70.6 kg
+  2022-02-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-02-14 : Body Height                              158.3 cm
+  2022-02-14 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+   
+   PROCEDURES:
+  2022-02-14 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-02-14 : Assessment of substance use (procedure)
+  2022-02-14 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-02-14 : Depression screening (procedure)
+  2022-02-14 : Screening for domestic abuse (procedure)
+  2022-02-14 : Assessment of anxiety (procedure)
+  2022-02-14 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+  2022-02-14 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-02-08 : Full-time employment (finding)
+  2020-03-08 : Idiopathic atrophic hypothyroidism
+  2020-02-03 : Stress (finding)
+  2020-02-03 : Medication review due (situation)
+  2019-01-28 : Anemia (disorder)
+  2019-01-28 : Prediabetes
+  2008-12-23 : Osteoarthritis of knee
+  2007-09-22 : Malignant neoplasm of breast (disorder)
+  1996-03-18 : Body mass index 30+ - obesity (finding)
+  1992-03-16 : Miscarriage in first trimester
+  1983-02-28 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2020-03-08 : Levothyroxine Sodium 0.075 MG Oral Tablet
+  2019-02-04 : Vitamin B12 5 MG/ML Injectable Solution
+  2008-12-23 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+   
+   CAREPLANS:
+  2019-01-28 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2008-12-23 : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+   
+--------------------------------------------------------------------------------

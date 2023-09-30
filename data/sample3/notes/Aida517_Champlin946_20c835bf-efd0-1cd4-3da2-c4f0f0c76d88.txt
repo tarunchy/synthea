@@ -1,0 +1,478 @@
+
+2017-06-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Aida517
+ is a newborn nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2017-10-04
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Aida517
+ is a 3 month-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2018-03-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Aida517
+ is a 8 month-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2018-06-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Aida517
+ is a 11 month-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2018-09-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Aida517
+ is a 1 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hib (prp-omp), varicella, mmr, pneumococcal conjugate pcv 13, hep a, ped/adol, 2 dose. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2018-12-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Aida517
+ is a 1 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+Patient was given the following immunizations: dtap. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2019-06-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Aida517
+ is a 1 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2019-12-04
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Aida517
+ is a 2 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hep a, ped/adol, 2 dose. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2019-12-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Aida517
+ is a 2 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with otitis media. 
+
+## Plan
+
+The patient was prescribed the following medications:
+- amoxicillin 500 mg oral tablet
+- ibuprofen 100 mg oral tablet
+
+
+
+2020-06-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Aida517
+ is a 2 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2020-12-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Aida517
+ is a 3 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2021-06-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Aida517
+ is a 3 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2022-06-08
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Aida517
+ is a 4 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: varicella, ipv, influenza, seasonal, injectable, preservative free, dtap, mmr. 
+
+
+
+2023-06-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Aida517
+ is a 5 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2023-06-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Aida517
+ is a 5 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with otitis media. 
+
+## Plan
+
+The patient was prescribed the following medications:
+- amoxicillin 500 mg oral tablet
+- acetaminophen 160 mg chewable tablet
+
+
+

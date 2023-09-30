@@ -1,0 +1,1919 @@
+
+2011-03-16
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 1 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was placed on a careplan:
+- self-care interventions (procedure)
+
+
+
+2011-03-30
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 1 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with allergy to substance (finding), mold (organism), house dust mite (organism), animal dander (substance), grass pollen (substance), aspirin, fish (substance), peanut (substance). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- loratadine 5 mg chewable tablet
+- nda020800 0.3 ml epinephrine 1 mg/ml auto-injector
+
+
+
+2012-05-13
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 2 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with childhood asthma. 
+
+## Plan
+
+The patient was prescribed the following medications:
+- budesonide 0.125 mg/ml inhalation suspension [pulmicort]
+- albuterol 0.83 mg/ml inhalation solution
+The patient was placed on a careplan:
+- asthma self management
+
+
+
+2012-07-07
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 2 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- budesonide 0.125 mg/ml inhalation suspension [pulmicort]
+- albuterol 0.83 mg/ml inhalation solution
+
+
+
+2012-12-26
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 2 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with seasonal allergic rhinitis. 
+
+## Plan
+
+
+
+
+2013-01-05
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 2 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- budesonide 0.125 mg/ml inhalation suspension [pulmicort]
+- albuterol 0.83 mg/ml inhalation solution
+
+
+
+2013-07-06
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 3 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- budesonide 0.125 mg/ml inhalation suspension [pulmicort]
+- albuterol 0.83 mg/ml inhalation solution
+
+
+
+2013-10-20
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 3 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with atopic dermatitis. 
+
+## Plan
+
+The patient was placed on a careplan:
+- skin condition care
+
+
+
+2014-01-04
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 3 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- budesonide 0.125 mg/ml inhalation suspension [pulmicort]
+- albuterol 0.83 mg/ml inhalation solution
+
+
+
+2015-01-10
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 4 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- budesonide 0.125 mg/ml inhalation suspension [pulmicort]
+- albuterol 0.83 mg/ml inhalation solution
+
+
+
+2016-01-16
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 5 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- budesonide 0.125 mg/ml inhalation suspension [pulmicort]
+- albuterol 0.83 mg/ml inhalation solution
+
+
+
+2017-01-21
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 6 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- budesonide 0.125 mg/ml inhalation suspension [pulmicort]
+- albuterol 0.83 mg/ml inhalation solution
+
+
+
+2018-01-27
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 7 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- budesonide 0.125 mg/ml inhalation suspension [pulmicort]
+- albuterol 0.83 mg/ml inhalation solution
+
+
+
+2019-02-02
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 9 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The patient was prescribed the following medications:
+- budesonide 0.125 mg/ml inhalation suspension [pulmicort]
+- albuterol 0.83 mg/ml inhalation solution
+
+
+
+2020-02-08
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 10 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+The patient was prescribed the following medications:
+- budesonide 0.125 mg/ml inhalation suspension [pulmicort]
+- albuterol 0.83 mg/ml inhalation solution
+
+
+
+2020-04-01
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 10 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2020-09-28
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 10 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2020-10-01
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 10 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2021-02-13
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 11 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+Patient was given the following immunizations: tdap, influenza, seasonal, injectable, preservative free, hpv, quadrivalent, meningococcal mcv4p. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+The patient was prescribed the following medications:
+- budesonide 0.125 mg/ml inhalation suspension [pulmicort]
+- albuterol 0.83 mg/ml inhalation solution
+
+
+
+2021-06-15
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 11 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with child attention deficit disorder. 
+
+## Plan
+
+The patient was prescribed the following medications:
+- methylphenidate hydrochloride 20 mg oral tablet
+The patient was placed on a careplan:
+- overactivity/inattention behavior management
+
+
+
+2021-07-20
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 11 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy (regime/therapy)
+
+
+
+2021-08-20
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 11 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy (regime/therapy)
+
+
+
+2021-09-27
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 11 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy (regime/therapy)
+
+
+
+2021-10-30
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 11 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy (regime/therapy)
+
+
+
+2021-12-01
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 11 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy (regime/therapy)
+
+
+
+2022-01-09
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 11 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy (regime/therapy)
+
+
+
+2022-02-19
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 12 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hpv, quadrivalent. 
+The following procedures were conducted:
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+The patient was prescribed the following medications:
+- budesonide 0.125 mg/ml inhalation suspension [pulmicort]
+- albuterol 0.83 mg/ml inhalation solution
+
+
+
+2022-02-26
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 12 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy (regime/therapy)
+
+
+
+2022-03-12
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 12 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: sars-cov-2 (covid-19) vaccine, mrna, spike protein, lnp, preservative free, 30 mcg/0.3ml dose. 
+
+
+
+2022-03-25
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 12 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2022-04-02
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 12 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: sars-cov-2 (covid-19) vaccine, mrna, spike protein, lnp, preservative free, 30 mcg/0.3ml dose. 
+
+
+
+2022-04-03
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 12 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy (regime/therapy)
+
+
+
+2022-05-05
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 12 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy (regime/therapy)
+
+
+
+2022-06-11
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 12 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy (regime/therapy)
+
+
+
+2022-06-07
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 12 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with fracture of bone (disorder), fracture of forearm. 
+
+## Plan
+
+The following procedures were conducted:
+- upper arm x-ray
+- bone immobilization
+The patient was prescribed the following medications:
+- naproxen sodium 220 mg oral tablet
+The patient was placed on a careplan:
+- fracture care
+
+
+
+2022-07-19
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 12 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy (regime/therapy)
+
+
+
+2022-07-18
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 12 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2022-08-27
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 12 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy (regime/therapy)
+
+
+
+2022-10-03
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 12 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy (regime/therapy)
+
+
+
+2022-11-07
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 12 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy (regime/therapy)
+
+
+
+2022-12-16
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 12 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy (regime/therapy)
+
+
+
+2023-01-17
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 12 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy (regime/therapy)
+
+
+
+2023-02-04
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 13 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- allergy screening test
+The patient was placed on a careplan:
+- allergic disorder monitoring
+
+
+
+2023-02-25
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 13 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hpv, quadrivalent. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+The patient was prescribed the following medications:
+- budesonide 0.125 mg/ml inhalation suspension [pulmicort]
+- albuterol 0.83 mg/ml inhalation solution
+
+
+
+2023-03-02
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 13 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2023-03-04
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 13 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy (regime/therapy)
+
+
+
+2023-03-24
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 13 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2023-04-14
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 13 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy (regime/therapy)
+
+
+
+2023-04-20
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 13 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2023-05-17
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 13 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2023-05-24
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 13 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy (regime/therapy)
+
+
+
+2023-06-10
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 13 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2023-06-23
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 13 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy (regime/therapy)
+
+
+
+2023-07-07
+
+# Chief Complaint
+- Wheezing
+- Shortness of Breath
+
+
+# History of Present Illness
+Pete38
+ is a 13 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+

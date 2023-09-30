@@ -1,0 +1,69 @@
+Lawrence741 Herman763
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2005-12-22
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-01-17 : Encounter at JEWISH FAMILY & CHILDREN'S SERVICE
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2019-01-17 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2019-01-17 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+   
+   OBSERVATIONS:
+  2019-01-17 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+  2019-01-17 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2019-01-17 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-01-17 : Respiratory rate                         14.0 /min
+  2019-01-17 : Heart rate                               99.0 /min
+  2019-01-17 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2019-01-17 : Body mass index (BMI) [Percentile] Per age and sex 91.1 %
+  2019-01-17 : Body mass index (BMI) [Ratio]            24.3 kg/m2
+  2019-01-17 : Body Weight                              54.2 kg
+  2019-01-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-01-17 : Body Height                              149.5 cm
+   
+   PROCEDURES:
+  2019-01-17 : Anticipatory guidance (procedure)
+  2019-01-17 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2019-01-17 : Assessment of substance use (procedure)
+  2019-01-17 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2019-01-17 : Depression screening (procedure)
+  2019-01-17 : Assessment of anxiety (procedure)
+  2019-01-17 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2019-01-17 : HPV, quadrivalent
+  2019-01-17 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-01-11 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

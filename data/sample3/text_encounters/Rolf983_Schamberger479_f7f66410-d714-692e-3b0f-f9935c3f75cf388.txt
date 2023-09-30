@@ -1,0 +1,43 @@
+Rolf983 Schamberger479
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 67
+Birth Date:          1956-03-20
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1967-08-01 : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1967-08-01 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

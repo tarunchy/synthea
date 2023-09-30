@@ -1,0 +1,43 @@
+Berry486 Hickle134
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 23
+Birth Date:          1999-12-31
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2015-02-06 : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2015-02-06 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

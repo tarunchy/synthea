@@ -1,0 +1,59 @@
+Aida517 Champlin946
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 6
+Birth Date:          2017-06-28
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-06-08 : Encounter at RUTLAND FAMILY HEALTH CENTER
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2022-06-08 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-06-08 : Respiratory rate                         15.0 /min
+  2022-06-08 : Heart rate                               73.0 /min
+  2022-06-08 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2022-06-08 : Body mass index (BMI) [Percentile] Per age and sex 23.9 %
+  2022-06-08 : Body mass index (BMI) [Ratio]            14.4 kg/m2
+  2022-06-08 : Body Weight                              18.6 kg
+  2022-06-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-06-08 : Body Height                              113.9 cm
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2022-06-08 : MMR
+  2022-06-08 : DTaP
+  2022-06-08 : Influenza, seasonal, injectable, preservative free
+  2022-06-08 : IPV
+  2022-06-08 : varicella
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-06-03 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

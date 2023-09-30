@@ -1,0 +1,48 @@
+Hilary419 Kilback373
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 43
+Birth Date:          1980-04-25
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2011-07-08 : Encounter at OUTER CAPE HEALTH SERVICES INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2011-07-08 : Victim of intimate partner abuse (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2008-07-04 : Stress (finding)
+  2002-06-28 : Body mass index 30+ - obesity (finding)
+  1998-06-19 : Unemployed (finding)
+  1998-06-19 : Received higher education (finding)
+  1997-06-13 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

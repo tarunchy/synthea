@@ -1,0 +1,44 @@
+Frederica279 Kub800
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 7
+Birth Date:          2015-10-25
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-08-28 : Encounter at CAPE COD HOSPITAL INC : Encounter for Viral sinusitis (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2022-08-28 : Viral sinusitis (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-10-10 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

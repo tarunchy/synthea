@@ -1,0 +1,104 @@
+Onita767 Kendall673 Zulauf375
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 33
+Birth Date:          1989-08-11
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-10-23 : Encounter at LIFE LINE COMMUNITY HEALTHCARE
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2020-10-23 : Unemployed (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-10-23 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 204.8 mg/dL
+           - Triglycerides                            126.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      119.9 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 59.5 mg/dL
+  2020-10-23 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+   
+   OBSERVATIONS:
+  2020-10-23 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2020-10-23 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 35950 /a
+           - Primary insurance                        None/uninsured 
+           - Employment status - current              Unemployed 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  526 Hamill Vista Unit 48 
+           - Are you worried about losing your housing? Yes 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 2.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2020-10-23 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-10-23 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 59.5 mg/dL
+  2020-10-23 : Low Density Lipoprotein Cholesterol      119.9 mg/dL
+  2020-10-23 : Triglycerides                            126.9 mg/dL
+  2020-10-23 : Cholesterol [Mass/volume] in Serum or Plasma 204.8 mg/dL
+  2020-10-23 : Respiratory rate                         15.0 /min
+  2020-10-23 : Heart rate                               86.0 /min
+  2020-10-23 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2020-10-23 : Body mass index (BMI) [Ratio]            27.3 kg/m2
+  2020-10-23 : Body Weight                              67.1 kg
+  2020-10-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2020-10-23 : Body Height                              156.9 cm
+   
+   PROCEDURES:
+  2020-10-23 : Assessment of anxiety (procedure)
+  2020-10-23 : Assessment of health and social care needs (procedure)
+  2020-10-23 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2020-10-23 : Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+  2020-10-23 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2013-03-15 : Dependent drug abuse (disorder)
+  2013-03-01 : Drug overdose
+  2010-09-17 : Miscarriage in first trimester
+  2007-10-05 : Received certificate of high school equivalency (finding)
+  2007-10-05 : Housing unsatisfactory (finding)
+  2004-09-18 : Impacted molars
+  2004-03-17 : Chronic intractable migraine without aura
+  2003-12-13 : Chronic pain
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2013-03-01 : Care plan (record artifact)
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+   
+--------------------------------------------------------------------------------

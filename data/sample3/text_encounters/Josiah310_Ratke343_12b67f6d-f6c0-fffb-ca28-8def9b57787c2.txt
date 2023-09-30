@@ -1,0 +1,58 @@
+Josiah310 Ratke343
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 3
+Birth Date:          2020-06-05
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-11-11 : Encounter at GREATER LAWRENCE FAMILY HEALTH CENTER INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2022-11-11 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2022-11-11 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-11-11 : Respiratory rate                         15.0 /min
+  2022-11-11 : Heart rate                               87.0 /min
+  2022-11-11 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 91.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2022-11-11 : Body mass index (BMI) [Percentile] Per age and sex 15.1 %
+  2022-11-11 : Body mass index (BMI) [Ratio]            15.1 kg/m2
+  2022-11-11 : Head Occipital-frontal circumference     49.2 cm
+  2022-11-11 : Head Occipital-frontal circumference Percentile 49.1 %
+  2022-11-11 : Weight-for-length Per age and sex        21.2 %
+  2022-11-11 : Body Weight                              12.4 kg
+  2022-11-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-11-11 : Body Height                              90.4 cm
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2022-11-11 : Hep A, ped/adol, 2 dose
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

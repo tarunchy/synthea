@@ -1,0 +1,56 @@
+Jeffrey461 Delcie812 Vandervort697
+==================================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 34
+Birth Date:          1989-02-01
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-08-21 : Encounter at THE SHRINERS HOSPITAL FOR CHILDREN : Encounter for Contraception care (regime/therapy)
+Type: outpatient
+   
+   MEDICATIONS:
+  2020-08-21 : Yaz 28 Day Pack
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-05-13 : Limited social contact (finding)
+  2019-09-28 : Recurrent urinary tract infection
+  2018-05-02 : Full-time employment (finding)
+  2014-04-09 : Essential hypertension (disorder)
+  2008-04-02 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2020-05-13 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2020-05-13 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CAREPLANS:
+  2014-04-09 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

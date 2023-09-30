@@ -1,0 +1,67 @@
+Mateo562 Castañeda925
+==============ñ======
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 60
+Birth Date:          1963-02-22
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2014-08-01 : Encounter at NORTON HEALTH CARE PC
+Type: wellness
+   
+   MEDICATIONS:
+  2014-08-01 : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2014-08-01 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2011-07-15 : Anemia (disorder)
+  2011-07-15 : Prediabetes
+  2011-07-15 : Metabolic syndrome X (disorder)
+  2000-05-12 : Essential hypertension (disorder)
+  2000-03-11 : Obstructive sleep apnea syndrome (disorder)
+  2000-02-13 : Sleep disorder (disorder)
+  1985-04-26 : Body mass index 30+ - obesity (finding)
+  1981-04-17 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2011-07-15 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2000-05-12 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  2000-03-11 : Care plan (record artifact)
+                         Reason: Obstructive sleep apnea syndrome (disorder)
+                         Activity: Weight reduction regimen (regime/therapy)
+                         Activity: Warning. Avoid alcoholic drink (qualifier value)
+                         Activity: Continuous positive airway pressure ventilation treatment (regime/therapy)
+   
+--------------------------------------------------------------------------------

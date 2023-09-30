@@ -1,0 +1,53 @@
+Jarred626 Gaylord332
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 64
+Birth Date:          1959-01-29
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1992-04-23 : Encounter at DARTMOUTH PRIMARY MEDICINE, LLC
+Type: wellness
+   
+   MEDICATIONS:
+  1992-04-23 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+  1992-04-23 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1990-04-12 : Essential hypertension (disorder)
+  1984-04-05 : Stress (finding)
+  1977-02-17 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1990-04-12 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

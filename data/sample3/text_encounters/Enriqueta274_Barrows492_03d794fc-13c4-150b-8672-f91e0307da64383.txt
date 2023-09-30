@@ -1,0 +1,61 @@
+Enriqueta274 Barrows492
+=======================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1965-06-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1992-09-30 : Encounter at PERSONALIZED MEDICAL CARE LLC
+Type: wellness
+   
+   MEDICATIONS:
+  1992-09-30 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  1992-09-30 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+  1992-09-30 : Victim of intimate partner abuse (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1989-09-13 : Full-time employment (finding)
+  1984-08-15 : Anemia (disorder)
+  1984-08-15 : Prediabetes
+  1983-08-10 : Received higher education (finding)
+  1983-08-10 : Essential hypertension (disorder)
+   
+   MEDICATIONS:
+  1984-08-23 : Vitamin B12 5 MG/ML Injectable Solution
+   
+   CAREPLANS:
+  1984-08-15 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1983-08-10 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

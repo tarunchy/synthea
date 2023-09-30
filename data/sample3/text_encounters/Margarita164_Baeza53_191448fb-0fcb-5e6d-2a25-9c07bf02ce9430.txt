@@ -1,0 +1,63 @@
+Margarita164 Baeza53
+====================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 15
+Birth Date:          2008-01-27
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2009-04-22 : Peanut (substance)
+  2009-04-22 : Tree pollen (substance)
+  2009-04-22 : Grass pollen (substance)
+  2009-04-22 : Animal dander (substance)
+  2009-04-22 : House dust mite (organism)
+  2009-04-22 : Mold (organism)
+  2009-04-22 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-09-16 : Encounter at TEWKSBURY HOSPITAL : Encounter for Allergy to substance (finding)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2021-09-16 : Subcutaneous immunotherapy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-02-21 : Medication review due (situation)
+  2012-10-20 : Perennial allergic rhinitis with seasonal variation
+  2011-08-17 : Atopic dermatitis
+   
+   MEDICATIONS:
+  2009-04-22 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2009-04-22 : Loratadine 5 MG Chewable Tablet
+   
+   CAREPLANS:
+  2021-01-31 : Allergic disorder monitoring
+                         Activity: Allergen immunotherapy (regime/therapy)
+  2011-08-17 : Skin condition care
+                         Reason: Atopic dermatitis
+                         Activity: Application of moisturizer to skin
+  2009-04-11 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

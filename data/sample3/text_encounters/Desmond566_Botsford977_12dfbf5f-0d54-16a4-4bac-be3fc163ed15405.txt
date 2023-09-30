@@ -1,0 +1,177 @@
+Desmond566 Botsford977
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1992-04-19 : Encounter at WOONSOCKET URGENT CARE PC
+Type: urgentcare
+   
+   MEDICATIONS:
+  1992-04-19 : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  1992-04-19 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  1992-04-19 : Warfarin Sodium 5 MG Oral Tablet for Atrial fibrillation (disorder)
+  1992-04-19 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  1992-04-19 : Digoxin 0.125 MG Oral Tablet for Atrial fibrillation (disorder)
+  1992-04-19 : verapamil hydrochloride 80 MG Oral Tablet for Atrial fibrillation (disorder)
+  1992-04-19 : insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+   
+   CONDITIONS:
+  1992-04-19 : Part-time employment (finding)
+  1992-04-19 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  1992-04-19 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           96.8 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     10.0 mg/dL
+           - Creatinine [Mass/volume] in Blood        1.0 mg/dL
+           - Calcium [Mass/volume] in Blood           9.1 mg/dL
+           - Sodium [Moles/volume] in Blood           142.9 mmol/L
+           - Potassium [Moles/volume] in Blood        4.5 mmol/L
+           - Chloride [Moles/volume] in Blood         107.5 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 26.8 mmol/L
+  1992-04-19 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  1992-04-19 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       26.0 {#}
+           - Fall risk level [Morse Fall Scale]       Moderate Risk (MFS Score 25 - 45) 
+  1992-04-19 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  1992-04-19 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+   
+   OBSERVATIONS:
+  1992-04-19 : Total score [DAST-10]                    1.0 {score}
+  1992-04-19 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  1992-04-19 : Fall risk level [Morse Fall Scale]       Moderate Risk (MFS Score 25 - 45) 
+  1992-04-19 : Fall risk total [Morse Fall Scale]       26.0 {#}
+  1992-04-19 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  1992-04-19 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 123104 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Part-time or temporary work 
+           - Highest level of education               More than high school 
+           - Address                                  415 Ward Wynd 
+           - Are you worried about losing your housing? Yes 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 7.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? Yes 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  1992-04-19 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  1992-04-19 : Carbon dioxide, total [Moles/volume] in Blood 26.8 mmol/L
+  1992-04-19 : Chloride [Moles/volume] in Blood         107.5 mmol/L
+  1992-04-19 : Potassium [Moles/volume] in Blood        4.5 mmol/L
+  1992-04-19 : Sodium [Moles/volume] in Blood           142.9 mmol/L
+  1992-04-19 : Calcium [Mass/volume] in Blood           9.1 mg/dL
+  1992-04-19 : Creatinine [Mass/volume] in Blood        1.0 mg/dL
+  1992-04-19 : Urea nitrogen [Mass/volume] in Blood     10.0 mg/dL
+  1992-04-19 : Glucose [Mass/volume] in Blood           96.8 mg/dL
+  1992-04-19 : Respiratory rate                         15.0 /min
+  1992-04-19 : Heart rate                               77.0 /min
+  1992-04-19 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 69.0 mm[Hg]
+           - Systolic Blood Pressure                  96.0 mm[Hg]
+  1992-04-19 : Body mass index (BMI) [Ratio]            28.5 kg/m2
+  1992-04-19 : Body Weight                              97.7 kg
+  1992-04-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1992-04-19 : Body Height                              185.2 cm
+  1992-04-19 : Hemoglobin A1c/Hemoglobin.total in Blood 3.0 %
+   
+   PROCEDURES:
+  1992-04-19 : Screening for drug abuse (procedure)
+  1992-04-19 : Assessment of substance use (procedure)
+  1992-04-19 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  1992-04-19 : Depression screening (procedure)
+  1992-04-19 : Assessment using Morse Fall Scale (procedure)
+  1992-04-19 : Assessment of anxiety (procedure)
+  1992-04-19 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1992-04-09 : Viral sinusitis (disorder)
+  1992-03-29 : Victim of intimate partner abuse (finding)
+  1992-03-29 : Stress (finding)
+  1991-02-17 : Awaiting transplantation of kidney (situation)
+  1991-02-03 : End-stage renal disease (disorder)
+  1990-12-30 : Anemia (disorder)
+  1989-08-13 : Atrial fibrillation (disorder)
+  1989-04-11 : Hyperlipidemia
+  1986-05-04 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  1986-05-04 : Chronic kidney disease stage 3 (disorder)
+  1985-08-04 : Carcinoma in situ of prostate (disorder)
+  1985-08-04 : Neoplasm of prostate
+  1971-11-14 : Metabolic syndrome X (disorder)
+  1969-07-27 : Body mass index 30+ - obesity (finding)
+  1962-07-14 : Osteoarthritis of knee
+  1958-10-26 : Prediabetes
+  1958-05-25 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1958-05-25 : Chronic kidney disease stage 2 (disorder)
+  1955-12-11 : Disorder of kidney due to diabetes mellitus (disorder)
+  1955-12-11 : Chronic kidney disease stage 1 (disorder)
+  1952-04-20 : Essential hypertension (disorder)
+  1942-04-05 : Received higher education (finding)
+  1942-04-05 : Housing unsatisfactory (finding)
+  1942-04-05 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+  1991-05-19 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  1990-12-30 : ferrous sulfate 325 MG Oral Tablet
+  1989-05-02 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  1962-07-14 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+   
+   CAREPLANS:
+  1991-01-02 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1989-05-02 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+  1985-08-04 : Cancer care plan
+                         Reason: Neoplasm of prostate
+                         Reason: Neoplasm of prostate
+                         Activity: Physical activity target light exercise
+                         Activity: Ice bath treatment
+  1962-07-14 : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  1958-10-26 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1952-04-20 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

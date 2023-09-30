@@ -1,0 +1,51 @@
+Jann271 Bartell116
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2006-04-11
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-12-02 : Encounter at TEWKSBURY HOSPITAL : Encounter for Viral sinusitis (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2019-12-02 : Viral sinusitis (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-10-13 : Fracture of clavicle
+  2019-10-13 : Fracture of bone (disorder)
+   
+   MEDICATIONS:
+  2019-10-13 : Naproxen sodium 220 MG Oral Tablet
+  2019-10-13 : Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+   
+   CAREPLANS:
+  2019-10-13 : Fracture care
+                         Reason: Fracture of clavicle
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+   
+--------------------------------------------------------------------------------

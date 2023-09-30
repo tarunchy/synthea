@@ -1,0 +1,74 @@
+Jarred626 Gaylord332
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 64
+Birth Date:          1959-01-29
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2017-06-15 : Encounter at BARRINGTON URGENT CARE PC
+Type: urgentcare
+   
+   MEDICATIONS:
+  2017-06-15 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2017-06-15 : buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet for Opioid abuse (disorder)
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2017-06-08 : Part-time employment (finding)
+  2016-09-08 : Stress (finding)
+  2015-09-03 : Anemia (disorder)
+  2015-09-03 : Metabolic syndrome X (disorder)
+  2014-08-28 : Prediabetes
+  2014-02-22 : Opioid abuse (disorder)
+  2014-02-01 : Chronic neck pain (finding)
+  2014-02-01 : Chronic low back pain (finding)
+  2014-02-01 : Chronic pain (finding)
+  2013-08-22 : Limited social contact (finding)
+  2008-07-24 : Hyperlipidemia
+  1995-05-11 : Body mass index 30+ - obesity (finding)
+  1990-04-12 : Essential hypertension (disorder)
+  1977-02-17 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2016-09-16 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2008-08-14 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+   
+   CAREPLANS:
+  2014-08-28 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2008-08-14 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+  1990-04-12 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

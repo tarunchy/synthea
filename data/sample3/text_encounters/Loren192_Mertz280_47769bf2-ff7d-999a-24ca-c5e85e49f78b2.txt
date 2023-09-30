@@ -1,0 +1,59 @@
+Loren192 Mertz280
+=================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 3
+Birth Date:          2019-08-30
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-08-05 : Encounter at WHITLEY WELLNESS LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2022-08-05 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2022-08-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-08-05 : Respiratory rate                         16.0 /min
+  2022-08-05 : Heart rate                               80.0 /min
+  2022-08-05 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  144.0 mm[Hg]
+  2022-08-05 : Body mass index (BMI) [Percentile] Per age and sex 86.5 %
+  2022-08-05 : Body mass index (BMI) [Ratio]            17.5 kg/m2
+  2022-08-05 : Head Occipital-frontal circumference     51.9 cm
+  2022-08-05 : Head Occipital-frontal circumference Percentile 93.0 %
+  2022-08-05 : Weight-for-length Per age and sex        90.9 %
+  2022-08-05 : Body Weight                              17.5 kg
+  2022-08-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-08-05 : Body Height                              100.0 cm
+   
+   PROCEDURES:
+  2022-08-05 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2022-08-05 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

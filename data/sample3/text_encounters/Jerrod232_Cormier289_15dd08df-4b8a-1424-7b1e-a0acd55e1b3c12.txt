@@ -1,0 +1,63 @@
+Jerrod232 Cormier289
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 61
+Birth Date:          1961-10-09
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-11-18 : Encounter at NORTH SHORE MEDICAL CENTER INC : Encounter for Acute bronchitis (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+  2019-11-18 : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+   
+   CONDITIONS:
+  2019-11-18 : Acute bronchitis (disorder)
+   
+   CARE PLANS:
+  2019-11-18 : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2019-11-18 : Sputum examination (procedure) for Acute bronchitis (disorder)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-11-19 : Part-time employment (finding)
+  2014-02-05 : Chronic neck pain (finding)
+  2014-02-05 : Chronic low back pain (finding)
+  2014-02-05 : Chronic pain (finding)
+  2009-11-02 : Has a criminal record (finding)
+  2009-11-02 : Hyperlipidemia
+  1989-12-18 : Body mass index 30+ - obesity (finding)
+  1986-08-19 : Chronic sinusitis (disorder)
+  1979-12-03 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2018-11-21 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2009-11-23 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+   
+   CAREPLANS:
+  2009-11-23 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+   
+--------------------------------------------------------------------------------

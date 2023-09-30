@@ -1,0 +1,104 @@
+Hilary419 Kilback373
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 43
+Birth Date:          1980-04-25
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-05-01 : Encounter at OUTER CAPE HEALTH SERVICES INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2020-08-21 : Suspected COVID-19
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-05-01 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2020-05-02 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 5.0 {score}
+  2020-05-02 : PHQ-9 quick depression assessment panel [Reported.PHQ]
+           - Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 15.0 {score}
+  2020-05-02 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+   
+   OBSERVATIONS:
+  2020-05-02 : Total score [DAST-10]                    2.0 {score}
+  2020-05-02 : Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 15.0 {score}
+  2020-05-02 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 5.0 {score}
+  2020-05-01 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2020-05-01 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 81969 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  1013 Stokes Boulevard Apt 71 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 7.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2020-05-01 : Tobacco smoking status                   Ex-smoker (finding) 
+  2020-05-01 : Respiratory rate                         14.0 /min
+  2020-05-01 : Heart rate                               61.0 /min
+  2020-05-01 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2020-05-01 : Body mass index (BMI) [Ratio]            27.6 kg/m2
+  2020-05-01 : Body Weight                              82.4 kg
+  2020-05-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2020-05-01 : Body Height                              172.9 cm
+   
+   PROCEDURES:
+  2020-05-02 : Screening for drug abuse (procedure)
+  2020-05-02 : Assessment of substance use (procedure)
+  2020-05-02 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2020-05-01 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2020-05-01 : Depression screening (procedure)
+  2020-05-01 : Assessment of anxiety (procedure)
+  2020-05-01 : Assessment of health and social care needs (procedure)
+  2020-05-01 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2020-05-01 : Hep A, adult
+  2020-05-01 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-10-11 : Full-time employment (finding)
+  2018-01-12 : Stress (finding)
+  2017-12-06 : Chronic sinusitis (disorder)
+  2015-10-18 : History of tubal ligation (situation)
+  2002-06-28 : Body mass index 30+ - obesity (finding)
+  1998-06-19 : Received higher education (finding)
+  1997-06-13 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

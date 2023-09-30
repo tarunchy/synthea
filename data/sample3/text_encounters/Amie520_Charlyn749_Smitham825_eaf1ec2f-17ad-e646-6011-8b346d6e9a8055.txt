@@ -1,0 +1,43 @@
+Amie520 Charlyn749 Smitham825
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 43
+Birth Date:          1980-03-14
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1983-08-19 : Encounter at RISE ABOVE WELLNESS HEALTH SERVICES LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1983-08-19 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

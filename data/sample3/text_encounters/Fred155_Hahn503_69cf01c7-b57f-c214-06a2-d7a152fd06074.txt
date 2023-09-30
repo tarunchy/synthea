@@ -1,0 +1,55 @@
+Fred155 Hahn503
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          2012-06-16
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-06-13 : Encounter at ACCESS PRIMARY CARE INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2020-06-13 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2020-06-13 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-06-13 : Respiratory rate                         13.0 /min
+  2020-06-13 : Heart rate                               71.0 /min
+  2020-06-13 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  144.0 mm[Hg]
+  2020-06-13 : Body mass index (BMI) [Percentile] Per age and sex 91.1 %
+  2020-06-13 : Body mass index (BMI) [Ratio]            18.9 kg/m2
+  2020-06-13 : Body Weight                              37.7 kg
+  2020-06-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2020-06-13 : Body Height                              141.4 cm
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2020-06-13 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

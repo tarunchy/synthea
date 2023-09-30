@@ -1,0 +1,54 @@
+Gerry91 Schumm995
+=================
+Race:                Native
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 29
+Birth Date:          1993-10-23
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2018-12-13 : Sulfamethoxazole / Trimethoprim
+  2018-12-13 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2015-06-20 : Encounter at VHS ACQUISITION SUBSIDIARY NUMBER 9, INC.
+Type: outpatient
+   
+   MEDICATIONS:
+  2015-06-20 : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+   
+   CONDITIONS:
+  2015-06-20 : Full-time employment (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2015-02-21 : Has a criminal record (finding)
+  2015-02-21 : Stress (finding)
+  2014-02-03 : Chronic low back pain (finding)
+  2014-02-03 : Chronic pain (finding)
+  2011-12-17 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2014-03-29 : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+   
+   CAREPLANS:
+  2014-03-29 : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavioral therapy (regime/therapy)
+   
+--------------------------------------------------------------------------------

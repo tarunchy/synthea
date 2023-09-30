@@ -1,0 +1,65 @@
+Onita767 Kendall673 Zulauf375
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 33
+Birth Date:          1989-08-11
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-01-04 : Encounter at ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE : Encounter for Normal pregnancy
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2019-01-04 : Auscultation of the fetal heart for Normal pregnancy
+  2019-01-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-01-04 : AFP test - antenatal for Normal pregnancy
+  2019-01-04 : Fetal anatomy study for Normal pregnancy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-11-09 : Normal pregnancy
+  2013-03-15 : Dependent drug abuse (disorder)
+  2013-03-01 : Drug overdose
+  2010-09-17 : Miscarriage in first trimester
+  2008-10-10 : Medication review due (situation)
+  2007-10-05 : Full-time employment (finding)
+  2007-10-05 : Received certificate of high school equivalency (finding)
+  2007-10-05 : Housing unsatisfactory (finding)
+  2004-09-18 : Impacted molars
+  2004-03-17 : Chronic intractable migraine without aura
+  2003-12-13 : Chronic pain
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2018-11-09 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2013-03-01 : Care plan (record artifact)
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+   
+--------------------------------------------------------------------------------

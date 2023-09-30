@@ -1,0 +1,50 @@
+Elizabeth24 Stefania815 Dare640
+===============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 46
+Birth Date:          1977-01-30
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1989-04-16 : Encounter at CARECENTRAL URGENT CARE MEDICAL GROUP PC
+Type: urgentcare
+   
+   MEDICATIONS:
+  1989-04-16 : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1989-04-16 : budesonide 0.125 MG/ML Inhalation Suspension for Childhood asthma
+   
+   CONDITIONS:
+  1989-04-16 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1981-07-02 : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+   
+--------------------------------------------------------------------------------

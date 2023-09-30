@@ -1,0 +1,60 @@
+Joaquín233 Feliciano160
+=====í=================
+Race:                Asian
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 36
+Birth Date:          1987-03-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-08-17 : Encounter at HUNT NURSING & REHAB CENTER : Encounter for Concussion injury of brain (disorder)
+Type: emergency
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2021-08-17 : Concussion with no loss of consciousness
+  2021-08-17 : Concussion injury of brain (disorder)
+   
+   CARE PLANS:
+  2021-08-17 : Head injury rehabilitation
+                         Reason: Concussion with no loss of consciousness
+                         Activity: Recommendation to rest
+                         Activity: Alcohol-free diet
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-05-25 : Social isolation (finding)
+  2021-05-25 : Part-time employment (finding)
+  2021-05-25 : Body mass index 30+ - obesity (finding)
+  2021-05-25 : Medication review due (situation)
+  2008-08-26 : Unhealthy alcohol drinking behavior (finding)
+  2008-08-26 : Anemia (disorder)
+  2006-05-09 : Prediabetes
+  2005-05-03 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2006-05-09 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

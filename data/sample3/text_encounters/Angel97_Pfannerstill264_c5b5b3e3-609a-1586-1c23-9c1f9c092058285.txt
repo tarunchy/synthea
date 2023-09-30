@@ -1,0 +1,45 @@
+Angel97 Pfannerstill264
+=======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1955-09-17
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1974-11-16 : Encounter at JEWISH FAMILY SERVICE OF WESTERN MASSACHUSETTS INC.
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1974-11-16 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1973-11-10 : Only received primary school education (finding)
+  1960-11-23 : Chronic sinusitis (disorder)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

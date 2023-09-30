@@ -1,0 +1,55 @@
+Ji399 Ratke343
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 67
+Birth Date:          1956-05-04
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1988-07-22 : Encounter at BARRINGTON FAMILY MEDICINE PC
+Type: wellness
+   
+   MEDICATIONS:
+  1988-07-22 : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1987-07-17 : Full-time employment (finding)
+  1987-07-17 : Essential hypertension (disorder)
+  1981-04-17 : Miscarriage in first trimester
+  1978-07-07 : Limited social contact (finding)
+  1974-06-28 : Received higher education (finding)
+  1974-06-28 : Housing unsatisfactory (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1987-07-17 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

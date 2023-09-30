@@ -1,0 +1,44 @@
+Caleb651 Kuhn96
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 56
+Birth Date:          1966-11-14
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1989-01-16 : Encounter at WALTHAM WESTON INTERNAL MEDICINE ASSOCIATES, P.C.
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1989-01-17 : Full-time employment (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1985-01-08 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

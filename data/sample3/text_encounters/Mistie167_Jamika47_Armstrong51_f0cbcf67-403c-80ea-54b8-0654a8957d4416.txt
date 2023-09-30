@@ -1,0 +1,60 @@
+Mistie167 Jamika47 Armstrong51
+==============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 59
+Birth Date:          1964-03-01
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2012-03-26 : Encounter at HOPKINTON MEDICAL CARE, P.C.
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2012-03-26 : Metabolic syndrome X (disorder)
+  2012-03-26 : Hypertriglyceridemia (disorder)
+  2012-03-26 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2010-03-22 : Anemia (disorder)
+  2010-03-22 : Diabetes mellitus type 2 (disorder)
+  2006-03-13 : Full-time employment (finding)
+  1998-05-18 : Stress (finding)
+  1994-05-23 : Miscarriage in first trimester
+  1986-01-19 : Body mass index 30+ - obesity (finding)
+  1985-12-02 : Recurrent urinary tract infection
+  1982-04-26 : Only received primary school education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2010-03-22 : Diabetes self management plan
+                         Reason: Diabetes mellitus type 2 (disorder)
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1976-03-21 : Weight management program
+                         Activity: Low calorie diet
+                         Activity: Increased physical activity
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,51 @@
+Rena430 Bettie175 Toy286
+========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 47
+Birth Date:          1976-01-21
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1998-03-25 : Encounter at SENIOR HEALTHCARE ASSOCIATES INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1998-03-25 : Stress (finding)
+  1998-03-25 : Prediabetes
+  1998-03-25 : Medication review due (situation)
+   
+   CARE PLANS:
+  1998-03-25 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1994-03-16 : Received higher education (finding)
+  1989-09-11 : Chronic sinusitis (disorder)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

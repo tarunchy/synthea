@@ -1,0 +1,139 @@
+Ian270 Bayer639
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2004-12-05 : Encounter at Fitchburg Outpatient Clinic : Encounter for Chronic congestive heart failure (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2004-12-05 : Heart failure tracking panel
+           - Left ventricular Ejection fraction       74.7 %
+  2004-12-05 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           95.3 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     19.4 mg/dL
+           - Creatinine [Mass/volume] in Blood        4.1 mg/dL
+           - Calcium [Mass/volume] in Blood           9.5 mg/dL
+           - Sodium [Moles/volume] in Blood           139.8 mmol/L
+           - Potassium [Moles/volume] in Blood        3.7 mmol/L
+           - Chloride [Moles/volume] in Blood         109.7 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 23.7 mmol/L
+   
+   OBSERVATIONS:
+  2004-12-05 : Carbon dioxide, total [Moles/volume] in Blood 23.7 mmol/L
+  2004-12-05 : Chloride [Moles/volume] in Blood         109.7 mmol/L
+  2004-12-05 : Potassium [Moles/volume] in Blood        3.7 mmol/L
+  2004-12-05 : Sodium [Moles/volume] in Blood           139.8 mmol/L
+  2004-12-05 : Calcium [Mass/volume] in Blood           9.5 mg/dL
+  2004-12-05 : Creatinine [Mass/volume] in Blood        4.1 mg/dL
+  2004-12-05 : Urea nitrogen [Mass/volume] in Blood     19.4 mg/dL
+  2004-12-05 : Glucose [Mass/volume] in Blood           95.3 mg/dL
+  2004-12-05 : Left ventricular Ejection fraction       74.7 %
+   
+   PROCEDURES:
+  2004-12-05 : Medication Reconciliation (procedure)
+  2004-12-05 : Echocardiography (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+  2004-12-05 : Ultrasound, Heart structure (body structure)
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2004-10-24 : Stress (finding)
+  2004-10-24 : Full-time employment (finding)
+  2004-05-02 : Chronic congestive heart failure (disorder)
+  2001-06-10 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  2001-06-10 : Chronic kidney disease stage 3 (disorder)
+  2000-12-19 : Alzheimer's disease (disorder)
+  1994-06-05 : Osteoporosis (disorder)
+  1992-07-20 : History of aortic valve replacement (situation)
+  1990-11-11 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1990-11-11 : Chronic kidney disease stage 2 (disorder)
+  1990-05-13 : Carcinoma in situ of prostate (disorder)
+  1990-05-13 : Neoplasm of prostate
+  1988-11-20 : Disorder of kidney due to diabetes mellitus (disorder)
+  1988-11-20 : Chronic kidney disease stage 1 (disorder)
+  1987-05-05 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  1987-04-26 : Ischemic heart disease (disorder)
+  1976-02-22 : Essential hypertension (disorder)
+  1975-04-20 : Smokes tobacco daily
+  1965-01-30 : Aortic valve regurgitation (disorder)
+  1953-07-12 : Has a criminal record (finding)
+  1952-04-20 : Anemia (disorder)
+  1949-04-17 : Prediabetes
+  1942-04-05 : Received higher education (finding)
+  1942-04-05 : Housing unsatisfactory (finding)
+  1942-04-05 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+  2004-11-28 : warfarin sodium 5 MG Oral Tablet
+  2004-11-28 + Furosemide 40 MG Oral Tablet for Chronic congestive heart failure (disorder)
+  2004-11-28 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2004-11-28 + insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2000-12-19 + Donepezil hydrochloride 10 MG Oral Tablet for Alzheimer's disease (disorder)
+  1987-05-03 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1987-05-03 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  1975-02-16 : nicotine 7 MG/Day 24HR Transdermal System
+   
+   CAREPLANS:
+  2004-05-18 : Heart failure self management plan
+                         Reason: Chronic congestive heart failure (disorder)
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+  2000-12-19 : Dementia management
+                         Reason: Alzheimer's disease (disorder)
+                         Activity: Patient education (procedure)
+                         Activity: Promotion of use of memory skills
+                         Activity: Long term social support
+  1992-07-21 : Discharge care plan (record artifact)
+                         Reason: History of aortic valve replacement (situation)
+                         Activity: Perioperative care management (procedure)
+                         Activity: Cardiovascular monitoring (regime/therapy)
+                         Activity: Management of vascular system care (procedure)
+                         Activity: Activity care (regime/therapy)
+                         Activity: Advance diet as tolerated (regime/therapy)
+                         Activity: Pharmacological assessment (procedure)
+                         Activity: Dressing change management (procedure)
+                         Activity: Patient education (procedure)
+                         Activity: Scheduling of follow up appointment (procedure)
+  1990-05-13 : Cancer care plan
+                         Reason: Neoplasm of prostate
+                         Reason: Neoplasm of prostate
+                         Activity: Physical activity target light exercise
+                         Activity: Ice bath treatment
+  1976-02-22 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1975-02-16 : Care Plan
+                         Reason: Aortic valve regurgitation (disorder)
+                         Activity: smoking cessation therapy
+                         Activity: Referral for laboratory tests (procedure)
+                         Activity: Referral to radiology service (procedure)
+                         Activity: Refer for angiogram (procedure)
+  1949-04-17 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

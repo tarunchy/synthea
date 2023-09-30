@@ -1,0 +1,43 @@
+Winford225 Hodkiewicz467
+========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 7
+Birth Date:          2015-07-26
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-07-11 : Encounter at CHELMSFORD PRIMARY CARE LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2021-07-11 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

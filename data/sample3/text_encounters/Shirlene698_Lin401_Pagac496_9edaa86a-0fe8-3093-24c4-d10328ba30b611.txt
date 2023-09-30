@@ -1,0 +1,107 @@
+Shirlene698 Lin401 Pagac496
+===========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1953-09-13
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1985-01-06 : Encounter at CORNERSTONE FAMILY MEDICINE, INC.
+Type: wellness
+   
+   MEDICATIONS:
+  1985-01-06 : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Pulmonary emphysema (disorder)
+  1985-01-06 : albuterol 5 MG/ML Inhalation Solution for Pulmonary emphysema (disorder)
+   
+   CONDITIONS:
+  1985-01-06 : Stress (finding)
+  1985-01-06 : Full-time employment (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  1985-01-06 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  1985-01-06 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  1985-01-06 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+   
+   OBSERVATIONS:
+  1985-01-06 : Total score [AUDIT-C]                    1.0 {score}
+  1985-01-06 : Total score [HARK]                       0.0 {score}
+  1985-01-06 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  1985-01-06 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 29884 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  440 Nader Ferry 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 5.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  1985-01-06 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  1985-01-06 : Respiratory rate                         16.0 /min
+  1985-01-06 : Heart rate                               80.0 /min
+  1985-01-06 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  1985-01-06 : Body mass index (BMI) [Ratio]            29.6 kg/m2
+  1985-01-06 : Body Weight                              89.6 kg
+  1985-01-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1985-01-06 : Body Height                              173.9 cm
+  1985-01-06 : FEV1/FVC                                 15.7 %
+   
+   PROCEDURES:
+  1985-01-06 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  1985-01-06 : Assessment of substance use (procedure)
+  1985-01-06 : Screening for domestic abuse (procedure)
+  1985-01-06 : Assessment of anxiety (procedure)
+  1985-01-06 : Assessment of health and social care needs (procedure)
+  1985-01-06 : Medication Reconciliation (procedure)
+  1985-01-06 : Pulmonary rehabilitation (regime/therapy) for Pulmonary emphysema (disorder)
+  1985-01-06 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+   
+   IMMUNIZATIONS:
+  1985-01-06 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1978-08-20 : Miscarriage in first trimester
+  1972-11-12 : Anemia (disorder)
+  1972-11-12 : Pulmonary emphysema (disorder)
+  1971-11-07 : Received higher education (finding)
+  1959-09-07 : Chronic sinusitis (disorder)
+   
+   MEDICATIONS:
+  1976-08-25 : Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+   
+   CAREPLANS:
+  1972-11-12 : Chronic obstructive pulmonary disease clinical management plan
+                         Reason: Pulmonary emphysema (disorder)
+                         Activity: Exercise therapy
+                         Activity: Pulmonary rehabilitation (regime/therapy)
+   
+--------------------------------------------------------------------------------

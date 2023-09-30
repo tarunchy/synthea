@@ -1,0 +1,46 @@
+Georgine810 Brakus656
+=====================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 5
+Birth Date:          2018-05-26
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-03-04 : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Streptococcal sore throat (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+  2023-03-04 : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+   
+   CONDITIONS:
+  2023-03-04 : Streptococcal sore throat (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2023-03-04 : Body temperature                         38.0 Cel
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-10-31 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

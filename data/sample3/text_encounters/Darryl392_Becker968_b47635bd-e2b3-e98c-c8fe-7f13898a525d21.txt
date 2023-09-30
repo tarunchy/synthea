@@ -1,0 +1,85 @@
+Darryl392 Becker968
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 67
+Birth Date:          1955-09-17
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-04-03 : Encounter at Springfield Outpatient Clinic
+Type: outpatient
+   
+   MEDICATIONS:
+  2021-05-10 : Alendronic acid 10 MG Oral Tablet for Osteoporosis (disorder)
+  2021-05-10 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2021-05-10 : insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2021-05-10 : Prostate specific Ag [Mass/volume] in Serum or Plasma 4.8 ng/mL
+  2021-05-10 : Physical findings of Prostate            Prostate enlarged on PR {nominal}
+   
+   PROCEDURES:
+  2021-05-10 : Digital examination of rectum
+   
+   IMMUNIZATIONS:
+  2021-04-03 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-01-02 : Stress (finding)
+  2021-01-02 : Social isolation (finding)
+  2021-01-02 : Part-time employment (finding)
+  2020-09-17 : Polyp of colon
+  2020-05-09 : Hyperlipidemia
+  2016-04-16 : Osteoporosis (disorder)
+  2009-03-07 : Prediabetes
+  2009-03-07 : Metabolic syndrome X (disorder)
+  2002-07-06 : Alcoholism
+  2002-01-27 : Unhealthy alcohol drinking behavior (finding)
+  2001-01-20 : Body mass index 30+ - obesity (finding)
+  1993-12-11 : Disorder of kidney due to diabetes mellitus (disorder)
+  1993-12-11 : Chronic kidney disease stage 1 (disorder)
+  1992-12-05 : Essential hypertension (disorder)
+  1973-11-10 : Only received primary school education (finding)
+  1973-11-10 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+  2021-01-02 + Alendronic acid 10 MG Oral Tablet for Osteoporosis (disorder)
+  2021-01-02 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2021-01-02 + insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2020-05-30 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+   
+   CAREPLANS:
+  2020-05-30 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+  2009-03-07 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2002-01-26 : Care Plan
+                         Activity: Alcoholism counseling
+  1992-12-05 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

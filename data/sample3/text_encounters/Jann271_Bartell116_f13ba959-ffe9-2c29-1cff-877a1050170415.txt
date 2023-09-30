@@ -1,0 +1,53 @@
+Jann271 Bartell116
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2006-04-11
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-10-13 : Encounter at HORIZON HOME CARE, LLC : Encounter for Fracture of bone (disorder)
+Type: emergency
+   
+   MEDICATIONS:
+  2019-10-13 : Naproxen sodium 220 MG Oral Tablet
+  2019-10-13 : Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+   
+   CONDITIONS:
+  2019-10-13 : Fracture of clavicle
+  2019-10-13 : Fracture of bone (disorder)
+   
+   CARE PLANS:
+  2019-10-13 : Fracture care
+                         Reason: Fracture of clavicle
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2019-10-13 : Admission to orthopedic department for Fracture of clavicle
+  2019-10-13 : Clavicle X-ray
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+  2019-10-13 : Digital Radiography, Clavicle
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

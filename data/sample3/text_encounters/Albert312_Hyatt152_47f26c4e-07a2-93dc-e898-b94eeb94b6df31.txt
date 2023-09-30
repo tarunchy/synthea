@@ -1,0 +1,194 @@
+Albert312 Hyatt152
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1964-03-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2011-05-27 : Encounter at CAMBRIDGE PUBLIC HEALTH COMMISSION : Encounter for Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+Type: inpatient
+   
+   MEDICATIONS:
+  2011-06-02 : PACLitaxel 100 MG Injection for Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+  2011-06-02 : Cisplatin 50 MG Injection for Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+  2011-06-01 : PACLitaxel 100 MG Injection for Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+  2011-06-01 : Cisplatin 50 MG Injection for Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+  2011-05-31 : PACLitaxel 100 MG Injection for Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+  2011-05-31 : Cisplatin 50 MG Injection for Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+  2011-05-30 : PACLitaxel 100 MG Injection for Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+  2011-05-30 : Cisplatin 50 MG Injection for Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+  2011-05-29 : PACLitaxel 100 MG Injection for Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+  2011-05-29 : Cisplatin 50 MG Injection for Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+  2011-05-27 : PACLitaxel 100 MG Injection for Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+  2011-05-27 : Cisplatin 50 MG Injection for Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2011-05-27 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Blood           109.8 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     15.7 mg/dL
+           - Creatinine [Mass/volume] in Blood        2.7 mg/dL
+           - Calcium [Mass/volume] in Blood           9.7 mg/dL
+           - Sodium [Moles/volume] in Blood           142.6 mmol/L
+           - Potassium [Moles/volume] in Blood        4.2 mmol/L
+           - Chloride [Moles/volume] in Blood         101.1 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 23.8 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 27.7 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.1 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.3 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 3.0 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 1.0 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 84.8 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 54.5 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 13.4 U/L
+  2011-05-27 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.3 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.2 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 10.4 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.1 pH
+           - Protein [Mass/volume] in Urine by Test strip 420.8 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2011-05-27 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 2.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.9 %
+           - MCV [Entitic volume] by Automated count  92.7 fL
+           - MCH [Entitic mass] by Automated count    32.2 pg
+           - MCHC [Mass/volume] by Automated count    35.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+           - Platelets [#/volume] in Blood by Automated count 418.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 154.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+   
+   OBSERVATIONS:
+  2011-06-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2011-06-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2011-05-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2011-05-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2011-05-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2011-05-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2011-05-27 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2011-05-27 : Platelet distribution width [Entitic volume] in Blood by Automated count 154.6 fL
+  2011-05-27 : Platelets [#/volume] in Blood by Automated count 418.4 10*3/uL
+  2011-05-27 : Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+  2011-05-27 : MCHC [Mass/volume] by Automated count    35.2 g/dL
+  2011-05-27 : MCH [Entitic mass] by Automated count    32.2 pg
+  2011-05-27 : MCV [Entitic volume] by Automated count  92.7 fL
+  2011-05-27 : Hematocrit [Volume Fraction] of Blood by Automated count 45.9 %
+  2011-05-27 : Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+  2011-05-27 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2011-05-27 : Leukocytes [#/volume] in Blood by Automated count 2.0 10*3/uL
+  2011-05-27 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2011-05-27 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2011-05-27 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2011-05-27 : Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+  2011-05-27 : Protein [Mass/volume] in Urine by Test strip 420.8 mg/dL
+  2011-05-27 : pH of Urine by Test strip                6.1 pH
+  2011-05-27 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2011-05-27 : Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+  2011-05-27 : Ketones [Mass/volume] in Urine by Test strip 10.4 mg/dL
+  2011-05-27 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2011-05-27 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.2 mg/dL
+  2011-05-27 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2011-05-27 : Glucose [Mass/volume] in Urine by Test strip 1.3 mg/dL
+  2011-05-27 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2011-05-27 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2011-05-27 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2011-05-27 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2011-05-27 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 13.4 U/L
+  2011-05-27 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 54.5 U/L
+  2011-05-27 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 84.8 U/L
+  2011-05-27 : Bilirubin.total [Mass/volume] in Serum or Plasma 1.0 mg/dL
+  2011-05-27 : Globulin [Mass/volume] in Serum by calculation 3.0 g/L
+  2011-05-27 : Albumin [Mass/volume] in Serum or Plasma 5.3 g/dL
+  2011-05-27 : Protein [Mass/volume] in Serum or Plasma 6.1 g/dL
+  2011-05-27 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 27.7 mL/min
+  2011-05-27 : Carbon dioxide, total [Moles/volume] in Blood 23.8 mmol/L
+  2011-05-27 : Chloride [Moles/volume] in Blood         101.1 mmol/L
+  2011-05-27 : Potassium [Moles/volume] in Blood        4.2 mmol/L
+  2011-05-27 : Sodium [Moles/volume] in Blood           142.6 mmol/L
+  2011-05-27 : Calcium [Mass/volume] in Blood           9.7 mg/dL
+  2011-05-27 : Creatinine [Mass/volume] in Blood        2.7 mg/dL
+  2011-05-27 : Urea nitrogen [Mass/volume] in Blood     15.7 mg/dL
+  2011-05-27 : Glucose [Mass/volume] in Blood           109.8 mg/dL
+   
+   PROCEDURES:
+  2011-06-02 : Combined chemotherapy and radiation therapy (procedure) for Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+  2011-06-02 : Hearing examination (procedure)
+  2011-06-01 : Combined chemotherapy and radiation therapy (procedure) for Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+  2011-06-01 : Hearing examination (procedure)
+  2011-05-31 : Combined chemotherapy and radiation therapy (procedure) for Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+  2011-05-31 : Hearing examination (procedure)
+  2011-05-30 : Combined chemotherapy and radiation therapy (procedure) for Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+  2011-05-30 : Hearing examination (procedure)
+  2011-05-29 : Combined chemotherapy and radiation therapy (procedure) for Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+  2011-05-29 : Hearing examination (procedure)
+  2011-05-27 : Combined chemotherapy and radiation therapy (procedure) for Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+  2011-05-27 : Hearing examination (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2011-01-29 : Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+  2011-01-28 : Non-small cell lung cancer (disorder)
+  2011-01-17 : Suspected lung cancer (situation)
+  2010-09-28 : Stress (finding)
+  2008-06-24 : Full-time employment (finding)
+  2002-08-13 : Metabolic syndrome X (disorder)
+  2002-08-13 : Hypertriglyceridemia (disorder)
+  2001-08-07 : Anemia (disorder)
+  2001-08-07 : Diabetes mellitus type 2 (disorder)
+  1991-06-11 : Has a criminal record (finding)
+  1986-05-13 : Lack of access to transportation (finding)
+  1986-05-13 : Essential hypertension (disorder)
+  1982-05-04 : Transport problem (finding)
+  1982-05-04 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2010-09-28 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2010-09-28 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CAREPLANS:
+  2011-01-29 : Terminal care
+                         Reason: Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+                         Activity: Comfort measures
+                         Activity: Chronic pain control management
+                         Activity: Cancer education
+  2001-08-07 : Diabetes self management plan
+                         Reason: Diabetes mellitus type 2 (disorder)
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1986-05-13 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

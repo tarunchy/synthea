@@ -1,0 +1,58 @@
+Leslie90 Wunsch504
+==================
+Race:                Asian
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 46
+Birth Date:          1976-09-03
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1977-03-15 : Wheat (substance)
+  1977-03-15 : Eggs (edible) (substance)
+  1977-03-15 : Cow's milk (substance)
+  1977-03-15 : Lisinopril
+  1977-03-15 : Tree pollen (substance)
+  1977-03-15 : Grass pollen (substance)
+  1977-03-15 : Animal dander (substance)
+  1977-03-15 : House dust mite (organism)
+  1977-03-15 : Mold (organism)
+  1977-03-15 : Latex (substance)
+  1977-03-15 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+1994-10-28 : Encounter at MEDICAL HEALTHCARE SPECIALISTS,P.C.
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1994-10-28 : Received higher education (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1993-10-22 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+  1977-03-15 : Astemizole 10 MG Oral Tablet
+   
+   CAREPLANS:
+  1977-03-02 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

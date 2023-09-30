@@ -1,0 +1,45 @@
+Marketta481 Roberts511
+======================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 44
+Birth Date:          1978-07-30
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2009-09-27 : Encounter at METRO WEST REHAB CORP : Encounter for Normal pregnancy
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2009-09-27 : Miscarriage in first trimester
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2003-10-05 : Medication review due (situation)
+  1996-09-22 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

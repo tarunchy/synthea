@@ -1,0 +1,58 @@
+Catalina187 Elizondo706
+=======================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 21
+Birth Date:          2001-08-30
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-10-18 : Encounter at WALPOLE MEDICAL CENTER, PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2018-10-18 : Tobacco smoking status                   Smokes tobacco daily (finding) 
+  2018-10-18 : Respiratory rate                         12.0 /min
+  2018-10-18 : Heart rate                               85.0 /min
+  2018-10-18 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 68.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2018-10-18 : Body mass index (BMI) [Percentile] Per age and sex 58.6 %
+  2018-10-18 : Body mass index (BMI) [Ratio]            21.7 kg/m2
+  2018-10-18 : Body Weight                              57.4 kg
+  2018-10-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-10-18 : Body Height                              162.8 cm
+   
+   PROCEDURES:
+  2018-10-18 : Anticipatory guidance (procedure)
+  2018-10-18 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2018-10-18 : Assessment of substance use (procedure)
+   
+   IMMUNIZATIONS:
+  2018-10-18 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2016-10-06 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

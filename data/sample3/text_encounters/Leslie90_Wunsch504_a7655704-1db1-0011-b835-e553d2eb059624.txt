@@ -1,0 +1,133 @@
+Leslie90 Wunsch504
+==================
+Race:                Asian
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 46
+Birth Date:          1976-09-03
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1977-03-15 : Wheat (substance)
+  1977-03-15 : Eggs (edible) (substance)
+  1977-03-15 : Cow's milk (substance)
+  1977-03-15 : Lisinopril
+  1977-03-15 : Tree pollen (substance)
+  1977-03-15 : Grass pollen (substance)
+  1977-03-15 : Animal dander (substance)
+  1977-03-15 : House dust mite (organism)
+  1977-03-15 : Mold (organism)
+  1977-03-15 : Latex (substance)
+  1977-03-15 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-08-23 : Encounter at EMERSON HOSPITAL
+Type: outpatient
+   
+   MEDICATIONS:
+  2019-08-23 : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2019-08-23 : losartan potassium 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+  2019-08-23 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2019-08-23 : Basic metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 82.8 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 13.4 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 1.7 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 8.5 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 143.7 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.1 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 105.1 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 135.4 mL/min/{1.73_m2}
+  2019-08-23 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.9 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.7 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 19.5 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = trace (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.2 pH
+           - Protein [Mass/volume] in Urine by Test strip 92.9 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = + (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+   
+   OBSERVATIONS:
+  2019-08-23 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2019-08-23 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2019-08-23 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2019-08-23 : Protein [Presence] in Urine by Test strip Urine protein test = + (finding) {nominal}
+  2019-08-23 : Protein [Mass/volume] in Urine by Test strip 92.9 mg/dL
+  2019-08-23 : pH of Urine by Test strip                6.2 pH
+  2019-08-23 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2019-08-23 : Ketones [Presence] in Urine by Test strip Urine ketone test = trace (finding) {nominal}
+  2019-08-23 : Ketones [Mass/volume] in Urine by Test strip 19.5 mg/dL
+  2019-08-23 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2019-08-23 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.7 mg/dL
+  2019-08-23 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2019-08-23 : Glucose [Mass/volume] in Urine by Test strip 1.9 mg/dL
+  2019-08-23 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2019-08-23 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2019-08-23 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2019-08-23 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2019-08-23 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 135.4 mL/min/{1.73_m2}
+  2019-08-23 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.7 mmol/L
+  2019-08-23 : Chloride [Moles/volume] in Serum or Plasma 105.1 mmol/L
+  2019-08-23 : Potassium [Moles/volume] in Serum or Plasma 4.1 mmol/L
+  2019-08-23 : Sodium [Moles/volume] in Serum or Plasma 143.7 mmol/L
+  2019-08-23 : Calcium [Mass/volume] in Serum or Plasma 8.5 mg/dL
+  2019-08-23 : Creatinine [Mass/volume] in Serum or Plasma 1.7 mg/dL
+  2019-08-23 : Urea nitrogen [Mass/volume] in Serum or Plasma 13.4 mg/dL
+  2019-08-23 : Glucose [Mass/volume] in Serum or Plasma 82.8 mg/dL
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-08-02 : Stress (finding)
+  2019-08-02 : Full-time employment (finding)
+  2019-07-05 : Body mass index 30+ - obesity (finding)
+  2018-05-04 : Osteoarthritis of knee
+  2015-11-27 : Disorder of kidney due to diabetes mellitus (disorder)
+  2015-11-27 : Chronic kidney disease stage 1 (disorder)
+  1998-11-06 : Essential hypertension (disorder)
+  1994-10-28 : Received higher education (finding)
+  1993-10-22 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+  2018-05-04 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+  1977-03-15 : Astemizole 10 MG Oral Tablet
+   
+   CAREPLANS:
+  2018-05-04 : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  1998-11-06 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1977-03-02 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,51 @@
+Arthur650 Kihn564
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 26
+Birth Date:          1997-04-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-04-04 : Encounter at HEBREW REHABILITATION CENTER : Encounter for Contraception care (regime/therapy)
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2019-04-04 : Intramuscular injection
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2015-06-18 : Stress (finding)
+  2015-06-18 : Medication review due (situation)
+  2015-06-04 : Full-time employment (finding)
+  2015-06-04 : Received higher education (finding)
+  2008-12-09 : History of appendectomy
+  2008-12-09 : Appendicitis
+  2008-12-09 : Rupture of appendix
+   
+   MEDICATIONS:
+  2019-02-27 : Seasonique 91 Day Pack
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

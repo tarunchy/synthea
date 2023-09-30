@@ -1,0 +1,206 @@
+Enriqueta274 Barrows492
+=======================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1965-06-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-04-24 : Encounter at HEBREW REHABILITATION CENTER : Encounter for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+Type: inpatient
+   
+   MEDICATIONS:
+  2020-04-28 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2020-04-28 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2020-04-27 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2020-04-27 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2020-04-26 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2020-04-26 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2020-04-25 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2020-04-25 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2020-04-24 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2020-04-24 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-04-24 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Blood           78.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     7.4 mg/dL
+           - Creatinine [Mass/volume] in Blood        2.7 mg/dL
+           - Calcium [Mass/volume] in Blood           8.6 mg/dL
+           - Sodium [Moles/volume] in Blood           136.0 mmol/L
+           - Potassium [Moles/volume] in Blood        3.9 mmol/L
+           - Chloride [Moles/volume] in Blood         108.2 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 27.9 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 6.2 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.5 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.1 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 3.3 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 1.2 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 139.3 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 46.6 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 17.1 U/L
+  2020-04-24 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.6 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.2 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 14.6 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                7.0 pH
+           - Protein [Mass/volume] in Urine by Test strip 395.7 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2020-04-24 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.2 %
+           - MCV [Entitic volume] by Automated count  93.1 fL
+           - MCH [Entitic mass] by Automated count    31.2 pg
+           - MCHC [Mass/volume] by Automated count    35.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+           - Platelets [#/volume] in Blood by Automated count 383.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 427.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+   
+   OBSERVATIONS:
+  2020-04-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 9.0 {score}
+  2020-04-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2020-04-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2020-04-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2020-04-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2020-04-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2020-04-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 427.2 fL
+  2020-04-24 : Platelets [#/volume] in Blood by Automated count 383.6 10*3/uL
+  2020-04-24 : Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+  2020-04-24 : MCHC [Mass/volume] by Automated count    35.0 g/dL
+  2020-04-24 : MCH [Entitic mass] by Automated count    31.2 pg
+  2020-04-24 : MCV [Entitic volume] by Automated count  93.1 fL
+  2020-04-24 : Hematocrit [Volume Fraction] of Blood by Automated count 43.2 %
+  2020-04-24 : Hemoglobin [Mass/volume] in Blood        14.2 g/dL
+  2020-04-24 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2020-04-24 : Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+  2020-04-24 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2020-04-24 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2020-04-24 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2020-04-24 : Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+  2020-04-24 : Protein [Mass/volume] in Urine by Test strip 395.7 mg/dL
+  2020-04-24 : pH of Urine by Test strip                7.0 pH
+  2020-04-24 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2020-04-24 : Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+  2020-04-24 : Ketones [Mass/volume] in Urine by Test strip 14.6 mg/dL
+  2020-04-24 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2020-04-24 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.2 mg/dL
+  2020-04-24 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2020-04-24 : Glucose [Mass/volume] in Urine by Test strip 1.6 mg/dL
+  2020-04-24 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2020-04-24 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2020-04-24 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2020-04-24 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2020-04-24 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 17.1 U/L
+  2020-04-24 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 46.6 U/L
+  2020-04-24 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 139.3 U/L
+  2020-04-24 : Bilirubin.total [Mass/volume] in Serum or Plasma 1.2 mg/dL
+  2020-04-24 : Globulin [Mass/volume] in Serum by calculation 3.3 g/L
+  2020-04-24 : Albumin [Mass/volume] in Serum or Plasma 5.1 g/dL
+  2020-04-24 : Protein [Mass/volume] in Serum or Plasma 7.5 g/dL
+  2020-04-24 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 6.2 mL/min
+  2020-04-24 : Carbon dioxide, total [Moles/volume] in Blood 27.9 mmol/L
+  2020-04-24 : Chloride [Moles/volume] in Blood         108.2 mmol/L
+  2020-04-24 : Potassium [Moles/volume] in Blood        3.9 mmol/L
+  2020-04-24 : Sodium [Moles/volume] in Blood           136.0 mmol/L
+  2020-04-24 : Calcium [Mass/volume] in Blood           8.6 mg/dL
+  2020-04-24 : Creatinine [Mass/volume] in Blood        2.7 mg/dL
+  2020-04-24 : Urea nitrogen [Mass/volume] in Blood     7.4 mg/dL
+  2020-04-24 : Glucose [Mass/volume] in Blood           78.0 mg/dL
+   
+   PROCEDURES:
+  2020-04-28 : High resolution computed tomography of chest without contrast (procedure)
+  2020-04-28 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2020-04-28 : Hearing examination (procedure)
+  2020-04-27 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2020-04-27 : Hearing examination (procedure)
+  2020-04-26 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2020-04-26 : Hearing examination (procedure)
+  2020-04-25 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2020-04-25 : Hearing examination (procedure)
+  2020-04-24 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2020-04-24 : Hearing examination (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+  2020-04-28 : Computed Tomography, Thoracic structure (body structure)
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-03-18 : Full-time employment (finding)
+  2019-03-13 : Stress (finding)
+  2019-02-14 : History of renal transplant (situation)
+  2018-10-31 : Limited social contact (finding)
+  2016-05-18 : Victim of intimate partner abuse (finding)
+  2016-01-11 : Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-08 : Small cell carcinoma of lung (disorder)
+  2015-12-08 : Suspected lung cancer (situation)
+  2008-12-24 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  2007-03-07 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  2005-05-11 : Disorder of kidney due to diabetes mellitus (disorder)
+  2004-04-14 : Metabolic syndrome X (disorder)
+  1997-10-29 : Body mass index 30+ - obesity (finding)
+  1984-08-15 : Anemia (disorder)
+  1984-08-15 : Prediabetes
+  1983-08-10 : Received higher education (finding)
+  1983-08-10 : Essential hypertension (disorder)
+   
+   MEDICATIONS:
+  2020-03-18 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2020-03-18 + 24 HR tacrolimus 1 MG Extended Release Oral Tablet for History of renal transplant (situation)
+  2020-03-18 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2020-03-18 + insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  1984-08-23 : Vitamin B12 5 MG/ML Injectable Solution
+   
+   CAREPLANS:
+  2019-02-14 : Care plan (record artifact)
+                         Activity: Transplantation of kidney regime (regime/therapy)
+                         Activity: Post-surgical wound care (regime/therapy)
+                         Activity: Renal function monitoring (regime/therapy)
+                         Activity: Very low sodium diet (finding)
+  2016-01-11 : Terminal care
+                         Reason: Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+                         Activity: Comfort measures
+                         Activity: Chronic pain control management
+                         Activity: Cancer education
+  2014-12-20 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1984-08-15 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1983-08-10 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

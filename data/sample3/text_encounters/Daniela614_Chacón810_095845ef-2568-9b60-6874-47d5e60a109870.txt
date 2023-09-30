@@ -1,0 +1,45 @@
+Daniela614 Chacón810
+===============ó====
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 81
+Birth Date:          1942-02-12
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1962-08-30 : Encounter at LIFE CARE CENTER OF ATTLEBORO : Encounter for Sprain (morphologic abnormality)
+Type: emergency
+   
+   MEDICATIONS:
+  1962-08-30 : Aspirin 81 MG Oral Tablet
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1960-04-07 : Refugee (person)
+  1960-04-07 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

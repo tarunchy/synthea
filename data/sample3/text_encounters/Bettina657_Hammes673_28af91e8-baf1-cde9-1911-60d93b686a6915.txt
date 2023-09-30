@@ -1,0 +1,44 @@
+Bettina657 Hammes673
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 18
+Birth Date:          2004-12-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-12-10 : Encounter at THE LOWELL GENERAL HOSPITAL : Encounter for Contraception care (regime/therapy)
+Type: outpatient
+   
+   MEDICATIONS:
+  2018-12-10 : Camila 28 Day Pack
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-01-05 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

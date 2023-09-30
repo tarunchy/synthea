@@ -1,0 +1,50 @@
+Caleb651 Kuhn96
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 56
+Birth Date:          1966-11-14
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2011-08-30 : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2011-08-30 : Anemia (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2008-11-25 : Full-time employment (finding)
+  2008-11-24 : Prediabetes
+  1985-01-08 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2008-11-24 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

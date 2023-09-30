@@ -1,0 +1,51 @@
+Alvin56 Stark857
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 19
+Birth Date:          2004-05-13
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-10-06 : Encounter at SOUTHSHORE HEALTH CARE CENTER : Encounter for Burn injury (morphologic abnormality)
+Type: emergency
+   
+   MEDICATIONS:
+  2018-10-06 : Naproxen sodium 220 MG Oral Tablet
+   
+   CONDITIONS:
+  2018-10-06 : Epidermal burn of skin (disorder)
+  2018-10-06 : Burn injury (morphologic abnormality)
+   
+   CARE PLANS:
+  2018-10-06 : Burn care
+                         Reason: Epidermal burn of skin (disorder)
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent sun exposure
+                         Activity: Behavior to prevent infection
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2016-06-02 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

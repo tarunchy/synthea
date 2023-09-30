@@ -1,0 +1,57 @@
+Catalina187 Elizondo706
+=======================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 21
+Birth Date:          2001-08-30
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-01-27 : Encounter at NORWOOD HOSPITAL : Encounter for Essential hypertension (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2021-01-27 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-10-29 : Full-time employment (finding)
+  2020-10-29 : Essential hypertension (disorder)
+  2019-10-24 : Received higher education (finding)
+  2019-10-24 : Housing unsatisfactory (finding)
+  2016-10-06 : Medication review due (situation)
+   
+   MEDICATIONS:
+  2020-10-29 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CAREPLANS:
+  2020-10-29 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

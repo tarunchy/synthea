@@ -1,0 +1,46 @@
+Mateo562 Castañeda925
+==============ñ======
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 60
+Birth Date:          1963-02-22
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1985-04-26 : Encounter at NORTON HEALTH CARE PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1985-04-26 : Body mass index 30+ - obesity (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1982-04-23 : Stress (finding)
+  1981-04-17 : Full-time employment (finding)
+  1981-04-17 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

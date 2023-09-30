@@ -1,0 +1,69 @@
+Marta91 Quiñónez764
+===========ñó======
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 22
+Birth Date:          2001-02-17
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-09-23 : Encounter at WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC : Encounter for Normal pregnancy
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2018-09-23 : Normal pregnancy
+   
+   CARE PLANS:
+  2018-09-23 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2018-09-23 : Physical examination procedure (procedure) for Normal pregnancy
+  2018-09-23 : Urine protein test for Normal pregnancy
+  2018-09-23 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy
+  2018-09-23 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2018-09-23 : Rubella screening for Normal pregnancy
+  2018-09-23 : Hepatitis C antibody, confirmatory test for Normal pregnancy
+  2018-09-23 : Urine screening test for diabetes for Normal pregnancy
+  2018-09-23 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2018-09-23 : Urine culture for Normal pregnancy
+  2018-09-23 : Syphilis infectious titer test (procedure) for Normal pregnancy
+  2018-09-23 : Gonorrhea infection titer test (procedure) for Normal pregnancy
+  2018-09-23 : Chlamydia antigen test for Normal pregnancy
+  2018-09-23 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2018-09-23 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2018-09-23 : Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential for Normal pregnancy
+  2018-09-23 : Blood group typing (procedure) for Normal pregnancy
+  2018-09-23 : Auscultation of the fetal heart for Normal pregnancy
+  2018-09-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-09-23 : Ultrasound scan for fetal viability for Normal pregnancy
+  2018-09-23 : Standard pregnancy test for Normal pregnancy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-04-08 : Medication review due (situation)
+  2017-04-02 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,43 @@
+Rubi442 Florentina22 Olson653
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 33
+Birth Date:          1990-03-05
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1993-02-08 : Encounter at CARDIOVASCULAR CENTER AT TUFTS MEDICAL CENTER INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1993-02-08 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

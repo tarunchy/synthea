@@ -1,0 +1,143 @@
+Jasper743 Casper496
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1991-07-12 : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC. : Encounter for End-stage renal disease (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  1991-07-12 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Blood           77.5 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     10.9 mg/dL
+           - Creatinine [Mass/volume] in Blood        2.6 mg/dL
+           - Calcium [Mass/volume] in Blood           9.4 mg/dL
+           - Sodium [Moles/volume] in Blood           136.5 mmol/L
+           - Potassium [Moles/volume] in Blood        4.3 mmol/L
+           - Chloride [Moles/volume] in Blood         108.2 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 20.9 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 4.4 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.0 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.9 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.3 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 85.8 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 56.5 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 20.3 U/L
+  1991-07-12 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.8 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.7 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 5.4 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                5.9 pH
+           - Protein [Mass/volume] in Urine by Test strip 298.5 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+   
+   OBSERVATIONS:
+  1991-07-12 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  1991-07-12 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  1991-07-12 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  1991-07-12 : Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+  1991-07-12 : Protein [Mass/volume] in Urine by Test strip 298.5 mg/dL
+  1991-07-12 : pH of Urine by Test strip                5.9 pH
+  1991-07-12 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  1991-07-12 : Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+  1991-07-12 : Ketones [Mass/volume] in Urine by Test strip 5.4 mg/dL
+  1991-07-12 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  1991-07-12 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.7 mg/dL
+  1991-07-12 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  1991-07-12 : Glucose [Mass/volume] in Urine by Test strip 1.8 mg/dL
+  1991-07-12 : Color of Urine                           Brown color (qualifier value) {nominal}
+  1991-07-12 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  1991-07-12 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  1991-07-12 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  1991-07-12 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 20.3 U/L
+  1991-07-12 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 56.5 U/L
+  1991-07-12 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 85.8 U/L
+  1991-07-12 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+  1991-07-12 : Globulin [Mass/volume] in Serum by calculation 2.3 g/L
+  1991-07-12 : Albumin [Mass/volume] in Serum or Plasma 3.9 g/dL
+  1991-07-12 : Protein [Mass/volume] in Serum or Plasma 6.0 g/dL
+  1991-07-12 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 4.4 mL/min
+  1991-07-12 : Carbon dioxide, total [Moles/volume] in Blood 20.9 mmol/L
+  1991-07-12 : Chloride [Moles/volume] in Blood         108.2 mmol/L
+  1991-07-12 : Potassium [Moles/volume] in Blood        4.3 mmol/L
+  1991-07-12 : Sodium [Moles/volume] in Blood           136.5 mmol/L
+  1991-07-12 : Calcium [Mass/volume] in Blood           9.4 mg/dL
+  1991-07-12 : Creatinine [Mass/volume] in Blood        2.6 mg/dL
+  1991-07-12 : Urea nitrogen [Mass/volume] in Blood     10.9 mg/dL
+  1991-07-12 : Glucose [Mass/volume] in Blood           77.5 mg/dL
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1991-07-08 : History of renal transplant (situation)
+  1991-06-23 : Medication review due (situation)
+  1991-02-03 : History of coronary artery bypass grafting (situation)
+  1991-01-20 : Full-time employment (finding)
+  1991-01-09 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  1990-12-20 : Ischemic heart disease (disorder)
+  1984-07-01 : Osteoporosis (disorder)
+  1976-09-05 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  1974-07-14 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1973-07-08 : Disorder of kidney due to diabetes mellitus (disorder)
+  1968-06-09 : Body mass index 30+ - obesity (finding)
+  1961-04-30 : Essential hypertension (disorder)
+  1942-04-05 : Received higher education (finding)
+   
+   MEDICATIONS:
+  1991-06-23 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  1991-06-23 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  1991-06-23 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  1990-12-27 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1990-12-27 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+   
+   CAREPLANS:
+  1991-07-08 : Care plan (record artifact)
+                         Activity: Transplantation of kidney regime (regime/therapy)
+                         Activity: Post-surgical wound care (regime/therapy)
+                         Activity: Renal function monitoring (regime/therapy)
+                         Activity: Very low sodium diet (finding)
+  1987-05-13 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1961-04-30 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

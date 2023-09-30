@@ -1,0 +1,73 @@
+Elliot577 Rau926
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1996-11-08 : Encounter at STEWARD NORWOOD HOSPITAL INC : Encounter for Familial Alzheimer's disease of early onset (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  1996-11-08 : Total score [MMSE]                       1.8 {score}
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1996-06-16 : Reports of violence in the environment (finding)
+  1995-06-11 : Unhealthy alcohol drinking behavior (finding)
+  1995-06-11 : Full-time employment (finding)
+  1995-06-11 : Medication review due (situation)
+  1992-05-24 : Familial Alzheimer's disease of early onset (disorder)
+  1977-04-04 : History of coronary artery bypass grafting (situation)
+  1977-03-09 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  1977-02-27 : Ischemic heart disease (disorder)
+  1972-11-15 : Osteoarthritis of knee
+  1961-04-30 : Body mass index 30+ - obesity (finding)
+  1955-04-24 : Anemia (disorder)
+  1952-04-20 : Prediabetes
+  1943-04-11 : Lack of access to transportation (finding)
+  1942-04-05 : Transport problem (finding)
+  1942-04-05 : Received higher education (finding)
+   
+   MEDICATIONS:
+  1977-03-06 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1972-11-15 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+   
+   CAREPLANS:
+  1992-05-24 : Dementia management
+                         Reason: Familial Alzheimer's disease of early onset (disorder)
+                         Activity: Patient education (procedure)
+                         Activity: Promotion of use of memory skills
+                         Activity: Long term social support
+  1972-11-15 : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  1952-04-20 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

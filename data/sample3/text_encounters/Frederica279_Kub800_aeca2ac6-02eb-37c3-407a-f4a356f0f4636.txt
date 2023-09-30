@@ -1,0 +1,59 @@
+Frederica279 Kub800
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 7
+Birth Date:          2015-10-25
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-10-04 : Encounter at OUTER CAPE HEALTH SERVICES INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2020-10-04 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-10-04 : Respiratory rate                         13.0 /min
+  2020-10-04 : Heart rate                               76.0 /min
+  2020-10-04 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  103.0 mm[Hg]
+  2020-10-04 : Body mass index (BMI) [Percentile] Per age and sex 83.1 %
+  2020-10-04 : Body mass index (BMI) [Ratio]            16.6 kg/m2
+  2020-10-04 : Body Weight                              18.0 kg
+  2020-10-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-10-04 : Body Height                              103.9 cm
+   
+   PROCEDURES:
+  2020-10-04 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2020-10-04 : MMR
+  2020-10-04 : DTaP
+  2020-10-04 : Influenza, seasonal, injectable, preservative free
+  2020-10-04 : IPV
+  2020-10-04 : varicella
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

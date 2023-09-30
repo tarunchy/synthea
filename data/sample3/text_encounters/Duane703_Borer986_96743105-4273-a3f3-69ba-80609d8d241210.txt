@@ -1,0 +1,44 @@
+Duane703 Borer986
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 9
+Birth Date:          2013-08-31
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2017-07-28 : Encounter at TEWKSBURY HOSPITAL : Encounter for Otitis media
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2017-07-28 : Otitis media
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2017-02-04 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

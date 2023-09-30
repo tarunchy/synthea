@@ -1,0 +1,46 @@
+Ike571 Conroy74
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 99
+Birth Date:          1924-02-10
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1958-04-27 : Encounter at BOSTON HEALTH CARE INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1958-04-27 : Body mass index 30+ - obesity (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1949-02-20 : History of appendectomy
+  1949-02-20 : Appendicitis
+  1942-04-05 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

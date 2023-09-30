@@ -1,0 +1,46 @@
+Anderson154 Hauck852
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 28
+Birth Date:          1995-01-31
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2013-04-02 : Encounter at INTERNAL MEDICINE PHYSICIANS OF THE NORTH SHORE
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2013-04-02 : Full-time employment (finding)
+  2013-04-02 : Received higher education (finding)
+  2013-04-02 : Housing unsatisfactory (finding)
+  2013-04-02 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

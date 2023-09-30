@@ -1,0 +1,63 @@
+Jann271 Bartell116
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2006-04-11
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-05-07 : Encounter at RHEUMATOLOGY AND INTERNAL MEDICINE ASSOCIATES PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2019-05-07 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 18.0 {score}
+   
+   OBSERVATIONS:
+  2019-05-07 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 18.0 {score}
+  2019-05-07 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-05-07 : Respiratory rate                         15.0 /min
+  2019-05-07 : Heart rate                               79.0 /min
+  2019-05-07 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 69.0 mm[Hg]
+           - Systolic Blood Pressure                  96.0 mm[Hg]
+  2019-05-07 : Body mass index (BMI) [Percentile] Per age and sex 8.2 %
+  2019-05-07 : Body mass index (BMI) [Ratio]            15.7 kg/m2
+  2019-05-07 : Body Weight                              39.3 kg
+  2019-05-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-05-07 : Body Height                              158.2 cm
+   
+   PROCEDURES:
+  2019-05-07 : Anticipatory guidance (procedure)
+  2019-05-07 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2019-05-07 : Assessment of substance use (procedure)
+  2019-05-07 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2019-05-07 : Depression screening (procedure)
+  2019-05-07 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2019-05-07 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

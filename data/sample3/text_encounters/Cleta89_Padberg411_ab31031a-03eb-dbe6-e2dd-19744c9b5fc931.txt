@@ -1,0 +1,51 @@
+Cleta89 Padberg411
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 51
+Birth Date:          1971-10-23
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2000-01-01 : Encounter at UMASS MEMORIAL MEDICAL CENTER INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2000-01-01 : Stress (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1996-12-28 : Full-time employment (finding)
+  1990-12-22 : Anemia (disorder)
+  1990-12-22 : Prediabetes
+  1989-12-16 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1990-12-22 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

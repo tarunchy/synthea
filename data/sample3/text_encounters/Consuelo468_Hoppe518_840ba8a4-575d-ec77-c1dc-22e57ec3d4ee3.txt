@@ -1,0 +1,61 @@
+Consuelo468 Hoppe518
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 0
+Birth Date:          2022-09-15
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-12-22 : Encounter at HARBOR HEALTH SERVICES INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2022-12-22 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2022-12-22 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-12-22 : Respiratory rate                         13.0 /min
+  2022-12-22 : Heart rate                               87.0 /min
+  2022-12-22 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  147.0 mm[Hg]
+  2022-12-22 : Head Occipital-frontal circumference     41.0 cm
+  2022-12-22 : Head Occipital-frontal circumference Percentile 64.8 %
+  2022-12-22 : Weight-for-length Per age and sex        63.5 %
+  2022-12-22 : Body Weight                              6.4 kg
+  2022-12-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-12-22 : Body Height                              61.2 cm
+   
+   PROCEDURES:
+  2022-12-22 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2022-12-22 : Pneumococcal conjugate PCV 13
+  2022-12-22 : DTaP
+  2022-12-22 : IPV
+  2022-12-22 : rotavirus, monovalent
+  2022-12-22 : Hib (PRP-OMP)
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,52 @@
+Marta91 Quiñónez764
+===========ñó======
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 22
+Birth Date:          2001-02-17
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-12-24 : Encounter at WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC : Encounter for Viral sinusitis (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2022-12-24 : Viral sinusitis (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-04-19 : Victim of intimate partner abuse (finding)
+  2020-04-19 : Has a criminal record (finding)
+  2020-04-19 : Social isolation (finding)
+  2020-04-19 : Unemployed (finding)
+  2019-04-14 : Stress (finding)
+  2019-04-14 : Limited social contact (finding)
+  2019-04-14 : Received higher education (finding)
+  2017-04-02 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+  2022-05-31 : Levora 0.15/30 28 Day Pack
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

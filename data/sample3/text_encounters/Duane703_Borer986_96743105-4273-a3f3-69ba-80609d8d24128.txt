@@ -1,0 +1,77 @@
+Duane703 Borer986
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 9
+Birth Date:          2013-08-31
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-02-09 : Encounter at URGENT HELP CHELMSFORD PC
+Type: urgentcare
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2019-02-09 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.0 %
+           - MCV [Entitic volume] by Automated count  94.9 fL
+           - MCH [Entitic mass] by Automated count    32.0 pg
+           - MCHC [Mass/volume] by Automated count    34.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.5 fL
+           - Platelets [#/volume] in Blood by Automated count 254.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 425.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+   
+   OBSERVATIONS:
+  2019-02-09 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-02-09 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2019-02-09 : Platelet distribution width [Entitic volume] in Blood by Automated count 425.8 fL
+  2019-02-09 : Platelets [#/volume] in Blood by Automated count 254.9 10*3/uL
+  2019-02-09 : Erythrocyte distribution width [Entitic volume] by Automated count 42.5 fL
+  2019-02-09 : MCHC [Mass/volume] by Automated count    34.2 g/dL
+  2019-02-09 : MCH [Entitic mass] by Automated count    32.0 pg
+  2019-02-09 : MCV [Entitic volume] by Automated count  94.9 fL
+  2019-02-09 : Hematocrit [Volume Fraction] of Blood by Automated count 49.0 %
+  2019-02-09 : Hemoglobin [Mass/volume] in Blood        12.3 g/dL
+  2019-02-09 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2019-02-09 : Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+  2019-02-09 : Respiratory rate                         13.0 /min
+  2019-02-09 : Heart rate                               74.0 /min
+  2019-02-09 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  151.0 mm[Hg]
+  2019-02-09 : Body mass index (BMI) [Percentile] Per age and sex 51.0 %
+  2019-02-09 : Body mass index (BMI) [Ratio]            15.4 kg/m2
+  2019-02-09 : Body Weight                              18.3 kg
+  2019-02-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-02-09 : Body Height                              109.1 cm
+   
+   PROCEDURES:
+  2019-02-09 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,47 @@
+Danae973 Debbi640 Brekke496
+===========================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 66
+Birth Date:          1957-07-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1994-10-04 : Encounter at BYC HEALTHCARE INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1994-10-04 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1979-09-18 : Limited social contact (finding)
+  1975-09-09 : Social isolation (finding)
+  1975-09-09 : Received certificate of high school equivalency (finding)
+  1974-09-03 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

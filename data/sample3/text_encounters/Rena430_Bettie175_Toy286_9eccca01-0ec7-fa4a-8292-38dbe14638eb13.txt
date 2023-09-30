@@ -1,0 +1,83 @@
+Rena430 Bettie175 Toy286
+========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 47
+Birth Date:          1976-01-21
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-09-06 : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC. : Encounter for Suspected COVID-19
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2020-09-06 : COVID-19
+  2020-09-06 : Loss of taste (finding)
+  2020-09-06 : Fever (finding)
+  2020-09-06 : Diarrhea symptom (finding)
+  2020-09-06 : Sputum finding (finding)
+   
+   CARE PLANS:
+  2020-09-06 : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Isolation of infected patient (procedure)
+  2020-09-06 : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Personal protective equipment (physical object)
+   
+   REPORTS:
+  2020-09-06 : Influenza virus A and B Ag panel - Upper respiratory specimen by Rapid immunoassay
+           - Influenza virus A Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+           - Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+  2020-09-06 : SARS-CoV-2 RNA Pnl Resp NAA+probe
+           - SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+   
+   OBSERVATIONS:
+  2020-09-06 : SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2020-09-06 : Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+  2020-09-06 : Influenza virus A Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+  2020-09-06 : Body Weight                              68.7 kg
+  2020-09-06 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  133.0 mm[Hg]
+  2020-09-06 : Oxygen saturation in Arterial blood      82.3 %
+  2020-09-06 : Heart rate                               167.1 /min
+  2020-09-06 : Respiratory rate                         13.4 /min
+  2020-09-06 : Body temperature                         39.8 Cel
+   
+   PROCEDURES:
+  2020-09-06 : Face mask (physical object) for Suspected COVID-19
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-01-31 : Stress (finding)
+  2018-01-31 : Full-time employment (finding)
+  2018-01-31 : Medication review due (situation)
+  2016-01-27 : Body mass index 30+ - obesity (finding)
+  2010-04-07 : Anemia (disorder)
+  2005-12-28 : Miscarriage in first trimester
+  1998-03-25 : Prediabetes
+  1994-03-16 : Received higher education (finding)
+  1989-09-11 : Chronic sinusitis (disorder)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1998-03-25 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,43 @@
+Ashley34 Watsica258
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 44
+Birth Date:          1979-06-21
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1987-06-18 : Encounter at A&A HEALTHCARE LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1987-06-18 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

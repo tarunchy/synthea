@@ -1,0 +1,88 @@
+Ian270 Bayer639
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1991-08-04 : Encounter at DEDHAM MEDICAL ASSOCIATES URGENT CARE CENTER LLC
+Type: urgentcare
+   
+   MEDICATIONS:
+  1991-08-04 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  1991-08-04 : insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+   
+   CONDITIONS:
+  1991-08-04 : Social isolation (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1990-11-11 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1990-11-11 : Chronic kidney disease stage 2 (disorder)
+  1990-05-13 : Carcinoma in situ of prostate (disorder)
+  1990-05-13 : Neoplasm of prostate
+  1988-12-04 : Full-time employment (finding)
+  1988-11-20 : Disorder of kidney due to diabetes mellitus (disorder)
+  1988-11-20 : Chronic kidney disease stage 1 (disorder)
+  1987-05-05 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  1987-04-26 : Ischemic heart disease (disorder)
+  1976-02-22 : Essential hypertension (disorder)
+  1975-04-20 : Victim of intimate partner abuse (finding)
+  1975-04-20 : Smokes tobacco daily
+  1965-01-30 : Aortic valve regurgitation (disorder)
+  1953-07-12 : Has a criminal record (finding)
+  1952-04-20 : Anemia (disorder)
+  1949-04-17 : Prediabetes
+  1942-04-05 : Received higher education (finding)
+  1942-04-05 : Housing unsatisfactory (finding)
+  1942-04-05 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+  1987-05-03 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1987-05-03 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  1975-02-16 : nicotine 7 MG/Day 24HR Transdermal System
+   
+   CAREPLANS:
+  1990-05-13 : Cancer care plan
+                         Reason: Neoplasm of prostate
+                         Reason: Neoplasm of prostate
+                         Activity: Physical activity target light exercise
+                         Activity: Ice bath treatment
+  1976-02-22 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1975-02-16 : Care Plan
+                         Reason: Aortic valve regurgitation (disorder)
+                         Activity: smoking cessation therapy
+                         Activity: Referral for laboratory tests (procedure)
+                         Activity: Referral to radiology service (procedure)
+                         Activity: Refer for angiogram (procedure)
+  1949-04-17 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

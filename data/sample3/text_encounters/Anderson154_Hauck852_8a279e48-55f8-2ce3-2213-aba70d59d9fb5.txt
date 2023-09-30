@@ -1,0 +1,105 @@
+Anderson154 Hauck852
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 28
+Birth Date:          1995-01-31
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-05-12 : Encounter at INTERNAL MEDICINE PHYSICIANS OF THE NORTH SHORE
+Type: wellness
+   
+   MEDICATIONS:
+  2020-05-12 : Acetaminophen 325 MG Oral Tablet [Tylenol]
+   
+   CONDITIONS:
+  2020-05-12 : Social isolation (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-05-12 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2020-05-12 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2020-05-12 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-05-12 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    3.0 {score}
+   
+   OBSERVATIONS:
+  2020-05-12 : Total score [AUDIT-C]                    3.0 {score}
+  2020-05-12 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-05-12 : Total score [HARK]                       0.0 {score}
+  2020-05-12 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2020-05-12 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       I choose not to answer this question 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 14826 /a
+           - Primary insurance                        Medicaid 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  452 Labadie Mews Unit 17 
+           - Are you worried about losing your housing? Yes 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 4.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? Yes 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2020-05-12 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-05-12 : Respiratory rate                         14.0 /min
+  2020-05-12 : Heart rate                               74.0 /min
+  2020-05-12 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  106.0 mm[Hg]
+  2020-05-12 : Body mass index (BMI) [Ratio]            26.4 kg/m2
+  2020-05-12 : Body Weight                              72.5 kg
+  2020-05-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-05-12 : Body Height                              165.7 cm
+   
+   PROCEDURES:
+  2020-05-12 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2020-05-12 : Assessment of substance use (procedure)
+  2020-05-12 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2020-05-12 : Depression screening (procedure)
+  2020-05-12 : Screening for domestic abuse (procedure)
+  2020-05-12 : Assessment of anxiety (procedure)
+  2020-05-12 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+  2020-05-12 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-05-07 : Full-time employment (finding)
+  2018-05-01 : Misuses drugs (finding)
+  2016-04-19 : Stress (finding)
+  2014-02-06 : Chronic neck pain (finding)
+  2014-02-06 : Chronic low back pain (finding)
+  2014-02-06 : Chronic pain (finding)
+  2013-04-02 : Received higher education (finding)
+  2013-04-02 : Housing unsatisfactory (finding)
+  2013-04-02 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

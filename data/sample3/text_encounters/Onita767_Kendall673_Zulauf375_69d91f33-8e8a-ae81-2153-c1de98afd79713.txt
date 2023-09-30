@@ -1,0 +1,58 @@
+Onita767 Kendall673 Zulauf375
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 33
+Birth Date:          1989-08-11
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-07-25 : Encounter at ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE : Encounter for Contraception care (regime/therapy)
+Type: outpatient
+   
+   MEDICATIONS:
+  2021-07-25 : Kyleena 19.5 MG Intrauterine System
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-03-12 : Full-time employment (finding)
+  2021-02-26 : Stress (finding)
+  2021-01-06 : Chronic sinusitis (disorder)
+  2013-03-15 : Dependent drug abuse (disorder)
+  2013-03-01 : Drug overdose
+  2010-09-17 : Miscarriage in first trimester
+  2007-10-05 : Received certificate of high school equivalency (finding)
+  2007-10-05 : Housing unsatisfactory (finding)
+  2004-09-18 : Impacted molars
+  2004-03-17 : Chronic intractable migraine without aura
+  2003-12-13 : Chronic pain
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2013-03-01 : Care plan (record artifact)
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,55 @@
+Man114 Etta748 Kassulke119
+==========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 76
+Birth Date:          1946-12-23
+Marital Status:      W
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1997-05-26 : Encounter at CENTER FOR DIGESTIVE WELLNESS PC
+Type: wellness
+   
+   MEDICATIONS:
+  1997-05-26 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+  1997-05-26 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1996-12-23 : Disorder of kidney due to diabetes mellitus (disorder)
+  1996-12-23 : Chronic kidney disease stage 1 (disorder)
+  1984-03-12 : Essential hypertension (disorder)
+  1978-03-13 : Miscarriage in first trimester
+  1965-02-15 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1984-03-12 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,53 @@
+Rosendo998 Shields502
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 59
+Birth Date:          1964-03-10
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-08-14 : Encounter at CAMBRIDGE PUBLIC HEALTH COMMISSION : Encounter for Viral sinusitis (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2018-08-14 : Viral sinusitis (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-04-03 : Full-time employment (finding)
+  2018-04-03 : Medication review due (situation)
+  2012-04-03 : Anemia (disorder)
+  2006-03-21 : Social isolation (finding)
+  1986-05-13 : Prediabetes
+  1982-05-04 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1986-05-13 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

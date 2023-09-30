@@ -1,0 +1,69 @@
+Bettina657 Hammes673
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 18
+Birth Date:          2004-12-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-01-11 : Encounter at CHELMSFORD FAMILY PRACTICE, PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2019-01-11 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2019-01-11 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 14.0 {score}
+  2019-01-11 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 7.0 {score}
+   
+   OBSERVATIONS:
+  2019-01-11 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 7.0 {score}
+  2019-01-11 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 14.0 {score}
+  2019-01-11 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-01-11 : Respiratory rate                         15.0 /min
+  2019-01-11 : Heart rate                               81.0 /min
+  2019-01-11 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  141.0 mm[Hg]
+  2019-01-11 : Body mass index (BMI) [Percentile] Per age and sex 90.5 %
+  2019-01-11 : Body mass index (BMI) [Ratio]            25.0 kg/m2
+  2019-01-11 : Body Weight                              58.6 kg
+  2019-01-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-01-11 : Body Height                              153.3 cm
+   
+   PROCEDURES:
+  2019-01-11 : Anticipatory guidance (procedure)
+  2019-01-11 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2019-01-11 : Assessment of substance use (procedure)
+  2019-01-11 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2019-01-11 : Depression screening (procedure)
+  2019-01-11 : Assessment of anxiety (procedure)
+   
+   IMMUNIZATIONS:
+  2019-01-11 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-01-05 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+  2018-12-10 : Camila 28 Day Pack
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,60 @@
+Ashley34 Watsica258
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 44
+Birth Date:          1979-06-21
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-12-23 : Encounter at VNA & HOSPICE OF GREATER MILFORD : Encounter for Laceration - injury (disorder)
+Type: emergency
+   
+   MEDICATIONS:
+  2018-12-23 : Ibuprofen 200 MG Oral Tablet
+   
+   CONDITIONS:
+  2018-12-23 : Laceration of forearm
+  2018-12-23 : Laceration - injury (disorder)
+   
+   CARE PLANS:
+  2018-12-23 : Wound care
+                         Reason: Laceration of forearm
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2018-12-23 : Injection of tetanus antitoxin for Laceration of forearm
+  2018-12-23 : Suture open wound for Laceration of forearm
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2016-12-04 : Drug overdose
+  2016-09-08 : Stress (finding)
+  2014-02-01 : Fibromyalgia (disorder)
+  2014-02-01 : Chronic low back pain (finding)
+  2014-02-01 : Chronic pain (finding)
+  2013-09-05 : Medication review due (situation)
+  2007-08-30 : Full-time employment (finding)
+  1997-08-14 : Received higher education (finding)
+  1996-08-08 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

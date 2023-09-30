@@ -1,0 +1,144 @@
+Rolf983 Schamberger479
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 67
+Birth Date:          1956-03-20
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-11-06 : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+  2020-11-06 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+   
+   REPORTS:
+  2020-11-06 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Blood           85.6 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     13.8 mg/dL
+           - Creatinine [Mass/volume] in Blood        3.0 mg/dL
+           - Calcium [Mass/volume] in Blood           9.0 mg/dL
+           - Sodium [Moles/volume] in Blood           140.6 mmol/L
+           - Potassium [Moles/volume] in Blood        4.3 mmol/L
+           - Chloride [Moles/volume] in Blood         109.0 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 28.6 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 22.4 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.5 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.2 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 3.2 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 1.0 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 100.4 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 49.8 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 29.7 U/L
+  2020-11-06 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.4 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.0 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 17.1 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.9 pH
+           - Protein [Mass/volume] in Urine by Test strip 448.2 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+   
+   OBSERVATIONS:
+  2020-11-06 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2020-11-06 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2020-11-06 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2020-11-06 : Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+  2020-11-06 : Protein [Mass/volume] in Urine by Test strip 448.2 mg/dL
+  2020-11-06 : pH of Urine by Test strip                6.9 pH
+  2020-11-06 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2020-11-06 : Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+  2020-11-06 : Ketones [Mass/volume] in Urine by Test strip 17.1 mg/dL
+  2020-11-06 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2020-11-06 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.0 mg/dL
+  2020-11-06 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2020-11-06 : Glucose [Mass/volume] in Urine by Test strip 1.4 mg/dL
+  2020-11-06 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2020-11-06 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2020-11-06 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2020-11-06 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2020-11-06 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 29.7 U/L
+  2020-11-06 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 49.8 U/L
+  2020-11-06 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 100.4 U/L
+  2020-11-06 : Bilirubin.total [Mass/volume] in Serum or Plasma 1.0 mg/dL
+  2020-11-06 : Globulin [Mass/volume] in Serum by calculation 3.2 g/L
+  2020-11-06 : Albumin [Mass/volume] in Serum or Plasma 5.2 g/dL
+  2020-11-06 : Protein [Mass/volume] in Serum or Plasma 6.5 g/dL
+  2020-11-06 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 22.4 mL/min
+  2020-11-06 : Carbon dioxide, total [Moles/volume] in Blood 28.6 mmol/L
+  2020-11-06 : Chloride [Moles/volume] in Blood         109.0 mmol/L
+  2020-11-06 : Potassium [Moles/volume] in Blood        4.3 mmol/L
+  2020-11-06 : Sodium [Moles/volume] in Blood           140.6 mmol/L
+  2020-11-06 : Calcium [Mass/volume] in Blood           9.0 mg/dL
+  2020-11-06 : Creatinine [Mass/volume] in Blood        3.0 mg/dL
+  2020-11-06 : Urea nitrogen [Mass/volume] in Blood     13.8 mg/dL
+  2020-11-06 : Glucose [Mass/volume] in Blood           85.6 mg/dL
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-10-13 : Stress (finding)
+  2020-10-13 : Full-time employment (finding)
+  2019-04-23 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  2019-04-23 : Chronic kidney disease stage 3 (disorder)
+  2001-09-25 : Metabolic syndrome X (disorder)
+  2001-06-02 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2001-05-22 : Ischemic heart disease (disorder)
+  1999-09-07 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1999-09-07 : Chronic kidney disease stage 2 (disorder)
+  1994-08-16 : Osteoarthritis of knee
+  1994-05-03 : Anemia (disorder)
+  1994-05-03 : Prediabetes
+  1986-06-24 : Body mass index 30+ - obesity (finding)
+  1984-06-12 : Disorder of kidney due to diabetes mellitus (disorder)
+  1984-06-12 : Chronic kidney disease stage 1 (disorder)
+  1981-05-26 : Essential hypertension (disorder)
+  1974-05-14 : Only received primary school education (finding)
+   
+   MEDICATIONS:
+  2020-10-13 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2020-10-13 + insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  1994-05-10 : ferrous sulfate 325 MG Oral Tablet
+   
+   CAREPLANS:
+  1994-05-03 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1981-05-26 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,69 @@
+Jerrod232 Cormier289
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 61
+Birth Date:          1961-10-09
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-10-26 : Encounter at BLUEBERRY HILL REHABILITATION AND HEALTHCARE CTR : Encounter for Fracture of bone (disorder)
+Type: emergency
+   
+   MEDICATIONS:
+  2021-10-26 : Acetaminophen 325 MG Oral Tablet
+   
+   CONDITIONS:
+  2021-10-26 : Fracture subluxation of wrist
+  2021-10-26 : Fracture of bone (disorder)
+   
+   CARE PLANS:
+  2021-10-26 : Fracture care
+                         Reason: Fracture subluxation of wrist
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2021-10-26 : DXA Radius and Ulna [T-score] Bone density -0.1 {T-score}
+   
+   PROCEDURES:
+  2021-10-26 : Bone density scan (procedure) for Fracture subluxation of wrist
+  2021-10-26 : Bone immobilization for Fracture subluxation of wrist
+  2021-10-26 : Radiography of wrist (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+  2021-10-26 : Digital Radiography, Wrist
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-12-02 : Full-time employment (finding)
+  2014-02-05 : Chronic neck pain (finding)
+  2014-02-05 : Chronic low back pain (finding)
+  2014-02-05 : Chronic pain (finding)
+  2009-11-02 : Has a criminal record (finding)
+  2009-11-02 : Hyperlipidemia
+  1989-12-18 : Body mass index 30+ - obesity (finding)
+  1986-08-19 : Chronic sinusitis (disorder)
+  1979-12-03 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2020-11-20 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2009-11-23 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+   
+   CAREPLANS:
+  2009-11-23 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+   
+--------------------------------------------------------------------------------

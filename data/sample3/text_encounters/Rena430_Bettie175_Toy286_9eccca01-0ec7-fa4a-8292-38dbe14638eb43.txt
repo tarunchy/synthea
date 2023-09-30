@@ -1,0 +1,43 @@
+Rena430 Bettie175 Toy286
+========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 47
+Birth Date:          1976-01-21
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1982-01-06 : Encounter at SENIOR HEALTHCARE ASSOCIATES INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1982-01-06 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

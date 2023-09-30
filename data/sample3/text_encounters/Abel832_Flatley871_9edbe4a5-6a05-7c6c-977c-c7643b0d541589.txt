@@ -1,0 +1,57 @@
+Abel832 Flatley871
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1968-02-25 : Encounter at VA Boston Healthcare System, West Roxbury Campus
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1968-02-25 : Ischemic heart disease (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1966-02-20 : Stress (finding)
+  1958-04-27 : Body mass index 30+ - obesity (finding)
+  1955-04-24 : Anemia (disorder)
+  1952-04-20 : Prediabetes
+  1946-04-14 : Limited social contact (finding)
+  1942-04-05 : Received higher education (finding)
+  1942-04-05 : Served in armed forces (finding)
+  1938-11-25 : Epilepsy
+  1938-11-25 : History of single seizure (situation)
+  1938-11-25 : Seizure disorder
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1952-04-20 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

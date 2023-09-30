@@ -1,0 +1,58 @@
+Chet188 Dickens475
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1993-06-06 : Encounter at Fitchburg Outpatient Clinic : Encounter for Ischemic heart disease (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  1993-06-06 : Operative Status
+           - Priority Level                           3 {score}
+           - Operative Status Value                   elective {score}
+   
+   PROCEDURES:
+  1993-06-06 : Referral to cardiology service (procedure) for Ischemic heart disease (disorder)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1993-05-30 : Ischemic heart disease (disorder)
+  1991-05-19 : Part-time employment (finding)
+  1964-02-16 : Anemia (disorder)
+  1964-02-16 : Prediabetes
+  1943-04-11 : Lack of access to transportation (finding)
+  1942-04-05 : Transport problem (finding)
+  1942-04-05 : Received higher education (finding)
+  1942-04-05 : Housing unsatisfactory (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1964-02-16 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,100 @@
+Alfredo17 Macías944
+=============í=====
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 18
+Birth Date:          2004-11-21
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2005-06-28 : Peanut (substance)
+  2005-06-28 : Grass pollen (substance)
+  2005-06-28 : Animal dander (substance)
+  2005-06-28 : House dust mite (organism)
+  2005-06-28 : Mold (organism)
+  2005-06-28 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-01-15 : Encounter at COMPASSIONATE CARE INTERNAL MEDICINE, LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2023-01-15 : Stress (finding)
+  2023-01-15 : Full-time employment (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2023-01-15 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2023-01-15 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+   
+   OBSERVATIONS:
+  2023-01-15 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2023-01-15 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2023-01-15 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 133625 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               I choose not to answer this question 
+           - Address                                  649 Leannon Rue Unit 41 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 2.0 {#}
+           - Preferred language                       Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2023-01-15 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-01-15 : Respiratory rate                         13.0 /min
+  2023-01-15 : Heart rate                               76.0 /min
+  2023-01-15 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2023-01-15 : Body mass index (BMI) [Percentile] Per age and sex 44.2 %
+  2023-01-15 : Body mass index (BMI) [Ratio]            21.5 kg/m2
+  2023-01-15 : Body Weight                              58.1 kg
+  2023-01-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2023-01-15 : Body Height                              164.3 cm
+   
+   PROCEDURES:
+  2023-01-15 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2023-01-15 : Depression screening (procedure)
+  2023-01-15 : Assessment of anxiety (procedure)
+  2023-01-15 : Assessment of health and social care needs (procedure)
+  2023-01-15 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2023-01-15 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2010-10-08 : Seasonal allergic rhinitis
+   
+   MEDICATIONS:
+  2005-06-28 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2005-06-28 : Fexofenadine hydrochloride 30 MG Oral Tablet
+   
+   CAREPLANS:
+  2005-06-18 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

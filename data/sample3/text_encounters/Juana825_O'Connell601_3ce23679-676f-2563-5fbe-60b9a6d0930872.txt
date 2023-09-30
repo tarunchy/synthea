@@ -1,0 +1,51 @@
+Juana825 O'Connell601
+=========='==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 70
+Birth Date:          1952-09-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1983-11-23 : Encounter at DARTMOUTH PRIMARY MEDICINE, LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1983-11-23 : Full-time employment (finding)
+  1983-11-23 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1980-11-19 : Social isolation (finding)
+  1977-10-28 : History of tubal ligation (situation)
+  1971-11-10 : Transport problem (finding)
+  1970-11-04 : Has a criminal record (finding)
+  1970-11-04 : Lack of access to transportation (finding)
+  1970-11-04 : Received certificate of high school equivalency (finding)
+  1970-06-23 : Chronic sinusitis (disorder)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

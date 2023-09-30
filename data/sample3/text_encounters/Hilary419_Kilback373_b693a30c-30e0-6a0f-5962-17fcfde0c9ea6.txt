@@ -1,0 +1,55 @@
+Hilary419 Kilback373
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 43
+Birth Date:          1980-04-25
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-10-01 : Encounter at CAPE COD HOSPITAL INC : Encounter for Acute bronchitis (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+  2019-10-01 : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+   
+   CONDITIONS:
+  2019-10-01 : Acute bronchitis (disorder)
+   
+   CARE PLANS:
+  2019-10-01 : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2019-10-01 : Sputum examination (procedure) for Acute bronchitis (disorder)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-01-12 : Stress (finding)
+  2017-12-06 : Chronic sinusitis (disorder)
+  2015-10-18 : History of tubal ligation (situation)
+  2002-06-28 : Body mass index 30+ - obesity (finding)
+  1998-06-19 : Unemployed (finding)
+  1998-06-19 : Received higher education (finding)
+  1997-06-13 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

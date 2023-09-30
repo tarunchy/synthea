@@ -1,0 +1,50 @@
+Mauricio81 Reinger292
+=====================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 17
+Birth Date:          2006-07-12
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-01-24 : Encounter at NASHOBA VALLEY MEDICAL CENTER : Encounter for Acute bronchitis (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+  2020-01-24 : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+   
+   CONDITIONS:
+  2020-01-24 : Acute bronchitis (disorder)
+   
+   CARE PLANS:
+  2020-01-24 : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2007-01-28 : Epilepsy
+  2007-01-28 : History of single seizure (situation)
+  2007-01-28 : Seizure disorder
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

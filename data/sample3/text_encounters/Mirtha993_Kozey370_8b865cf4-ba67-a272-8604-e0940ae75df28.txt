@@ -1,0 +1,64 @@
+Mirtha993 Kozey370
+==================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 6
+Birth Date:          2016-10-21
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2018-03-07 : Wheat (substance)
+  2018-03-07 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-03-29 : Encounter at PRIMARY CARE FOR ADULTS PLLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2019-03-29 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-03-29 : Respiratory rate                         14.0 /min
+  2019-03-29 : Heart rate                               90.0 /min
+  2019-03-29 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2019-03-29 : Body mass index (BMI) [Percentile] Per age and sex 28.1 %
+  2019-03-29 : Body mass index (BMI) [Ratio]            15.4 kg/m2
+  2019-03-29 : Head Occipital-frontal circumference     47.3 cm
+  2019-03-29 : Head Occipital-frontal circumference Percentile 30.4 %
+  2019-03-29 : Weight-for-length Per age and sex        27.8 %
+  2019-03-29 : Body Weight                              11.7 kg
+  2019-03-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-03-29 : Body Height                              87.4 cm
+   
+   PROCEDURES:
+  2019-03-29 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2019-03-29 : Hep A, ped/adol, 2 dose
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+  2018-03-07 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2018-03-07 : Fexofenadine hydrochloride 30 MG Oral Tablet
+   
+   CAREPLANS:
+  2018-02-19 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

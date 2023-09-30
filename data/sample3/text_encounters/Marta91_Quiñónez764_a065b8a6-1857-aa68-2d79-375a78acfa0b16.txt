@@ -1,0 +1,52 @@
+Marta91 Quiñónez764
+===========ñó======
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 22
+Birth Date:          2001-02-17
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-09-20 : Encounter at WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC : Encounter for Contraception care (regime/therapy)
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2020-09-20 : Intramuscular injection
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-04-19 : Victim of intimate partner abuse (finding)
+  2020-04-19 : Has a criminal record (finding)
+  2020-04-19 : Social isolation (finding)
+  2020-04-19 : Unemployed (finding)
+  2019-04-14 : Stress (finding)
+  2019-04-14 : Limited social contact (finding)
+  2019-04-14 : Received higher education (finding)
+  2017-04-02 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+  2020-06-10 : Yaz 28 Day Pack
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,53 @@
+Alvin56 Hamill307
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 68
+Birth Date:          1954-12-24
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1986-05-02 : Encounter at PATRIOT URGENT CARE PROFESSIONALS PC
+Type: urgentcare
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1986-05-02 : Stress (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1980-02-29 : Anemia (disorder)
+  1977-02-25 : Prediabetes
+  1974-02-22 : Lack of access to transportation (finding)
+  1973-02-16 : Has a criminal record (finding)
+  1973-02-16 : Transport problem (finding)
+  1973-02-16 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1977-02-25 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

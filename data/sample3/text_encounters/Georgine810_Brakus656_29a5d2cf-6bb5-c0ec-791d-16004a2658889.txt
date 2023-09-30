@@ -1,0 +1,49 @@
+Georgine810 Brakus656
+=====================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 5
+Birth Date:          2018-05-26
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-02-29 : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Acute bronchitis (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+  2020-02-29 : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+   
+   CONDITIONS:
+  2020-02-29 : Acute bronchitis (disorder)
+   
+   CARE PLANS:
+  2020-02-29 : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2020-02-29 : Sputum examination (procedure) for Acute bronchitis (disorder)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-09-01 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

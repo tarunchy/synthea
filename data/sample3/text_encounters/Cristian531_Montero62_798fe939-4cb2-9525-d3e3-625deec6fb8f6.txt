@@ -1,0 +1,43 @@
+Cristian531 Montero62
+=====================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 11
+Birth Date:          2011-08-26
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2017-08-11 : Encounter at CHELMSFORD PRIMARY CARE LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2017-08-11 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

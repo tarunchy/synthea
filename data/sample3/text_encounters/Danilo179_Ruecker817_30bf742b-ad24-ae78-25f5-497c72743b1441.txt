@@ -1,0 +1,44 @@
+Danilo179 Ruecker817
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 47
+Birth Date:          1976-03-15
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2001-06-26 : Sulfamethoxazole / Trimethoprim
+  2001-06-26 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+1987-03-30 : Encounter at HARBOR HEALTH SERVICES INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1987-03-30 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

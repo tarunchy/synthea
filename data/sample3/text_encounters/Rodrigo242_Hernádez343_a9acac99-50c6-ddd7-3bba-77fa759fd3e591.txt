@@ -1,0 +1,152 @@
+Rodrigo242 Hernádez343
+===============á======
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 76
+Birth Date:          1946-07-29
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-10-04 : Encounter at HOLYOKE MEDICAL CENTER INC
+Type: outpatient
+   
+   MEDICATIONS:
+  2021-10-04 : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2021-10-04 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2021-10-04 : 24 HR tacrolimus 1 MG Extended Release Oral Tablet for History of renal transplant (situation)
+  2021-10-04 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2021-10-04 : insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+   
+   CONDITIONS:
+  2021-10-04 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2021-10-04 : Basic metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 85.3 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 7.7 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.1 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.0 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 136.4 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 5.2 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 102.9 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.3 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 45.8 mL/min/{1.73_m2}
+  2021-10-04 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.7 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.4 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 10.6 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = ++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.5 pH
+           - Protein [Mass/volume] in Urine by Test strip 234.5 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+   
+   OBSERVATIONS:
+  2021-10-04 : Hemoglobin A1c/Hemoglobin.total in Blood 2.9 %
+  2021-10-04 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2021-10-04 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2021-10-04 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2021-10-04 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2021-10-04 : Protein [Mass/volume] in Urine by Test strip 234.5 mg/dL
+  2021-10-04 : pH of Urine by Test strip                6.5 pH
+  2021-10-04 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2021-10-04 : Ketones [Presence] in Urine by Test strip Urine ketone test = ++ (finding) {nominal}
+  2021-10-04 : Ketones [Mass/volume] in Urine by Test strip 10.6 mg/dL
+  2021-10-04 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2021-10-04 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.4 mg/dL
+  2021-10-04 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2021-10-04 : Glucose [Mass/volume] in Urine by Test strip 1.7 mg/dL
+  2021-10-04 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2021-10-04 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2021-10-04 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2021-10-04 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2021-10-04 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 45.8 mL/min/{1.73_m2}
+  2021-10-04 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.3 mmol/L
+  2021-10-04 : Chloride [Moles/volume] in Serum or Plasma 102.9 mmol/L
+  2021-10-04 : Potassium [Moles/volume] in Serum or Plasma 5.2 mmol/L
+  2021-10-04 : Sodium [Moles/volume] in Serum or Plasma 136.4 mmol/L
+  2021-10-04 : Calcium [Mass/volume] in Serum or Plasma 9.0 mg/dL
+  2021-10-04 : Creatinine [Mass/volume] in Serum or Plasma 2.1 mg/dL
+  2021-10-04 : Urea nitrogen [Mass/volume] in Serum or Plasma 7.7 mg/dL
+  2021-10-04 : Glucose [Mass/volume] in Serum or Plasma 85.3 mg/dL
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-09-27 : Reports of violence in the environment (finding)
+  2021-07-28 : Polyp of colon
+  2020-03-30 : Full-time employment (finding)
+  2019-10-28 : Victim of intimate partner abuse (finding)
+  2017-11-13 : Chronic kidney disease stage 3 (disorder)
+  2015-07-23 : History of coronary artery bypass grafting (situation)
+  2015-07-15 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2015-07-06 : Ischemic heart disease (disorder)
+  2014-06-30 : Chronic kidney disease stage 2 (disorder)
+  2011-04-04 : Chronic kidney disease stage 1 (disorder)
+  2003-12-12 : History of renal transplant (situation)
+  1994-01-10 : Chronic sinusitis (disorder)
+  1990-09-03 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  1988-10-17 : Metabolic syndrome X (disorder)
+  1988-10-10 : Body mass index 30+ - obesity (finding)
+  1986-01-20 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1985-01-14 : Refugee (person)
+  1984-01-09 : Disorder of kidney due to diabetes mellitus (disorder)
+  1982-01-04 : Septic shock (disorder)
+  1982-01-04 : Sepsis (disorder)
+  1967-10-09 : Anemia (disorder)
+  1967-10-09 : Prediabetes
+  1965-09-27 : Lack of access to transportation (finding)
+  1964-09-21 : Transport problem (finding)
+  1964-09-21 : Received higher education (finding)
+  1964-09-21 : Essential hypertension (disorder)
+   
+   MEDICATIONS:
+  2015-07-13 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2015-07-13 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  2015-07-13 : Simvastatin 20 MG Oral Tablet
+  2015-07-13 : Clopidogrel 75 MG Oral Tablet
+   
+   CAREPLANS:
+  2003-12-12 : Care plan (record artifact)
+                         Activity: Transplantation of kidney regime (regime/therapy)
+                         Activity: Post-surgical wound care (regime/therapy)
+                         Activity: Renal function monitoring (regime/therapy)
+                         Activity: Very low sodium diet (finding)
+  1998-09-17 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1967-10-09 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1964-09-21 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

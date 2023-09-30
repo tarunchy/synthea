@@ -1,0 +1,151 @@
+Rodrigo242 Hernádez343
+===============á======
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 76
+Birth Date:          1946-07-29
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-08-02 : Encounter at HOLYOKE VISITING NURSE ASSOC & HOSPICE LIFE CARE : Encounter for Alzheimer's disease (disorder)
+Type: hospice
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2021-09-20 : Patient discharge (procedure)
+  2021-09-19 : Hospice care (regime/therapy)
+  2021-09-18 : Hospice care (regime/therapy)
+  2021-09-17 : Hospice care (regime/therapy)
+  2021-09-16 : Hospice care (regime/therapy)
+  2021-09-15 : Hospice care (regime/therapy)
+  2021-09-14 : Hospice care (regime/therapy)
+  2021-09-13 : Hospice care (regime/therapy)
+  2021-09-12 : Hospice care (regime/therapy)
+  2021-09-11 : Hospice care (regime/therapy)
+  2021-09-10 : Hospice care (regime/therapy)
+  2021-09-09 : Hospice care (regime/therapy)
+  2021-09-08 : Hospice care (regime/therapy)
+  2021-09-07 : Hospice care (regime/therapy)
+  2021-09-06 : Hospice care (regime/therapy)
+  2021-09-05 : Hospice care (regime/therapy)
+  2021-09-04 : Hospice care (regime/therapy)
+  2021-09-03 : Hospice care (regime/therapy)
+  2021-09-02 : Hospice care (regime/therapy)
+  2021-09-01 : Hospice care (regime/therapy)
+  2021-08-31 : Hospice care (regime/therapy)
+  2021-08-30 : Hospice care (regime/therapy)
+  2021-08-29 : Hospice care (regime/therapy)
+  2021-08-28 : Hospice care (regime/therapy)
+  2021-08-27 : Hospice care (regime/therapy)
+  2021-08-26 : Hospice care (regime/therapy)
+  2021-08-25 : Hospice care (regime/therapy)
+  2021-08-24 : Hospice care (regime/therapy)
+  2021-08-23 : Hospice care (regime/therapy)
+  2021-08-22 : Hospice care (regime/therapy)
+  2021-08-21 : Hospice care (regime/therapy)
+  2021-08-20 : Hospice care (regime/therapy)
+  2021-08-19 : Hospice care (regime/therapy)
+  2021-08-18 : Hospice care (regime/therapy)
+  2021-08-17 : Hospice care (regime/therapy)
+  2021-08-16 : Hospice care (regime/therapy)
+  2021-08-15 : Hospice care (regime/therapy)
+  2021-08-14 : Hospice care (regime/therapy)
+  2021-08-13 : Hospice care (regime/therapy)
+  2021-08-12 : Hospice care (regime/therapy)
+  2021-08-11 : Hospice care (regime/therapy)
+  2021-08-10 : Hospice care (regime/therapy)
+  2021-08-09 : Hospice care (regime/therapy)
+  2021-08-08 : Hospice care (regime/therapy)
+  2021-08-07 : Hospice care (regime/therapy)
+  2021-08-06 : Hospice care (regime/therapy)
+  2021-08-05 : Hospice care (regime/therapy)
+  2021-08-04 : Hospice care (regime/therapy)
+  2021-08-03 : Hospice care (regime/therapy)
+  2021-08-02 : Hospice care (regime/therapy)
+  2021-08-02 : Development of individualized plan of care (procedure)
+  2021-08-02 : Initial patient assessment (procedure)
+  2021-08-02 : Notifications (procedure)
+  2021-08-02 : Certification procedure (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-07-28 : Polyp of colon
+  2021-07-19 : Stress (finding)
+  2021-07-19 : Medication review due (situation)
+  2020-03-30 : Full-time employment (finding)
+  2019-10-28 : Victim of intimate partner abuse (finding)
+  2017-11-13 : Chronic kidney disease stage 3 (disorder)
+  2015-07-23 : History of coronary artery bypass grafting (situation)
+  2015-07-15 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2015-07-06 : Ischemic heart disease (disorder)
+  2014-06-30 : Chronic kidney disease stage 2 (disorder)
+  2011-04-04 : Chronic kidney disease stage 1 (disorder)
+  2003-12-12 : History of renal transplant (situation)
+  1994-01-10 : Chronic sinusitis (disorder)
+  1990-09-03 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  1988-10-17 : Metabolic syndrome X (disorder)
+  1988-10-10 : Body mass index 30+ - obesity (finding)
+  1986-01-20 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1985-01-14 : Refugee (person)
+  1984-01-09 : Disorder of kidney due to diabetes mellitus (disorder)
+  1982-01-04 : Septic shock (disorder)
+  1982-01-04 : Sepsis (disorder)
+  1967-10-09 : Anemia (disorder)
+  1967-10-09 : Prediabetes
+  1965-09-27 : Lack of access to transportation (finding)
+  1964-09-21 : Transport problem (finding)
+  1964-09-21 : Received higher education (finding)
+  1964-09-21 : Essential hypertension (disorder)
+   
+   MEDICATIONS:
+  2021-07-19 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2021-07-19 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2021-07-19 + 24 HR tacrolimus 1 MG Extended Release Oral Tablet for History of renal transplant (situation)
+  2021-07-19 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2021-07-19 + insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2015-07-13 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2015-07-13 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  2015-07-13 : Simvastatin 20 MG Oral Tablet
+  2015-07-13 : Clopidogrel 75 MG Oral Tablet
+   
+   CAREPLANS:
+  2003-12-12 : Care plan (record artifact)
+                         Activity: Transplantation of kidney regime (regime/therapy)
+                         Activity: Post-surgical wound care (regime/therapy)
+                         Activity: Renal function monitoring (regime/therapy)
+                         Activity: Very low sodium diet (finding)
+  1998-09-17 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1967-10-09 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1964-09-21 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

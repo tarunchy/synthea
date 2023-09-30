@@ -1,0 +1,48 @@
+Zulema784 Sanford861
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 24
+Birth Date:          1998-08-12
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-06-30 : Encounter at SOUTH SHORE HOSPITAL INC. : Encounter for Contraception care (regime/therapy)
+Type: outpatient
+   
+   MEDICATIONS:
+  2020-06-30 : NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal System
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2017-10-12 : Stress (finding)
+  2016-10-06 : Unhealthy alcohol drinking behavior (finding)
+  2016-10-06 : Limited social contact (finding)
+  2016-10-06 : Unemployed (finding)
+  2016-10-06 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

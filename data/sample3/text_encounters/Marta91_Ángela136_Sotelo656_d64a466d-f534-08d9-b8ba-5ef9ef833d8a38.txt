@@ -1,0 +1,58 @@
+Marta91 Ángela136 Sotelo656
+========Á==================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 53
+Birth Date:          1969-09-25
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1996-01-04 : Encounter at DIMOCK COMMUNITY HEALTH CENTER, INC
+Type: wellness
+   
+   MEDICATIONS:
+  1996-01-04 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  1996-01-04 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+  1996-01-04 : Stress (finding)
+  1996-01-04 : Full-time employment (finding)
+  1996-01-04 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1993-12-23 : Body mass index 30+ - obesity (finding)
+  1988-11-24 : Transport problem (finding)
+  1987-11-19 : Lack of access to transportation (finding)
+  1987-11-19 : Received higher education (finding)
+  1987-11-19 : Essential hypertension (disorder)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1987-11-19 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

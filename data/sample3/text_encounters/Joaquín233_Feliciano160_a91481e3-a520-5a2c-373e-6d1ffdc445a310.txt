@@ -1,0 +1,49 @@
+Joaquín233 Feliciano160
+=====í=================
+Race:                Asian
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 36
+Birth Date:          1987-03-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2006-05-09 : Encounter at DANVERS FAMILY DOCTORS PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2006-05-09 : Prediabetes
+  2006-05-09 : Medication review due (situation)
+   
+   CARE PLANS:
+  2006-05-09 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2005-05-03 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

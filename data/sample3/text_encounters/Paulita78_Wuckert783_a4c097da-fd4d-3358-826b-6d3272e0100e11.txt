@@ -1,0 +1,63 @@
+Paulita78 Wuckert783
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 35
+Birth Date:          1988-02-13
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-11-05 : Encounter at DANA FARBER CANCER INSTITUTE : Encounter for Normal pregnancy
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2022-11-05 : Auscultation of the fetal heart for Normal pregnancy
+  2022-11-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2022-11-05 : AFP test - antenatal for Normal pregnancy
+  2022-11-05 : Fetal anatomy study for Normal pregnancy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2022-09-10 : Normal pregnancy
+  2019-04-27 : Stress (finding)
+  2019-04-27 : Full-time employment (finding)
+  2013-04-20 : Anemia (disorder)
+  2013-01-05 : Prediabetes
+  2012-07-28 : Miscarriage in first trimester
+  2006-04-08 : Social isolation (finding)
+  2006-04-08 : Received higher education (finding)
+  2005-04-02 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2021-02-27 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2013-01-05 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

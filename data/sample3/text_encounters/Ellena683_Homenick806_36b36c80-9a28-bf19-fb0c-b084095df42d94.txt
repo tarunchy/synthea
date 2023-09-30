@@ -1,0 +1,56 @@
+Ellena683 Homenick806
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2005-07-28
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2006-05-11 : Fish (substance)
+  2006-05-11 : Shellfish (substance)
+  2006-05-11 : Cow's milk (substance)
+  2006-05-11 : Aspirin
+  2006-05-11 : Tree pollen (substance)
+  2006-05-11 : Grass pollen (substance)
+  2006-05-11 : Animal dander (substance)
+  2006-05-11 : House dust mite (organism)
+  2006-05-11 : Mold (organism)
+  2006-05-11 : Latex (substance)
+  2006-05-11 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2006-04-23 : Encounter at EMERSON HOSPITAL : Encounter for Cow's milk (substance)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+  2006-04-23 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2006-04-06 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

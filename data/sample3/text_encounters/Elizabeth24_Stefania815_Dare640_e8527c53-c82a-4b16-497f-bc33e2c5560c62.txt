@@ -1,0 +1,52 @@
+Elizabeth24 Stefania815 Dare640
+===============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 46
+Birth Date:          1977-01-30
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1998-04-12 : Encounter at TRINITY FAMILY MEDICINE
+Type: wellness
+   
+   MEDICATIONS:
+  1998-04-12 : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  1998-04-12 : budesonide 0.125 MG/ML Inhalation Suspension for Childhood asthma
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1997-04-06 : Medication review due (situation)
+  1995-03-26 : Only received primary school education (finding)
+  1995-03-26 : Housing unsatisfactory (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1981-07-02 : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,44 @@
+Mirtha993 Kozey370
+==================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 6
+Birth Date:          2016-10-21
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2018-03-07 : Wheat (substance)
+  2018-03-07 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2017-12-29 : Encounter at PRIMARY CARE FOR ADULTS PLLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2017-12-29 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

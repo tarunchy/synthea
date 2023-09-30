@@ -1,0 +1,54 @@
+Raleigh478 Murray856
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 30
+Birth Date:          1992-12-12
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2015-02-14 : Encounter at VA Boston Healthcare System, West Roxbury Campus
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2015-02-14 : Limited social contact (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2012-02-11 : Transport problem (finding)
+  2012-01-28 : Major depression disorder
+  2011-02-05 : Lack of access to transportation (finding)
+  2011-02-05 : Received higher education (finding)
+  2011-02-05 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+  2012-01-28 + FLUoxetine 20 MG Oral Capsule for Major depression, single episode
+   
+   CAREPLANS:
+  2012-01-28 : Major depressive disorder clinical management plan
+                         Reason: Major depression disorder
+  2012-01-28 : Mental health care plan
+                         Reason: Major depression, single episode
+                         Activity: Initial psychiatric interview with mental status and evaluation
+   
+--------------------------------------------------------------------------------

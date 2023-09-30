@@ -1,0 +1,65 @@
+Karl184 Turner526
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 52
+Birth Date:          1970-10-20
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-11-21 : Encounter at NORTH SHORE MEDICAL CENTER INC : Encounter for Contraception care (regime/therapy)
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-11-13 : Reports of violence in the environment (finding)
+  2018-11-13 : Stress (finding)
+  2017-03-28 : Miscarriage in first trimester
+  2014-11-04 : Hyperlipidemia
+  2010-10-26 : Full-time employment (finding)
+  2010-10-26 : Body mass index 30+ - obesity (finding)
+  2010-01-24 : History of appendectomy
+  2010-01-24 : Appendicitis
+  2010-01-24 : Rupture of appendix
+  2002-01-01 : Anemia (disorder)
+  2002-01-01 : Prediabetes
+  1998-12-29 : Victim of intimate partner abuse (finding)
+  1988-12-13 : Only received primary school education (finding)
+   
+   MEDICATIONS:
+  2018-11-24 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2014-11-25 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+   
+   CAREPLANS:
+  2014-11-25 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+  2002-01-01 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

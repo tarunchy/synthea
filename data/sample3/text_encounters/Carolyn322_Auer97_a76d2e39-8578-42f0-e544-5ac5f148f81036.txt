@@ -1,0 +1,45 @@
+Carolyn322 Auer97
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 58
+Birth Date:          1965-01-04
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1992-03-16 : Encounter at AP MEDICAL LLC : Encounter for Normal pregnancy
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1992-03-16 : Miscarriage in first trimester
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1984-03-05 : Medication review due (situation)
+  1983-02-28 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

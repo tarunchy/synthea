@@ -1,0 +1,63 @@
+Clotilde434 Terry864
+====================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 58
+Birth Date:          1965-06-16
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1966-10-09 : Wheat (substance)
+  1966-10-09 : Aspirin
+  1966-10-09 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2005-11-30 : Encounter at MEASURED WELLNESS LLC
+Type: wellness
+   
+   MEDICATIONS:
+  2005-11-30 : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2005-11-30 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+  2005-11-30 : Social isolation (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2004-11-24 : Stress (finding)
+  2004-11-24 : Limited social contact (finding)
+  2001-11-07 : Full-time employment (finding)
+  1995-10-04 : Has a criminal record (finding)
+  1988-03-09 : Miscarriage in first trimester
+  1987-08-19 : Essential hypertension (disorder)
+  1983-08-10 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1987-08-19 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1966-09-24 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,158 @@
+Abel832 Flatley871
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1991-02-24 : Encounter at VA Boston Healthcare System, West Roxbury Campus
+Type: outpatient
+   
+   MEDICATIONS:
+  1991-02-24 : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  1991-02-24 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  1991-02-24 : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes mellitus type 2 (disorder)
+  1991-02-24 : insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  1991-02-24 : Basic metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 82.1 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 19.4 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 1.7 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.2 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 136.2 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.5 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 107.9 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.3 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 114.0 mL/min/{1.73_m2}
+  1991-02-24 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 0.6 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.5 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 9.3 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = trace (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.1 pH
+           - Protein [Mass/volume] in Urine by Test strip 107.9 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = + (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+   
+   OBSERVATIONS:
+  1991-02-24 : Hemoglobin A1c/Hemoglobin.total in Blood 2.4 %
+  1991-02-24 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  1991-02-24 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  1991-02-24 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  1991-02-24 : Protein [Presence] in Urine by Test strip Urine protein test = + (finding) {nominal}
+  1991-02-24 : Protein [Mass/volume] in Urine by Test strip 107.9 mg/dL
+  1991-02-24 : pH of Urine by Test strip                6.1 pH
+  1991-02-24 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  1991-02-24 : Ketones [Presence] in Urine by Test strip Urine ketone test = trace (finding) {nominal}
+  1991-02-24 : Ketones [Mass/volume] in Urine by Test strip 9.3 mg/dL
+  1991-02-24 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  1991-02-24 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.5 mg/dL
+  1991-02-24 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  1991-02-24 : Glucose [Mass/volume] in Urine by Test strip 0.6 mg/dL
+  1991-02-24 : Color of Urine                           Brown color (qualifier value) {nominal}
+  1991-02-24 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  1991-02-24 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  1991-02-24 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  1991-02-24 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 114.0 mL/min/{1.73_m2}
+  1991-02-24 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.3 mmol/L
+  1991-02-24 : Chloride [Moles/volume] in Serum or Plasma 107.9 mmol/L
+  1991-02-24 : Potassium [Moles/volume] in Serum or Plasma 4.5 mmol/L
+  1991-02-24 : Sodium [Moles/volume] in Serum or Plasma 136.2 mmol/L
+  1991-02-24 : Calcium [Mass/volume] in Serum or Plasma 9.2 mg/dL
+  1991-02-24 : Creatinine [Mass/volume] in Serum or Plasma 1.7 mg/dL
+  1991-02-24 : Urea nitrogen [Mass/volume] in Serum or Plasma 19.4 mg/dL
+  1991-02-24 : Glucose [Mass/volume] in Serum or Plasma 82.1 mg/dL
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1991-02-17 : Not in labor force (finding)
+  1990-12-23 : Reports of violence in the environment (finding)
+  1990-09-25 : Dependent drug abuse (disorder)
+  1990-08-26 : Medication review due (situation)
+  1988-06-05 : Metastasis from malignant tumor of prostate (disorder)
+  1988-06-05 : Neoplasm of prostate
+  1983-09-18 : Disorder of kidney due to diabetes mellitus (disorder)
+  1983-09-18 : Chronic kidney disease stage 1 (disorder)
+  1983-05-08 : Opioid abuse (disorder)
+  1981-04-26 : Neuropathy due to type 2 diabetes mellitus (disorder)
+  1979-04-15 : Hyperglycemia (disorder)
+  1976-03-01 : Obstructive sleep apnea syndrome (disorder)
+  1976-01-28 : Sleep disorder (disorder)
+  1975-03-23 : Metabolic syndrome X (disorder)
+  1975-03-23 : Hypertriglyceridemia (disorder)
+  1974-03-17 : Diabetes mellitus type 2 (disorder)
+  1972-03-05 : Essential hypertension (disorder)
+  1971-06-04 : Osteoarthritis of hip
+  1968-03-07 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  1968-02-25 : Ischemic heart disease (disorder)
+  1958-04-27 : Body mass index 30+ - obesity (finding)
+  1955-04-24 : Anemia (disorder)
+  1952-04-20 : Prediabetes
+  1942-04-05 : Received higher education (finding)
+  1942-04-05 : Served in armed forces (finding)
+  1938-11-25 : Epilepsy
+  1938-11-25 : History of single seizure (situation)
+  1938-11-25 : Seizure disorder
+   
+   MEDICATIONS:
+  1971-06-04 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of hip
+  1968-03-03 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+   
+   CAREPLANS:
+  1988-06-05 : Cancer care plan
+                         Reason: Neoplasm of prostate
+  1976-03-01 : Care plan (record artifact)
+                         Reason: Obstructive sleep apnea syndrome (disorder)
+                         Activity: Weight reduction regimen (regime/therapy)
+                         Activity: Warning. Avoid alcoholic drink (qualifier value)
+                         Activity: Continuous positive airway pressure ventilation treatment (regime/therapy)
+                         Activity: Counseling for substance abuse (procedure)
+                         Activity: Substance abuse prevention education (procedure)
+                         Activity: Substance abuse prevention management (procedure)
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+  1972-03-05 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1971-06-04 : Musculoskeletal care
+                         Reason: Osteoarthritis of hip
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  1952-04-20 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

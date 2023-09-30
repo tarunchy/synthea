@@ -1,0 +1,69 @@
+Pasquale620 Hartmann983
+=======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 3
+Birth Date:          2020-03-28
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2021-06-12 : Peanut (substance)
+  2021-06-12 : Wheat (substance)
+  2021-06-12 : Tree pollen (substance)
+  2021-06-12 : Grass pollen (substance)
+  2021-06-12 : Animal dander (substance)
+  2021-06-12 : House dust mite (organism)
+  2021-06-12 : Mold (organism)
+  2021-06-12 : Bee venom (substance)
+  2021-06-12 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-09-04 : Encounter at MANET COMMUNITY HEALTH CENTER, INC.
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2021-09-04 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2021-09-04 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-09-04 : Respiratory rate                         13.0 /min
+  2021-09-04 : Heart rate                               94.0 /min
+  2021-09-04 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2021-09-04 : Head Occipital-frontal circumference     46.5 cm
+  2021-09-04 : Head Occipital-frontal circumference Percentile 17.5 %
+  2021-09-04 : Weight-for-length Per age and sex        67.0 %
+  2021-09-04 : Body Weight                              10.8 kg
+  2021-09-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2021-09-04 : Body Height                              78.2 cm
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2021-09-04 : DTaP
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+  2021-06-12 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2021-06-12 : Loratadine 5 MG Chewable Tablet
+   
+   CAREPLANS:
+  2021-05-18 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

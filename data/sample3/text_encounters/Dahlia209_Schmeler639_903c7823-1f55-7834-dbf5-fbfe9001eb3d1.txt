@@ -1,0 +1,79 @@
+Dahlia209 Schmeler639
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 0
+Birth Date:          2023-06-15
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-06-15 : Encounter at WOODLAND INTERNISTS, P.C.
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2023-06-15 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2023-06-15 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.4 %
+           - MCV [Entitic volume] by Automated count  89.2 fL
+           - MCH [Entitic mass] by Automated count    29.7 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.1 fL
+           - Platelets [#/volume] in Blood by Automated count 354.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 174.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+   
+   OBSERVATIONS:
+  2023-06-15 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-06-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+  2023-06-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 174.0 fL
+  2023-06-15 : Platelets [#/volume] in Blood by Automated count 354.2 10*3/uL
+  2023-06-15 : Erythrocyte distribution width [Entitic volume] by Automated count 41.1 fL
+  2023-06-15 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2023-06-15 : MCH [Entitic mass] by Automated count    29.7 pg
+  2023-06-15 : MCV [Entitic volume] by Automated count  89.2 fL
+  2023-06-15 : Hematocrit [Volume Fraction] of Blood by Automated count 44.4 %
+  2023-06-15 : Hemoglobin [Mass/volume] in Blood        14.7 g/dL
+  2023-06-15 : Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+  2023-06-15 : Leukocytes [#/volume] in Blood by Automated count 9.3 10*3/uL
+  2023-06-15 : Respiratory rate                         13.0 /min
+  2023-06-15 : Heart rate                               94.0 /min
+  2023-06-15 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2023-06-15 : Head Occipital-frontal circumference     35.7 cm
+  2023-06-15 : Head Occipital-frontal circumference Percentile 72.1 %
+  2023-06-15 : Weight-for-length Per age and sex        49.8 %
+  2023-06-15 : Body Weight                              4.2 kg
+  2023-06-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2023-06-15 : Body Height                              53.0 cm
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2023-06-15 : Hep B, adolescent or pediatric
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

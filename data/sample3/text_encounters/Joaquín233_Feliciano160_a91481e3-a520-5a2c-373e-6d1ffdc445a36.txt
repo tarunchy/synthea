@@ -1,0 +1,52 @@
+Joaquín233 Feliciano160
+=====í=================
+Race:                Asian
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 36
+Birth Date:          1987-03-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-04-20 : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2021-04-20 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2009-05-12 : Full-time employment (finding)
+  2008-08-26 : Unhealthy alcohol drinking behavior (finding)
+  2008-08-26 : Anemia (disorder)
+  2006-05-09 : Prediabetes
+  2005-05-03 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2006-05-09 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

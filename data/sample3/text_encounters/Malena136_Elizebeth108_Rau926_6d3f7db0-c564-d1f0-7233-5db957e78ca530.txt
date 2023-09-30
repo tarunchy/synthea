@@ -1,0 +1,44 @@
+Malena136 Elizebeth108 Rau926
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 43
+Birth Date:          1980-02-15
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1981-05-29 : Encounter at SERENITY HILL NURSING CENTER : Encounter for Seizure disorder
+Type: emergency
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1981-05-29 : History of single seizure (situation)
+  1981-05-29 : Seizure disorder
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

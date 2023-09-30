@@ -1,0 +1,54 @@
+Caleb651 Kuhn96
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 56
+Birth Date:          1966-11-14
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-11-22 : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC. : Encounter for Screening for malignant neoplasm of colon (procedure)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2021-11-22 : Colonoscopy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-12-08 : Has a criminal record (finding)
+  2020-12-08 : Stress (finding)
+  2020-12-08 : Full-time employment (finding)
+  2011-08-30 : Anemia (disorder)
+  2008-11-24 : Prediabetes
+  1985-01-08 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2011-09-06 : Vitamin B12 5 MG/ML Injectable Solution
+   
+   CAREPLANS:
+  2008-11-24 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

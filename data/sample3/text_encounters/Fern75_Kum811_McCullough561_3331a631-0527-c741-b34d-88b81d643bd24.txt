@@ -1,0 +1,103 @@
+Fern75 Kum811 McCullough561
+===========================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 51
+Birth Date:          1971-12-17
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-12-17 : Encounter at CARING HEALTHCARE SERVICES LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2021-12-17 : Reports of violence in the environment (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2021-12-17 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 201.0 mg/dL
+           - Triglycerides                            127.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      148.7 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 26.8 mg/dL
+  2021-12-17 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2021-12-17 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+   
+   OBSERVATIONS:
+  2021-12-17 : Total score [DAST-10]                    1.0 {score}
+  2021-12-17 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2021-12-17 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? No 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Very much 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Medicine or Any Health Care (Medical, Dental, Mental Health, Vision) 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 21634 /a
+           - Primary insurance                        Medicaid 
+           - Employment status - current              Full-time work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  681 Predovic Pathway 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 4.0 {#}
+           - Preferred language                       Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     Asian 
+           - Do you consider yourself Hispanic/Latino? No 
+  2021-12-17 : Tobacco smoking status                   Ex-smoker (finding) 
+  2021-12-17 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 26.8 mg/dL
+  2021-12-17 : Low Density Lipoprotein Cholesterol      148.7 mg/dL
+  2021-12-17 : Triglycerides                            127.3 mg/dL
+  2021-12-17 : Cholesterol [Mass/volume] in Serum or Plasma 201.0 mg/dL
+  2021-12-17 : Respiratory rate                         15.0 /min
+  2021-12-17 : Heart rate                               84.0 /min
+  2021-12-17 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2021-12-17 : Body mass index (BMI) [Ratio]            27.5 kg/m2
+  2021-12-17 : Body Weight                              67.5 kg
+  2021-12-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-12-17 : Body Height                              156.6 cm
+   
+   PROCEDURES:
+  2021-12-17 : Screening for drug abuse (procedure)
+  2021-12-17 : Assessment of substance use (procedure)
+  2021-12-17 : Assessment of anxiety (procedure)
+  2021-12-17 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+  2021-12-17 : Influenza, seasonal, injectable, preservative free
+  2021-12-17 : zoster vaccine, live
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-01-10 : Medication review due (situation)
+  2018-01-05 : Stress (finding)
+  2013-12-27 : Refugee (person)
+  2011-12-23 : Full-time employment (finding)
+  1995-09-01 : Miscarriage in first trimester
+  1990-02-09 : Received certificate of high school equivalency (finding)
+   
+   MEDICATIONS:
+  2021-04-24 : Yaz 28 Day Pack
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

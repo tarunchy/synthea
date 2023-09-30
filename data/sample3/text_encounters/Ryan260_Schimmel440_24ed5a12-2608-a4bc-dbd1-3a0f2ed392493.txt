@@ -1,0 +1,78 @@
+Ryan260 Schimmel440
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 8
+Birth Date:          2015-01-23
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-01-08 : Encounter at NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2021-01-08 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.1 %
+           - MCV [Entitic volume] by Automated count  82.7 fL
+           - MCH [Entitic mass] by Automated count    28.8 pg
+           - MCHC [Mass/volume] by Automated count    35.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.0 fL
+           - Platelets [#/volume] in Blood by Automated count 164.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 230.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+   
+   OBSERVATIONS:
+  2021-01-08 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-01-08 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2021-01-08 : Platelet distribution width [Entitic volume] in Blood by Automated count 230.3 fL
+  2021-01-08 : Platelets [#/volume] in Blood by Automated count 164.1 10*3/uL
+  2021-01-08 : Erythrocyte distribution width [Entitic volume] by Automated count 41.0 fL
+  2021-01-08 : MCHC [Mass/volume] by Automated count    35.0 g/dL
+  2021-01-08 : MCH [Entitic mass] by Automated count    28.8 pg
+  2021-01-08 : MCV [Entitic volume] by Automated count  82.7 fL
+  2021-01-08 : Hematocrit [Volume Fraction] of Blood by Automated count 40.1 %
+  2021-01-08 : Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+  2021-01-08 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2021-01-08 : Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+  2021-01-08 : Respiratory rate                         12.0 /min
+  2021-01-08 : Heart rate                               65.0 /min
+  2021-01-08 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  106.0 mm[Hg]
+  2021-01-08 : Body mass index (BMI) [Percentile] Per age and sex 86.9 %
+  2021-01-08 : Body mass index (BMI) [Ratio]            17.2 kg/m2
+  2021-01-08 : Body Weight                              23.0 kg
+  2021-01-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-01-08 : Body Height                              115.9 cm
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2021-01-08 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-12-28 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

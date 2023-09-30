@@ -1,0 +1,50 @@
+Nana422 Koelpin146
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 13
+Birth Date:          2010-01-24
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-08-28 : Encounter at OAKDALE REHABILITATION & SKILLED NURSING CENTER : Encounter for Sprain (morphologic abnormality)
+Type: emergency
+   
+   MEDICATIONS:
+  2021-08-28 : Acetaminophen 160 MG Chewable Tablet
+   
+   CONDITIONS:
+  2021-08-28 : Sprain of wrist
+  2021-08-28 : Sprain (morphologic abnormality)
+   
+   CARE PLANS:
+  2021-08-28 : Physiotherapy care plan (record artifact)
+                         Reason: Sprain of wrist
+                         Activity: Rest, ice, compression and elevation treatment program (regime/therapy)
+                         Activity: Stretching exercises
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-02-07 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

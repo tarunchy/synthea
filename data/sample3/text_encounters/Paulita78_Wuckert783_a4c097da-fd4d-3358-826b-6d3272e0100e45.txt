@@ -1,0 +1,47 @@
+Paulita78 Wuckert783
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 35
+Birth Date:          1988-02-13
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2006-04-08 : Encounter at ATLANTIC PRIMARY CARE PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2006-04-08 : Stress (finding)
+  2006-04-08 : Social isolation (finding)
+  2006-04-08 : Full-time employment (finding)
+  2006-04-08 : Received higher education (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2005-04-02 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

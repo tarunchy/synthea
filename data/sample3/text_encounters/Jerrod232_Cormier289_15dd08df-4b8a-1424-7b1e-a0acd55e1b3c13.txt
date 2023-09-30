@@ -1,0 +1,110 @@
+Jerrod232 Cormier289
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 61
+Birth Date:          1961-10-09
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-11-11 : Encounter at NORTH SHORE MEDICAL CENTER INC
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2019-11-11 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2019-11-11 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 5.0 {score}
+  2019-11-11 : PHQ-9 quick depression assessment panel [Reported.PHQ]
+           - Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 24.0 {score}
+  2019-11-11 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+   
+   OBSERVATIONS:
+  2019-11-11 : Total score [DAST-10]                    1.0 {score}
+  2019-11-11 : Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 24.0 {score}
+  2019-11-11 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 5.0 {score}
+  2019-11-11 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2019-11-11 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 84284 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Part-time or temporary work 
+           - Highest level of education               More than high school 
+           - Address                                  880 Ortiz Loaf 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 7.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2019-11-11 : Tobacco smoking status                   Ex-smoker (finding) 
+  2019-11-11 : Respiratory rate                         15.0 /min
+  2019-11-11 : Heart rate                               67.0 /min
+  2019-11-11 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2019-11-11 : Body mass index (BMI) [Ratio]            27.6 kg/m2
+  2019-11-11 : Body Weight                              76.7 kg
+  2019-11-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-11-11 : Body Height                              166.8 cm
+   
+   PROCEDURES:
+  2019-11-11 : Screening for drug abuse (procedure)
+  2019-11-11 : Assessment of substance use (procedure)
+  2019-11-11 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2019-11-11 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2019-11-11 : Depression screening (procedure)
+  2019-11-11 : Assessment of anxiety (procedure)
+  2019-11-11 : Assessment of health and social care needs (procedure)
+  2019-11-11 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2019-11-11 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-11-19 : Part-time employment (finding)
+  2014-02-05 : Chronic neck pain (finding)
+  2014-02-05 : Chronic low back pain (finding)
+  2014-02-05 : Chronic pain (finding)
+  2009-11-02 : Has a criminal record (finding)
+  2009-11-02 : Hyperlipidemia
+  1989-12-18 : Body mass index 30+ - obesity (finding)
+  1986-08-19 : Chronic sinusitis (disorder)
+  1979-12-03 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2018-11-21 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2009-11-23 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+   
+   CAREPLANS:
+  2009-11-23 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+   
+--------------------------------------------------------------------------------

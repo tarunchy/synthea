@@ -1,0 +1,76 @@
+Ernesto186 Pagac496
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1989-04-16 : Encounter at WOONSOCKET URGENT CARE PC
+Type: urgentcare
+   
+   MEDICATIONS:
+  1989-04-16 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  1989-04-16 : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes mellitus type 2 (disorder)
+  1989-04-16 : insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1986-02-16 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1986-02-16 : Chronic kidney disease stage 2 (disorder)
+  1984-11-04 : Disorder of kidney due to diabetes mellitus (disorder)
+  1984-11-04 : Chronic kidney disease stage 1 (disorder)
+  1980-10-21 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  1980-10-12 : Ischemic heart disease (disorder)
+  1974-09-08 : Has a criminal record (finding)
+  1974-09-08 : Neuropathy due to type 2 diabetes mellitus (disorder)
+  1964-07-12 : Hypertriglyceridemia (disorder)
+  1964-07-12 : Hyperglycemia (disorder)
+  1963-07-07 : Diabetes mellitus type 2 (disorder)
+  1961-06-25 : Metabolic syndrome X (disorder)
+  1960-06-19 : Body mass index 30+ - obesity (finding)
+  1949-04-17 : Essential hypertension (disorder)
+  1946-04-14 : Anemia (disorder)
+  1946-04-14 : Prediabetes
+  1942-04-05 : Received higher education (finding)
+  1942-04-05 : Housing unsatisfactory (finding)
+  1942-04-05 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+  1980-10-19 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1980-10-19 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+   
+   CAREPLANS:
+  1949-04-17 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1946-04-14 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

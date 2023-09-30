@@ -1,0 +1,57 @@
+Rena430 Bettie175 Toy286
+========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 47
+Birth Date:          1976-01-21
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-01-23 : Encounter at GOOD SHEPHERD COMMUNITY CARE : Encounter for Normal pregnancy
+Type: emergency
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2019-01-23 : Childbirth for Normal pregnancy
+  2019-01-23 : Epidural anesthesia for Normal pregnancy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-01-31 : Stress (finding)
+  2018-01-31 : Full-time employment (finding)
+  2018-01-31 : Medication review due (situation)
+  2016-01-27 : Body mass index 30+ - obesity (finding)
+  2010-04-07 : Anemia (disorder)
+  2005-12-28 : Miscarriage in first trimester
+  1998-03-25 : Prediabetes
+  1994-03-16 : Received higher education (finding)
+  1989-09-11 : Chronic sinusitis (disorder)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1998-03-25 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

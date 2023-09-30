@@ -1,0 +1,47 @@
+Raleigh478 Murray856
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 30
+Birth Date:          1992-12-12
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2011-02-05 : Encounter at ENHANCED MEDICAL CARE, LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2011-02-05 : Stress (finding)
+  2011-02-05 : Lack of access to transportation (finding)
+  2011-02-05 : Full-time employment (finding)
+  2011-02-05 : Received higher education (finding)
+  2011-02-05 : Served in armed forces (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

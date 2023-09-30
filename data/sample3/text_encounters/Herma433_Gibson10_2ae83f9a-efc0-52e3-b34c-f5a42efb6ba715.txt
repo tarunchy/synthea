@@ -1,0 +1,70 @@
+Herma433 Gibson10
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 21
+Birth Date:          2002-05-20
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-09-21 : Encounter at WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC : Encounter for Normal pregnancy
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2020-09-21 : Normal pregnancy
+   
+   CARE PLANS:
+  2020-09-21 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2020-09-21 : Physical examination procedure (procedure) for Normal pregnancy
+  2020-09-21 : Urine protein test for Normal pregnancy
+  2020-09-21 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy
+  2020-09-21 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2020-09-21 : Rubella screening for Normal pregnancy
+  2020-09-21 : Hepatitis C antibody, confirmatory test for Normal pregnancy
+  2020-09-21 : Urine screening test for diabetes for Normal pregnancy
+  2020-09-21 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2020-09-21 : Urine culture for Normal pregnancy
+  2020-09-21 : Syphilis infectious titer test (procedure) for Normal pregnancy
+  2020-09-21 : Gonorrhea infection titer test (procedure) for Normal pregnancy
+  2020-09-21 : Chlamydia antigen test for Normal pregnancy
+  2020-09-21 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2020-09-21 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2020-09-21 : Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential for Normal pregnancy
+  2020-09-21 : Blood group typing (procedure) for Normal pregnancy
+  2020-09-21 : Auscultation of the fetal heart for Normal pregnancy
+  2020-09-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-09-21 : Ultrasound scan for fetal viability for Normal pregnancy
+  2020-09-21 : Standard pregnancy test for Normal pregnancy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-07-13 : Social isolation (finding)
+  2020-07-13 : Full-time employment (finding)
+  2020-07-13 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

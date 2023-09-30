@@ -1,0 +1,56 @@
+Clemente531 Reilly981
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 26
+Birth Date:          1997-05-05
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-05-18 : Encounter at NEW ENGLAND SINAI HOSPITAL
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2020-05-18 : Hep B, adult
+  2020-05-18 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-05-11 : Social isolation (finding)
+  2020-05-11 : Anemia (disorder)
+  2019-07-08 : Medication review due (situation)
+  2016-07-04 : Transport problem (finding)
+  2015-06-29 : Lack of access to transportation (finding)
+  2015-06-29 : Full-time employment (finding)
+  2015-06-29 : Received higher education (finding)
+  2015-06-29 : Prediabetes
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2015-06-29 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

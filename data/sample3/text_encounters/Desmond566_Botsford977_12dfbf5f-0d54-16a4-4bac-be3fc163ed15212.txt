@@ -1,0 +1,182 @@
+Desmond566 Botsford977
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1994-03-04 : Encounter at Fitchburg Outpatient Clinic : Encounter for Myocardial infarction (disorder)
+Type: emergency
+   
+   MEDICATIONS:
+  1994-03-04 : nitroglycerin 0.4 MG Sublingual Tablet
+  1994-03-04 : aspirin 325 MG Oral Tablet
+   
+   CONDITIONS:
+  1994-03-04 : Preinfarction syndrome (disorder)
+  1994-03-04 : Myocardial infarction (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  1994-03-04 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        11.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.2 %
+           - MCV [Entitic volume] by Automated count  96.3 fL
+           - MCH [Entitic mass] by Automated count    29.2 pg
+           - MCHC [Mass/volume] by Automated count    32.3 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 12.4 %
+           - Platelets [#/volume] in Blood by Automated count 147.2 10*3/uL
+  1994-03-04 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 66.1 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 7.3 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.7 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 10.0 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 136.9 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 5.1 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 103.2 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.2 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 12.7 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 5.6 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.2 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 13.8 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 67.0 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 28.2 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 17.0 U/L
+  1994-03-04 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 205.7 mg/dL
+           - Triglycerides                            144.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      111.3 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 60.1 mg/dL
+   
+   OBSERVATIONS:
+  1994-03-04 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 45.8 ng/L
+  1994-03-04 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 2.1 ng/L
+  1994-03-04 : Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Blood by Immunoassay 1.6 pg/mL
+  1994-03-04 : aPTT in Blood by Coagulation assay       31.4 s
+  1994-03-04 : INR in Platelet poor plasma by Coagulation assay 1.0 {INR}
+  1994-03-04 : Hemoglobin A1c/Hemoglobin.total in Blood 2.9 %
+  1994-03-04 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 60.1 mg/dL
+  1994-03-04 : Low Density Lipoprotein Cholesterol      111.3 mg/dL
+  1994-03-04 : Triglycerides                            144.9 mg/dL
+  1994-03-04 : Cholesterol [Mass/volume] in Serum or Plasma 205.7 mg/dL
+  1994-03-04 : Magnesium [Mass/volume] in Blood         1.9 mg/dL
+  1994-03-04 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 17.0 U/L
+  1994-03-04 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 28.2 U/L
+  1994-03-04 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 67.0 U/L
+  1994-03-04 : Bilirubin.total [Mass/volume] in Serum or Plasma 13.8 mg/dL
+  1994-03-04 : Albumin [Mass/volume] in Serum or Plasma 5.2 g/dL
+  1994-03-04 : Protein [Mass/volume] in Serum or Plasma 5.6 g/dL
+  1994-03-04 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 12.7 mL/min
+  1994-03-04 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.2 mmol/L
+  1994-03-04 : Chloride [Moles/volume] in Serum or Plasma 103.2 mmol/L
+  1994-03-04 : Potassium [Moles/volume] in Serum or Plasma 5.1 mmol/L
+  1994-03-04 : Sodium [Moles/volume] in Serum or Plasma 136.9 mmol/L
+  1994-03-04 : Calcium [Mass/volume] in Serum or Plasma 10.0 mg/dL
+  1994-03-04 : Creatinine [Mass/volume] in Serum or Plasma 2.7 mg/dL
+  1994-03-04 : Urea nitrogen [Mass/volume] in Serum or Plasma 7.3 mg/dL
+  1994-03-04 : Glucose [Mass/volume] in Serum or Plasma 66.1 mg/dL
+  1994-03-04 : Platelets [#/volume] in Blood by Automated count 147.2 10*3/uL
+  1994-03-04 : Erythrocyte distribution width [Ratio] by Automated count 12.4 %
+  1994-03-04 : MCHC [Mass/volume] by Automated count    32.3 g/dL
+  1994-03-04 : MCH [Entitic mass] by Automated count    29.2 pg
+  1994-03-04 : MCV [Entitic volume] by Automated count  96.3 fL
+  1994-03-04 : Hematocrit [Volume Fraction] of Blood by Automated count 45.2 %
+  1994-03-04 : Hemoglobin [Mass/volume] in Blood        11.9 g/dL
+  1994-03-04 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  1994-03-04 : Leukocytes [#/volume] in Blood by Automated count 3.3 10*3/uL
+   
+   PROCEDURES:
+  1994-03-04 : Electrocardiographic procedure (procedure)
+  1994-03-04 : Diagnostic assessment (procedure)
+  1994-03-04 : Plain chest X-ray (procedure)
+  1994-03-04 : Laboratory test (procedure)
+  1994-03-04 : Oxygen administration by mask (procedure)
+  1994-03-04 : Electrocardiographic procedure (procedure)
+  1994-03-04 : Assessment of cardiac status using monitoring device (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1994-02-20 : Victim of intimate partner abuse (finding)
+  1994-02-20 : Full-time employment (finding)
+  1993-12-12 : Medication review due (situation)
+  1993-10-24 : Stress (finding)
+  1991-02-17 : Awaiting transplantation of kidney (situation)
+  1991-02-03 : End-stage renal disease (disorder)
+  1990-12-30 : Anemia (disorder)
+  1989-08-13 : Atrial fibrillation (disorder)
+  1989-04-11 : Hyperlipidemia
+  1986-05-04 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  1986-05-04 : Chronic kidney disease stage 3 (disorder)
+  1985-08-04 : Carcinoma in situ of prostate (disorder)
+  1985-08-04 : Neoplasm of prostate
+  1971-11-14 : Metabolic syndrome X (disorder)
+  1969-07-27 : Body mass index 30+ - obesity (finding)
+  1962-07-14 : Osteoarthritis of knee
+  1958-10-26 : Prediabetes
+  1958-05-25 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1958-05-25 : Chronic kidney disease stage 2 (disorder)
+  1955-12-11 : Disorder of kidney due to diabetes mellitus (disorder)
+  1955-12-11 : Chronic kidney disease stage 1 (disorder)
+  1952-04-20 : Essential hypertension (disorder)
+  1942-04-05 : Received higher education (finding)
+  1942-04-05 : Housing unsatisfactory (finding)
+  1942-04-05 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+  1994-02-20 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  1994-02-20 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  1994-02-20 + Warfarin Sodium 5 MG Oral Tablet for Atrial fibrillation (disorder)
+  1994-02-20 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  1994-02-20 + Digoxin 0.125 MG Oral Tablet for Atrial fibrillation (disorder)
+  1994-02-20 + verapamil hydrochloride 80 MG Oral Tablet for Atrial fibrillation (disorder)
+  1994-02-20 + insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  1993-05-18 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  1990-12-30 : ferrous sulfate 325 MG Oral Tablet
+  1989-05-02 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  1962-07-14 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+   
+   CAREPLANS:
+  1991-01-02 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1989-05-02 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+  1985-08-04 : Cancer care plan
+                         Reason: Neoplasm of prostate
+                         Reason: Neoplasm of prostate
+                         Activity: Physical activity target light exercise
+                         Activity: Ice bath treatment
+  1962-07-14 : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  1958-10-26 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1952-04-20 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

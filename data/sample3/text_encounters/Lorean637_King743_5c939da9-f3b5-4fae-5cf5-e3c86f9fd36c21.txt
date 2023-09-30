@@ -1,0 +1,45 @@
+Lorean637 King743
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 21
+Birth Date:          2001-11-17
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-05-16 : Encounter at COOLEY DICKINSON HOSPITAL INC : Encounter for Viral sinusitis (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2019-05-16 : Viral sinusitis (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2016-12-24 : Medication review due (situation)
+   
+   MEDICATIONS:
+  2018-11-01 : Trinessa 28 Day Pack
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

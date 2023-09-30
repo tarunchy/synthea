@@ -1,0 +1,58 @@
+Georgine810 Brakus656
+=====================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 5
+Birth Date:          2018-05-26
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-05-01 : Encounter at FAMILY MEDICINE ASSOCIATES LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2021-05-01 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-05-01 : Respiratory rate                         12.0 /min
+  2021-05-01 : Heart rate                               66.0 /min
+  2021-05-01 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2021-05-01 : Body mass index (BMI) [Percentile] Per age and sex 83.1 %
+  2021-05-01 : Body mass index (BMI) [Ratio]            17.1 kg/m2
+  2021-05-01 : Head Occipital-frontal circumference     47.1 cm
+  2021-05-01 : Head Occipital-frontal circumference Percentile 17.7 %
+  2021-05-01 : Weight-for-length Per age and sex        76.6 %
+  2021-05-01 : Body Weight                              13.7 kg
+  2021-05-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-05-01 : Body Height                              89.6 cm
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2021-05-01 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-10-31 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

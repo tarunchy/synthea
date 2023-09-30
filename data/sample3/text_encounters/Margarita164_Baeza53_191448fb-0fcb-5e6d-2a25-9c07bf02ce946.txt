@@ -1,0 +1,82 @@
+Margarita164 Baeza53
+====================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 15
+Birth Date:          2008-01-27
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2009-04-22 : Peanut (substance)
+  2009-04-22 : Tree pollen (substance)
+  2009-04-22 : Grass pollen (substance)
+  2009-04-22 : Animal dander (substance)
+  2009-04-22 : House dust mite (organism)
+  2009-04-22 : Mold (organism)
+  2009-04-22 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-03-05 : Encounter at CLARITY HEALTH & WELLNESS LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2023-03-05 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+   
+   OBSERVATIONS:
+  2023-03-05 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2023-03-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-03-05 : Respiratory rate                         13.0 /min
+  2023-03-05 : Heart rate                               67.0 /min
+  2023-03-05 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  87.0 mm[Hg]
+  2023-03-05 : Body mass index (BMI) [Percentile] Per age and sex 37.9 %
+  2023-03-05 : Body mass index (BMI) [Ratio]            19.1 kg/m2
+  2023-03-05 : Body Weight                              46.2 kg
+  2023-03-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2023-03-05 : Body Height                              155.5 cm
+   
+   PROCEDURES:
+  2023-03-05 : Anticipatory guidance (procedure)
+  2023-03-05 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2023-03-05 : Assessment of substance use (procedure)
+  2023-03-05 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2023-03-05 : Depression screening (procedure)
+   
+   IMMUNIZATIONS:
+  2023-03-05 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-02-21 : Medication review due (situation)
+  2012-10-20 : Perennial allergic rhinitis with seasonal variation
+  2011-08-17 : Atopic dermatitis
+   
+   MEDICATIONS:
+  2009-04-22 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2009-04-22 : Loratadine 5 MG Chewable Tablet
+   
+   CAREPLANS:
+  2021-01-31 : Allergic disorder monitoring
+                         Activity: Allergen immunotherapy (regime/therapy)
+  2011-08-17 : Skin condition care
+                         Reason: Atopic dermatitis
+                         Activity: Application of moisturizer to skin
+  2009-04-11 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

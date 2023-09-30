@@ -1,0 +1,54 @@
+Deandra603 Glynda607 Bergstrom287
+=================================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1957-07-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2005-08-09 : Encounter at LIGHTHOUSE PRIMARY CARE PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2005-08-09 : Reports of violence in the environment (finding)
+  2005-08-09 : Stress (finding)
+  2005-08-09 : Unemployed (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2003-08-05 : Medication review due (situation)
+  1999-07-27 : Body mass index 30+ - obesity (finding)
+  1982-09-21 : Anemia (disorder)
+  1982-09-21 : Prediabetes
+  1975-09-09 : Received certificate of high school equivalency (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1982-09-21 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

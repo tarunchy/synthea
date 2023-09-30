@@ -1,0 +1,59 @@
+Regena252 Botsford977
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2005-09-23
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-03-25 : Encounter at FIRST PSYCHIATRIC PLANNERS, INC
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2022-03-25 : Tobacco smoking status                   Smokes tobacco daily (finding) 
+  2022-03-25 : Respiratory rate                         14.0 /min
+  2022-03-25 : Heart rate                               66.0 /min
+  2022-03-25 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2022-03-25 : Body mass index (BMI) [Percentile] Per age and sex 20.8 %
+  2022-03-25 : Body mass index (BMI) [Ratio]            18.6 kg/m2
+  2022-03-25 : Body Weight                              45.7 kg
+  2022-03-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-03-25 : Body Height                              156.8 cm
+   
+   PROCEDURES:
+  2022-03-25 : Anticipatory guidance (procedure)
+  2022-03-25 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2022-03-25 : Assessment of substance use (procedure)
+   
+   IMMUNIZATIONS:
+  2022-03-25 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2022-03-15 : Acute viral pharyngitis (disorder)
+  2021-11-05 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

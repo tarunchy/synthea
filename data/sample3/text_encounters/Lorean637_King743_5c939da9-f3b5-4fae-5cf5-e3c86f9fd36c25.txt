@@ -1,0 +1,43 @@
+Lorean637 King743
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 21
+Birth Date:          2001-11-17
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2016-12-24 : Encounter at HILLTOWN COMMUNITY HEALTH CENTERS INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2016-12-24 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

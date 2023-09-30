@@ -1,0 +1,71 @@
+Jaime666 Romo23
+===============
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 60
+Birth Date:          1962-07-28
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2010-12-18 : Encounter at SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+Type: wellness
+   
+   MEDICATIONS:
+  2010-12-18 : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2010-12-18 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+  2010-12-18 : Full-time employment (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2009-12-12 : Metabolic syndrome X (disorder)
+  2009-01-08 : History of coronary artery bypass grafting (situation)
+  2008-12-16 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2008-12-06 : Ischemic heart disease (disorder)
+  2003-12-06 : Refugee (person)
+  2003-11-08 : Body mass index 30+ - obesity (finding)
+  1999-10-16 : Essential hypertension (disorder)
+  1998-05-02 : Anemia (disorder)
+  1996-10-12 : Prediabetes
+  1991-04-28 : Transport problem (finding)
+  1980-09-21 : Lack of access to transportation (finding)
+  1980-09-21 : Received certificate of high school equivalency (finding)
+   
+   MEDICATIONS:
+  2008-12-13 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2008-12-13 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  2008-12-13 : Simvastatin 20 MG Oral Tablet
+  2008-12-13 : Clopidogrel 75 MG Oral Tablet
+   
+   CAREPLANS:
+  1999-10-16 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1996-10-12 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

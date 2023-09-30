@@ -1,0 +1,45 @@
+Fern75 Kum811 McCullough561
+===========================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 51
+Birth Date:          1971-12-17
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1990-02-09 : Encounter at CARING HEALTHCARE SERVICES LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1990-02-09 : Stress (finding)
+  1990-02-09 : Full-time employment (finding)
+  1990-02-09 : Received certificate of high school equivalency (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

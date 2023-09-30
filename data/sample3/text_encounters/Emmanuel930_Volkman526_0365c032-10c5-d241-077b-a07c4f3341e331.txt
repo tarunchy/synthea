@@ -1,0 +1,51 @@
+Emmanuel930 Volkman526
+======================
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 23
+Birth Date:          1999-11-18
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2004-06-17 : Encounter at MIDDLETON FAMILY MEDICINE URGENT CARE, LLC
+Type: urgentcare
+   
+   MEDICATIONS:
+  2004-06-17 : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2004-06-17 : budesonide 0.125 MG/ML Inhalation Suspension for Childhood asthma
+   
+   CONDITIONS:
+  2004-06-17 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2001-12-27 : Childhood asthma
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2001-12-27 : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+   
+--------------------------------------------------------------------------------

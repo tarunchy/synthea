@@ -1,0 +1,43 @@
+Duane703 Borer986
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 9
+Birth Date:          2013-08-31
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2013-08-31 : Encounter at DRACUT FAMILY HEALTHCARE
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2013-08-31 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

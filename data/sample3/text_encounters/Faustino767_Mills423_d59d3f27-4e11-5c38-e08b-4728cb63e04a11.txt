@@ -1,0 +1,83 @@
+Faustino767 Mills423
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 81
+Birth Date:          1942-01-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-10-19 : Encounter at MORTON HOSPITAL : Encounter for Acute bronchitis (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+  2019-10-19 : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+   
+   CONDITIONS:
+  2019-10-19 : Acute bronchitis (disorder)
+   
+   CARE PLANS:
+  2019-10-19 : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2019-10-19 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-11-24 : Stress (finding)
+  2018-11-24 : Unemployed (finding)
+  2018-11-24 : Medication review due (situation)
+  2017-01-08 : History of myocardial infarction (situation)
+  2017-01-06 : Acute non-ST segment elevation myocardial infarction (disorder)
+  2016-11-12 : Has a criminal record (finding)
+  2014-02-03 : Chronic neck pain (finding)
+  2014-02-03 : Chronic low back pain (finding)
+  2014-02-03 : Chronic pain (finding)
+  2002-08-24 : Osteoporosis (disorder)
+  1987-05-30 : Body mass index 30+ - obesity (finding)
+  1976-03-27 : Essential hypertension (disorder)
+  1960-03-05 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2018-11-24 + Alendronic acid 10 MG Oral Tablet for Osteoporosis (disorder)
+  2018-11-24 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2018-11-24 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2018-11-24 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2017-01-08 : prasugrel 10 MG Oral Tablet
+  2017-01-08 : losartan potassium 100 MG Oral Tablet
+  2017-01-08 : atorvastatin 40 MG Oral Tablet
+  2017-01-08 : metoprolol tartrate 100 MG Oral Tablet
+  2017-01-08 : aspirin 81 MG Oral Tablet
+  2014-04-04 : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2013-02-26 : Alteplase 100 MG Injection
+  2013-02-26 : Clopidogrel 75 MG Oral Tablet
+   
+   CAREPLANS:
+  2017-01-08 : Discharge care plan (record artifact)
+  2014-04-04 : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavioral therapy (regime/therapy)
+  1976-03-27 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

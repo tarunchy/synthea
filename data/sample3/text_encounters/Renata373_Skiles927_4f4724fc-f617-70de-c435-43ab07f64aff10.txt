@@ -1,0 +1,91 @@
+Renata373 Skiles927
+===================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 20
+Birth Date:          2002-09-07
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-10-20 : Encounter at DUTTON FAMILY CARE ASSOCIATES LLP
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2018-10-20 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.4 %
+           - MCV [Entitic volume] by Automated count  88.7 fL
+           - MCH [Entitic mass] by Automated count    31.9 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.3 fL
+           - Platelets [#/volume] in Blood by Automated count 292.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 459.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2018-10-20 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2018-10-20 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+   
+   OBSERVATIONS:
+  2018-10-20 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2018-10-20 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2018-10-20 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-10-20 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2018-10-20 : Platelet distribution width [Entitic volume] in Blood by Automated count 459.4 fL
+  2018-10-20 : Platelets [#/volume] in Blood by Automated count 292.9 10*3/uL
+  2018-10-20 : Erythrocyte distribution width [Entitic volume] by Automated count 45.3 fL
+  2018-10-20 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2018-10-20 : MCH [Entitic mass] by Automated count    31.9 pg
+  2018-10-20 : MCV [Entitic volume] by Automated count  88.7 fL
+  2018-10-20 : Hematocrit [Volume Fraction] of Blood by Automated count 40.4 %
+  2018-10-20 : Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+  2018-10-20 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2018-10-20 : Leukocytes [#/volume] in Blood by Automated count 8.5 10*3/uL
+  2018-10-20 : Respiratory rate                         15.0 /min
+  2018-10-20 : Heart rate                               66.0 /min
+  2018-10-20 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 90.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2018-10-20 : Body mass index (BMI) [Percentile] Per age and sex 12.2 %
+  2018-10-20 : Body mass index (BMI) [Ratio]            17.7 kg/m2
+  2018-10-20 : Body Weight                              43.9 kg
+  2018-10-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-10-20 : Body Height                              157.6 cm
+   
+   PROCEDURES:
+  2018-10-20 : Anticipatory guidance (procedure)
+  2018-10-20 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2018-10-20 : Assessment of substance use (procedure)
+  2018-10-20 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2018-10-20 : Depression screening (procedure)
+  2018-10-20 : Assessment of anxiety (procedure)
+   
+   IMMUNIZATIONS:
+  2018-10-20 : meningococcal MCV4P
+  2018-10-20 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2014-09-27 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

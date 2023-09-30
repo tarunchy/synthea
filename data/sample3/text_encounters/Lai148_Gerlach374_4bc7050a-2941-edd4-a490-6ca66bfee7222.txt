@@ -1,0 +1,45 @@
+Lai148 Gerlach374
+=================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 10
+Birth Date:          2012-08-12
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-06-22 : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER : Encounter for Acute viral pharyngitis (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2022-06-22 : Acute viral pharyngitis (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2022-06-22 : Body temperature                         37.0 Cel
+   
+   PROCEDURES:
+  2022-06-22 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

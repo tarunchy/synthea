@@ -1,0 +1,61 @@
+Deb577 Katherin596 Bogisich202
+==============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 69
+Birth Date:          1953-09-13
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1954-06-28 : Shellfish (substance)
+  1954-06-28 : Aspirin
+  1954-06-28 : Lisinopril
+  1954-06-28 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2007-11-08 : Encounter at HENRY HEYWOOD MEMORIAL HOSPITAL : Encounter for Dependent drug abuse (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2007-11-08 : Dependent drug abuse (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1994-10-30 : Miscarriage in first trimester
+  1993-09-19 : Anemia (disorder)
+  1993-09-19 : Prediabetes
+  1981-11-22 : Body mass index 30+ - obesity (finding)
+  1971-11-07 : Social isolation (finding)
+  1971-11-07 : Received higher education (finding)
+  1970-05-06 : History of single seizure (situation)
+  1970-05-06 : Seizure disorder
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1993-09-19 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1954-06-14 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

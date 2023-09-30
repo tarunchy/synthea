@@ -1,0 +1,44 @@
+Faustino767 Mills423
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 81
+Birth Date:          1942-01-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1959-07-19 : Encounter at LIFE CARE CENTER OF RAYNHAM : Encounter for Fracture of bone (disorder)
+Type: emergency
+   
+   MEDICATIONS:
+  1959-07-19 : Aspirin 81 MG Oral Tablet
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+  1959-07-19 : Digital Radiography, Clavicle
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

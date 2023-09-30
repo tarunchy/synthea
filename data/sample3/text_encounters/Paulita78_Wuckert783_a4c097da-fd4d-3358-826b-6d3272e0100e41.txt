@@ -1,0 +1,54 @@
+Paulita78 Wuckert783
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 35
+Birth Date:          1988-02-13
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2013-04-20 : Encounter at ATLANTIC PRIMARY CARE PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2013-04-20 : Anemia (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2013-01-05 : Prediabetes
+  2012-07-28 : Miscarriage in first trimester
+  2010-04-17 : Stress (finding)
+  2006-04-08 : Social isolation (finding)
+  2006-04-08 : Full-time employment (finding)
+  2006-04-08 : Received higher education (finding)
+  2005-04-02 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2013-01-05 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

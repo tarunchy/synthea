@@ -1,0 +1,50 @@
+Amie520 Charlyn749 Smitham825
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 43
+Birth Date:          1980-03-14
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2008-04-04 : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Normal pregnancy
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2008-04-04 : Normal pregnancy
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2005-06-04 : Stress (finding)
+  2005-06-04 : Full-time employment (finding)
+  1999-05-29 : Transport problem (finding)
+  1998-05-23 : Lack of access to transportation (finding)
+  1998-05-23 : Only received primary school education (finding)
+  1995-05-06 : Risk activity involvement (finding)
+  1995-03-13 : Impacted molars
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

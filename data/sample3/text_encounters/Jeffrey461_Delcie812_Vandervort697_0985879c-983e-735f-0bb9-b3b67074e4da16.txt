@@ -1,0 +1,80 @@
+Jeffrey461 Delcie812 Vandervort697
+==================================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 34
+Birth Date:          1989-02-01
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-11-20 : Encounter at THE SHRINERS HOSPITAL FOR CHILDREN : Encounter for Normal pregnancy
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2019-11-20 : Normal pregnancy
+   
+   CARE PLANS:
+  2019-11-20 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2019-11-20 : Physical examination procedure (procedure) for Normal pregnancy
+  2019-11-20 : Urine protein test for Normal pregnancy
+  2019-11-20 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy
+  2019-11-20 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2019-11-20 : Rubella screening for Normal pregnancy
+  2019-11-20 : Hepatitis C antibody, confirmatory test for Normal pregnancy
+  2019-11-20 : Urine screening test for diabetes for Normal pregnancy
+  2019-11-20 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2019-11-20 : Urine culture for Normal pregnancy
+  2019-11-20 : Syphilis infectious titer test (procedure) for Normal pregnancy
+  2019-11-20 : Gonorrhea infection titer test (procedure) for Normal pregnancy
+  2019-11-20 : Chlamydia antigen test for Normal pregnancy
+  2019-11-20 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2019-11-20 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2019-11-20 : Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential for Normal pregnancy
+  2019-11-20 : Blood group typing (procedure) for Normal pregnancy
+  2019-11-20 : Auscultation of the fetal heart for Normal pregnancy
+  2019-11-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-11-20 : Ultrasound scan for fetal viability for Normal pregnancy
+  2019-11-20 : Standard pregnancy test for Normal pregnancy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-09-28 : Recurrent urinary tract infection
+  2019-05-08 : Stress (finding)
+  2018-05-02 : Full-time employment (finding)
+  2014-04-09 : Essential hypertension (disorder)
+  2008-04-02 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2019-05-08 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2019-05-08 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CAREPLANS:
+  2014-04-09 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

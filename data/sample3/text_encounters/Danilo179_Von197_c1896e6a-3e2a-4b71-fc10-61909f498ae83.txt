@@ -1,0 +1,75 @@
+Danilo179 Von197
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 11
+Birth Date:          2012-02-11
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2016-03-05 : Tree pollen (substance)
+  2016-03-05 : Animal dander (substance)
+  2016-03-05 : House dust mite (organism)
+  2016-03-05 : Mold (organism)
+  2016-03-05 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-02-13 : Encounter at SOUTH BOSTON COMMUNITY HEALTH CENTER INC
+Type: wellness
+   
+   MEDICATIONS:
+  2021-02-13 : NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Proventil] for Childhood asthma
+  2021-02-13 : 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] for Childhood asthma
+   
+   CONDITIONS:
+  2021-02-13 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2021-02-13 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-02-13 : Respiratory rate                         13.0 /min
+  2021-02-13 : Heart rate                               75.0 /min
+  2021-02-13 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2021-02-13 : Body mass index (BMI) [Percentile] Per age and sex 92.7 %
+  2021-02-13 : Body mass index (BMI) [Ratio]            20.2 kg/m2
+  2021-02-13 : Body Weight                              35.7 kg
+  2021-02-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-02-13 : Body Height                              133.0 cm
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2021-02-13 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2016-02-25 : Seasonal allergic rhinitis
+  2015-07-03 : Childhood asthma
+   
+   MEDICATIONS:
+  2016-03-05 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2016-02-25 : Loratadine 5 MG Chewable Tablet
+   
+   CAREPLANS:
+  2018-01-27 : Weight management program
+                         Activity: Low calorie diet
+                         Activity: Increased physical activity
+  2016-03-05 : Self-care interventions (procedure)
+                         Activity: Allergy education
+  2015-07-03 : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+   
+--------------------------------------------------------------------------------

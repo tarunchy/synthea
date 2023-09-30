@@ -1,0 +1,49 @@
+Deb577 Katherin596 Bogisich202
+==============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 69
+Birth Date:          1953-09-13
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1954-06-28 : Shellfish (substance)
+  1954-06-28 : Aspirin
+  1954-06-28 : Lisinopril
+  1954-06-28 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+1965-10-03 : Encounter at CORNERSTONE FAMILY MEDICINE, INC.
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1965-10-03 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1954-06-14 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

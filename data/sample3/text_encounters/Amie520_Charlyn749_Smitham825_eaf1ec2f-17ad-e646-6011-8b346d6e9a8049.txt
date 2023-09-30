@@ -1,0 +1,44 @@
+Amie520 Charlyn749 Smitham825
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 43
+Birth Date:          1980-03-14
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1995-03-13 : Encounter at LIFE CARE CENTER OF ATTLEBORO : Encounter for Impacted molars
+Type: emergency
+   
+   MEDICATIONS:
+  1995-03-13 : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+   
+   CONDITIONS:
+  1995-03-13 : Impacted molars
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

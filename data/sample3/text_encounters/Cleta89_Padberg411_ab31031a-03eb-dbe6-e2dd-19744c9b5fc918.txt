@@ -1,0 +1,79 @@
+Cleta89 Padberg411
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 51
+Birth Date:          1971-10-23
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-01-04 : Encounter at UMASS MEMORIAL MEDICAL CENTER INC : Encounter for Normal pregnancy
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2020-01-04 : Normal pregnancy
+   
+   CARE PLANS:
+  2020-01-04 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2020-01-04 : Physical examination procedure (procedure) for Normal pregnancy
+  2020-01-04 : Urine protein test for Normal pregnancy
+  2020-01-04 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy
+  2020-01-04 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2020-01-04 : Rubella screening for Normal pregnancy
+  2020-01-04 : Hepatitis C antibody, confirmatory test for Normal pregnancy
+  2020-01-04 : Urine screening test for diabetes for Normal pregnancy
+  2020-01-04 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2020-01-04 : Urine culture for Normal pregnancy
+  2020-01-04 : Syphilis infectious titer test (procedure) for Normal pregnancy
+  2020-01-04 : Gonorrhea infection titer test (procedure) for Normal pregnancy
+  2020-01-04 : Chlamydia antigen test for Normal pregnancy
+  2020-01-04 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2020-01-04 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2020-01-04 : Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential for Normal pregnancy
+  2020-01-04 : Blood group typing (procedure) for Normal pregnancy
+  2020-01-04 : Auscultation of the fetal heart for Normal pregnancy
+  2020-01-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-01-04 : Ultrasound scan for fetal viability for Normal pregnancy
+  2020-01-04 : Standard pregnancy test for Normal pregnancy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-11-16 : Severe anxiety (panic) (finding)
+  2019-11-16 : Stress (finding)
+  2019-11-16 : Part-time employment (finding)
+  2009-01-10 : Victim of intimate partner abuse (finding)
+  2006-01-07 : Limited social contact (finding)
+  1990-12-22 : Anemia (disorder)
+  1990-12-22 : Prediabetes
+  1989-12-16 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1990-12-22 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

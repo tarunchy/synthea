@@ -1,0 +1,43 @@
+Man114 Etta748 Kassulke119
+==========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 76
+Birth Date:          1946-12-23
+Marital Status:      W
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1946-12-23 : Encounter at CENTER FOR DIGESTIVE WELLNESS PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1946-12-23 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

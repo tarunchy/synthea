@@ -1,0 +1,43 @@
+Juan88 Jenniffer979 Frami345
+============================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 56
+Birth Date:          1967-06-27
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1977-07-05 : Encounter at CARING HEALTH CENTER, INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1977-07-05 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

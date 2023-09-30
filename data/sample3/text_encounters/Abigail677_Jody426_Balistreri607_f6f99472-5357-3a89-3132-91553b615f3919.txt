@@ -1,0 +1,55 @@
+Abigail677 Jody426 Balistreri607
+================================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 33
+Birth Date:          1990-04-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-03-02 : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Normal pregnancy
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2020-03-02 : Auscultation of the fetal heart for Normal pregnancy
+  2020-03-02 : Evaluation of uterine fundal height for Normal pregnancy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-12-09 : Normal pregnancy
+  2018-06-25 : Full-time employment (finding)
+  2018-06-25 : Medication review due (situation)
+  2015-06-22 : Stress (finding)
+  2012-06-18 : Body mass index 30+ - obesity (finding)
+  2008-06-09 : Only received primary school education (finding)
+  2004-05-17 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2019-12-09 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+   
+--------------------------------------------------------------------------------

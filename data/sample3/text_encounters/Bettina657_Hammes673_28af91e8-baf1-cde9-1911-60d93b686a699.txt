@@ -1,0 +1,64 @@
+Bettina657 Hammes673
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 18
+Birth Date:          2004-12-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-10-30 : Encounter at THE LOWELL GENERAL HOSPITAL
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-10-30 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+   
+   OBSERVATIONS:
+  2020-10-30 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2020-10-30 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-10-30 : Respiratory rate                         13.0 /min
+  2020-10-30 : Heart rate                               85.0 /min
+  2020-10-30 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  139.0 mm[Hg]
+  2020-10-30 : Body mass index (BMI) [Percentile] Per age and sex 88.7 %
+  2020-10-30 : Body mass index (BMI) [Ratio]            25.6 kg/m2
+  2020-10-30 : Body Weight                              61.6 kg
+  2020-10-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2020-10-30 : Body Height                              155.2 cm
+   
+   PROCEDURES:
+  2020-10-30 : Anticipatory guidance (procedure)
+  2020-10-30 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2020-10-30 : Assessment of substance use (procedure)
+  2020-10-30 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2020-10-30 : Depression screening (procedure)
+   
+   IMMUNIZATIONS:
+  2020-10-30 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-01-17 : Severe anxiety (panic) (finding)
+  2019-01-11 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

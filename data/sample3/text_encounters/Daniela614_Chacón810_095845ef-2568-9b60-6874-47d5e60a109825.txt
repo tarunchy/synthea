@@ -1,0 +1,85 @@
+Daniela614 Chacón810
+===============ó====
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 81
+Birth Date:          1942-02-12
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2015-08-25 : Encounter at Fitchburg Outpatient Clinic : Encounter for Ischemic heart disease (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2015-08-25 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2015-08-13 : Limited social contact (finding)
+  2015-08-13 : Ischemic heart disease (disorder)
+  2014-02-01 : Chronic neck pain (finding)
+  2014-02-01 : Chronic low back pain (finding)
+  2014-02-01 : Chronic pain (finding)
+  2012-07-26 : Stress (finding)
+  2012-07-26 : Hyperlipidemia
+  2000-11-15 : Osteoarthritis of knee
+  2000-02-10 : History of myocardial infarction (situation)
+  2000-02-08 : Acute non-ST segment elevation myocardial infarction (disorder)
+  1986-02-27 : Essential hypertension (disorder)
+  1964-04-16 : Body mass index 30+ - obesity (finding)
+  1960-04-07 : Refugee (person)
+  1960-04-07 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2015-08-20 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2015-08-20 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  2015-08-20 : Simvastatin 20 MG Oral Tablet
+  2015-08-20 : Clopidogrel 75 MG Oral Tablet
+  2015-08-13 : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2015-08-13 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2014-08-16 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2012-08-16 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2000-11-15 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+  2000-02-10 : prasugrel 10 MG Oral Tablet
+  2000-02-10 : atorvastatin 40 MG Oral Tablet
+  2000-02-10 : atenolol 100 MG Oral Tablet
+  2000-02-10 : aspirin 81 MG Oral Tablet
+   
+   CAREPLANS:
+  2012-08-16 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+  2000-11-15 : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  2000-02-10 : Discharge care plan (record artifact)
+  1986-02-27 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

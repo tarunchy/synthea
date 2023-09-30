@@ -1,0 +1,60 @@
+Juana825 O'Connell601
+=========='==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 70
+Birth Date:          1952-09-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2016-11-30 : Encounter at DARTMOUTH PRIMARY MEDICINE, LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2016-11-30 : Full-time employment (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2015-11-25 : Medication review due (situation)
+  2012-11-07 : Social isolation (finding)
+  1994-09-21 : Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder)
+  1994-09-21 : Retinopathy due to type 2 diabetes mellitus (disorder)
+  1989-11-29 : Metabolic syndrome X (disorder)
+  1989-11-29 : Hypertriglyceridemia (disorder)
+  1986-11-26 : Diabetes mellitus type 2 (disorder)
+  1977-10-28 : History of tubal ligation (situation)
+  1971-11-10 : Transport problem (finding)
+  1970-11-04 : Has a criminal record (finding)
+  1970-11-04 : Lack of access to transportation (finding)
+  1970-11-04 : Received certificate of high school equivalency (finding)
+  1970-06-23 : Chronic sinusitis (disorder)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1986-11-26 : Diabetes self management plan
+                         Reason: Diabetes mellitus type 2 (disorder)
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

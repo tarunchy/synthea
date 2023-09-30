@@ -1,0 +1,87 @@
+Arthur650 Kihn564
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 26
+Birth Date:          1997-04-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-06-23 : Encounter at HEBREW SENIORLIFE AFFILIATED MEDICAL GROUP INC : Encounter for Anemia (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2022-06-23 : CBC panel - Blood by Automated count
+           - Hemoglobin [Mass/volume] in Blood        11.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood    33.1 %
+           - Leukocytes [#/volume] in Blood by Automated count 7.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - MCV [Entitic volume] by Automated count  90.5 fL
+           - MCH [Entitic mass] by Automated count    30.4 pg
+           - MCHC [Mass/volume] by Automated count    35.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.9 fL
+           - Platelets [#/volume] in Blood by Automated count 180.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 477.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+   
+   OBSERVATIONS:
+  2022-06-23 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2022-06-23 : Platelet distribution width [Entitic volume] in Blood by Automated count 477.5 fL
+  2022-06-23 : Platelets [#/volume] in Blood by Automated count 180.3 10*3/uL
+  2022-06-23 : Erythrocyte distribution width [Entitic volume] by Automated count 43.9 fL
+  2022-06-23 : MCHC [Mass/volume] by Automated count    35.6 g/dL
+  2022-06-23 : MCH [Entitic mass] by Automated count    30.4 pg
+  2022-06-23 : MCV [Entitic volume] by Automated count  90.5 fL
+  2022-06-23 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2022-06-23 : Leukocytes [#/volume] in Blood by Automated count 7.4 10*3/uL
+  2022-06-23 : Hematocrit [Volume Fraction] of Blood    33.1 %
+  2022-06-23 : Hemoglobin [Mass/volume] in Blood        11.8 g/dL
+   
+   PROCEDURES:
+  2022-06-23 : Brief general examination (procedure)
+  2022-06-23 : Medication Reconciliation (procedure)
+  2022-06-23 : Review of systems (procedure)
+  2022-06-23 : Peripheral blood smear interpretation
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2022-06-16 : Full-time employment (finding)
+  2022-06-16 : Anemia (disorder)
+  2022-06-16 : Prediabetes
+  2021-11-18 : Normal pregnancy
+  2015-06-18 : Stress (finding)
+  2015-06-18 : Medication review due (situation)
+  2015-06-04 : Received higher education (finding)
+  2008-12-09 : History of appendectomy
+  2008-12-09 : Appendicitis
+  2008-12-09 : Rupture of appendix
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2022-06-16 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2021-11-18 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+   
+--------------------------------------------------------------------------------

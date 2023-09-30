@@ -1,0 +1,212 @@
+Rodrigo242 Hernádez343
+===============á======
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 76
+Birth Date:          1946-07-29
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-10-26 : Encounter at HOLYOKE MEDICAL CENTER INC
+Type: outpatient
+   
+   MEDICATIONS:
+  2020-10-26 : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2020-10-26 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2020-10-26 : 24 HR tacrolimus 1 MG Extended Release Oral Tablet for History of renal transplant (situation)
+  2020-10-26 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2020-10-26 : insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+   
+   CONDITIONS:
+  2020-10-26 : Stress (finding)
+  2020-10-26 : Social isolation (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-10-26 : Basic metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 83.3 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 14.1 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.0 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.5 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 139.6 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.7 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 101.1 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 37.1 mL/min/{1.73_m2}
+  2020-10-26 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 2.2 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.5 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 19.8 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = ++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.7 pH
+           - Protein [Mass/volume] in Urine by Test strip 221.4 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2020-10-26 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           83.3 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     14.1 mg/dL
+           - Creatinine [Mass/volume] in Blood        4.8 mg/dL
+           - Calcium [Mass/volume] in Blood           9.5 mg/dL
+           - Sodium [Moles/volume] in Blood           139.6 mmol/L
+           - Potassium [Moles/volume] in Blood        4.7 mmol/L
+           - Chloride [Moles/volume] in Blood         101.1 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 22.7 mmol/L
+  2020-10-26 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       122.0 {#}
+           - Fall risk level [Morse Fall Scale]       High Risk (MFS Score 50+) 
+  2020-10-26 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+   
+   OBSERVATIONS:
+  2020-10-26 : Total score [HARK]                       0.0 {score}
+  2020-10-26 : Fall risk level [Morse Fall Scale]       High Risk (MFS Score 50+) 
+  2020-10-26 : Fall risk total [Morse Fall Scale]       122.0 {#}
+  2020-10-26 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Very much 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 20798 /a
+           - Primary insurance                        I choose not to answer this question 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  928 MacGyver Mill 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 7.0 {#}
+           - Preferred language                       Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2020-10-26 : Tobacco smoking status                   Ex-smoker (finding) 
+  2020-10-26 : Carbon dioxide, total [Moles/volume] in Blood 22.7 mmol/L
+  2020-10-26 : Chloride [Moles/volume] in Blood         101.1 mmol/L
+  2020-10-26 : Potassium [Moles/volume] in Blood        4.7 mmol/L
+  2020-10-26 : Sodium [Moles/volume] in Blood           139.6 mmol/L
+  2020-10-26 : Calcium [Mass/volume] in Blood           9.5 mg/dL
+  2020-10-26 : Creatinine [Mass/volume] in Blood        4.8 mg/dL
+  2020-10-26 : Urea nitrogen [Mass/volume] in Blood     14.1 mg/dL
+  2020-10-26 : Glucose [Mass/volume] in Blood           83.3 mg/dL
+  2020-10-26 : Respiratory rate                         13.0 /min
+  2020-10-26 : Heart rate                               86.0 /min
+  2020-10-26 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 53.0 mm[Hg]
+           - Systolic Blood Pressure                  102.0 mm[Hg]
+  2020-10-26 : Body mass index (BMI) [Ratio]            28.3 kg/m2
+  2020-10-26 : Body Weight                              82.9 kg
+  2020-10-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-10-26 : Body Height                              171.1 cm
+  2020-10-26 : Hemoglobin A1c/Hemoglobin.total in Blood 3.3 %
+  2020-10-26 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2020-10-26 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2020-10-26 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2020-10-26 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2020-10-26 : Protein [Mass/volume] in Urine by Test strip 221.4 mg/dL
+  2020-10-26 : pH of Urine by Test strip                6.7 pH
+  2020-10-26 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2020-10-26 : Ketones [Presence] in Urine by Test strip Urine ketone test = ++ (finding) {nominal}
+  2020-10-26 : Ketones [Mass/volume] in Urine by Test strip 19.8 mg/dL
+  2020-10-26 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2020-10-26 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.5 mg/dL
+  2020-10-26 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2020-10-26 : Glucose [Mass/volume] in Urine by Test strip 2.2 mg/dL
+  2020-10-26 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2020-10-26 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2020-10-26 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2020-10-26 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2020-10-26 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 37.1 mL/min/{1.73_m2}
+  2020-10-26 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.7 mmol/L
+  2020-10-26 : Chloride [Moles/volume] in Serum or Plasma 101.1 mmol/L
+  2020-10-26 : Potassium [Moles/volume] in Serum or Plasma 4.7 mmol/L
+  2020-10-26 : Sodium [Moles/volume] in Serum or Plasma 139.6 mmol/L
+  2020-10-26 : Calcium [Mass/volume] in Serum or Plasma 9.5 mg/dL
+  2020-10-26 : Creatinine [Mass/volume] in Serum or Plasma 2.0 mg/dL
+  2020-10-26 : Urea nitrogen [Mass/volume] in Serum or Plasma 14.1 mg/dL
+  2020-10-26 : Glucose [Mass/volume] in Serum or Plasma 83.3 mg/dL
+   
+   PROCEDURES:
+  2020-10-26 : Screening for domestic abuse (procedure)
+  2020-10-26 : Assessment using Morse Fall Scale (procedure)
+  2020-10-26 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-09-28 : Medication review due (situation)
+  2020-03-30 : Full-time employment (finding)
+  2019-10-28 : Victim of intimate partner abuse (finding)
+  2017-11-13 : Chronic kidney disease stage 3 (disorder)
+  2015-07-23 : History of coronary artery bypass grafting (situation)
+  2015-07-15 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2015-07-06 : Ischemic heart disease (disorder)
+  2014-06-30 : Chronic kidney disease stage 2 (disorder)
+  2011-04-04 : Chronic kidney disease stage 1 (disorder)
+  2003-12-12 : History of renal transplant (situation)
+  1994-01-10 : Chronic sinusitis (disorder)
+  1990-09-03 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  1988-10-17 : Metabolic syndrome X (disorder)
+  1988-10-10 : Body mass index 30+ - obesity (finding)
+  1986-01-20 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1985-01-14 : Refugee (person)
+  1984-01-09 : Disorder of kidney due to diabetes mellitus (disorder)
+  1982-01-04 : Septic shock (disorder)
+  1982-01-04 : Sepsis (disorder)
+  1967-10-09 : Anemia (disorder)
+  1967-10-09 : Prediabetes
+  1965-09-27 : Lack of access to transportation (finding)
+  1964-09-21 : Transport problem (finding)
+  1964-09-21 : Received higher education (finding)
+  1964-09-21 : Essential hypertension (disorder)
+   
+   MEDICATIONS:
+  2015-07-13 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2015-07-13 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  2015-07-13 : Simvastatin 20 MG Oral Tablet
+  2015-07-13 : Clopidogrel 75 MG Oral Tablet
+   
+   CAREPLANS:
+  2003-12-12 : Care plan (record artifact)
+                         Activity: Transplantation of kidney regime (regime/therapy)
+                         Activity: Post-surgical wound care (regime/therapy)
+                         Activity: Renal function monitoring (regime/therapy)
+                         Activity: Very low sodium diet (finding)
+  1998-09-17 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1967-10-09 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1964-09-21 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

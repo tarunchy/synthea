@@ -1,0 +1,135 @@
+Mistie167 Jamika47 Armstrong51
+==============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 59
+Birth Date:          1964-03-01
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-04-06 : Encounter at HOPKINTON MEDICAL CARE, P.C.
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2020-04-06 : Stress (finding)
+  2020-04-06 : Not in labor force (finding)
+  2020-04-06 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-04-06 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           120.6 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     9.2 mg/dL
+           - Creatinine [Mass/volume] in Blood        1.1 mg/dL
+           - Calcium [Mass/volume] in Blood           9.6 mg/dL
+           - Sodium [Moles/volume] in Blood           141.2 mmol/L
+           - Potassium [Moles/volume] in Blood        3.7 mmol/L
+           - Chloride [Moles/volume] in Blood         107.1 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 28.6 mmol/L
+  2020-04-06 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 231.9 mg/dL
+           - Triglycerides                            169.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      157.7 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 40.3 mg/dL
+  2020-04-06 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       3.0 {score}
+  2020-04-06 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    0.0 {score}
+   
+   OBSERVATIONS:
+  2020-04-06 : Total score [AUDIT-C]                    0.0 {score}
+  2020-04-06 : Total score [HARK]                       3.0 {score}
+  2020-04-06 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 174146 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Otherwise unemployed but not seeking work (ex: student, retired, disabled, unpaid primary care giver) 
+           - Highest level of education               Less than high school degree 
+           - Address                                  921 Will Underpass 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 7.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2020-04-06 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-04-06 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 64.0 mL/min/{1.73_m2}
+  2020-04-06 : Microalbumin/Creatinine [Mass Ratio] in Urine 3.4 mg/g
+  2020-04-06 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 40.3 mg/dL
+  2020-04-06 : Low Density Lipoprotein Cholesterol      157.7 mg/dL
+  2020-04-06 : Triglycerides                            169.2 mg/dL
+  2020-04-06 : Cholesterol [Mass/volume] in Serum or Plasma 231.9 mg/dL
+  2020-04-06 : Carbon dioxide, total [Moles/volume] in Blood 28.6 mmol/L
+  2020-04-06 : Chloride [Moles/volume] in Blood         107.1 mmol/L
+  2020-04-06 : Potassium [Moles/volume] in Blood        3.7 mmol/L
+  2020-04-06 : Sodium [Moles/volume] in Blood           141.2 mmol/L
+  2020-04-06 : Calcium [Mass/volume] in Blood           9.6 mg/dL
+  2020-04-06 : Creatinine [Mass/volume] in Blood        1.1 mg/dL
+  2020-04-06 : Urea nitrogen [Mass/volume] in Blood     9.2 mg/dL
+  2020-04-06 : Glucose [Mass/volume] in Blood           120.6 mg/dL
+  2020-04-06 : Respiratory rate                         15.0 /min
+  2020-04-06 : Heart rate                               62.0 /min
+  2020-04-06 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2020-04-06 : Body mass index (BMI) [Ratio]            27.8 kg/m2
+  2020-04-06 : Body Weight                              73.1 kg
+  2020-04-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-04-06 : Body Height                              162.2 cm
+  2020-04-06 : Hemoglobin A1c/Hemoglobin.total in Blood 7.0 %
+   
+   PROCEDURES:
+  2020-04-06 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2020-04-06 : Assessment of substance use (procedure)
+  2020-04-06 : Screening for domestic abuse (procedure)
+  2020-04-06 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+  2020-04-06 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-04-01 : Victim of intimate partner abuse (finding)
+  2019-04-01 : Neuropathy due to type 2 diabetes mellitus (disorder)
+  2018-03-26 : Has a criminal record (finding)
+  2012-03-26 : Metabolic syndrome X (disorder)
+  2012-03-26 : Hypertriglyceridemia (disorder)
+  2010-03-22 : Anemia (disorder)
+  2010-03-22 : Diabetes mellitus type 2 (disorder)
+  1994-05-23 : Miscarriage in first trimester
+  1986-01-19 : Body mass index 30+ - obesity (finding)
+  1985-12-02 : Recurrent urinary tract infection
+  1982-04-26 : Only received primary school education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2010-03-22 : Diabetes self management plan
+                         Reason: Diabetes mellitus type 2 (disorder)
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1976-03-21 : Weight management program
+                         Activity: Low calorie diet
+                         Activity: Increased physical activity
+   
+--------------------------------------------------------------------------------

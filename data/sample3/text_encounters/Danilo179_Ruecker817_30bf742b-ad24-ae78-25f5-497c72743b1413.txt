@@ -1,0 +1,79 @@
+Danilo179 Ruecker817
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 47
+Birth Date:          1976-03-15
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2001-06-26 : Sulfamethoxazole / Trimethoprim
+  2001-06-26 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2015-08-10 : Encounter at HARBOR HEALTH SERVICES INC
+Type: wellness
+   
+   MEDICATIONS:
+  2015-08-10 : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2015-08-10 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2015-08-10 : tramadol hydrochloride 50 MG Oral Tablet
+  2015-08-10 : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2015-08-10 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+  2015-08-10 : Stress (finding)
+  2015-08-10 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2014-02-05 : Chronic low back pain (finding)
+  2014-02-05 : Chronic pain (finding)
+  2003-06-02 : Metabolic syndrome X (disorder)
+  2002-05-27 : Body mass index 30+ - obesity (finding)
+  2001-05-21 : Anemia (disorder)
+  2001-05-21 : Prediabetes
+  2001-05-21 : Essential hypertension (disorder)
+  1995-05-15 : Lack of access to transportation (finding)
+  1994-05-09 : Transport problem (finding)
+  1994-05-09 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2014-03-28 : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2001-06-26 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2001-06-26 : Fexofenadine hydrochloride 60 MG Oral Tablet
+  2001-06-12 + Hydrocortisone 10 MG/ML Topical Cream for Contact dermatitis
+   
+   CAREPLANS:
+  2014-03-28 : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavioral therapy (regime/therapy)
+  2001-06-26 : Self-care interventions (procedure)
+                         Activity: Allergy education
+  2001-05-21 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2001-05-21 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

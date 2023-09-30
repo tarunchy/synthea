@@ -1,0 +1,45 @@
+Bettina657 Hammes673
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 18
+Birth Date:          2004-12-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-07-27 : Encounter at THE LOWELL GENERAL HOSPITAL : Encounter for Acute bacterial sinusitis (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2019-07-27 : Acute bacterial sinusitis (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-01-11 : Medication review due (situation)
+   
+   MEDICATIONS:
+  2018-12-10 : Camila 28 Day Pack
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,43 @@
+Carolyn322 Auer97
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 58
+Birth Date:          1965-01-04
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1965-01-04 : Encounter at NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1965-01-04 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

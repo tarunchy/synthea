@@ -1,0 +1,108 @@
+Albert312 Hyatt152
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1964-03-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2013-11-05 : Encounter at MEDFORD VISITING NURSING ASSOCIATION : Encounter for Non-small cell lung cancer (disorder)
+Type: hospice
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2013-11-26 : Hospice care (regime/therapy)
+  2013-11-25 : Hospice care (regime/therapy)
+  2013-11-24 : Hospice care (regime/therapy)
+  2013-11-23 : Hospice care (regime/therapy)
+  2013-11-22 : Hospice care (regime/therapy)
+  2013-11-21 : Hospice care (regime/therapy)
+  2013-11-20 : Hospice care (regime/therapy)
+  2013-11-19 : Hospice care (regime/therapy)
+  2013-11-18 : Hospice care (regime/therapy)
+  2013-11-17 : Hospice care (regime/therapy)
+  2013-11-16 : Hospice care (regime/therapy)
+  2013-11-15 : Hospice care (regime/therapy)
+  2013-11-14 : Hospice care (regime/therapy)
+  2013-11-13 : Hospice care (regime/therapy)
+  2013-11-12 : Hospice care (regime/therapy)
+  2013-11-11 : Hospice care (regime/therapy)
+  2013-11-10 : Hospice care (regime/therapy)
+  2013-11-09 : Hospice care (regime/therapy)
+  2013-11-08 : Hospice care (regime/therapy)
+  2013-11-07 : Hospice care (regime/therapy)
+  2013-11-06 : Hospice care (regime/therapy)
+  2013-11-05 : Hospice care (regime/therapy)
+  2013-11-05 : Development of individualized plan of care (procedure)
+  2013-11-05 : Initial patient assessment (procedure)
+  2013-11-05 : Notifications (procedure)
+  2013-11-05 : Certification procedure (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2013-10-22 : Stress (finding)
+  2013-10-22 : Not in labor force (finding)
+  2013-10-22 : Neuropathy due to type 2 diabetes mellitus (disorder)
+  2013-10-22 : Medication review due (situation)
+  2013-08-06 : Brain damage - traumatic
+  2012-11-21 : Osteoarthritis of knee
+  2011-01-29 : Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+  2011-01-28 : Non-small cell lung cancer (disorder)
+  2011-01-17 : Suspected lung cancer (situation)
+  2002-08-13 : Metabolic syndrome X (disorder)
+  2002-08-13 : Hypertriglyceridemia (disorder)
+  2001-08-07 : Anemia (disorder)
+  2001-08-07 : Diabetes mellitus type 2 (disorder)
+  1991-06-11 : Has a criminal record (finding)
+  1986-05-13 : Lack of access to transportation (finding)
+  1986-05-13 : Essential hypertension (disorder)
+  1982-05-04 : Transport problem (finding)
+  1982-05-04 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2013-10-22 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2013-10-22 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2012-11-21 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+   
+   CAREPLANS:
+  2012-11-21 : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  2011-01-29 : Terminal care
+                         Reason: Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+                         Activity: Comfort measures
+                         Activity: Chronic pain control management
+                         Activity: Cancer education
+  2001-08-07 : Diabetes self management plan
+                         Reason: Diabetes mellitus type 2 (disorder)
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1986-05-13 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,46 @@
+Alvin56 Hamill307
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 68
+Birth Date:          1954-12-24
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1973-02-16 : Encounter at FATHERS UPLIFT FAMILY GROUP LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1973-02-16 : Has a criminal record (finding)
+  1973-02-16 : Stress (finding)
+  1973-02-16 : Transport problem (finding)
+  1973-02-16 : Received higher education (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

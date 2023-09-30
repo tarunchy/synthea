@@ -1,0 +1,73 @@
+Anderson154 Hauck852
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 28
+Birth Date:          1995-01-31
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-10-19 : Encounter at PILGRIM REHABILITATION & SKILLED NURSING CENTER : Encounter for Patient transfer to skilled nursing facility (procedure)
+Type: snf
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2018-10-19 : Patient transfer to skilled nursing facility (procedure)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2018-10-27 : Discharge from skilled nursing facility (procedure)
+  2018-10-27 : Pre-discharge assessment (procedure)
+  2018-10-26 : Speech and language therapy regime (regime/therapy)
+  2018-10-26 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-25 : Professional / ancillary services care (regime/therapy)
+  2018-10-25 : Physical therapy procedure (regime/therapy)
+  2018-10-25 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-24 : Speech and language therapy regime (regime/therapy)
+  2018-10-24 : Occupational therapy (regime/therapy)
+  2018-10-24 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-23 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-22 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-21 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-20 : Physical therapy procedure (regime/therapy)
+  2018-10-20 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-19 : Professional / ancillary services care (regime/therapy)
+  2018-10-19 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-19 : Development of individualized plan of care (procedure)
+  2018-10-19 : Initial patient assessment (procedure)
+  2018-10-19 : History AND physical examination (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-05-01 : Misuses drugs (finding)
+  2017-04-25 : Part-time employment (finding)
+  2016-04-19 : Stress (finding)
+  2014-02-06 : Chronic neck pain (finding)
+  2014-02-06 : Chronic low back pain (finding)
+  2014-02-06 : Chronic pain (finding)
+  2013-04-02 : Received higher education (finding)
+  2013-04-02 : Housing unsatisfactory (finding)
+  2013-04-02 : Medication review due (situation)
+   
+   MEDICATIONS:
+  2018-05-01 : Acetaminophen 325 MG Oral Tablet [Tylenol]
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

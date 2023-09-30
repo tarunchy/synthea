@@ -1,0 +1,52 @@
+Pete38 Crist667
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 13
+Birth Date:          2010-01-30
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2011-03-30 : Peanut (substance)
+  2011-03-30 : Fish (substance)
+  2011-03-30 : Aspirin
+  2011-03-30 : Grass pollen (substance)
+  2011-03-30 : Animal dander (substance)
+  2011-03-30 : House dust mite (organism)
+  2011-03-30 : Mold (organism)
+  2011-03-30 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2011-03-16 : Encounter at FIRST PSYCHIATRIC PLANNERS, INC : Encounter for Fish (substance)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+  2011-03-16 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

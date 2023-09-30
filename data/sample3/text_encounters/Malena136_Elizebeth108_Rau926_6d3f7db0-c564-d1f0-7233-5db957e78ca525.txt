@@ -1,0 +1,46 @@
+Malena136 Elizebeth108 Rau926
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 43
+Birth Date:          1980-02-15
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2014-01-24 : Encounter at ARBOUR-FULLER HOSPITAL
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2014-01-24 : Full-time employment (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1998-04-10 : Received certificate of high school equivalency (finding)
+  1981-05-29 : History of single seizure (situation)
+  1981-05-29 : Seizure disorder
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

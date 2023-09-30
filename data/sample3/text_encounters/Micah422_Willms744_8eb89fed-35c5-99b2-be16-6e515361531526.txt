@@ -1,0 +1,47 @@
+Micah422 Willms744
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 39
+Birth Date:          1984-05-28
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2002-07-22 : Encounter at PLYMOUTH FAMILY OPTOMETRY LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2002-07-22 : Stress (finding)
+  2002-07-22 : Full-time employment (finding)
+  2002-07-22 : Received higher education (finding)
+  2002-07-22 : Housing unsatisfactory (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2001-07-16 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

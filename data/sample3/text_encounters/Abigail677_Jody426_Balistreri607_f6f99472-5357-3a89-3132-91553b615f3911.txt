@@ -1,0 +1,52 @@
+Abigail677 Jody426 Balistreri607
+================================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 33
+Birth Date:          1990-04-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-08-31 : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2021-01-23 : Suspected COVID-19
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2020-08-31 : Depression screening
+  2020-08-31 : Physical examination procedure (procedure)
+  2020-08-31 : Passive immunization (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-06-25 : Full-time employment (finding)
+  2018-06-25 : Medication review due (situation)
+  2015-06-22 : Stress (finding)
+  2012-06-18 : Body mass index 30+ - obesity (finding)
+  2008-06-09 : Only received primary school education (finding)
+  2004-05-17 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

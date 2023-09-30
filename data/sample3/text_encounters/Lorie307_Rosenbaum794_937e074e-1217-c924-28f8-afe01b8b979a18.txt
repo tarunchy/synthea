@@ -1,0 +1,50 @@
+Lorie307 Rosenbaum794
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 51
+Birth Date:          1972-03-27
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2009-06-15 : Encounter at LONGFELLOW PRIMARY CARE, PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2009-06-15 : Prediabetes
+   
+   CARE PLANS:
+  2009-06-15 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1994-05-30 : Transport problem (finding)
+  1990-05-21 : Lack of access to transportation (finding)
+  1990-05-21 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

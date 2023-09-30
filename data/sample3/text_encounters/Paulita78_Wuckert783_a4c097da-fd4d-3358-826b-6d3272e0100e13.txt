@@ -1,0 +1,79 @@
+Paulita78 Wuckert783
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 35
+Birth Date:          1988-02-13
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-09-10 : Encounter at DANA FARBER CANCER INSTITUTE : Encounter for Normal pregnancy
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2022-09-10 : Normal pregnancy
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2022-09-10 : Physical examination procedure (procedure) for Normal pregnancy
+  2022-09-10 : Urine protein test for Normal pregnancy
+  2022-09-10 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy
+  2022-09-10 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2022-09-10 : Rubella screening for Normal pregnancy
+  2022-09-10 : Hepatitis C antibody, confirmatory test for Normal pregnancy
+  2022-09-10 : Urine screening test for diabetes for Normal pregnancy
+  2022-09-10 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2022-09-10 : Urine culture for Normal pregnancy
+  2022-09-10 : Syphilis infectious titer test (procedure) for Normal pregnancy
+  2022-09-10 : Gonorrhea infection titer test (procedure) for Normal pregnancy
+  2022-09-10 : Chlamydia antigen test for Normal pregnancy
+  2022-09-10 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2022-09-10 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2022-09-10 : Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential for Normal pregnancy
+  2022-09-10 : Blood group typing (procedure) for Normal pregnancy
+  2022-09-10 : Auscultation of the fetal heart for Normal pregnancy
+  2022-09-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2022-09-10 : Ultrasound scan for fetal viability for Normal pregnancy
+  2022-09-10 : Standard pregnancy test for Normal pregnancy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-04-27 : Stress (finding)
+  2019-04-27 : Full-time employment (finding)
+  2013-04-20 : Anemia (disorder)
+  2013-01-05 : Prediabetes
+  2012-07-28 : Miscarriage in first trimester
+  2006-04-08 : Social isolation (finding)
+  2006-04-08 : Received higher education (finding)
+  2005-04-02 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2021-02-27 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2013-01-05 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,62 @@
+Gerry91 Schumm995
+=================
+Race:                Native
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 29
+Birth Date:          1993-10-23
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2018-12-13 : Sulfamethoxazole / Trimethoprim
+  2018-12-13 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-03-09 : Encounter at VHS ACQUISITION SUBSIDIARY NUMBER 9, INC. : Encounter for Allergy to substance (finding)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2022-03-09 : Subcutaneous immunotherapy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-03-27 : Unemployed (finding)
+  2020-03-21 : Stress (finding)
+  2015-02-21 : Has a criminal record (finding)
+  2014-02-03 : Chronic low back pain (finding)
+  2014-02-03 : Chronic pain (finding)
+  2011-12-17 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2021-03-27 : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2018-12-13 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2018-12-13 : cetirizine hydrochloride 10 MG Oral Tablet
+  2018-11-30 + Hydrocortisone 10 MG/ML Topical Cream for Contact dermatitis
+  2014-03-29 : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+   
+   CAREPLANS:
+  2018-12-13 : Allergic disorder monitoring
+                         Activity: Allergen immunotherapy (regime/therapy)
+  2018-12-13 : Self-care interventions (procedure)
+                         Activity: Allergy education
+  2014-03-29 : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavioral therapy (regime/therapy)
+   
+--------------------------------------------------------------------------------

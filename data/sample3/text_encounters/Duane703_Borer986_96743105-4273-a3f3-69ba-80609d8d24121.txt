@@ -1,0 +1,55 @@
+Duane703 Borer986
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 9
+Birth Date:          2013-08-31
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-09-03 : Encounter at DRACUT FAMILY HEALTHCARE
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2022-09-03 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2022-09-03 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-09-03 : Respiratory rate                         15.0 /min
+  2022-09-03 : Heart rate                               94.0 /min
+  2022-09-03 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  138.0 mm[Hg]
+  2022-09-03 : Body mass index (BMI) [Percentile] Per age and sex 47.8 %
+  2022-09-03 : Body mass index (BMI) [Ratio]            16.1 kg/m2
+  2022-09-03 : Body Weight                              27.2 kg
+  2022-09-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-09-03 : Body Height                              130.2 cm
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2022-09-03 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

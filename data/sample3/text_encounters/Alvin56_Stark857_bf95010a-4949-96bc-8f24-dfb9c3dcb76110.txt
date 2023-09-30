@@ -1,0 +1,87 @@
+Alvin56 Stark857
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 19
+Birth Date:          2004-05-13
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-06-25 : Encounter at PRIMARY & PREVENTIVE CARE, INC.
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2020-12-11 : Suspected COVID-19
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-06-25 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.0 %
+           - MCV [Entitic volume] by Automated count  80.9 fL
+           - MCH [Entitic mass] by Automated count    31.4 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.2 fL
+           - Platelets [#/volume] in Blood by Automated count 254.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 424.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2020-06-25 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+   
+   OBSERVATIONS:
+  2020-06-25 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2020-06-25 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-06-25 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2020-06-25 : Platelet distribution width [Entitic volume] in Blood by Automated count 424.5 fL
+  2020-06-25 : Platelets [#/volume] in Blood by Automated count 254.1 10*3/uL
+  2020-06-25 : Erythrocyte distribution width [Entitic volume] by Automated count 44.2 fL
+  2020-06-25 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2020-06-25 : MCH [Entitic mass] by Automated count    31.4 pg
+  2020-06-25 : MCV [Entitic volume] by Automated count  80.9 fL
+  2020-06-25 : Hematocrit [Volume Fraction] of Blood by Automated count 35.0 %
+  2020-06-25 : Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+  2020-06-25 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2020-06-25 : Leukocytes [#/volume] in Blood by Automated count 6.9 10*3/uL
+  2020-06-25 : Respiratory rate                         13.0 /min
+  2020-06-25 : Heart rate                               75.0 /min
+  2020-06-25 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2020-06-25 : Body mass index (BMI) [Percentile] Per age and sex 85.6 %
+  2020-06-25 : Body mass index (BMI) [Ratio]            24.4 kg/m2
+  2020-06-25 : Body Weight                              72.3 kg
+  2020-06-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-06-25 : Body Height                              172.1 cm
+   
+   PROCEDURES:
+  2020-06-25 : Anticipatory guidance (procedure)
+  2020-06-25 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2020-06-25 : Assessment of substance use (procedure)
+  2020-06-25 : Assessment of anxiety (procedure)
+  2020-06-25 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2020-06-25 : meningococcal MCV4P
+  2020-06-25 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

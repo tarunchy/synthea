@@ -1,0 +1,51 @@
+Jann271 Bartell116
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2006-04-11
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-11-16 : Encounter at HORIZON HOME CARE, LLC : Encounter for Concussion injury of brain (disorder)
+Type: emergency
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2021-11-16 : Brain damage - traumatic
+  2021-11-16 : Concussion injury of brain (disorder)
+   
+   CARE PLANS:
+  2021-11-16 : Head injury rehabilitation
+                         Reason: Concussion injury of brain (disorder)
+                         Reason: Concussion injury of brain
+                         Activity: Recommendation to rest
+                         Activity: Alcohol-free diet
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-05-12 : Medication review due (situation)
+   
+   MEDICATIONS:
+  2019-10-13 : Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

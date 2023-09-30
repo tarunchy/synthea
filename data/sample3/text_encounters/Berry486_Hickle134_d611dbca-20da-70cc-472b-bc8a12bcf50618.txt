@@ -1,0 +1,71 @@
+Berry486 Hickle134
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 23
+Birth Date:          1999-12-31
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-08-23 : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Normal pregnancy
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2019-08-23 : Normal pregnancy
+   
+   CARE PLANS:
+  2019-08-23 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2019-08-23 : Physical examination procedure (procedure) for Normal pregnancy
+  2019-08-23 : Urine protein test for Normal pregnancy
+  2019-08-23 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy
+  2019-08-23 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2019-08-23 : Rubella screening for Normal pregnancy
+  2019-08-23 : Hepatitis C antibody, confirmatory test for Normal pregnancy
+  2019-08-23 : Urine screening test for diabetes for Normal pregnancy
+  2019-08-23 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2019-08-23 : Urine culture for Normal pregnancy
+  2019-08-23 : Syphilis infectious titer test (procedure) for Normal pregnancy
+  2019-08-23 : Gonorrhea infection titer test (procedure) for Normal pregnancy
+  2019-08-23 : Chlamydia antigen test for Normal pregnancy
+  2019-08-23 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2019-08-23 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2019-08-23 : Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential for Normal pregnancy
+  2019-08-23 : Blood group typing (procedure) for Normal pregnancy
+  2019-08-23 : Auscultation of the fetal heart for Normal pregnancy
+  2019-08-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-08-23 : Ultrasound scan for fetal viability for Normal pregnancy
+  2019-08-23 : Standard pregnancy test for Normal pregnancy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-03-01 : Stress (finding)
+  2018-02-23 : Full-time employment (finding)
+  2018-02-23 : Received higher education (finding)
+  2017-02-17 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,126 @@
+Jarred626 Gaylord332
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 64
+Birth Date:          1959-01-29
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-10-09 : Encounter at AP MEDICAL LLC : Encounter for Hyperlipidemia
+Type: ambulatory
+   
+   MEDICATIONS:
+  2020-10-09 : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-10-09 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Blood           84.8 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     14.2 mg/dL
+           - Creatinine [Mass/volume] in Blood        3.4 mg/dL
+           - Calcium [Mass/volume] in Blood           9.0 mg/dL
+           - Sodium [Moles/volume] in Blood           138.8 mmol/L
+           - Potassium [Moles/volume] in Blood        4.6 mmol/L
+           - Chloride [Moles/volume] in Blood         110.6 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 25.6 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 83.2 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.0 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.2 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.4 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 1.2 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 49.7 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 35.3 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 6.8 U/L
+  2020-10-09 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 177.5 mg/dL
+           - Triglycerides                            170.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      147.3 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 49.5 mg/dL
+   
+   OBSERVATIONS:
+  2020-10-09 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 49.5 mg/dL
+  2020-10-09 : Low Density Lipoprotein Cholesterol      147.3 mg/dL
+  2020-10-09 : Triglycerides                            170.9 mg/dL
+  2020-10-09 : Cholesterol [Mass/volume] in Serum or Plasma 177.5 mg/dL
+  2020-10-09 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 6.8 U/L
+  2020-10-09 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 35.3 U/L
+  2020-10-09 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 49.7 U/L
+  2020-10-09 : Bilirubin.total [Mass/volume] in Serum or Plasma 1.2 mg/dL
+  2020-10-09 : Globulin [Mass/volume] in Serum by calculation 2.4 g/L
+  2020-10-09 : Albumin [Mass/volume] in Serum or Plasma 4.2 g/dL
+  2020-10-09 : Protein [Mass/volume] in Serum or Plasma 6.0 g/dL
+  2020-10-09 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 83.2 mL/min
+  2020-10-09 : Carbon dioxide, total [Moles/volume] in Blood 25.6 mmol/L
+  2020-10-09 : Chloride [Moles/volume] in Blood         110.6 mmol/L
+  2020-10-09 : Potassium [Moles/volume] in Blood        4.6 mmol/L
+  2020-10-09 : Sodium [Moles/volume] in Blood           138.8 mmol/L
+  2020-10-09 : Calcium [Mass/volume] in Blood           9.0 mg/dL
+  2020-10-09 : Creatinine [Mass/volume] in Blood        3.4 mg/dL
+  2020-10-09 : Urea nitrogen [Mass/volume] in Blood     14.2 mg/dL
+  2020-10-09 : Glucose [Mass/volume] in Blood           84.8 mg/dL
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-10-01 : Victim of intimate partner abuse (finding)
+  2020-10-01 : Stress (finding)
+  2019-10-09 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2019-09-26 : Has a criminal record (finding)
+  2019-09-26 : Social isolation (finding)
+  2019-09-26 : Full-time employment (finding)
+  2019-09-26 : Ischemic heart disease (disorder)
+  2018-08-09 : Medication review due (situation)
+  2015-09-03 : Anemia (disorder)
+  2015-09-03 : Metabolic syndrome X (disorder)
+  2014-08-28 : Prediabetes
+  2014-02-22 : Opioid abuse (disorder)
+  2014-02-01 : Chronic neck pain (finding)
+  2014-02-01 : Chronic low back pain (finding)
+  2014-02-01 : Chronic pain (finding)
+  2013-08-22 : Limited social contact (finding)
+  2008-07-24 : Hyperlipidemia
+  1995-05-11 : Body mass index 30+ - obesity (finding)
+  1990-04-12 : Essential hypertension (disorder)
+  1977-02-17 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2020-10-01 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2020-10-01 + buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet for Opioid abuse (disorder)
+  2019-10-03 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2019-10-03 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  2019-10-03 : Simvastatin 20 MG Oral Tablet
+  2019-10-03 : Clopidogrel 75 MG Oral Tablet
+  2008-08-14 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+   
+   CAREPLANS:
+  2014-08-28 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2008-08-14 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+  1990-04-12 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

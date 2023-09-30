@@ -1,0 +1,64 @@
+Deandra603 Glynda607 Bergstrom287
+=================================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1957-07-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2007-12-11 : Encounter at TEWKSBURY HOSPITAL : Encounter for Contraception care (regime/therapy)
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2007-12-11 : Removal of subcutaneous contraceptive
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2007-07-24 : Polyp of colon
+  2007-07-17 : Victim of intimate partner abuse (finding)
+  2007-07-17 : Full-time employment (finding)
+  2007-07-17 : Essential hypertension (disorder)
+  2005-08-09 : Stress (finding)
+  2003-08-05 : Medication review due (situation)
+  1999-07-27 : Body mass index 30+ - obesity (finding)
+  1982-09-21 : Anemia (disorder)
+  1982-09-21 : Prediabetes
+  1975-09-09 : Received certificate of high school equivalency (finding)
+   
+   MEDICATIONS:
+  2007-07-17 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CAREPLANS:
+  2007-07-17 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1982-09-21 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

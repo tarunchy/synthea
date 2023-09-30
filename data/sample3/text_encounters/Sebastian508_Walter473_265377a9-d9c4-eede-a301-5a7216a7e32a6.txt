@@ -1,0 +1,60 @@
+Sebastian508 Walter473
+======================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 2
+Birth Date:          2021-04-11
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-09-19 : Encounter at TAUNTON MEDICAL CENTER, PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2021-09-19 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-09-19 : Respiratory rate                         13.0 /min
+  2021-09-19 : Heart rate                               66.0 /min
+  2021-09-19 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  139.0 mm[Hg]
+  2021-09-19 : Head Occipital-frontal circumference     45.9 cm
+  2021-09-19 : Head Occipital-frontal circumference Percentile 96.9 %
+  2021-09-19 : Weight-for-length Per age and sex        13.7 %
+  2021-09-19 : Body Weight                              8.1 kg
+  2021-09-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-09-19 : Body Height                              70.5 cm
+   
+   PROCEDURES:
+  2021-09-19 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2021-09-19 : Pneumococcal conjugate PCV 13
+  2021-09-19 : DTaP
+  2021-09-19 : IPV
+  2021-09-19 : rotavirus, monovalent
+  2021-09-19 : Hib (PRP-OMP)
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

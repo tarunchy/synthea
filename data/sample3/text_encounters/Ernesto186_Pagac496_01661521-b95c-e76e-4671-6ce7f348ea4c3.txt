@@ -1,0 +1,200 @@
+Ernesto186 Pagac496
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1999-04-18 : Encounter at WOONSOCKET URGENT CARE PC
+Type: urgentcare
+   
+   MEDICATIONS:
+  1999-04-18 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  1999-04-18 : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes mellitus type 2 (disorder)
+  1999-04-18 : warfarin sodium 5 MG Oral Tablet
+  1999-04-18 : insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+   
+   CONDITIONS:
+  1999-04-18 : Stress (finding)
+  1999-04-18 : Part-time employment (finding)
+  1999-04-18 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  1999-04-18 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           73.4 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     18.2 mg/dL
+           - Creatinine [Mass/volume] in Blood        0.9 mg/dL
+           - Calcium [Mass/volume] in Blood           8.7 mg/dL
+           - Sodium [Moles/volume] in Blood           142.7 mmol/L
+           - Potassium [Moles/volume] in Blood        4.1 mmol/L
+           - Chloride [Moles/volume] in Blood         105.8 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 23.5 mmol/L
+  1999-04-18 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 157.9 mg/dL
+           - Triglycerides                            105.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      108.0 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 28.9 mg/dL
+  1999-04-18 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  1999-04-18 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+   
+   OBSERVATIONS:
+  1999-04-18 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  1999-04-18 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  1999-04-18 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 123104 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Part-time or temporary work 
+           - Highest level of education               More than high school 
+           - Address                                  516 Schmeler Union 
+           - Are you worried about losing your housing? Yes 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 7.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? Yes 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  1999-04-18 : Tobacco smoking status                   Ex-smoker (finding) 
+  1999-04-18 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 155.2 mL/min/{1.73_m2}
+  1999-04-18 : Microalbumin/Creatinine [Mass Ratio] in Urine 14.1 mg/g
+  1999-04-18 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 28.9 mg/dL
+  1999-04-18 : Low Density Lipoprotein Cholesterol      108.0 mg/dL
+  1999-04-18 : Triglycerides                            105.4 mg/dL
+  1999-04-18 : Cholesterol [Mass/volume] in Serum or Plasma 157.9 mg/dL
+  1999-04-18 : Carbon dioxide, total [Moles/volume] in Blood 23.5 mmol/L
+  1999-04-18 : Chloride [Moles/volume] in Blood         105.8 mmol/L
+  1999-04-18 : Potassium [Moles/volume] in Blood        4.1 mmol/L
+  1999-04-18 : Sodium [Moles/volume] in Blood           142.7 mmol/L
+  1999-04-18 : Calcium [Mass/volume] in Blood           8.7 mg/dL
+  1999-04-18 : Creatinine [Mass/volume] in Blood        0.9 mg/dL
+  1999-04-18 : Urea nitrogen [Mass/volume] in Blood     18.2 mg/dL
+  1999-04-18 : Glucose [Mass/volume] in Blood           73.4 mg/dL
+  1999-04-18 : Respiratory rate                         14.0 /min
+  1999-04-18 : Heart rate                               76.0 /min
+  1999-04-18 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  1999-04-18 : Body mass index (BMI) [Ratio]            30.1 kg/m2
+  1999-04-18 : Body Weight                              94.0 kg
+  1999-04-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1999-04-18 : Body Height                              176.7 cm
+  1999-04-18 : Hemoglobin A1c/Hemoglobin.total in Blood 3.0 %
+   
+   PROCEDURES:
+  1999-04-18 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  1999-04-18 : Depression screening (procedure)
+  1999-04-18 : Assessment of anxiety (procedure)
+  1999-04-18 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1999-02-07 : End-stage renal disease (disorder)
+  1998-12-03 : Awaiting transplantation of kidney (situation)
+  1998-10-11 : Chronic kidney disease stage 4 (disorder)
+  1995-02-12 : Drug overdose
+  1993-10-03 : Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+  1993-09-05 : Non-small cell lung cancer (disorder)
+  1993-07-11 : Suspected lung cancer (situation)
+  1991-12-29 : Carcinoma in situ of prostate (disorder)
+  1991-12-29 : Neoplasm of prostate
+  1991-11-17 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  1991-11-17 : Chronic kidney disease stage 3 (disorder)
+  1991-02-24 : History of aortic valve replacement (situation)
+  1991-01-24 : Aortic valve regurgitation (disorder)
+  1990-04-24 : Dependent drug abuse (disorder)
+  1989-08-02 : History of myocardial infarction (situation)
+  1989-07-28 : Acute non-ST segment elevation myocardial infarction (disorder)
+  1986-02-16 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1986-02-16 : Chronic kidney disease stage 2 (disorder)
+  1984-11-04 : Disorder of kidney due to diabetes mellitus (disorder)
+  1984-11-04 : Chronic kidney disease stage 1 (disorder)
+  1980-10-21 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  1980-10-12 : Ischemic heart disease (disorder)
+  1974-09-08 : Has a criminal record (finding)
+  1974-09-08 : Neuropathy due to type 2 diabetes mellitus (disorder)
+  1964-07-12 : Hypertriglyceridemia (disorder)
+  1964-07-12 : Hyperglycemia (disorder)
+  1963-07-07 : Diabetes mellitus type 2 (disorder)
+  1961-06-25 : Metabolic syndrome X (disorder)
+  1960-06-19 : Body mass index 30+ - obesity (finding)
+  1949-04-17 : Essential hypertension (disorder)
+  1946-04-14 : Anemia (disorder)
+  1946-04-14 : Prediabetes
+  1942-04-05 : Received higher education (finding)
+  1942-04-05 : Housing unsatisfactory (finding)
+  1942-04-05 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+  1980-10-19 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1980-10-19 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+   
+   CAREPLANS:
+  1998-10-25 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1993-10-03 : Terminal care
+                         Reason: Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+                         Activity: Comfort measures
+                         Activity: Chronic pain control management
+                         Activity: Cancer education
+  1991-12-29 : Cancer care plan
+                         Reason: Neoplasm of prostate
+                         Reason: Neoplasm of prostate
+                         Activity: Physical activity target light exercise
+                         Activity: Ice bath treatment
+  1991-03-02 : Discharge care plan (record artifact)
+                         Reason: History of aortic valve replacement (situation)
+                         Activity: Perioperative care management (procedure)
+                         Activity: Cardiovascular monitoring (regime/therapy)
+                         Activity: Management of vascular system care (procedure)
+                         Activity: Activity care (regime/therapy)
+                         Activity: Advance diet as tolerated (regime/therapy)
+                         Activity: Pharmacological assessment (procedure)
+                         Activity: Dressing change management (procedure)
+                         Activity: Patient education (procedure)
+                         Activity: Scheduling of follow up appointment (procedure)
+  1991-01-25 : Care plan (record artifact)
+                         Reason: Aortic valve regurgitation (disorder)
+                         Activity: Referral for laboratory tests (procedure)
+                         Activity: Referral to radiology service (procedure)
+                         Activity: Refer for angiogram (procedure)
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+  1949-04-17 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1946-04-14 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

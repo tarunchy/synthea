@@ -1,0 +1,85 @@
+Jann271 Bartell116
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2006-04-11
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-05-24 : Encounter at RHEUMATOLOGY AND INTERNAL MEDICINE ASSOCIATES PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2022-05-24 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.6 %
+           - MCV [Entitic volume] by Automated count  90.4 fL
+           - MCH [Entitic mass] by Automated count    29.3 pg
+           - MCHC [Mass/volume] by Automated count    35.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+           - Platelets [#/volume] in Blood by Automated count 236.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 496.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2022-05-24 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+   
+   OBSERVATIONS:
+  2022-05-24 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2022-05-24 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-05-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2022-05-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 496.5 fL
+  2022-05-24 : Platelets [#/volume] in Blood by Automated count 236.1 10*3/uL
+  2022-05-24 : Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+  2022-05-24 : MCHC [Mass/volume] by Automated count    35.0 g/dL
+  2022-05-24 : MCH [Entitic mass] by Automated count    29.3 pg
+  2022-05-24 : MCV [Entitic volume] by Automated count  90.4 fL
+  2022-05-24 : Hematocrit [Volume Fraction] of Blood by Automated count 35.6 %
+  2022-05-24 : Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+  2022-05-24 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2022-05-24 : Leukocytes [#/volume] in Blood by Automated count 4.3 10*3/uL
+  2022-05-24 : Respiratory rate                         14.0 /min
+  2022-05-24 : Heart rate                               71.0 /min
+  2022-05-24 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 66.0 mm[Hg]
+           - Systolic Blood Pressure                  95.0 mm[Hg]
+  2022-05-24 : Body mass index (BMI) [Percentile] Per age and sex 12.6 %
+  2022-05-24 : Body mass index (BMI) [Ratio]            17.7 kg/m2
+  2022-05-24 : Body Weight                              47.3 kg
+  2022-05-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-05-24 : Body Height                              163.4 cm
+   
+   PROCEDURES:
+  2022-05-24 : Assessment of anxiety (procedure)
+  2022-05-24 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2022-05-24 : meningococcal MCV4P
+  2022-05-24 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-11-16 : Brain damage - traumatic
+   
+   MEDICATIONS:
+  2019-10-13 : Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

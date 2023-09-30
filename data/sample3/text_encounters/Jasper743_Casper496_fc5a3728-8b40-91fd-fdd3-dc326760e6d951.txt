@@ -1,0 +1,79 @@
+Jasper743 Casper496
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1991-02-20 : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC. : Encounter for End-stage renal disease (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  1991-02-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  1991-02-20 : Weight difference [Mass difference] --pre dialysis - post dialysis 2.2 kg
+   
+   PROCEDURES:
+  1991-02-20 : Renal dialysis (procedure) for End-stage renal disease (disorder)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1991-02-03 : History of coronary artery bypass grafting (situation)
+  1991-01-20 : Full-time employment (finding)
+  1991-01-09 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  1990-12-20 : Ischemic heart disease (disorder)
+  1990-10-14 : Medication review due (situation)
+  1989-07-30 : Stress (finding)
+  1989-07-02 : End-stage renal disease (disorder)
+  1987-09-27 : Chronic kidney disease stage 4 (disorder)
+  1987-07-09 : Awaiting transplantation of kidney (situation)
+  1984-07-01 : Osteoporosis (disorder)
+  1976-09-05 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  1976-09-05 : Chronic kidney disease stage 3 (disorder)
+  1974-07-14 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1974-07-14 : Chronic kidney disease stage 2 (disorder)
+  1973-07-08 : Disorder of kidney due to diabetes mellitus (disorder)
+  1973-07-08 : Chronic kidney disease stage 1 (disorder)
+  1968-06-09 : Body mass index 30+ - obesity (finding)
+  1961-04-30 : Essential hypertension (disorder)
+  1942-04-05 : Received higher education (finding)
+   
+   MEDICATIONS:
+  1991-01-20 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  1991-01-20 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  1991-01-20 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  1990-12-27 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1990-12-27 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+   
+   CAREPLANS:
+  1987-05-13 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1961-04-30 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

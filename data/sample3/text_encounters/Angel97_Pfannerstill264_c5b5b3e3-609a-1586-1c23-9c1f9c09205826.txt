@@ -1,0 +1,74 @@
+Angel97 Pfannerstill264
+=======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1955-09-17
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2008-12-22 : Encounter at VIBRA HOSPITAL OF WESTERN MASS - CENTRAL CAMPUS : Encounter for End-stage renal disease (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+  2008-12-22 : 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] for Anemia (disorder)
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2008-12-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2008-12-22 : Weight difference [Mass difference] --pre dialysis - post dialysis 3.9 kg
+   
+   PROCEDURES:
+  2008-12-22 : Renal dialysis (procedure) for End-stage renal disease (disorder)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2008-08-03 : Limited social contact (finding)
+  2008-06-29 : Full-time employment (finding)
+  2007-10-06 : End-stage renal disease (disorder)
+  2007-03-10 : Chronic kidney disease stage 4 (disorder)
+  2007-01-31 : Awaiting transplantation of kidney (situation)
+  2006-12-02 : Anemia (disorder)
+  2006-04-30 : Social isolation (finding)
+  1999-03-20 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  1999-03-20 : Chronic kidney disease stage 3 (disorder)
+  1995-10-07 : Body mass index 30+ - obesity (finding)
+  1994-02-19 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1994-02-19 : Disorder of kidney due to diabetes mellitus (disorder)
+  1994-02-19 : Chronic kidney disease stage 2 (disorder)
+  1977-11-19 : Essential hypertension (disorder)
+  1973-11-10 : Only received primary school education (finding)
+  1960-11-23 : Chronic sinusitis (disorder)
+   
+   MEDICATIONS:
+  2008-11-29 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2008-11-29 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CAREPLANS:
+  2006-12-06 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1977-11-19 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

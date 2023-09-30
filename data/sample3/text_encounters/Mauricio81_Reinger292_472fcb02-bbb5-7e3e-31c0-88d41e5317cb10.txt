@@ -1,0 +1,64 @@
+Mauricio81 Reinger292
+=====================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 17
+Birth Date:          2006-07-12
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-10-17 : Encounter at NASHOBA VALLEY MEDICAL CENTER
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2018-10-17 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+   
+   OBSERVATIONS:
+  2018-10-17 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2018-10-17 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-10-17 : Respiratory rate                         14.0 /min
+  2018-10-17 : Heart rate                               70.0 /min
+  2018-10-17 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 61.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2018-10-17 : Body mass index (BMI) [Percentile] Per age and sex 88.3 %
+  2018-10-17 : Body mass index (BMI) [Ratio]            21.9 kg/m2
+  2018-10-17 : Body Weight                              49.8 kg
+  2018-10-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-10-17 : Body Height                              150.7 cm
+   
+   PROCEDURES:
+  2018-10-17 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2018-10-17 : Depression screening (procedure)
+  2018-10-17 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2018-10-17 : HPV, quadrivalent
+  2018-10-17 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2007-01-28 : Epilepsy
+  2007-01-28 : History of single seizure (situation)
+  2007-01-28 : Seizure disorder
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,65 @@
+Herma433 Gibson10
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 21
+Birth Date:          2002-05-20
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-12-17 : Encounter at WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2018-12-17 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2018-12-17 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 13.0 {score}
+   
+   OBSERVATIONS:
+  2018-12-17 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 13.0 {score}
+  2018-12-17 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-12-17 : Respiratory rate                         15.0 /min
+  2018-12-17 : Heart rate                               94.0 /min
+  2018-12-17 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  137.0 mm[Hg]
+  2018-12-17 : Body mass index (BMI) [Percentile] Per age and sex 78.1 %
+  2018-12-17 : Body mass index (BMI) [Ratio]            23.6 kg/m2
+  2018-12-17 : Body Weight                              69.8 kg
+  2018-12-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-12-17 : Body Height                              171.9 cm
+   
+   PROCEDURES:
+  2018-12-17 : Assessment of anxiety (procedure)
+  2018-12-17 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2018-12-17 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-12-06 : Acute bronchitis (disorder)
+   
+   MEDICATIONS:
+  2018-12-06 + Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+   
+   CAREPLANS:
+  2018-12-06 : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+   
+--------------------------------------------------------------------------------

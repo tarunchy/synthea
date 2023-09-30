@@ -1,0 +1,100 @@
+Caryl47 Hills818
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 22
+Birth Date:          2001-03-14
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-05-08 : Encounter at SUN MEDICAL CLINIC, PC
+Type: wellness
+   
+   MEDICATIONS:
+  2019-05-08 : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+   
+   CONDITIONS:
+  2019-05-08 : Stress (finding)
+  2019-05-08 : Social isolation (finding)
+  2019-05-08 : Not in labor force (finding)
+  2019-05-08 : Received higher education (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2019-05-08 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2019-05-08 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2019-05-08 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+   
+   OBSERVATIONS:
+  2019-05-08 : Total score [AUDIT-C]                    1.0 {score}
+  2019-05-08 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2019-05-08 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2019-05-08 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 52949 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Otherwise unemployed but not seeking work (ex: student, retired, disabled, unpaid primary care giver) 
+           - Highest level of education               More than high school 
+           - Address                                  884 Gutkowski Station 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 3.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2019-05-08 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-05-08 : Respiratory rate                         13.0 /min
+  2019-05-08 : Heart rate                               86.0 /min
+  2019-05-08 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2019-05-08 : Body mass index (BMI) [Percentile] Per age and sex 98.4 %
+  2019-05-08 : Body mass index (BMI) [Ratio]            37.8 kg/m2
+  2019-05-08 : Body Weight                              113.3 kg
+  2019-05-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-05-08 : Body Height                              173.2 cm
+   
+   PROCEDURES:
+  2019-05-08 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2019-05-08 : Assessment of substance use (procedure)
+  2019-05-08 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2019-05-08 : Depression screening (procedure)
+  2019-05-08 : Assessment of anxiety (procedure)
+  2019-05-08 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+  2019-05-08 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-04-19 : Chronic neck pain (finding)
+  2019-04-19 : Chronic low back pain (finding)
+  2019-04-19 : Chronic pain (finding)
+  2017-04-26 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,53 @@
+Micah422 Willms744
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 39
+Birth Date:          1984-05-28
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2003-08-04 : Encounter at BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC : Encounter for Anemia (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+  2003-08-04 : Vitamin B12 5 MG/ML Injectable Solution
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2003-07-28 : Anemia (disorder)
+  2003-07-28 : Prediabetes
+  2003-07-28 : Medication review due (situation)
+  2002-07-22 : Received higher education (finding)
+  2002-07-22 : Housing unsatisfactory (finding)
+  2001-07-16 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2003-07-28 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

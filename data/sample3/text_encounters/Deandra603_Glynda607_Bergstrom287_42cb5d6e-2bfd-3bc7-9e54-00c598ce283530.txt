@@ -1,0 +1,45 @@
+Deandra603 Glynda607 Bergstrom287
+=================================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1957-07-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1975-09-09 : Encounter at LIGHTHOUSE PRIMARY CARE PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1975-09-09 : Stress (finding)
+  1975-09-09 : Full-time employment (finding)
+  1975-09-09 : Received certificate of high school equivalency (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

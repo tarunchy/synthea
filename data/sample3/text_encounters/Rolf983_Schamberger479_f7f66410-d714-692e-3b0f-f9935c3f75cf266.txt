@@ -1,0 +1,80 @@
+Rolf983 Schamberger479
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 67
+Birth Date:          1956-03-20
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-01-31 : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC. : Encounter for Chronic kidney disease stage 4 (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+  2021-01-31 : 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] for Anemia (disorder)
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2021-01-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2021-01-31 : Weight difference [Mass difference] --pre dialysis - post dialysis 3.0 kg
+   
+   PROCEDURES:
+  2021-01-31 : Renal dialysis (procedure) for Chronic kidney disease stage 4 (disorder)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-01-05 : Chronic kidney disease stage 4 (disorder)
+  2020-10-13 : Full-time employment (finding)
+  2019-04-23 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  2019-04-23 : Chronic kidney disease stage 3 (disorder)
+  2001-09-25 : Metabolic syndrome X (disorder)
+  2001-06-02 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2001-05-22 : Ischemic heart disease (disorder)
+  1999-09-07 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1999-09-07 : Chronic kidney disease stage 2 (disorder)
+  1994-08-16 : Osteoarthritis of knee
+  1994-05-03 : Anemia (disorder)
+  1994-05-03 : Prediabetes
+  1986-06-24 : Body mass index 30+ - obesity (finding)
+  1984-06-12 : Disorder of kidney due to diabetes mellitus (disorder)
+  1984-06-12 : Chronic kidney disease stage 1 (disorder)
+  1981-05-26 : Essential hypertension (disorder)
+  1974-05-14 : Only received primary school education (finding)
+   
+   MEDICATIONS:
+  2021-01-05 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2021-01-05 + insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  1994-05-10 : ferrous sulfate 325 MG Oral Tablet
+   
+   CAREPLANS:
+  2020-11-06 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1994-05-03 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1981-05-26 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

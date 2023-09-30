@@ -1,0 +1,46 @@
+Gerry91 Schumm995
+=================
+Race:                Native
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 29
+Birth Date:          1993-10-23
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2018-12-13 : Sulfamethoxazole / Trimethoprim
+  2018-12-13 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2011-12-17 : Encounter at WALPOLE MEDICAL CENTER, PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2011-12-17 : Stress (finding)
+  2011-12-17 : Full-time employment (finding)
+  2011-12-17 : Received higher education (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

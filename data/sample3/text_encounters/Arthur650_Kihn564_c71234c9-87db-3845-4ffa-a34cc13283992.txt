@@ -1,0 +1,65 @@
+Arthur650 Kihn564
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 26
+Birth Date:          1997-04-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-04-30 : Encounter at STONEHEDGE HEALTH CARE CENTER : Encounter for Fracture of bone (disorder)
+Type: emergency
+   
+   MEDICATIONS:
+  2023-04-30 : Naproxen sodium 220 MG Oral Tablet
+   
+   CONDITIONS:
+  2023-04-30 : Fracture of rib
+  2023-04-30 : Fracture of bone (disorder)
+   
+   CARE PLANS:
+  2023-04-30 : Fracture care
+                         Reason: Fracture of rib
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2023-04-30 : Bone immobilization for Fracture of rib
+  2023-04-30 : Chest X-ray
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+  2023-04-30 : Digital Radiography, Chest
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2022-06-16 : Full-time employment (finding)
+  2022-06-16 : Anemia (disorder)
+  2022-06-16 : Prediabetes
+  2015-06-18 : Stress (finding)
+  2015-06-18 : Medication review due (situation)
+  2015-06-04 : Received higher education (finding)
+  2008-12-09 : History of appendectomy
+  2008-12-09 : Appendicitis
+  2008-12-09 : Rupture of appendix
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2022-06-16 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

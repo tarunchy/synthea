@@ -1,0 +1,78 @@
+Alex454 Weber641
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 69
+Birth Date:          1953-11-27
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-02-12 : Encounter at FIRST PSYCHIATRIC PLANNERS, INC
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2021-02-12 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-09-11 : Stress (finding)
+  2018-08-31 : Full-time employment (finding)
+  2004-06-21 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2004-06-11 : Ischemic heart disease (disorder)
+  1999-10-28 : History of myocardial infarction (situation)
+  1999-10-27 : Acute non-ST segment elevation myocardial infarction (disorder)
+  1995-04-21 : Hyperlipidemia
+  1990-03-23 : Body mass index 30+ - obesity (finding)
+  1988-03-16 : Sepsis (disorder)
+  1982-02-05 : Essential hypertension (disorder)
+  1972-01-21 : Received higher education (finding)
+  1970-01-09 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+  2020-09-12 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2020-09-11 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2004-06-18 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2004-06-18 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  2004-06-18 : Simvastatin 20 MG Oral Tablet
+  2004-06-18 : Clopidogrel 75 MG Oral Tablet
+  1999-10-28 : prasugrel 10 MG Oral Tablet
+  1999-10-28 : ramipril 10 MG Oral Capsule
+  1999-10-28 : pravastatin sodium 40 MG Oral Tablet
+  1999-10-28 : metoprolol tartrate 50 MG Oral Tablet
+  1999-10-28 : aspirin 81 MG Oral Tablet
+  1995-05-12 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+   
+   CAREPLANS:
+  1999-10-28 : Discharge care plan (record artifact)
+  1995-05-12 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+  1982-02-05 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

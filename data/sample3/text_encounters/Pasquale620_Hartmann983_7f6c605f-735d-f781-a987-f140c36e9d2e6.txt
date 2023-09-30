@@ -1,0 +1,71 @@
+Pasquale620 Hartmann983
+=======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 3
+Birth Date:          2020-03-28
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2021-06-12 : Peanut (substance)
+  2021-06-12 : Wheat (substance)
+  2021-06-12 : Tree pollen (substance)
+  2021-06-12 : Grass pollen (substance)
+  2021-06-12 : Animal dander (substance)
+  2021-06-12 : House dust mite (organism)
+  2021-06-12 : Mold (organism)
+  2021-06-12 : Bee venom (substance)
+  2021-06-12 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-06-12 : Encounter at DANA FARBER CANCER INSTITUTE : Encounter for Allergy to substance (finding)
+Type: ambulatory
+   
+   MEDICATIONS:
+  2021-06-12 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2021-06-12 : Loratadine 5 MG Chewable Tablet
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2021-06-12 : Latex IgE Ab [Units/volume] in Serum     0.2 kU/L
+  2021-06-12 : Honey bee IgE Ab [Units/volume] in Serum 0.3 kU/L
+  2021-06-12 : Cladosporium herbarum IgE Ab [Units/volume] in Serum 0.1 kU/L
+  2021-06-12 : American house dust mite IgE Ab [Units/volume] in Serum 0.1 kU/L
+  2021-06-12 : Cat dander IgE Ab [Units/volume] in Serum 0.2 kU/L
+  2021-06-12 : Common Ragweed IgE Ab [Units/volume] in Serum 0.3 kU/L
+  2021-06-12 : White oak IgE Ab [Units/volume] in Serum 0.1 kU/L
+  2021-06-12 : Cow milk IgE Ab [Units/volume] in Serum  0.1 kU/L
+  2021-06-12 : Soybean IgE Ab [Units/volume] in Serum   0.2 kU/L
+  2021-06-12 : Egg white IgE Ab [Units/volume] in Serum 0.3 kU/L
+  2021-06-12 : Wheat IgE Ab [Units/volume] in Serum     0.2 kU/L
+  2021-06-12 : Shrimp IgE Ab [Units/volume] in Serum    0.2 kU/L
+  2021-06-12 : Codfish IgE Ab [Units/volume] in Serum   0.2 kU/L
+  2021-06-12 : Walnut IgE Ab [Units/volume] in Serum    0.2 kU/L
+  2021-06-12 : Peanut IgE Ab [Units/volume] in Serum    0.2 kU/L
+   
+   PROCEDURES:
+  2021-06-12 : Allergy screening test
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2021-05-18 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,64 @@
+Rodrigo242 Hernádez343
+===============á======
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 76
+Birth Date:          1946-07-29
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1971-11-01 : Encounter at HOLYOKE HEALTH CENTER INC
+Type: wellness
+   
+   MEDICATIONS:
+  1971-11-01 : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  1971-11-01 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  1971-11-01 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1970-10-26 : Full-time employment (finding)
+  1967-10-09 : Anemia (disorder)
+  1967-10-09 : Prediabetes
+  1967-10-09 : Medication review due (situation)
+  1965-09-27 : Stress (finding)
+  1965-09-27 : Lack of access to transportation (finding)
+  1964-09-21 : Transport problem (finding)
+  1964-09-21 : Received higher education (finding)
+  1964-09-21 : Essential hypertension (disorder)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1967-10-09 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1964-09-21 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

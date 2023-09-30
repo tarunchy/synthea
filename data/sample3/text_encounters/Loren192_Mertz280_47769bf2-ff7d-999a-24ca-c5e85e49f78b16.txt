@@ -1,0 +1,80 @@
+Loren192 Mertz280
+=================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 3
+Birth Date:          2019-08-30
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-08-30 : Encounter at WHITLEY WELLNESS LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2019-08-30 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2019-08-30 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.7 %
+           - MCV [Entitic volume] by Automated count  81.0 fL
+           - MCH [Entitic mass] by Automated count    30.6 pg
+           - MCHC [Mass/volume] by Automated count    35.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+           - Platelets [#/volume] in Blood by Automated count 169.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 397.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+   
+   OBSERVATIONS:
+  2019-08-30 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-08-30 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2019-08-30 : Platelet distribution width [Entitic volume] in Blood by Automated count 397.7 fL
+  2019-08-30 : Platelets [#/volume] in Blood by Automated count 169.0 10*3/uL
+  2019-08-30 : Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+  2019-08-30 : MCHC [Mass/volume] by Automated count    35.8 g/dL
+  2019-08-30 : MCH [Entitic mass] by Automated count    30.6 pg
+  2019-08-30 : MCV [Entitic volume] by Automated count  81.0 fL
+  2019-08-30 : Hematocrit [Volume Fraction] of Blood by Automated count 37.7 %
+  2019-08-30 : Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+  2019-08-30 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2019-08-30 : Leukocytes [#/volume] in Blood by Automated count 5.7 10*3/uL
+  2019-08-30 : Respiratory rate                         13.0 /min
+  2019-08-30 : Heart rate                               81.0 /min
+  2019-08-30 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  136.0 mm[Hg]
+  2019-08-30 : Head Occipital-frontal circumference     38.3 cm
+  2019-08-30 : Head Occipital-frontal circumference Percentile 93.0 %
+  2019-08-30 : Weight-for-length Per age and sex        51.8 %
+  2019-08-30 : Body Weight                              5.0 kg
+  2019-08-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-08-30 : Body Height                              56.2 cm
+   
+   PROCEDURES:
+  2019-08-30 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2019-08-30 : Hep B, adolescent or pediatric
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

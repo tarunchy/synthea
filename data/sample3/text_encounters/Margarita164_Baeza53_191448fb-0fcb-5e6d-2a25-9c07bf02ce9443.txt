@@ -1,0 +1,98 @@
+Margarita164 Baeza53
+====================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 15
+Birth Date:          2008-01-27
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2009-04-22 : Peanut (substance)
+  2009-04-22 : Tree pollen (substance)
+  2009-04-22 : Grass pollen (substance)
+  2009-04-22 : Animal dander (substance)
+  2009-04-22 : House dust mite (organism)
+  2009-04-22 : Mold (organism)
+  2009-04-22 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-02-10 : Encounter at CLARITY HEALTH & WELLNESS LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2019-02-10 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2019-02-10 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.9 %
+           - MCV [Entitic volume] by Automated count  85.4 fL
+           - MCH [Entitic mass] by Automated count    29.6 pg
+           - MCHC [Mass/volume] by Automated count    35.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.9 fL
+           - Platelets [#/volume] in Blood by Automated count 172.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 448.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+   
+   OBSERVATIONS:
+  2019-02-10 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-02-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2019-02-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 448.9 fL
+  2019-02-10 : Platelets [#/volume] in Blood by Automated count 172.4 10*3/uL
+  2019-02-10 : Erythrocyte distribution width [Entitic volume] by Automated count 42.9 fL
+  2019-02-10 : MCHC [Mass/volume] by Automated count    35.4 g/dL
+  2019-02-10 : MCH [Entitic mass] by Automated count    29.6 pg
+  2019-02-10 : MCV [Entitic volume] by Automated count  85.4 fL
+  2019-02-10 : Hematocrit [Volume Fraction] of Blood by Automated count 36.9 %
+  2019-02-10 : Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+  2019-02-10 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2019-02-10 : Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+  2019-02-10 : Respiratory rate                         14.0 /min
+  2019-02-10 : Heart rate                               88.0 /min
+  2019-02-10 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  96.0 mm[Hg]
+  2019-02-10 : Body mass index (BMI) [Percentile] Per age and sex 60.5 %
+  2019-02-10 : Body mass index (BMI) [Ratio]            18.2 kg/m2
+  2019-02-10 : Body Weight                              34.2 kg
+  2019-02-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-02-10 : Body Height                              137.1 cm
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2019-02-10 : meningococcal MCV4P
+  2019-02-10 : HPV, quadrivalent
+  2019-02-10 : Influenza, seasonal, injectable, preservative free
+  2019-02-10 : Tdap
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2012-10-20 : Perennial allergic rhinitis with seasonal variation
+  2011-08-17 : Atopic dermatitis
+   
+   MEDICATIONS:
+  2009-04-22 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2009-04-22 : Loratadine 5 MG Chewable Tablet
+   
+   CAREPLANS:
+  2011-08-17 : Skin condition care
+                         Reason: Atopic dermatitis
+                         Activity: Application of moisturizer to skin
+  2009-04-11 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

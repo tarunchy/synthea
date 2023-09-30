@@ -1,0 +1,49 @@
+Mistie167 Jamika47 Armstrong51
+==============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 59
+Birth Date:          1964-03-01
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1982-04-26 : Encounter at HOPKINTON MEDICAL CARE, P.C.
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1982-04-26 : Stress (finding)
+  1982-04-26 : Full-time employment (finding)
+  1982-04-26 : Only received primary school education (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1981-04-19 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1976-03-21 : Weight management program
+                         Activity: Low calorie diet
+                         Activity: Increased physical activity
+   
+--------------------------------------------------------------------------------

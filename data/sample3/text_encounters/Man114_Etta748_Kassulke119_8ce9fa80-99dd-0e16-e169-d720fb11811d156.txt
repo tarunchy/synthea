@@ -1,0 +1,45 @@
+Man114 Etta748 Kassulke119
+==========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 76
+Birth Date:          1946-12-23
+Marital Status:      W
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1978-03-13 : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Normal pregnancy
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1978-03-13 : Miscarriage in first trimester
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1978-03-06 : Medication review due (situation)
+  1965-02-15 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

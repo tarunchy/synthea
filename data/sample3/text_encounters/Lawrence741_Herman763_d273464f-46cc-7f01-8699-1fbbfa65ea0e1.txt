@@ -1,0 +1,64 @@
+Lawrence741 Herman763
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2005-12-22
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-02-09 : Encounter at JEWISH FAMILY & CHILDREN'S SERVICE
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2023-02-09 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2023-02-09 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+   
+   OBSERVATIONS:
+  2023-02-09 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2023-02-09 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-02-09 : Respiratory rate                         12.0 /min
+  2023-02-09 : Heart rate                               79.0 /min
+  2023-02-09 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  133.0 mm[Hg]
+  2023-02-09 : Body mass index (BMI) [Percentile] Per age and sex 85.2 %
+  2023-02-09 : Body mass index (BMI) [Ratio]            25.3 kg/m2
+  2023-02-09 : Body Weight                              61.3 kg
+  2023-02-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2023-02-09 : Body Height                              155.7 cm
+   
+   PROCEDURES:
+  2023-02-09 : Anticipatory guidance (procedure)
+  2023-02-09 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2023-02-09 : Assessment of substance use (procedure)
+  2023-02-09 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2023-02-09 : Depression screening (procedure)
+  2023-02-09 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2023-02-09 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

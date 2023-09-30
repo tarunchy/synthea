@@ -1,0 +1,240 @@
+Mateo562 Castañeda925
+==============ñ======
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 60
+Birth Date:          1963-02-22
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-09-25 : Encounter at Fitchburg Outpatient Clinic : Encounter for History of coronary artery bypass grafting (situation)
+Type: inpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2019-09-25 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.6 %
+           - MCV [Entitic volume] by Automated count  82.6 fL
+           - MCH [Entitic mass] by Automated count    27.8 pg
+           - MCHC [Mass/volume] by Automated count    32.2 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 14.3 %
+           - Platelets [#/volume] in Blood by Automated count 386.0 10*3/uL
+  2019-09-25 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 94.1 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 16.2 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.8 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 10.1 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 137.8 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 3.9 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 106.9 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 26.4 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 9.4 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.6 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.6 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 13.6 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 97.7 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 15.2 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.5 U/L
+  2019-09-25 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    11.1 s
+           - INR in Platelet poor plasma by Coagulation assay 0.9 {INR}
+  2019-09-25 : Gas panel - Arterial blood
+           - pH of Arterial blood                     7.1 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 41.8 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 86.8 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 23.7 mmol/L
+           - Oxygen saturation in Arterial blood      97.0 %
+  2019-09-25 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 207.3 mg/dL
+           - Triglycerides                            102.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      159.7 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 27.2 mg/dL
+  2019-09-25 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 50.1 %
+           - MCV [Entitic volume] by Automated count  92.3 fL
+           - MCH [Entitic mass] by Automated count    31.5 pg
+           - MCHC [Mass/volume] by Automated count    33.4 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 13.5 %
+           - Platelets [#/volume] in Blood by Automated count 324.8 10*3/uL
+  2019-09-25 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 94.1 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 16.2 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.9 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 10.1 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 137.8 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 3.9 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 106.9 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 26.4 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 11.5 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.0 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.0 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 10.9 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 110.0 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 17.9 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 1.5 U/L
+  2019-09-25 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    10.9 s
+           - INR in Platelet poor plasma by Coagulation assay 1.0 {INR}
+  2019-09-25 : Gas panel - Arterial blood
+           - pH of Arterial blood                     6.9 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 41.0 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 97.8 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 23.0 mmol/L
+           - Oxygen saturation in Arterial blood      97.0 %
+  2019-09-25 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 207.3 mg/dL
+           - Triglycerides                            102.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      159.7 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 27.2 mg/dL
+   
+   OBSERVATIONS:
+  2019-09-25 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 27.2 mg/dL
+  2019-09-25 : Low Density Lipoprotein Cholesterol      159.7 mg/dL
+  2019-09-25 : Triglycerides                            102.0 mg/dL
+  2019-09-25 : Cholesterol [Mass/volume] in Serum or Plasma 207.3 mg/dL
+  2019-09-25 : Oxygen saturation in Arterial blood      97.0 %
+  2019-09-25 : Bicarbonate [Moles/volume] in Arterial blood 23.0 mmol/L
+  2019-09-25 : Oxygen [Partial pressure] in Arterial blood 97.8 mm[Hg]
+  2019-09-25 : Carbon dioxide [Partial pressure] in Arterial blood 41.0 mm[Hg]
+  2019-09-25 : pH of Arterial blood                     6.9 [pH]
+  2019-09-25 : aPTT in Blood by Coagulation assay       30.1 s
+  2019-09-25 : INR in Platelet poor plasma by Coagulation assay 1.0 {INR}
+  2019-09-25 : Prothrombin time (PT)                    10.9 s
+  2019-09-25 : Phosphate [Mass/volume] in Serum or Plasma 3.4 mg/dL
+  2019-09-25 : Magnesium [Mass/volume] in Serum or Plasma 2.2 mg/dL
+  2019-09-25 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 1.5 U/L
+  2019-09-25 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 17.9 U/L
+  2019-09-25 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 110.0 U/L
+  2019-09-25 : Bilirubin.total [Mass/volume] in Serum or Plasma 10.9 mg/dL
+  2019-09-25 : Albumin [Mass/volume] in Serum or Plasma 5.0 g/dL
+  2019-09-25 : Protein [Mass/volume] in Serum or Plasma 7.0 g/dL
+  2019-09-25 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 11.5 mL/min
+  2019-09-25 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 26.4 mmol/L
+  2019-09-25 : Chloride [Moles/volume] in Serum or Plasma 106.9 mmol/L
+  2019-09-25 : Potassium [Moles/volume] in Serum or Plasma 3.9 mmol/L
+  2019-09-25 : Sodium [Moles/volume] in Serum or Plasma 137.8 mmol/L
+  2019-09-25 : Calcium [Mass/volume] in Serum or Plasma 10.1 mg/dL
+  2019-09-25 : Creatinine [Mass/volume] in Serum or Plasma 2.9 mg/dL
+  2019-09-25 : Urea nitrogen [Mass/volume] in Serum or Plasma 16.2 mg/dL
+  2019-09-25 : Glucose [Mass/volume] in Serum or Plasma 94.1 mg/dL
+  2019-09-25 : Platelets [#/volume] in Blood by Automated count 324.8 10*3/uL
+  2019-09-25 : Erythrocyte distribution width [Ratio] by Automated count 13.5 %
+  2019-09-25 : MCHC [Mass/volume] by Automated count    33.4 g/dL
+  2019-09-25 : MCH [Entitic mass] by Automated count    31.5 pg
+  2019-09-25 : MCV [Entitic volume] by Automated count  92.3 fL
+  2019-09-25 : Hematocrit [Volume Fraction] of Blood by Automated count 50.1 %
+  2019-09-25 : Hemoglobin [Mass/volume] in Blood        16.2 g/dL
+  2019-09-25 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2019-09-25 : Leukocytes [#/volume] in Blood by Automated count 9.7 10*3/uL
+  2019-09-25 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 27.2 mg/dL
+  2019-09-25 : Low Density Lipoprotein Cholesterol      159.7 mg/dL
+  2019-09-25 : Triglycerides                            102.0 mg/dL
+  2019-09-25 : Cholesterol [Mass/volume] in Serum or Plasma 207.3 mg/dL
+  2019-09-25 : Oxygen saturation in Arterial blood      97.0 %
+  2019-09-25 : Bicarbonate [Moles/volume] in Arterial blood 23.7 mmol/L
+  2019-09-25 : Oxygen [Partial pressure] in Arterial blood 86.8 mm[Hg]
+  2019-09-25 : Carbon dioxide [Partial pressure] in Arterial blood 41.8 mm[Hg]
+  2019-09-25 : pH of Arterial blood                     7.1 [pH]
+  2019-09-25 : aPTT in Blood by Coagulation assay       35.8 s
+  2019-09-25 : INR in Platelet poor plasma by Coagulation assay 0.9 {INR}
+  2019-09-25 : Prothrombin time (PT)                    11.1 s
+  2019-09-25 : Phosphate [Mass/volume] in Serum or Plasma 3.5 mg/dL
+  2019-09-25 : Magnesium [Mass/volume] in Serum or Plasma 1.7 mg/dL
+  2019-09-25 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.5 U/L
+  2019-09-25 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 15.2 U/L
+  2019-09-25 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 97.7 U/L
+  2019-09-25 : Bilirubin.total [Mass/volume] in Serum or Plasma 13.6 mg/dL
+  2019-09-25 : Albumin [Mass/volume] in Serum or Plasma 4.6 g/dL
+  2019-09-25 : Protein [Mass/volume] in Serum or Plasma 7.6 g/dL
+  2019-09-25 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 9.4 mL/min
+  2019-09-25 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 26.4 mmol/L
+  2019-09-25 : Chloride [Moles/volume] in Serum or Plasma 106.9 mmol/L
+  2019-09-25 : Potassium [Moles/volume] in Serum or Plasma 3.9 mmol/L
+  2019-09-25 : Sodium [Moles/volume] in Serum or Plasma 137.8 mmol/L
+  2019-09-25 : Calcium [Mass/volume] in Serum or Plasma 10.1 mg/dL
+  2019-09-25 : Creatinine [Mass/volume] in Serum or Plasma 2.8 mg/dL
+  2019-09-25 : Urea nitrogen [Mass/volume] in Serum or Plasma 16.2 mg/dL
+  2019-09-25 : Glucose [Mass/volume] in Serum or Plasma 94.1 mg/dL
+  2019-09-25 : Platelets [#/volume] in Blood by Automated count 386.0 10*3/uL
+  2019-09-25 : Erythrocyte distribution width [Ratio] by Automated count 14.3 %
+  2019-09-25 : MCHC [Mass/volume] by Automated count    32.2 g/dL
+  2019-09-25 : MCH [Entitic mass] by Automated count    27.8 pg
+  2019-09-25 : MCV [Entitic volume] by Automated count  82.6 fL
+  2019-09-25 : Hematocrit [Volume Fraction] of Blood by Automated count 46.6 %
+  2019-09-25 : Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+  2019-09-25 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2019-09-25 : Leukocytes [#/volume] in Blood by Automated count 9.9 10*3/uL
+   
+   PROCEDURES:
+  2019-09-26 : Discharge to ward (procedure)
+  2019-09-25 : Transfusion of packed red blood cells (procedure)
+  2019-09-25 : Plain chest X-ray (procedure)
+  2019-09-25 : Electrocardiographic procedure (procedure)
+  2019-09-25 : Removal of endotracheal tube (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+  2019-09-25 : Computed Radiography, Thoracic structure (body structure)
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-09-25 : History of coronary artery bypass grafting (situation)
+  2019-08-30 : Limited social contact (finding)
+  2019-07-23 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2019-07-05 : Not in labor force (finding)
+  2019-07-05 : Ischemic heart disease (disorder)
+  2017-08-18 : Refugee (person)
+  2017-08-18 : Medication review due (situation)
+  2011-07-15 : Anemia (disorder)
+  2011-07-15 : Prediabetes
+  2011-07-15 : Metabolic syndrome X (disorder)
+  2000-05-12 : Essential hypertension (disorder)
+  2000-03-11 : Obstructive sleep apnea syndrome (disorder)
+  2000-02-13 : Sleep disorder (disorder)
+  1985-04-26 : Body mass index 30+ - obesity (finding)
+  1981-04-17 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2019-08-30 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2019-08-30 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2019-07-12 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2019-07-12 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  2019-07-12 : Simvastatin 20 MG Oral Tablet
+  2019-07-12 : Clopidogrel 75 MG Oral Tablet
+   
+   CAREPLANS:
+  2011-07-15 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2000-05-12 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  2000-03-11 : Care plan (record artifact)
+                         Reason: Obstructive sleep apnea syndrome (disorder)
+                         Activity: Weight reduction regimen (regime/therapy)
+                         Activity: Warning. Avoid alcoholic drink (qualifier value)
+                         Activity: Continuous positive airway pressure ventilation treatment (regime/therapy)
+   
+--------------------------------------------------------------------------------

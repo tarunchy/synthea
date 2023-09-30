@@ -1,0 +1,45 @@
+Daniela614 Chacón810
+===============ó====
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 81
+Birth Date:          1942-02-12
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1959-08-02 : Encounter at LIFE CARE CENTER OF ATTLEBORO : Encounter for Injury of neck (disorder)
+Type: emergency
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+  1959-08-02 : Musculoskeletal care
+                         Activity: Heat therapy
+                         Activity: Recommendation to rest
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

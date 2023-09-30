@@ -1,0 +1,55 @@
+Amie520 Charlyn749 Smitham825
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 43
+Birth Date:          1980-03-14
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-07-30 : Encounter at LIFE CARE CENTER OF ATTLEBORO : Encounter for Normal pregnancy
+Type: emergency
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2021-07-30 : Childbirth for Normal pregnancy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-03-27 : Part-time employment (finding)
+  2019-03-16 : Stress (finding)
+  2018-03-09 : Body mass index 30+ - obesity (finding)
+  2014-02-02 : Chronic neck pain (finding)
+  2014-02-02 : Chronic low back pain (finding)
+  2014-02-02 : Chronic pain (finding)
+  1999-05-29 : Transport problem (finding)
+  1998-05-23 : Lack of access to transportation (finding)
+  1998-05-23 : Only received primary school education (finding)
+  1995-05-06 : Risk activity involvement (finding)
+  1995-03-13 : Impacted molars
+   
+   MEDICATIONS:
+  2021-03-26 : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

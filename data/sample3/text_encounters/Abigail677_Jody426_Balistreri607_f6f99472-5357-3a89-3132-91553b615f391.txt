@@ -1,0 +1,47 @@
+Abigail677 Jody426 Balistreri607
+================================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 33
+Birth Date:          1990-04-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-06-12 : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Contraception care (regime/therapy)
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2023-06-12 : Intramuscular injection
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-06-25 : Full-time employment (finding)
+  2012-06-18 : Body mass index 30+ - obesity (finding)
+  2008-06-09 : Only received primary school education (finding)
+  2004-05-17 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

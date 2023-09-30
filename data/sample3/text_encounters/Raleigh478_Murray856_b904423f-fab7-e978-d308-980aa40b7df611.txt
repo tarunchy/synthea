@@ -1,0 +1,48 @@
+Raleigh478 Murray856
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 30
+Birth Date:          1992-12-12
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2012-01-28 : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC. : Encounter for Major depression, single episode
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+  2012-01-28 : Mental health care plan
+                         Reason: Major depression, single episode
+                         Activity: Initial psychiatric interview with mental status and evaluation
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2011-02-05 : Lack of access to transportation (finding)
+  2011-02-05 : Received higher education (finding)
+  2011-02-05 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

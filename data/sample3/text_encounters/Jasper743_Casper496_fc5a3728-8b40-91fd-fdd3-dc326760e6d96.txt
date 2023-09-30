@@ -1,0 +1,138 @@
+Jasper743 Casper496
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1991-08-25 : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC. : Encounter for History of renal transplant (situation)
+Type: ambulatory
+   
+   MEDICATIONS:
+  1991-08-25 : 1 ML tacrolimus 5 MG/ML Injection for History of renal transplant (situation)
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  1991-08-25 : Basic Metabolic Panel
+           - Glucose                                  70.7 mg/dL
+           - Urea Nitrogen                            7.9 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   137.3 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 109.1 mmol/L
+           - Carbon Dioxide                           21.1 mmol/L
+  1991-08-25 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.0 %
+           - MCV [Entitic volume] by Automated count  85.2 fL
+           - MCH [Entitic mass] by Automated count    27.8 pg
+           - MCHC [Mass/volume] by Automated count    35.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.9 fL
+           - Platelets [#/volume] in Blood by Automated count 162.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 302.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  1991-08-25 : Urinalysis complete panel - Urine
+           - Glucose [Presence] in Urine by Test strip 0.0 {presence}
+           - Bilirubin.total [Presence] in Urine by Test strip 0.0 {presence}
+           - Ketones [Presence] in Urine by Test strip 0.0 {presence}
+           - Specific gravity of Urine by Test strip  1.0 {SG}
+           - pH of Urine by Test strip                4.9 [pH]
+           - Protein [Presence] in Urine by Test strip 0.0 {presence}
+           - Nitrite [Presence] in Urine by Test strip 0.0 {presence}
+           - Hemoglobin [Presence] in Urine by Test strip 0.0 {presence}
+           - Leukocyte esterase [Presence] in Urine by Test strip 0.0 {presence}
+   
+   OBSERVATIONS:
+  1991-08-25 : Leukocyte esterase [Presence] in Urine by Test strip 0.0 {presence}
+  1991-08-25 : Hemoglobin [Presence] in Urine by Test strip 0.0 {presence}
+  1991-08-25 : Nitrite [Presence] in Urine by Test strip 0.0 {presence}
+  1991-08-25 : Protein [Presence] in Urine by Test strip 0.0 {presence}
+  1991-08-25 : pH of Urine by Test strip                4.9 [pH]
+  1991-08-25 : Specific gravity of Urine by Test strip  1.0 {SG}
+  1991-08-25 : Ketones [Presence] in Urine by Test strip 0.0 {presence}
+  1991-08-25 : Bilirubin.total [Presence] in Urine by Test strip 0.0 {presence}
+  1991-08-25 : Glucose [Presence] in Urine by Test strip 0.0 {presence}
+  1991-08-25 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  1991-08-25 : Platelet distribution width [Entitic volume] in Blood by Automated count 302.3 fL
+  1991-08-25 : Platelets [#/volume] in Blood by Automated count 162.3 10*3/uL
+  1991-08-25 : Erythrocyte distribution width [Entitic volume] by Automated count 40.9 fL
+  1991-08-25 : MCHC [Mass/volume] by Automated count    35.0 g/dL
+  1991-08-25 : MCH [Entitic mass] by Automated count    27.8 pg
+  1991-08-25 : MCV [Entitic volume] by Automated count  85.2 fL
+  1991-08-25 : Hematocrit [Volume Fraction] of Blood by Automated count 42.0 %
+  1991-08-25 : Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+  1991-08-25 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  1991-08-25 : Leukocytes [#/volume] in Blood by Automated count 9.5 10*3/uL
+  1991-08-25 : Carbon Dioxide                           21.1 mmol/L
+  1991-08-25 : Chloride                                 109.1 mmol/L
+  1991-08-25 : Potassium                                5.0 mmol/L
+  1991-08-25 : Sodium                                   137.3 mmol/L
+  1991-08-25 : Calcium                                  8.9 mg/dL
+  1991-08-25 : Creatinine                               1.1 mg/dL
+  1991-08-25 : Urea Nitrogen                            7.9 mg/dL
+  1991-08-25 : Glucose                                  70.7 mg/dL
+   
+   PROCEDURES:
+  1991-08-25 : Transplantation of kidney regime (regime/therapy) for History of renal transplant (situation)
+  1991-08-25 : Renal disorder medication review (procedure) for History of renal transplant (situation)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1991-08-04 : Kidney transplant failure and rejection (disorder)
+  1991-07-08 : History of renal transplant (situation)
+  1991-02-03 : History of coronary artery bypass grafting (situation)
+  1991-01-20 : Full-time employment (finding)
+  1991-01-09 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  1990-12-20 : Ischemic heart disease (disorder)
+  1984-07-01 : Osteoporosis (disorder)
+  1976-09-05 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  1974-07-14 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1973-07-08 : Disorder of kidney due to diabetes mellitus (disorder)
+  1968-06-09 : Body mass index 30+ - obesity (finding)
+  1961-04-30 : Essential hypertension (disorder)
+  1942-04-05 : Received higher education (finding)
+   
+   MEDICATIONS:
+  1991-08-04 + 24 HR tacrolimus 5 MG Extended Release Oral Capsule for History of renal transplant (situation)
+  1991-07-28 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  1991-07-28 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  1991-07-28 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  1990-12-27 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1990-12-27 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+   
+   CAREPLANS:
+  1991-07-08 : Care plan (record artifact)
+                         Activity: Transplantation of kidney regime (regime/therapy)
+                         Activity: Post-surgical wound care (regime/therapy)
+                         Activity: Renal function monitoring (regime/therapy)
+                         Activity: Very low sodium diet (finding)
+  1987-05-13 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1961-04-30 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

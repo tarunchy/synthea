@@ -1,0 +1,50 @@
+Karl184 Turner526
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 52
+Birth Date:          1970-10-20
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2002-01-01 : Encounter at NORTH SHORE MEDICAL CENTER INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2002-01-01 : Anemia (disorder)
+  2002-01-01 : Prediabetes
+   
+   CARE PLANS:
+  2002-01-01 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1998-12-29 : Victim of intimate partner abuse (finding)
+  1988-12-13 : Only received primary school education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

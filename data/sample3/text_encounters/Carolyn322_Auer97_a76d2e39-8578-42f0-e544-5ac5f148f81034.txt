@@ -1,0 +1,46 @@
+Carolyn322 Auer97
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 58
+Birth Date:          1965-01-04
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1996-03-18 : Encounter at NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1996-03-18 : Body mass index 30+ - obesity (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1992-03-16 : Miscarriage in first trimester
+  1984-03-05 : Medication review due (situation)
+  1983-02-28 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

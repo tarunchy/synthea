@@ -1,0 +1,43 @@
+Ignacio928 Cedillo160
+=====================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 29
+Birth Date:          1994-01-29
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2007-02-24 : Encounter at NORTH END COMMUNITY HEALTH COMMITTEE INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2007-02-24 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

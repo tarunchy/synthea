@@ -1,0 +1,54 @@
+Wyatt967 Schuppe920
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 32
+Birth Date:          1990-12-05
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1991-09-14 : Tree nut (substance)
+  1991-09-14 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-05-12 : Encounter at MELROSEWAKEFIELD HEALTHCARE, INC
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2021-05-12 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-02-13 : Full-time employment (finding)
+  2019-02-13 : Medication review due (situation)
+  2018-11-07 : Limited social contact (finding)
+  2009-01-28 : Received higher education (finding)
+  2002-12-25 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+  1991-09-14 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  1991-09-14 : diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+   
+   CAREPLANS:
+  1991-09-02 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

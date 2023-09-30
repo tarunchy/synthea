@@ -1,0 +1,107 @@
+Pete38 Crist667
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 13
+Birth Date:          2010-01-30
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2011-03-30 : Peanut (substance)
+  2011-03-30 : Fish (substance)
+  2011-03-30 : Aspirin
+  2011-03-30 : Grass pollen (substance)
+  2011-03-30 : Animal dander (substance)
+  2011-03-30 : House dust mite (organism)
+  2011-03-30 : Mold (organism)
+  2011-03-30 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-02-13 : Encounter at EDEN HOME HEALTH CARE LLC
+Type: wellness
+   
+   MEDICATIONS:
+  2021-02-13 : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2021-02-13 : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+   
+   CONDITIONS:
+  2021-02-13 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2021-02-13 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.7 %
+           - MCV [Entitic volume] by Automated count  80.8 fL
+           - MCH [Entitic mass] by Automated count    30.2 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.0 fL
+           - Platelets [#/volume] in Blood by Automated count 330.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 181.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+   
+   OBSERVATIONS:
+  2021-02-13 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-02-13 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2021-02-13 : Platelet distribution width [Entitic volume] in Blood by Automated count 181.6 fL
+  2021-02-13 : Platelets [#/volume] in Blood by Automated count 330.1 10*3/uL
+  2021-02-13 : Erythrocyte distribution width [Entitic volume] by Automated count 45.0 fL
+  2021-02-13 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2021-02-13 : MCH [Entitic mass] by Automated count    30.2 pg
+  2021-02-13 : MCV [Entitic volume] by Automated count  80.8 fL
+  2021-02-13 : Hematocrit [Volume Fraction] of Blood by Automated count 38.7 %
+  2021-02-13 : Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+  2021-02-13 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2021-02-13 : Leukocytes [#/volume] in Blood by Automated count 6.9 10*3/uL
+  2021-02-13 : Respiratory rate                         15.0 /min
+  2021-02-13 : Heart rate                               62.0 /min
+  2021-02-13 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  148.0 mm[Hg]
+  2021-02-13 : Body mass index (BMI) [Percentile] Per age and sex 63.7 %
+  2021-02-13 : Body mass index (BMI) [Ratio]            18.0 kg/m2
+  2021-02-13 : Body Weight                              36.3 kg
+  2021-02-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-02-13 : Body Height                              142.0 cm
+   
+   PROCEDURES:
+  2021-02-13 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2021-02-13 : meningococcal MCV4P
+  2021-02-13 : HPV, quadrivalent
+  2021-02-13 : Influenza, seasonal, injectable, preservative free
+  2021-02-13 : Tdap
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2013-10-20 : Atopic dermatitis
+  2012-12-26 : Seasonal allergic rhinitis
+  2012-05-13 : Childhood asthma
+   
+   MEDICATIONS:
+  2011-03-30 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2011-03-30 : Loratadine 5 MG Chewable Tablet
+   
+   CAREPLANS:
+  2013-10-20 : Skin condition care
+                         Reason: Atopic dermatitis
+                         Activity: Application of moisturizer to skin
+  2012-05-13 : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+  2011-03-16 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

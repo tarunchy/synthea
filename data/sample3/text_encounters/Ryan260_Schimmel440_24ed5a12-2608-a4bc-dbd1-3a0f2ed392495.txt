@@ -1,0 +1,58 @@
+Ryan260 Schimmel440
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 8
+Birth Date:          2015-01-23
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-12-28 : Encounter at NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2018-12-28 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2018-12-28 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-12-28 : Respiratory rate                         13.0 /min
+  2018-12-28 : Heart rate                               77.0 /min
+  2018-12-28 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  2018-12-28 : Body mass index (BMI) [Percentile] Per age and sex 82.7 %
+  2018-12-28 : Body mass index (BMI) [Ratio]            16.8 kg/m2
+  2018-12-28 : Head Occipital-frontal circumference     50.0 cm
+  2018-12-28 : Head Occipital-frontal circumference Percentile 58.8 %
+  2018-12-28 : Weight-for-length Per age and sex        91.2 %
+  2018-12-28 : Body Weight                              17.7 kg
+  2018-12-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-12-28 : Body Height                              102.6 cm
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2018-12-28 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

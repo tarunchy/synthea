@@ -1,0 +1,48 @@
+Berry486 Hickle134
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 23
+Birth Date:          1999-12-31
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-08-19 : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Viral sinusitis (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2021-08-19 : Viral sinusitis (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-03-01 : Stress (finding)
+  2018-02-23 : Full-time employment (finding)
+  2018-02-23 : Received higher education (finding)
+  2017-02-17 : Medication review due (situation)
+   
+   MEDICATIONS:
+  2021-05-10 : Seasonique 91 Day Pack
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

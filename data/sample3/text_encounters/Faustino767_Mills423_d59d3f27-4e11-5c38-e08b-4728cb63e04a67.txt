@@ -1,0 +1,45 @@
+Faustino767 Mills423
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 81
+Birth Date:          1942-01-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1969-04-26 : Encounter at MORTON HOSPITAL, A STEWARD FAMILY HOSPITAL, INC.
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1969-04-26 : Stress (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1960-03-05 : Full-time employment (finding)
+  1960-03-05 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

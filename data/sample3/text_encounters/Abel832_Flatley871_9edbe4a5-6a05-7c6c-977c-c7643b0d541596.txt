@@ -1,0 +1,49 @@
+Abel832 Flatley871
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1943-04-11 : Encounter at GREATER BOSTON INTERNAL MEDICINE PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1943-04-11 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1942-04-05 : Stress (finding)
+  1942-04-05 : Received higher education (finding)
+  1942-04-05 : Served in armed forces (finding)
+  1938-11-25 : Epilepsy
+  1938-11-25 : History of single seizure (situation)
+  1938-11-25 : Seizure disorder
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

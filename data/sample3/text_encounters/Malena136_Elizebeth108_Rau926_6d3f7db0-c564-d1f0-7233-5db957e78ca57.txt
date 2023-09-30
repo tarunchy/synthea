@@ -1,0 +1,77 @@
+Malena136 Elizebeth108 Rau926
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 43
+Birth Date:          1980-02-15
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-10-10 : Encounter at ARBOUR-FULLER HOSPITAL : Encounter for Anemia (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2021-10-10 : CBC panel - Blood by Automated count
+           - Hemoglobin [Mass/volume] in Blood        11.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood    34.5 %
+           - Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - MCV [Entitic volume] by Automated count  82.7 fL
+           - MCH [Entitic mass] by Automated count    27.5 pg
+           - MCHC [Mass/volume] by Automated count    34.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.7 fL
+           - Platelets [#/volume] in Blood by Automated count 151.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 426.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+   
+   OBSERVATIONS:
+  2021-10-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2021-10-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 426.1 fL
+  2021-10-10 : Platelets [#/volume] in Blood by Automated count 151.9 10*3/uL
+  2021-10-10 : Erythrocyte distribution width [Entitic volume] by Automated count 40.7 fL
+  2021-10-10 : MCHC [Mass/volume] by Automated count    34.5 g/dL
+  2021-10-10 : MCH [Entitic mass] by Automated count    27.5 pg
+  2021-10-10 : MCV [Entitic volume] by Automated count  82.7 fL
+  2021-10-10 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2021-10-10 : Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+  2021-10-10 : Hematocrit [Volume Fraction] of Blood    34.5 %
+  2021-10-10 : Hemoglobin [Mass/volume] in Blood        11.2 g/dL
+   
+   PROCEDURES:
+  2021-10-10 : Brief general examination (procedure)
+  2021-10-10 : Medication Reconciliation (procedure)
+  2021-10-10 : Review of systems (procedure)
+  2021-10-10 : Peripheral blood smear interpretation
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-02-21 : Part-time employment (finding)
+  2017-05-05 : Stress (finding)
+  2017-05-05 : Medication review due (situation)
+  2014-05-02 : Has a criminal record (finding)
+  2014-05-02 : Body mass index 30+ - obesity (finding)
+  1998-04-10 : Received certificate of high school equivalency (finding)
+  1981-05-29 : History of single seizure (situation)
+  1981-05-29 : Seizure disorder
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,69 @@
+Alvin56 Hamill307
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 68
+Birth Date:          1954-12-24
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-12-24 : Encounter at DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER : Encounter for Screening for malignant neoplasm of colon (procedure)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2019-12-24 : Polyp of colon
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2019-12-24 : Hemoglobin.gastrointestinal.lower [Presence] in Stool by Immunoassay --1st specimen 1.4 ng/mL
+  2019-12-24 : Polyp size greatest dimension            5.6 mm
+   
+   PROCEDURES:
+  2019-12-24 : Rectal polypectomy for Polyp of colon
+  2019-12-24 : Screening for occult blood in feces (procedure) for Polyp of colon
+  2019-12-24 : Colonoscopy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-05-17 : Social isolation (finding)
+  2019-05-17 : Medication review due (situation)
+  2018-05-11 : Limited social contact (finding)
+  2018-05-11 : Part-time employment (finding)
+  2006-03-03 : Retinopathy due to type 2 diabetes mellitus (disorder)
+  1996-01-05 : Hypertriglyceridemia (disorder)
+  1996-01-05 : Hyperglycemia (disorder)
+  1994-12-30 : Diabetes mellitus type 2 (disorder)
+  1994-12-30 : Metabolic syndrome X (disorder)
+  1989-03-10 : Body mass index 30+ - obesity (finding)
+  1980-02-29 : Anemia (disorder)
+  1977-02-25 : Prediabetes
+  1974-02-22 : Lack of access to transportation (finding)
+  1973-02-16 : Has a criminal record (finding)
+  1973-02-16 : Transport problem (finding)
+  1973-02-16 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2019-05-17 + 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes mellitus type 2 (disorder)
+   
+   CAREPLANS:
+  1977-02-25 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

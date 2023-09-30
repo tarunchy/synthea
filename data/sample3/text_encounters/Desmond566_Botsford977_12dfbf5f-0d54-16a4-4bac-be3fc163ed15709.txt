@@ -1,0 +1,46 @@
+Desmond566 Botsford977
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1931-11-02 : Encounter at SEASONS HOSPICE & PALLIATIVE CARE OF MASS LLC : Encounter for Injury of neck (disorder)
+Type: emergency
+   
+   MEDICATIONS:
+  1931-11-02 : Aspirin 81 MG Oral Tablet
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+  1931-11-02 : Musculoskeletal care
+                         Activity: Heat therapy
+                         Activity: Recommendation to rest
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

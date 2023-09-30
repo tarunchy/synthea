@@ -1,0 +1,119 @@
+Alex454 Weber641
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 69
+Birth Date:          1953-11-27
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-09-12 : Encounter at FIRST PSYCHIATRIC PLANNERS, INC : Encounter for Hyperlipidemia
+Type: ambulatory
+   
+   MEDICATIONS:
+  2020-09-12 : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-09-12 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Blood           75.3 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     7.6 mg/dL
+           - Creatinine [Mass/volume] in Blood        2.5 mg/dL
+           - Calcium [Mass/volume] in Blood           9.2 mg/dL
+           - Sodium [Moles/volume] in Blood           139.4 mmol/L
+           - Potassium [Moles/volume] in Blood        4.1 mmol/L
+           - Chloride [Moles/volume] in Blood         104.6 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 26.4 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 73.6 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.5 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.1 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.2 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 67.1 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 41.2 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 24.5 U/L
+  2020-09-12 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 190.7 mg/dL
+           - Triglycerides                            162.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      94.3 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 35.2 mg/dL
+   
+   OBSERVATIONS:
+  2020-09-12 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 35.2 mg/dL
+  2020-09-12 : Low Density Lipoprotein Cholesterol      94.3 mg/dL
+  2020-09-12 : Triglycerides                            162.0 mg/dL
+  2020-09-12 : Cholesterol [Mass/volume] in Serum or Plasma 190.7 mg/dL
+  2020-09-12 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 24.5 U/L
+  2020-09-12 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 41.2 U/L
+  2020-09-12 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 67.1 U/L
+  2020-09-12 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+  2020-09-12 : Globulin [Mass/volume] in Serum by calculation 2.2 g/L
+  2020-09-12 : Albumin [Mass/volume] in Serum or Plasma 4.1 g/dL
+  2020-09-12 : Protein [Mass/volume] in Serum or Plasma 7.5 g/dL
+  2020-09-12 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 73.6 mL/min
+  2020-09-12 : Carbon dioxide, total [Moles/volume] in Blood 26.4 mmol/L
+  2020-09-12 : Chloride [Moles/volume] in Blood         104.6 mmol/L
+  2020-09-12 : Potassium [Moles/volume] in Blood        4.1 mmol/L
+  2020-09-12 : Sodium [Moles/volume] in Blood           139.4 mmol/L
+  2020-09-12 : Calcium [Mass/volume] in Blood           9.2 mg/dL
+  2020-09-12 : Creatinine [Mass/volume] in Blood        2.5 mg/dL
+  2020-09-12 : Urea nitrogen [Mass/volume] in Blood     7.6 mg/dL
+  2020-09-12 : Glucose [Mass/volume] in Blood           75.3 mg/dL
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-09-11 : Stress (finding)
+  2018-08-31 : Full-time employment (finding)
+  2004-06-21 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2004-06-11 : Ischemic heart disease (disorder)
+  1999-10-28 : History of myocardial infarction (situation)
+  1999-10-27 : Acute non-ST segment elevation myocardial infarction (disorder)
+  1995-04-21 : Hyperlipidemia
+  1990-03-23 : Body mass index 30+ - obesity (finding)
+  1988-03-16 : Sepsis (disorder)
+  1982-02-05 : Essential hypertension (disorder)
+  1972-01-21 : Received higher education (finding)
+  1970-01-09 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+  2020-09-11 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2004-06-18 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2004-06-18 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  2004-06-18 : Simvastatin 20 MG Oral Tablet
+  2004-06-18 : Clopidogrel 75 MG Oral Tablet
+  1999-10-28 : prasugrel 10 MG Oral Tablet
+  1999-10-28 : ramipril 10 MG Oral Capsule
+  1999-10-28 : pravastatin sodium 40 MG Oral Tablet
+  1999-10-28 : metoprolol tartrate 50 MG Oral Tablet
+  1999-10-28 : aspirin 81 MG Oral Tablet
+  1995-05-12 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+   
+   CAREPLANS:
+  1999-10-28 : Discharge care plan (record artifact)
+  1995-05-12 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+  1982-02-05 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,56 @@
+Al123 Bogan287
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 11
+Birth Date:          2011-09-04
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-09-06 : Encounter at WALPOLE MEDICAL CENTER, PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2020-09-06 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-09-06 : Respiratory rate                         13.0 /min
+  2020-09-06 : Heart rate                               97.0 /min
+  2020-09-06 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  137.0 mm[Hg]
+  2020-09-06 : Body mass index (BMI) [Percentile] Per age and sex 78.9 %
+  2020-09-06 : Body mass index (BMI) [Ratio]            18.0 kg/m2
+  2020-09-06 : Body Weight                              29.3 kg
+  2020-09-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2020-09-06 : Body Height                              127.7 cm
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2020-09-06 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-09-01 : Medication review due (situation)
+  2016-07-03 : Chronic sinusitis (disorder)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

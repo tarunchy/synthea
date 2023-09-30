@@ -1,0 +1,195 @@
+Juana825 O'Connell601
+=========='==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 70
+Birth Date:          1952-09-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-01-09 : Encounter at AP MEDICAL LLC
+Type: outpatient
+   
+   MEDICATIONS:
+  2019-01-09 : insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Diabetes mellitus type 2 (disorder)
+   
+   CONDITIONS:
+  2019-01-09 : Victim of intimate partner abuse (finding)
+  2019-01-09 : Part-time employment (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2019-01-09 : Basic metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 106.3 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 7.4 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 1.9 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 139.1 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.5 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 105.1 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.1 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 81.9 mL/min/{1.73_m2}
+  2019-01-09 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 0.6 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.4 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 2.4 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.2 pH
+           - Protein [Mass/volume] in Urine by Test strip 335.8 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2019-01-09 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           106.3 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     7.4 mg/dL
+           - Creatinine [Mass/volume] in Blood        1.1 mg/dL
+           - Calcium [Mass/volume] in Blood           9.3 mg/dL
+           - Sodium [Moles/volume] in Blood           139.1 mmol/L
+           - Potassium [Moles/volume] in Blood        4.5 mmol/L
+           - Chloride [Moles/volume] in Blood         105.1 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 22.1 mmol/L
+  2019-01-09 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 237.5 mg/dL
+           - Triglycerides                            195.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      157.9 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 40.5 mg/dL
+  2019-01-09 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       122.0 {#}
+           - Fall risk level [Morse Fall Scale]       High Risk (MFS Score 50+) 
+  2019-01-09 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+   
+   OBSERVATIONS:
+  2019-01-09 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2019-01-09 : Fall risk level [Morse Fall Scale]       High Risk (MFS Score 50+) 
+  2019-01-09 : Fall risk total [Morse Fall Scale]       122.0 {#}
+  2019-01-09 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? Yes 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress level                             Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 87203 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Part-time or temporary work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  694 Funk Mission Apt 49 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 3.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2019-01-09 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-01-09 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 58.4 mL/min/{1.73_m2}
+  2019-01-09 : Microalbumin/Creatinine [Mass Ratio] in Urine 22.8 mg/g
+  2019-01-09 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 40.5 mg/dL
+  2019-01-09 : Low Density Lipoprotein Cholesterol      157.9 mg/dL
+  2019-01-09 : Triglycerides                            195.7 mg/dL
+  2019-01-09 : Cholesterol [Mass/volume] in Serum or Plasma 237.5 mg/dL
+  2019-01-09 : Carbon dioxide, total [Moles/volume] in Blood 22.1 mmol/L
+  2019-01-09 : Chloride [Moles/volume] in Blood         105.1 mmol/L
+  2019-01-09 : Potassium [Moles/volume] in Blood        4.5 mmol/L
+  2019-01-09 : Sodium [Moles/volume] in Blood           139.1 mmol/L
+  2019-01-09 : Calcium [Mass/volume] in Blood           9.3 mg/dL
+  2019-01-09 : Creatinine [Mass/volume] in Blood        1.1 mg/dL
+  2019-01-09 : Urea nitrogen [Mass/volume] in Blood     7.4 mg/dL
+  2019-01-09 : Glucose [Mass/volume] in Blood           106.3 mg/dL
+  2019-01-09 : Respiratory rate                         15.0 /min
+  2019-01-09 : Heart rate                               93.0 /min
+  2019-01-09 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 70.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2019-01-09 : Body mass index (BMI) [Ratio]            27.7 kg/m2
+  2019-01-09 : Body Weight                              73.4 kg
+  2019-01-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-01-09 : Body Height                              162.8 cm
+  2019-01-09 : Hemoglobin A1c/Hemoglobin.total in Blood 3.9 %
+  2019-01-09 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2019-01-09 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2019-01-09 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2019-01-09 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2019-01-09 : Protein [Mass/volume] in Urine by Test strip 335.8 mg/dL
+  2019-01-09 : pH of Urine by Test strip                6.2 pH
+  2019-01-09 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2019-01-09 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2019-01-09 : Ketones [Mass/volume] in Urine by Test strip 2.4 mg/dL
+  2019-01-09 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2019-01-09 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.4 mg/dL
+  2019-01-09 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2019-01-09 : Glucose [Mass/volume] in Urine by Test strip 0.6 mg/dL
+  2019-01-09 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2019-01-09 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2019-01-09 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2019-01-09 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2019-01-09 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 81.9 mL/min/{1.73_m2}
+  2019-01-09 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.1 mmol/L
+  2019-01-09 : Chloride [Moles/volume] in Serum or Plasma 105.1 mmol/L
+  2019-01-09 : Potassium [Moles/volume] in Serum or Plasma 4.5 mmol/L
+  2019-01-09 : Sodium [Moles/volume] in Serum or Plasma 139.1 mmol/L
+  2019-01-09 : Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+  2019-01-09 : Creatinine [Mass/volume] in Serum or Plasma 1.9 mg/dL
+  2019-01-09 : Urea nitrogen [Mass/volume] in Serum or Plasma 7.4 mg/dL
+  2019-01-09 : Glucose [Mass/volume] in Serum or Plasma 106.3 mg/dL
+   
+   PROCEDURES:
+  2019-01-09 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2019-01-09 : Depression screening (procedure)
+  2019-01-09 : Assessment using Morse Fall Scale (procedure)
+  2019-01-09 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-12-12 : Limited social contact (finding)
+  2018-12-12 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  2018-12-12 : Chronic kidney disease stage 2 (disorder)
+  2018-08-01 : Stress (finding)
+  2018-07-11 : Medication review due (situation)
+  2017-09-20 : Disorder of kidney due to diabetes mellitus (disorder)
+  2017-09-20 : Chronic kidney disease stage 1 (disorder)
+  2012-11-07 : Social isolation (finding)
+  1994-09-21 : Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder)
+  1994-09-21 : Retinopathy due to type 2 diabetes mellitus (disorder)
+  1989-11-29 : Metabolic syndrome X (disorder)
+  1989-11-29 : Hypertriglyceridemia (disorder)
+  1986-11-26 : Diabetes mellitus type 2 (disorder)
+  1977-10-28 : History of tubal ligation (situation)
+  1971-11-10 : Transport problem (finding)
+  1970-11-04 : Has a criminal record (finding)
+  1970-11-04 : Lack of access to transportation (finding)
+  1970-11-04 : Received certificate of high school equivalency (finding)
+  1970-06-23 : Chronic sinusitis (disorder)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1986-11-26 : Diabetes self management plan
+                         Reason: Diabetes mellitus type 2 (disorder)
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

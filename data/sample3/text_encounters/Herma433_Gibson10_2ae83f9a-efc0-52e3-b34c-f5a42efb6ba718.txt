@@ -1,0 +1,58 @@
+Herma433 Gibson10
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 21
+Birth Date:          2002-05-20
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-07-08 : Encounter at MIDDLESEX INTERNAL MEDICINE ASSOCIATES, INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2019-07-08 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2019-07-08 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-07-08 : Respiratory rate                         14.0 /min
+  2019-07-08 : Heart rate                               85.0 /min
+  2019-07-08 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  152.0 mm[Hg]
+  2019-07-08 : Body mass index (BMI) [Percentile] Per age and sex 82.1 %
+  2019-07-08 : Body mass index (BMI) [Ratio]            24.6 kg/m2
+  2019-07-08 : Body Weight                              72.8 kg
+  2019-07-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2019-07-08 : Body Height                              172.0 cm
+   
+   PROCEDURES:
+  2019-07-08 : Anticipatory guidance (procedure)
+  2019-07-08 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2019-07-08 : Assessment of substance use (procedure)
+  2019-07-08 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

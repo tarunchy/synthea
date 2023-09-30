@@ -1,0 +1,139 @@
+Mistie167 Jamika47 Armstrong51
+==============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 59
+Birth Date:          1964-03-01
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-04-01 : Encounter at HOPKINTON MEDICAL CARE, P.C.
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2019-04-01 : Victim of intimate partner abuse (finding)
+  2019-04-01 : Neuropathy due to type 2 diabetes mellitus (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2019-04-01 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           120.8 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     10.1 mg/dL
+           - Creatinine [Mass/volume] in Blood        0.7 mg/dL
+           - Calcium [Mass/volume] in Blood           9.6 mg/dL
+           - Sodium [Moles/volume] in Blood           142.4 mmol/L
+           - Potassium [Moles/volume] in Blood        4.2 mmol/L
+           - Chloride [Moles/volume] in Blood         106.4 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 27.5 mmol/L
+  2019-04-01 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 232.0 mg/dL
+           - Triglycerides                            169.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      155.5 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 42.7 mg/dL
+  2019-04-01 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       3.0 {score}
+  2019-04-01 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2019-04-01 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+   
+   OBSERVATIONS:
+  2019-04-01 : Total score [DAST-10]                    2.0 {score}
+  2019-04-01 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2019-04-01 : Total score [HARK]                       3.0 {score}
+  2019-04-01 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 174146 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               Less than high school degree 
+           - Address                                  921 Will Underpass 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 7.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2019-04-01 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-04-01 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 138.4 mL/min/{1.73_m2}
+  2019-04-01 : Microalbumin/Creatinine [Mass Ratio] in Urine 5.6 mg/g
+  2019-04-01 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 42.7 mg/dL
+  2019-04-01 : Low Density Lipoprotein Cholesterol      155.5 mg/dL
+  2019-04-01 : Triglycerides                            169.3 mg/dL
+  2019-04-01 : Cholesterol [Mass/volume] in Serum or Plasma 232.0 mg/dL
+  2019-04-01 : Carbon dioxide, total [Moles/volume] in Blood 27.5 mmol/L
+  2019-04-01 : Chloride [Moles/volume] in Blood         106.4 mmol/L
+  2019-04-01 : Potassium [Moles/volume] in Blood        4.2 mmol/L
+  2019-04-01 : Sodium [Moles/volume] in Blood           142.4 mmol/L
+  2019-04-01 : Calcium [Mass/volume] in Blood           9.6 mg/dL
+  2019-04-01 : Creatinine [Mass/volume] in Blood        0.7 mg/dL
+  2019-04-01 : Urea nitrogen [Mass/volume] in Blood     10.1 mg/dL
+  2019-04-01 : Glucose [Mass/volume] in Blood           120.8 mg/dL
+  2019-04-01 : Respiratory rate                         15.0 /min
+  2019-04-01 : Heart rate                               93.0 /min
+  2019-04-01 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2019-04-01 : Body mass index (BMI) [Ratio]            27.8 kg/m2
+  2019-04-01 : Body Weight                              73.1 kg
+  2019-04-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2019-04-01 : Body Height                              162.2 cm
+  2019-04-01 : Hemoglobin A1c/Hemoglobin.total in Blood 7.0 %
+   
+   PROCEDURES:
+  2019-04-01 : Screening for drug abuse (procedure)
+  2019-04-01 : Assessment of substance use (procedure)
+  2019-04-01 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2019-04-01 : Depression screening (procedure)
+  2019-04-01 : Screening for domestic abuse (procedure)
+  2019-04-01 : Assessment of health and social care needs (procedure)
+  2019-04-01 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2019-04-01 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-03-26 : Has a criminal record (finding)
+  2018-03-26 : Full-time employment (finding)
+  2012-03-26 : Metabolic syndrome X (disorder)
+  2012-03-26 : Hypertriglyceridemia (disorder)
+  2010-03-22 : Anemia (disorder)
+  2010-03-22 : Diabetes mellitus type 2 (disorder)
+  1994-05-23 : Miscarriage in first trimester
+  1986-01-19 : Body mass index 30+ - obesity (finding)
+  1985-12-02 : Recurrent urinary tract infection
+  1982-04-26 : Only received primary school education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2010-03-22 : Diabetes self management plan
+                         Reason: Diabetes mellitus type 2 (disorder)
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1976-03-21 : Weight management program
+                         Activity: Low calorie diet
+                         Activity: Increased physical activity
+   
+--------------------------------------------------------------------------------

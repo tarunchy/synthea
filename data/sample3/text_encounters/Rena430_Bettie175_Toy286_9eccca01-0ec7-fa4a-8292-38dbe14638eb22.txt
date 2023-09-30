@@ -1,0 +1,65 @@
+Rena430 Bettie175 Toy286
+========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 47
+Birth Date:          1976-01-21
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-11-07 : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC. : Encounter for Normal pregnancy
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2018-11-07 : Auscultation of the fetal heart for Normal pregnancy
+  2018-11-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-11-07 : Urine screening for glucose for Normal pregnancy
+  2018-11-07 : Administration of diphtheria, pertussis, and tetanus vaccine for Normal pregnancy
+  2018-11-07 : Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential for Normal pregnancy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-06-20 : Normal pregnancy
+  2018-01-31 : Stress (finding)
+  2018-01-31 : Full-time employment (finding)
+  2018-01-31 : Medication review due (situation)
+  2016-01-27 : Body mass index 30+ - obesity (finding)
+  2010-04-07 : Anemia (disorder)
+  2005-12-28 : Miscarriage in first trimester
+  1998-03-25 : Prediabetes
+  1994-03-16 : Received higher education (finding)
+  1989-09-11 : Chronic sinusitis (disorder)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2018-06-20 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  1998-03-25 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

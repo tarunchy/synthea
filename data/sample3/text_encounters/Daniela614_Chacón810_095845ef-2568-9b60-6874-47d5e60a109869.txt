@@ -1,0 +1,46 @@
+Daniela614 Chacón810
+===============ó====
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 81
+Birth Date:          1942-02-12
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1964-04-16 : Encounter at WELLNESS ON WHEELS,PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1964-04-16 : Stress (finding)
+  1964-04-16 : Body mass index 30+ - obesity (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1960-04-07 : Refugee (person)
+  1960-04-07 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

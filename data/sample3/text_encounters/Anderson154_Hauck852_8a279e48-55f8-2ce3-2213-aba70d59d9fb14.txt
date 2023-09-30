@@ -1,0 +1,50 @@
+Anderson154 Hauck852
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 28
+Birth Date:          1995-01-31
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2014-02-06 : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Chronic pain (finding)
+Type: outpatient
+   
+   MEDICATIONS:
+  2014-02-06 : Acetaminophen 325 MG Oral Tablet [Tylenol]
+   
+   CONDITIONS:
+  2014-02-06 : Chronic neck pain (finding)
+  2014-02-06 : Chronic low back pain (finding)
+  2014-02-06 : Chronic pain (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2013-04-02 : Full-time employment (finding)
+  2013-04-02 : Received higher education (finding)
+  2013-04-02 : Housing unsatisfactory (finding)
+  2013-04-02 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

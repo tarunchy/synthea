@@ -1,0 +1,48 @@
+Elmo857 Gutmann970
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 10
+Birth Date:          2013-07-15
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2014-05-09 : Shellfish (substance)
+  2014-05-09 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2014-05-09 : Encounter at BAYSTATE MEDICAL CENTER INC. : Encounter for Allergy to substance (finding)
+Type: ambulatory
+   
+   MEDICATIONS:
+  2014-05-09 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2014-05-09 : cetirizine hydrochloride 5 MG Oral Tablet
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2014-04-24 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

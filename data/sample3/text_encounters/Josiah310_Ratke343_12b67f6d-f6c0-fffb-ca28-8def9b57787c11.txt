@@ -1,0 +1,80 @@
+Josiah310 Ratke343
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 3
+Birth Date:          2020-06-05
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-06-05 : Encounter at GREATER LAWRENCE FAMILY HEALTH CENTER INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2020-06-05 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-06-05 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.7 %
+           - MCV [Entitic volume] by Automated count  94.6 fL
+           - MCH [Entitic mass] by Automated count    29.9 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.0 fL
+           - Platelets [#/volume] in Blood by Automated count 368.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 493.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+   
+   OBSERVATIONS:
+  2020-06-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-06-05 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2020-06-05 : Platelet distribution width [Entitic volume] in Blood by Automated count 493.0 fL
+  2020-06-05 : Platelets [#/volume] in Blood by Automated count 368.5 10*3/uL
+  2020-06-05 : Erythrocyte distribution width [Entitic volume] by Automated count 44.0 fL
+  2020-06-05 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2020-06-05 : MCH [Entitic mass] by Automated count    29.9 pg
+  2020-06-05 : MCV [Entitic volume] by Automated count  94.6 fL
+  2020-06-05 : Hematocrit [Volume Fraction] of Blood by Automated count 37.7 %
+  2020-06-05 : Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+  2020-06-05 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2020-06-05 : Leukocytes [#/volume] in Blood by Automated count 6.3 10*3/uL
+  2020-06-05 : Respiratory rate                         15.0 /min
+  2020-06-05 : Heart rate                               91.0 /min
+  2020-06-05 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 96.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2020-06-05 : Head Occipital-frontal circumference     35.8 cm
+  2020-06-05 : Head Occipital-frontal circumference Percentile 49.1 %
+  2020-06-05 : Weight-for-length Per age and sex        2.4 %
+  2020-06-05 : Body Weight                              3.5 kg
+  2020-06-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-06-05 : Body Height                              52.5 cm
+   
+   PROCEDURES:
+  2020-06-05 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2020-06-05 : Hep B, adolescent or pediatric
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

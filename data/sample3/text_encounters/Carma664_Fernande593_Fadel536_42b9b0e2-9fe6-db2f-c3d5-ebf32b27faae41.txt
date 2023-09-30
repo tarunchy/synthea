@@ -1,0 +1,50 @@
+Carma664 Fernande593 Fadel536
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 30
+Birth Date:          1992-12-22
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2015-02-24 : Encounter at VIGILANT FAMILY HEALTH CLINIC, INC.
+Type: wellness
+   
+   MEDICATIONS:
+  2015-02-24 : Acetaminophen 325 MG Oral Tablet [Tylenol]
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2014-02-06 : Fibromyalgia (disorder)
+  2014-02-06 : Chronic low back pain (finding)
+  2014-02-06 : Chronic pain (finding)
+  2012-02-21 : Social isolation (finding)
+  2012-02-21 : Full-time employment (finding)
+  2011-02-15 : Limited social contact (finding)
+  2011-02-15 : Received certificate of high school equivalency (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,78 @@
+Hilary419 Kilback373
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 43
+Birth Date:          1980-04-25
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-08-21 : Encounter at CAPE COD HOSPITAL INC : Encounter for Suspected COVID-19
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2020-08-21 : COVID-19
+  2020-08-21 : Joint pain (finding)
+  2020-08-21 : Muscle pain (finding)
+  2020-08-21 : Fatigue (finding)
+  2020-08-21 : Sputum finding (finding)
+  2020-08-21 : Headache (finding)
+   
+   CARE PLANS:
+  2020-08-21 : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Isolation of infected patient (procedure)
+  2020-08-21 : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Personal protective equipment (physical object)
+   
+   REPORTS:
+  2020-08-21 : Influenza virus A and B Ag panel - Upper respiratory specimen by Rapid immunoassay
+           - Influenza virus A Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+           - Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+  2020-08-21 : SARS-CoV-2 RNA Pnl Resp NAA+probe
+           - SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+   
+   OBSERVATIONS:
+  2020-08-21 : SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2020-08-21 : Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+  2020-08-21 : Influenza virus A Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+  2020-08-21 : Body Weight                              82.4 kg
+  2020-08-21 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2020-08-21 : Oxygen saturation in Arterial blood      87.9 %
+  2020-08-21 : Heart rate                               197.3 /min
+  2020-08-21 : Respiratory rate                         28.2 /min
+  2020-08-21 : Body temperature                         41.4 Cel
+   
+   PROCEDURES:
+  2020-08-21 : Face mask (physical object) for Suspected COVID-19
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-10-11 : Full-time employment (finding)
+  2018-01-12 : Stress (finding)
+  2017-12-06 : Chronic sinusitis (disorder)
+  2015-10-18 : History of tubal ligation (situation)
+  2002-06-28 : Body mass index 30+ - obesity (finding)
+  1998-06-19 : Received higher education (finding)
+  1997-06-13 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

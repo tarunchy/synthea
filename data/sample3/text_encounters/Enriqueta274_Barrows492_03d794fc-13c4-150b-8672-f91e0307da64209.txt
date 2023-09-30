@@ -1,0 +1,91 @@
+Enriqueta274 Barrows492
+=======================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1965-06-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2016-12-28 : Encounter at HEBREW REHABILITATION CENTER : Encounter for End-stage renal disease (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+  2016-12-28 : 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] for Anemia (disorder)
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2016-12-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2016-12-28 : Weight difference [Mass difference] --pre dialysis - post dialysis 2.7 kg
+   
+   PROCEDURES:
+  2016-12-28 : Renal dialysis (procedure) for End-stage renal disease (disorder)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2016-12-21 : Part-time employment (finding)
+  2016-12-21 : Medication review due (situation)
+  2016-11-23 : Stress (finding)
+  2016-05-18 : Victim of intimate partner abuse (finding)
+  2016-01-11 : Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-08 : Small cell carcinoma of lung (disorder)
+  2015-12-08 : Suspected lung cancer (situation)
+  2015-11-18 : End-stage renal disease (disorder)
+  2015-02-15 : Awaiting transplantation of kidney (situation)
+  2015-02-04 : Chronic kidney disease stage 4 (disorder)
+  2008-12-24 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  2008-12-24 : Chronic kidney disease stage 3 (disorder)
+  2007-03-07 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  2007-03-07 : Chronic kidney disease stage 2 (disorder)
+  2005-05-11 : Disorder of kidney due to diabetes mellitus (disorder)
+  2005-05-11 : Chronic kidney disease stage 1 (disorder)
+  2004-04-14 : Metabolic syndrome X (disorder)
+  1997-10-29 : Body mass index 30+ - obesity (finding)
+  1984-08-15 : Anemia (disorder)
+  1984-08-15 : Prediabetes
+  1983-08-10 : Received higher education (finding)
+  1983-08-10 : Essential hypertension (disorder)
+   
+   MEDICATIONS:
+  2016-12-21 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2016-12-21 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2016-12-21 + insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  1984-08-23 : Vitamin B12 5 MG/ML Injectable Solution
+   
+   CAREPLANS:
+  2016-01-11 : Terminal care
+                         Reason: Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+                         Activity: Comfort measures
+                         Activity: Chronic pain control management
+                         Activity: Cancer education
+  2014-12-20 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1984-08-15 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1983-08-10 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

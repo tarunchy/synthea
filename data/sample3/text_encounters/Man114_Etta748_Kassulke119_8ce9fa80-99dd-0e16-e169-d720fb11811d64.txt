@@ -1,0 +1,80 @@
+Man114 Etta748 Kassulke119
+==========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 76
+Birth Date:          1946-12-23
+Marital Status:      W
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2016-09-12 : Encounter at CENTER FOR DIGESTIVE WELLNESS PC
+Type: wellness
+   
+   MEDICATIONS:
+  2016-09-12 : Alendronic acid 10 MG Oral Tablet for Osteoporosis (disorder)
+  2016-09-12 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2016-09-12 : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2016-09-12 : 24 HR tacrolimus 1 MG Extended Release Oral Tablet for History of renal transplant (situation)
+  2016-09-12 : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+   
+   CONDITIONS:
+  2016-09-12 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2016-08-30 : Chronic sinusitis (disorder)
+  2015-09-07 : Chronic kidney disease stage 2 (disorder)
+  2014-09-01 : Chronic kidney disease stage 1 (disorder)
+  2014-02-05 : Chronic neck pain (finding)
+  2014-02-05 : Chronic pain (finding)
+  2010-03-11 : History of renal transplant (situation)
+  2007-01-08 : Osteoporosis (disorder)
+  2000-03-20 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  1999-08-23 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1998-06-01 : Has a criminal record (finding)
+  1996-12-23 : Disorder of kidney due to diabetes mellitus (disorder)
+  1984-03-12 : Essential hypertension (disorder)
+  1978-03-13 : Miscarriage in first trimester
+  1965-02-15 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2014-03-25 : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavioral therapy (regime/therapy)
+  2010-03-11 : Care plan (record artifact)
+                         Activity: Transplantation of kidney regime (regime/therapy)
+                         Activity: Post-surgical wound care (regime/therapy)
+                         Activity: Renal function monitoring (regime/therapy)
+                         Activity: Very low sodium diet (finding)
+  2005-12-15 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1984-03-12 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

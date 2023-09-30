@@ -1,0 +1,106 @@
+Alfredo17 Macías944
+=============í=====
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 18
+Birth Date:          2004-11-21
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2005-06-28 : Peanut (substance)
+  2005-06-28 : Grass pollen (substance)
+  2005-06-28 : Animal dander (substance)
+  2005-06-28 : House dust mite (organism)
+  2005-06-28 : Mold (organism)
+  2005-06-28 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-12-27 : Encounter at CIRCLE HEALTH URGENT CARE LLC
+Type: urgentcare
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2020-12-27 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-12-27 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.3 %
+           - MCV [Entitic volume] by Automated count  90.2 fL
+           - MCH [Entitic mass] by Automated count    32.4 pg
+           - MCHC [Mass/volume] by Automated count    34.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.3 fL
+           - Platelets [#/volume] in Blood by Automated count 193.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 285.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2020-12-27 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2020-12-27 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 24.0 {score}
+   
+   OBSERVATIONS:
+  2020-12-27 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 24.0 {score}
+  2020-12-27 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2020-12-27 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-12-27 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2020-12-27 : Platelet distribution width [Entitic volume] in Blood by Automated count 285.0 fL
+  2020-12-27 : Platelets [#/volume] in Blood by Automated count 193.2 10*3/uL
+  2020-12-27 : Erythrocyte distribution width [Entitic volume] by Automated count 41.3 fL
+  2020-12-27 : MCHC [Mass/volume] by Automated count    34.2 g/dL
+  2020-12-27 : MCH [Entitic mass] by Automated count    32.4 pg
+  2020-12-27 : MCV [Entitic volume] by Automated count  90.2 fL
+  2020-12-27 : Hematocrit [Volume Fraction] of Blood by Automated count 38.3 %
+  2020-12-27 : Hemoglobin [Mass/volume] in Blood        12.6 g/dL
+  2020-12-27 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2020-12-27 : Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+  2020-12-27 : Respiratory rate                         14.0 /min
+  2020-12-27 : Heart rate                               91.0 /min
+  2020-12-27 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2020-12-27 : Body mass index (BMI) [Percentile] Per age and sex 53.4 %
+  2020-12-27 : Body mass index (BMI) [Ratio]            20.9 kg/m2
+  2020-12-27 : Body Weight                              54.1 kg
+  2020-12-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2020-12-27 : Body Height                              161.0 cm
+   
+   PROCEDURES:
+  2020-12-27 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2020-12-27 : Depression screening (procedure)
+  2020-12-27 : Assessment of anxiety (procedure)
+   
+   IMMUNIZATIONS:
+  2020-12-27 : meningococcal MCV4P
+  2020-12-27 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-12-15 : Acute bronchitis (disorder)
+  2010-10-08 : Seasonal allergic rhinitis
+   
+   MEDICATIONS:
+  2020-12-15 + Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2005-06-28 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2005-06-28 : Fexofenadine hydrochloride 30 MG Oral Tablet
+   
+   CAREPLANS:
+  2020-12-15 : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2017-11-26 : Allergic disorder monitoring
+                         Activity: Allergen immunotherapy (regime/therapy)
+  2005-06-18 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

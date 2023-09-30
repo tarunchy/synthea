@@ -1,0 +1,2012 @@
+
+2008-01-27
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a newborn hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2008-05-04
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 3 month-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2009-01-04
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 11 month-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2009-04-11
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 1 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was placed on a careplan:
+- self-care interventions (procedure)
+
+
+
+2009-04-22
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 1 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with allergy to substance (finding), mold (organism), house dust mite (organism), animal dander (substance), grass pollen (substance), tree pollen (substance), peanut (substance). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- loratadine 5 mg chewable tablet
+- nda020800 0.3 ml epinephrine 1 mg/ml auto-injector
+
+
+
+2010-07-04
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 2 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2011-08-17
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 3 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with atopic dermatitis. 
+
+## Plan
+
+The patient was placed on a careplan:
+- skin condition care
+
+
+
+2012-01-01
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 3 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2012-10-20
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 4 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with perennial allergic rhinitis with seasonal variation. 
+
+## Plan
+
+
+
+
+2015-01-18
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 6 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2016-01-24
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 7 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2017-03-19
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 9 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2017-10-15
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 9 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2019-02-10
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 11 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+Patient was given the following immunizations: tdap, influenza, seasonal, injectable, preservative free, hpv, quadrivalent, meningococcal mcv4p. 
+
+
+
+2020-02-16
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 12 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hpv, quadrivalent. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+
+
+
+2021-01-31
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 13 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- allergy screening test
+The patient was placed on a careplan:
+- allergic disorder monitoring
+
+
+
+2021-02-21
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 13 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hpv, quadrivalent. 
+The following procedures were conducted:
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+
+
+
+2021-02-22
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 13 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2021-03-18
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 13 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2021-04-08
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 13 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2021-04-29
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 13 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2021-05-20
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 13 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2021-06-12
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 13 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2021-07-05
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 13 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2021-07-31
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 13 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2021-08-22
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 13 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2021-09-16
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 13 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2021-10-13
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 13 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2021-11-09
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 13 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2021-11-30
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 13 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2021-12-22
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 13 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2022-01-16
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 13 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2022-01-26
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 13 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- seasonique 91 day pack
+
+
+
+2022-02-11
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 14 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2022-02-27
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 14 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+
+
+
+2022-03-07
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 14 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2022-04-02
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 14 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2022-04-27
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 14 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2022-05-20
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 14 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2022-06-12
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 14 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2022-07-07
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 14 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2022-07-29
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 14 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2022-08-23
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 14 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2022-09-13
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 14 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2022-10-09
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 14 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2022-11-02
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 14 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2022-11-26
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 14 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2022-12-22
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 14 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2023-01-16
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 14 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2023-02-06
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 15 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2023-03-05
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 15 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+
+
+
+2023-03-12
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 15 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2023-04-06
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 15 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2023-05-02
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 15 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2023-05-25
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 15 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+
+2023-06-19
+
+# Chief Complaint
+- Nasal Discharge
+- Nasal Congestion
+- Sneezing Fits
+
+
+# History of Present Illness
+Margarita164
+ is a 15 year-old hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy
+
+
+

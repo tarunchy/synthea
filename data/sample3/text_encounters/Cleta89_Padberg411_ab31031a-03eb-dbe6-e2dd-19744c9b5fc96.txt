@@ -1,0 +1,122 @@
+Cleta89 Padberg411
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 51
+Birth Date:          1971-10-23
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-04-17 : Encounter at UNIVERSITY OF MA MED CTR-ESRD
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2021-04-17 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           67.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     8.1 mg/dL
+           - Creatinine [Mass/volume] in Blood        0.8 mg/dL
+           - Calcium [Mass/volume] in Blood           9.6 mg/dL
+           - Sodium [Moles/volume] in Blood           136.8 mmol/L
+           - Potassium [Moles/volume] in Blood        5.0 mmol/L
+           - Chloride [Moles/volume] in Blood         104.4 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 25.4 mmol/L
+  2021-04-17 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-04-17 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+   
+   OBSERVATIONS:
+  2021-04-17 : Total score [AUDIT-C]                    2.0 {score}
+  2021-04-17 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-04-17 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Medicine or Any Health Care (Medical, Dental, Mental Health, Vision) 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 55648 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  813 Cronin Highlands 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 5.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2021-04-17 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-04-17 : Carbon dioxide, total [Moles/volume] in Blood 25.4 mmol/L
+  2021-04-17 : Chloride [Moles/volume] in Blood         104.4 mmol/L
+  2021-04-17 : Potassium [Moles/volume] in Blood        5.0 mmol/L
+  2021-04-17 : Sodium [Moles/volume] in Blood           136.8 mmol/L
+  2021-04-17 : Calcium [Mass/volume] in Blood           9.6 mg/dL
+  2021-04-17 : Creatinine [Mass/volume] in Blood        0.8 mg/dL
+  2021-04-17 : Urea nitrogen [Mass/volume] in Blood     8.1 mg/dL
+  2021-04-17 : Glucose [Mass/volume] in Blood           67.0 mg/dL
+  2021-04-17 : Respiratory rate                         12.0 /min
+  2021-04-17 : Heart rate                               62.0 /min
+  2021-04-17 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2021-04-17 : Body mass index (BMI) [Ratio]            27.9 kg/m2
+  2021-04-17 : Body Weight                              73.6 kg
+  2021-04-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2021-04-17 : Body Height                              162.5 cm
+  2021-04-17 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+   
+   PROCEDURES:
+  2021-04-17 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2021-04-17 : Assessment of substance use (procedure)
+  2021-04-17 : Assessment of anxiety (procedure)
+  2021-04-17 : Assessment of health and social care needs (procedure)
+  2021-04-17 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2021-04-17 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-01-23 : Full-time employment (finding)
+  2021-01-14 : Chronic sinusitis (disorder)
+  2020-12-20 : Sinusitis (disorder)
+  2019-11-16 : Stress (finding)
+  2009-01-10 : Victim of intimate partner abuse (finding)
+  1990-12-22 : Anemia (disorder)
+  1990-12-22 : Prediabetes
+  1989-12-16 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2020-12-20 + Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Sinusitis (disorder)
+  2020-05-24 : Liletta 52 MG Intrauterine System
+   
+   CAREPLANS:
+  2020-01-04 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  1990-12-22 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

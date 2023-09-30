@@ -1,0 +1,52 @@
+Amie520 Charlyn749 Smitham825
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 43
+Birth Date:          1980-03-14
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2014-02-02 : Encounter at STURDY MEMORIAL HOSPITAL INC : Encounter for Chronic pain (finding)
+Type: outpatient
+   
+   MEDICATIONS:
+  2014-02-02 : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+   
+   CONDITIONS:
+  2014-02-02 : Chronic neck pain (finding)
+  2014-02-02 : Chronic low back pain (finding)
+  2014-02-02 : Chronic pain (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2005-06-04 : Full-time employment (finding)
+  1999-05-29 : Transport problem (finding)
+  1998-05-23 : Lack of access to transportation (finding)
+  1998-05-23 : Only received primary school education (finding)
+  1995-05-06 : Risk activity involvement (finding)
+  1995-03-13 : Impacted molars
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

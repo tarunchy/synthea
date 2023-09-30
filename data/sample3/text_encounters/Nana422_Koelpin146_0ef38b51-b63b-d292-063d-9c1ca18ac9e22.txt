@@ -1,0 +1,65 @@
+Nana422 Koelpin146
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 13
+Birth Date:          2010-01-24
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-02-13 : Encounter at RUTLAND FAMILY HEALTH CENTER
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2022-02-13 : Risk activity involvement (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2022-02-13 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+   
+   OBSERVATIONS:
+  2022-02-13 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2022-02-13 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-02-13 : Respiratory rate                         16.0 /min
+  2022-02-13 : Heart rate                               95.0 /min
+  2022-02-13 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  99.0 mm[Hg]
+  2022-02-13 : Body mass index (BMI) [Percentile] Per age and sex 2.6 %
+  2022-02-13 : Body mass index (BMI) [Ratio]            14.4 kg/m2
+  2022-02-13 : Body Weight                              35.7 kg
+  2022-02-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2022-02-13 : Body Height                              157.4 cm
+   
+   PROCEDURES:
+  2022-02-13 : Health risks education (procedure) for Risk activity involvement (finding)
+  2022-02-13 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2022-02-13 : Assessment of substance use (procedure)
+  2022-02-13 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2022-02-13 : Depression screening (procedure)
+   
+   IMMUNIZATIONS:
+  2022-02-13 : HPV, quadrivalent
+  2022-02-13 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-02-07 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

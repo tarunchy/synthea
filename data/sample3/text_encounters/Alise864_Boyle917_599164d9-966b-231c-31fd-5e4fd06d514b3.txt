@@ -1,0 +1,60 @@
+Alise864 Boyle917
+=================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 2
+Birth Date:          2021-03-30
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-06-07 : Encounter at WHITLEY WELLNESS LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2022-06-07 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-06-07 : Respiratory rate                         13.0 /min
+  2022-06-07 : Heart rate                               76.0 /min
+  2022-06-07 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2022-06-07 : Head Occipital-frontal circumference     47.0 cm
+  2022-06-07 : Head Occipital-frontal circumference Percentile 83.3 %
+  2022-06-07 : Weight-for-length Per age and sex        46.8 %
+  2022-06-07 : Body Weight                              10.4 kg
+  2022-06-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2022-06-07 : Body Height                              79.3 cm
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2022-06-07 : Hep A, ped/adol, 2 dose
+  2022-06-07 : Pneumococcal conjugate PCV 13
+  2022-06-07 : MMR
+  2022-06-07 : varicella
+  2022-06-07 : Hib (PRP-OMP)
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2022-03-08 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

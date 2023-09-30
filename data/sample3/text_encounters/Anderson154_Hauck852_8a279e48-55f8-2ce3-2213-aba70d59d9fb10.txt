@@ -1,0 +1,51 @@
+Anderson154 Hauck852
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 28
+Birth Date:          1995-01-31
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2017-04-25 : Encounter at INTERNAL MEDICINE PHYSICIANS OF THE NORTH SHORE
+Type: wellness
+   
+   MEDICATIONS:
+  2017-04-25 : Acetaminophen 325 MG Oral Tablet [Tylenol]
+   
+   CONDITIONS:
+  2017-04-25 : Part-time employment (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2016-04-19 : Stress (finding)
+  2014-02-06 : Chronic neck pain (finding)
+  2014-02-06 : Chronic low back pain (finding)
+  2014-02-06 : Chronic pain (finding)
+  2013-04-02 : Received higher education (finding)
+  2013-04-02 : Housing unsatisfactory (finding)
+  2013-04-02 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

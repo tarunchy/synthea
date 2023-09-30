@@ -1,0 +1,58 @@
+Loren192 Mertz280
+=================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 3
+Birth Date:          2019-08-30
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-02-03 : Encounter at WHITLEY WELLNESS LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2023-02-03 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2023-02-03 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-02-03 : Respiratory rate                         15.0 /min
+  2023-02-03 : Heart rate                               80.0 /min
+  2023-02-03 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  147.0 mm[Hg]
+  2023-02-03 : Body mass index (BMI) [Percentile] Per age and sex 87.2 %
+  2023-02-03 : Body mass index (BMI) [Ratio]            17.3 kg/m2
+  2023-02-03 : Head Occipital-frontal circumference     52.0 cm
+  2023-02-03 : Head Occipital-frontal circumference Percentile 93.0 %
+  2023-02-03 : Weight-for-length Per age and sex        89.6 %
+  2023-02-03 : Body Weight                              18.6 kg
+  2023-02-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2023-02-03 : Body Height                              103.9 cm
+   
+   PROCEDURES:
+  2023-02-03 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

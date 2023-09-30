@@ -1,0 +1,87 @@
+Mauricio81 Reinger292
+=====================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 17
+Birth Date:          2006-07-12
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-11-09 : Encounter at NASHOBA VALLEY MEDICAL CENTER
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2022-11-09 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.3 %
+           - MCV [Entitic volume] by Automated count  80.4 fL
+           - MCH [Entitic mass] by Automated count    29.4 pg
+           - MCHC [Mass/volume] by Automated count    34.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.6 fL
+           - Platelets [#/volume] in Blood by Automated count 189.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 486.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2022-11-09 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+   
+   OBSERVATIONS:
+  2022-11-09 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2022-11-09 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-11-09 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2022-11-09 : Platelet distribution width [Entitic volume] in Blood by Automated count 486.1 fL
+  2022-11-09 : Platelets [#/volume] in Blood by Automated count 189.6 10*3/uL
+  2022-11-09 : Erythrocyte distribution width [Entitic volume] by Automated count 43.6 fL
+  2022-11-09 : MCHC [Mass/volume] by Automated count    34.7 g/dL
+  2022-11-09 : MCH [Entitic mass] by Automated count    29.4 pg
+  2022-11-09 : MCV [Entitic volume] by Automated count  80.4 fL
+  2022-11-09 : Hematocrit [Volume Fraction] of Blood by Automated count 45.3 %
+  2022-11-09 : Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+  2022-11-09 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2022-11-09 : Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+  2022-11-09 : Respiratory rate                         13.0 /min
+  2022-11-09 : Heart rate                               91.0 /min
+  2022-11-09 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 70.0 mm[Hg]
+           - Systolic Blood Pressure                  97.0 mm[Hg]
+  2022-11-09 : Body mass index (BMI) [Percentile] Per age and sex 54.6 %
+  2022-11-09 : Body mass index (BMI) [Ratio]            21.1 kg/m2
+  2022-11-09 : Body Weight                              63.8 kg
+  2022-11-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2022-11-09 : Body Height                              174.0 cm
+   
+   PROCEDURES:
+  2022-11-09 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2022-11-09 : Depression screening (procedure)
+  2022-11-09 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2022-11-09 : meningococcal MCV4P
+  2022-11-09 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2007-01-28 : Epilepsy
+  2007-01-28 : History of single seizure (situation)
+  2007-01-28 : Seizure disorder
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

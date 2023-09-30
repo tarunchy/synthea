@@ -1,0 +1,60 @@
+Caryl47 Hills818
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 22
+Birth Date:          2001-03-14
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-09-11 : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Chronic pain (finding)
+Type: ambulatory
+   
+   MEDICATIONS:
+  2019-09-11 : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2019-09-11 : Pain intensity, Enjoyment of life, General activity (PEG) 3 item pain scale
+           - What number best describes how pain has interfered with your general activity during the past week 2.3 {score}
+           - What number best describes how pain has interfered with your enjoyment of life during the past week 1.7 {score}
+           - Pain severity in the past week - 0-10 numeric rating [Reported] 3.1 {score}
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-05-08 : Stress (finding)
+  2019-05-08 : Social isolation (finding)
+  2019-05-08 : Not in labor force (finding)
+  2019-05-08 : Received higher education (finding)
+  2019-04-19 : Chronic neck pain (finding)
+  2019-04-19 : Chronic low back pain (finding)
+  2019-04-19 : Chronic pain (finding)
+  2017-04-26 : Medication review due (situation)
+   
+   MEDICATIONS:
+  2019-07-13 : 72 HR Fentanyl 0.025 MG/HR Transdermal System
+  2019-05-08 : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+   
+   CAREPLANS:
+  2019-07-13 : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavioral therapy (regime/therapy)
+   
+--------------------------------------------------------------------------------

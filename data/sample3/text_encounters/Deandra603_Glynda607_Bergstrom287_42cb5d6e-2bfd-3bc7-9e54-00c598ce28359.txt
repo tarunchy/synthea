@@ -1,0 +1,128 @@
+Deandra603 Glynda607 Bergstrom287
+=================================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1957-07-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2009-02-16 : Encounter at TEWKSBURY HOSPITAL : Encounter for Overlapping malignant neoplasm of colon
+Type: ambulatory
+   
+   MEDICATIONS:
+  2009-02-16 : 10 ML oxaliplatin 5 MG/ML Injection for Overlapping malignant neoplasm of colon
+  2009-02-16 : Leucovorin 100 MG Injection for Overlapping malignant neoplasm of colon
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2009-02-16 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Blood           77.1 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     19.7 mg/dL
+           - Creatinine [Mass/volume] in Blood        3.5 mg/dL
+           - Calcium [Mass/volume] in Blood           9.9 mg/dL
+           - Sodium [Moles/volume] in Blood           139.6 mmol/L
+           - Potassium [Moles/volume] in Blood        4.2 mmol/L
+           - Chloride [Moles/volume] in Blood         105.5 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 20.9 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 8.0 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.1 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.7 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.8 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.8 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 108.5 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 30.2 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 21.6 U/L
+  2009-02-16 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 2.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 30.2 %
+           - MCV [Entitic volume] by Automated count  88.9 fL
+           - MCH [Entitic mass] by Automated count    32.3 pg
+           - MCHC [Mass/volume] by Automated count    35.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.4 fL
+           - Platelets [#/volume] in Blood by Automated count 407.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 214.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+   
+   OBSERVATIONS:
+  2009-02-16 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2009-02-16 : Platelet distribution width [Entitic volume] in Blood by Automated count 214.9 fL
+  2009-02-16 : Platelets [#/volume] in Blood by Automated count 407.4 10*3/uL
+  2009-02-16 : Erythrocyte distribution width [Entitic volume] by Automated count 41.4 fL
+  2009-02-16 : MCHC [Mass/volume] by Automated count    35.0 g/dL
+  2009-02-16 : MCH [Entitic mass] by Automated count    32.3 pg
+  2009-02-16 : MCV [Entitic volume] by Automated count  88.9 fL
+  2009-02-16 : Hematocrit [Volume Fraction] of Blood by Automated count 30.2 %
+  2009-02-16 : Hemoglobin [Mass/volume] in Blood        13.3 g/dL
+  2009-02-16 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2009-02-16 : Leukocytes [#/volume] in Blood by Automated count 2.3 10*3/uL
+  2009-02-16 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 21.6 U/L
+  2009-02-16 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 30.2 U/L
+  2009-02-16 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 108.5 U/L
+  2009-02-16 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.8 mg/dL
+  2009-02-16 : Globulin [Mass/volume] in Serum by calculation 2.8 g/L
+  2009-02-16 : Albumin [Mass/volume] in Serum or Plasma 4.7 g/dL
+  2009-02-16 : Protein [Mass/volume] in Serum or Plasma 6.1 g/dL
+  2009-02-16 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 8.0 mL/min
+  2009-02-16 : Carbon dioxide, total [Moles/volume] in Blood 20.9 mmol/L
+  2009-02-16 : Chloride [Moles/volume] in Blood         105.5 mmol/L
+  2009-02-16 : Potassium [Moles/volume] in Blood        4.2 mmol/L
+  2009-02-16 : Sodium [Moles/volume] in Blood           139.6 mmol/L
+  2009-02-16 : Calcium [Mass/volume] in Blood           9.9 mg/dL
+  2009-02-16 : Creatinine [Mass/volume] in Blood        3.5 mg/dL
+  2009-02-16 : Urea nitrogen [Mass/volume] in Blood     19.7 mg/dL
+  2009-02-16 : Glucose [Mass/volume] in Blood           77.1 mg/dL
+  2009-02-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+   
+   PROCEDURES:
+  2009-02-16 : Combined chemotherapy and radiation therapy (procedure) for Overlapping malignant neoplasm of colon
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2008-11-10 : Overlapping malignant neoplasm of colon
+  2008-11-06 : Recurrent rectal polyp
+  2007-07-24 : Polyp of colon
+  2007-07-17 : Full-time employment (finding)
+  2007-07-17 : Essential hypertension (disorder)
+  2003-08-05 : Medication review due (situation)
+  1999-07-27 : Body mass index 30+ - obesity (finding)
+  1982-09-21 : Anemia (disorder)
+  1982-09-21 : Prediabetes
+  1975-09-09 : Received certificate of high school equivalency (finding)
+   
+   MEDICATIONS:
+  2008-07-22 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CAREPLANS:
+  2008-11-10 : Cancer care plan
+                         Reason: Overlapping malignant neoplasm of colon
+                         Activity: Healthy diet
+                         Activity: Colonoscopy planned
+                         Activity: Cancer education
+  2007-07-17 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1982-09-21 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

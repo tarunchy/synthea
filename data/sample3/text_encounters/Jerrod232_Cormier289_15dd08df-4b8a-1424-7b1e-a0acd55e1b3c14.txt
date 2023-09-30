@@ -1,0 +1,101 @@
+Jerrod232 Cormier289
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 61
+Birth Date:          1961-10-09
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-11-21 : Encounter at NORTH SHORE MEDICAL CENTER INC : Encounter for Hyperlipidemia
+Type: ambulatory
+   
+   MEDICATIONS:
+  2018-11-21 : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2018-11-21 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Blood           94.2 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     7.6 mg/dL
+           - Creatinine [Mass/volume] in Blood        2.6 mg/dL
+           - Calcium [Mass/volume] in Blood           9.3 mg/dL
+           - Sodium [Moles/volume] in Blood           140.2 mmol/L
+           - Potassium [Moles/volume] in Blood        4.5 mmol/L
+           - Chloride [Moles/volume] in Blood         101.9 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 28.5 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 88.3 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.7 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.7 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.2 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.3 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 82.6 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 28.5 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 26.3 U/L
+  2018-11-21 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 156.8 mg/dL
+           - Triglycerides                            170.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      130.6 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 66.1 mg/dL
+   
+   OBSERVATIONS:
+  2018-11-21 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 66.1 mg/dL
+  2018-11-21 : Low Density Lipoprotein Cholesterol      130.6 mg/dL
+  2018-11-21 : Triglycerides                            170.6 mg/dL
+  2018-11-21 : Cholesterol [Mass/volume] in Serum or Plasma 156.8 mg/dL
+  2018-11-21 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 26.3 U/L
+  2018-11-21 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 28.5 U/L
+  2018-11-21 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 82.6 U/L
+  2018-11-21 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.3 mg/dL
+  2018-11-21 : Globulin [Mass/volume] in Serum by calculation 2.2 g/L
+  2018-11-21 : Albumin [Mass/volume] in Serum or Plasma 3.7 g/dL
+  2018-11-21 : Protein [Mass/volume] in Serum or Plasma 7.7 g/dL
+  2018-11-21 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 88.3 mL/min
+  2018-11-21 : Carbon dioxide, total [Moles/volume] in Blood 28.5 mmol/L
+  2018-11-21 : Chloride [Moles/volume] in Blood         101.9 mmol/L
+  2018-11-21 : Potassium [Moles/volume] in Blood        4.5 mmol/L
+  2018-11-21 : Sodium [Moles/volume] in Blood           140.2 mmol/L
+  2018-11-21 : Calcium [Mass/volume] in Blood           9.3 mg/dL
+  2018-11-21 : Creatinine [Mass/volume] in Blood        2.6 mg/dL
+  2018-11-21 : Urea nitrogen [Mass/volume] in Blood     7.6 mg/dL
+  2018-11-21 : Glucose [Mass/volume] in Blood           94.2 mg/dL
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-11-19 : Part-time employment (finding)
+  2018-11-19 : Medication review due (situation)
+  2017-11-13 : Stress (finding)
+  2014-02-05 : Chronic neck pain (finding)
+  2014-02-05 : Chronic low back pain (finding)
+  2014-02-05 : Chronic pain (finding)
+  2009-11-02 : Has a criminal record (finding)
+  2009-11-02 : Hyperlipidemia
+  1989-12-18 : Body mass index 30+ - obesity (finding)
+  1986-08-19 : Chronic sinusitis (disorder)
+  1979-12-03 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2009-11-23 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+   
+   CAREPLANS:
+  2009-11-23 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+   
+--------------------------------------------------------------------------------

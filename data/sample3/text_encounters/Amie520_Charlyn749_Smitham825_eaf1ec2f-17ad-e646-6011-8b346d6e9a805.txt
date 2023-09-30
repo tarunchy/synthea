@@ -1,0 +1,94 @@
+Amie520 Charlyn749 Smitham825
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 43
+Birth Date:          1980-03-14
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-04-07 : Encounter at RISE ABOVE WELLNESS HEALTH SERVICES LLC
+Type: wellness
+   
+   MEDICATIONS:
+  2023-04-07 : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+   
+   CONDITIONS:
+  2023-04-08 : Stress (finding)
+  2023-04-07 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2023-04-08 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 73677 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               Less than high school degree 
+           - Address                                  364 Vandervort Trafficway Suite 76 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 5.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2023-04-07 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-04-07 : Respiratory rate                         12.0 /min
+  2023-04-07 : Heart rate                               65.0 /min
+  2023-04-07 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 92.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2023-04-07 : Body mass index (BMI) [Ratio]            30.2 kg/m2
+  2023-04-07 : Body Weight                              92.2 kg
+  2023-04-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2023-04-07 : Body Height                              174.6 cm
+   
+   PROCEDURES:
+  2023-04-07 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+  2023-04-07 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2023-01-13 : Normal pregnancy
+  2022-04-02 : Full-time employment (finding)
+  2018-03-09 : Body mass index 30+ - obesity (finding)
+  2014-02-02 : Chronic neck pain (finding)
+  2014-02-02 : Chronic low back pain (finding)
+  2014-02-02 : Chronic pain (finding)
+  1999-05-29 : Transport problem (finding)
+  1998-05-23 : Lack of access to transportation (finding)
+  1998-05-23 : Only received primary school education (finding)
+  1995-05-06 : Risk activity involvement (finding)
+  1995-03-13 : Impacted molars
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2023-01-13 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+   
+--------------------------------------------------------------------------------

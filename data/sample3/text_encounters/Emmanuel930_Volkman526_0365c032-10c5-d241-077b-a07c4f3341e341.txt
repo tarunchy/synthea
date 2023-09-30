@@ -1,0 +1,43 @@
+Emmanuel930 Volkman526
+======================
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 23
+Birth Date:          1999-11-18
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1999-11-18 : Encounter at NEW ENGLAND PROFESSIONAL HOME HEALTH CARE LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1999-11-18 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

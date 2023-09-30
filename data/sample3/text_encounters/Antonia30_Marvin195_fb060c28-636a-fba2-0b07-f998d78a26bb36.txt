@@ -1,0 +1,55 @@
+Antonia30 Marvin195
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 38
+Birth Date:          1984-11-18
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1986-02-19 : Tree nut (substance)
+  1986-02-19 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2001-07-08 : Encounter at BOSTONIAN NURSING CARE & REHABILITATION CTR, THE : Encounter for Drug overdose
+Type: emergency
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2001-07-08 : Drug overdose
+   
+   CARE PLANS:
+  2001-07-08 : Care plan (record artifact)
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1999-07-12 : Dependent drug abuse (disorder)
+  1999-01-28 : Chronic intractable migraine without aura
+  1998-12-22 : Impacted molars
+   
+   MEDICATIONS:
+  1986-02-19 : Chlorpheniramine Maleate 2 MG/ML Oral Solution
+   
+   CAREPLANS:
+  1986-02-03 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

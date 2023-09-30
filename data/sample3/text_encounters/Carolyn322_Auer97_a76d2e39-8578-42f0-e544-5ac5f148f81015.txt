@@ -1,0 +1,65 @@
+Carolyn322 Auer97
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 58
+Birth Date:          1965-01-04
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-03-08 : Encounter at AP MEDICAL LLC : Encounter for Idiopathic atrophic hypothyroidism
+Type: ambulatory
+   
+   MEDICATIONS:
+  2020-03-08 : Levothyroxine Sodium 0.075 MG Oral Tablet
+   
+   CONDITIONS:
+  2020-03-08 : Idiopathic atrophic hypothyroidism
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-02-03 : Stress (finding)
+  2020-02-03 : Part-time employment (finding)
+  2020-02-03 : Medication review due (situation)
+  2019-01-28 : Severe anxiety (panic) (finding)
+  2019-01-28 : Anemia (disorder)
+  2019-01-28 : Prediabetes
+  2008-12-23 : Osteoarthritis of knee
+  2007-09-22 : Malignant neoplasm of breast (disorder)
+  1996-03-18 : Body mass index 30+ - obesity (finding)
+  1992-03-16 : Miscarriage in first trimester
+  1983-02-28 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2019-02-04 : Vitamin B12 5 MG/ML Injectable Solution
+  2008-12-23 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+   
+   CAREPLANS:
+  2019-01-28 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2008-12-23 : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+   
+--------------------------------------------------------------------------------

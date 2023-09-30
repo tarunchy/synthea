@@ -1,0 +1,46 @@
+Wyatt967 Schuppe920
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 32
+Birth Date:          1990-12-05
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1991-09-14 : Tree nut (substance)
+  1991-09-14 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+1991-09-02 : Encounter at MELROSEWAKEFIELD HEALTHCARE, INC : Encounter for Tree nut (substance)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+  1991-09-02 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

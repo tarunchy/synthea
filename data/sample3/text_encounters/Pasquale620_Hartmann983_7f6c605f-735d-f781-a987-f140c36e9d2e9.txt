@@ -1,0 +1,73 @@
+Pasquale620 Hartmann983
+=======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 3
+Birth Date:          2020-03-28
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2021-06-12 : Peanut (substance)
+  2021-06-12 : Wheat (substance)
+  2021-06-12 : Tree pollen (substance)
+  2021-06-12 : Grass pollen (substance)
+  2021-06-12 : Animal dander (substance)
+  2021-06-12 : House dust mite (organism)
+  2021-06-12 : Mold (organism)
+  2021-06-12 : Bee venom (substance)
+  2021-06-12 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-04-03 : Encounter at DANA FARBER CANCER INSTITUTE
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2021-04-03 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-04-03 : Respiratory rate                         15.0 /min
+  2021-04-03 : Heart rate                               79.0 /min
+  2021-04-03 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 94.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2021-04-03 : Head Occipital-frontal circumference     45.3 cm
+  2021-04-03 : Head Occipital-frontal circumference Percentile 17.5 %
+  2021-04-03 : Weight-for-length Per age and sex        71.3 %
+  2021-04-03 : Body Weight                              9.7 kg
+  2021-04-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2021-04-03 : Body Height                              73.2 cm
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2021-04-03 : Hep A, ped/adol, 2 dose
+  2021-04-03 : Pneumococcal conjugate PCV 13
+  2021-04-03 : MMR
+  2021-04-03 : varicella
+  2021-04-03 : Hib (PRP-OMP)
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-03-25 : Acute bronchitis (disorder)
+  2020-12-05 : Medication review due (situation)
+   
+   MEDICATIONS:
+  2021-03-25 + Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+   
+   CAREPLANS:
+  2021-03-25 : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,78 @@
+Abigail677 Jody426 Balistreri607
+================================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 33
+Birth Date:          1990-04-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-01-23 : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Suspected COVID-19
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2021-01-23 : COVID-19
+  2021-01-23 : Loss of taste (finding)
+  2021-01-23 : Fever (finding)
+  2021-01-23 : Fatigue (finding)
+  2021-01-23 : Sputum finding (finding)
+  2021-01-23 : Cough (finding)
+  2021-01-23 : Nasal congestion (finding)
+   
+   CARE PLANS:
+  2021-01-23 : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Isolation of infected patient (procedure)
+  2021-01-23 : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Personal protective equipment (physical object)
+   
+   REPORTS:
+  2021-01-23 : Influenza virus A and B Ag panel - Upper respiratory specimen by Rapid immunoassay
+           - Influenza virus A Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+           - Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+  2021-01-23 : SARS-CoV-2 RNA Pnl Resp NAA+probe
+           - SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+   
+   OBSERVATIONS:
+  2021-01-23 : SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2021-01-23 : Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+  2021-01-23 : Influenza virus A Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+  2021-01-23 : Body Weight                              89.9 kg
+  2021-01-23 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2021-01-23 : Oxygen saturation in Arterial blood      88.4 %
+  2021-01-23 : Heart rate                               197.4 /min
+  2021-01-23 : Respiratory rate                         34.7 /min
+  2021-01-23 : Body temperature                         39.6 Cel
+   
+   PROCEDURES:
+  2021-01-23 : Face mask (physical object) for Suspected COVID-19
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-06-25 : Full-time employment (finding)
+  2018-06-25 : Medication review due (situation)
+  2015-06-22 : Stress (finding)
+  2012-06-18 : Body mass index 30+ - obesity (finding)
+  2008-06-09 : Only received primary school education (finding)
+  2004-05-17 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

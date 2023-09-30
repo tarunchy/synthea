@@ -1,0 +1,46 @@
+Lyle846 Fadel536
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 55
+Birth Date:          1968-03-17
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1986-05-11 : Encounter at NEW ENGLAND FAMILY HEALTH LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1986-05-11 : Full-time employment (finding)
+  1986-05-11 : Received certificate of high school equivalency (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1984-04-29 : Medication review due (situation)
+  1982-04-18 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

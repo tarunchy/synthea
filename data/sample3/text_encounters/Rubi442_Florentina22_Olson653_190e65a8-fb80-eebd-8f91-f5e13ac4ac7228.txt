@@ -1,0 +1,121 @@
+Rubi442 Florentina22 Olson653
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 33
+Birth Date:          1990-03-05
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-07-02 : Encounter at CARDIOVASCULAR CENTER AT TUFTS MEDICAL CENTER INC
+Type: wellness
+   
+   MEDICATIONS:
+  2019-07-02 : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2019-07-02 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2019-07-02 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+  2019-07-02 : Victim of intimate partner abuse (finding)
+  2019-07-02 : Part-time employment (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2019-07-02 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           78.2 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     14.1 mg/dL
+           - Creatinine [Mass/volume] in Blood        0.8 mg/dL
+           - Calcium [Mass/volume] in Blood           9.3 mg/dL
+           - Sodium [Moles/volume] in Blood           140.2 mmol/L
+           - Potassium [Moles/volume] in Blood        4.0 mmol/L
+           - Chloride [Moles/volume] in Blood         106.2 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 24.4 mmol/L
+  2019-07-02 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+   
+   OBSERVATIONS:
+  2019-07-02 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2019-07-02 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? Yes 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 23573 /a
+           - Primary insurance                        Medicaid 
+           - Employment status - current              Part-time or temporary work 
+           - Highest level of education               More than high school 
+           - Address                                  912 Wilkinson Mews Suite 51 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 7.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? I choose not to answer this question 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2019-07-02 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-07-02 : Carbon dioxide, total [Moles/volume] in Blood 24.4 mmol/L
+  2019-07-02 : Chloride [Moles/volume] in Blood         106.2 mmol/L
+  2019-07-02 : Potassium [Moles/volume] in Blood        4.0 mmol/L
+  2019-07-02 : Sodium [Moles/volume] in Blood           140.2 mmol/L
+  2019-07-02 : Calcium [Mass/volume] in Blood           9.3 mg/dL
+  2019-07-02 : Creatinine [Mass/volume] in Blood        0.8 mg/dL
+  2019-07-02 : Urea nitrogen [Mass/volume] in Blood     14.1 mg/dL
+  2019-07-02 : Glucose [Mass/volume] in Blood           78.2 mg/dL
+  2019-07-02 : Respiratory rate                         15.0 /min
+  2019-07-02 : Heart rate                               87.0 /min
+  2019-07-02 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 66.0 mm[Hg]
+           - Systolic Blood Pressure                  97.0 mm[Hg]
+  2019-07-02 : Body mass index (BMI) [Ratio]            22.1 kg/m2
+  2019-07-02 : Body Weight                              62.5 kg
+  2019-07-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2019-07-02 : Body Height                              168.3 cm
+  2019-07-02 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+   
+   PROCEDURES:
+  2019-07-02 : Assessment of anxiety (procedure)
+  2019-07-02 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+  2019-07-02 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2017-06-20 : Medication review due (situation)
+  2016-06-14 : Anemia (disorder)
+  2016-06-14 : Prediabetes
+  2015-06-09 : Social isolation (finding)
+  2014-06-03 : Limited social contact (finding)
+  2008-04-29 : Received higher education (finding)
+  2008-04-29 : Essential hypertension (disorder)
+  2007-04-24 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2016-06-14 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2008-04-29 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

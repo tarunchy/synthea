@@ -1,0 +1,115 @@
+Gerry91 Schumm995
+=================
+Race:                Native
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 29
+Birth Date:          1993-10-23
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2018-12-13 : Sulfamethoxazole / Trimethoprim
+  2018-12-13 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-04-02 : Encounter at WALPOLE MEDICAL CENTER, PC
+Type: wellness
+   
+   MEDICATIONS:
+  2022-04-02 : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+   
+   CONDITIONS:
+  2022-04-02 : Full-time employment (finding)
+  2022-04-02 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2022-04-02 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2022-04-02 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2022-04-02 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2022-04-02 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    0.0 {score}
+   
+   OBSERVATIONS:
+  2022-04-02 : Total score [DAST-10]                    0.0 {score}
+  2022-04-02 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2022-04-02 : Total score [HARK]                       0.0 {score}
+  2022-04-02 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2022-04-02 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 102448 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  180 Reinger Bypass Unit 38 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 1.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     American Indian/Alaskan Native 
+           - Do you consider yourself Hispanic/Latino? No 
+  2022-04-02 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-04-02 : Respiratory rate                         14.0 /min
+  2022-04-02 : Heart rate                               64.0 /min
+  2022-04-02 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2022-04-02 : Body mass index (BMI) [Ratio]            28.3 kg/m2
+  2022-04-02 : Body Weight                              96.9 kg
+  2022-04-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2022-04-02 : Body Height                              184.9 cm
+   
+   PROCEDURES:
+  2022-04-02 : Screening for drug abuse (procedure)
+  2022-04-02 : Assessment of substance use (procedure)
+  2022-04-02 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-04-02 : Depression screening (procedure)
+  2022-04-02 : Screening for domestic abuse (procedure)
+  2022-04-02 : Assessment of anxiety (procedure)
+  2022-04-02 : Assessment of health and social care needs (procedure)
+  2022-04-02 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2022-04-02 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-03-21 : Stress (finding)
+  2015-02-21 : Has a criminal record (finding)
+  2014-02-03 : Chronic low back pain (finding)
+  2014-02-03 : Chronic pain (finding)
+  2011-12-17 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2018-12-13 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2018-12-13 : cetirizine hydrochloride 10 MG Oral Tablet
+  2018-11-30 + Hydrocortisone 10 MG/ML Topical Cream for Contact dermatitis
+  2014-03-29 : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+   
+   CAREPLANS:
+  2018-12-13 : Allergic disorder monitoring
+                         Activity: Allergen immunotherapy (regime/therapy)
+  2018-12-13 : Self-care interventions (procedure)
+                         Activity: Allergy education
+  2014-03-29 : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavioral therapy (regime/therapy)
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,61 @@
+Ian270 Bayer639
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1975-02-16 : Encounter at VA Boston Healthcare System, West Roxbury Campus
+Type: wellness
+   
+   MEDICATIONS:
+  1975-02-16 : nicotine 7 MG/Day 24HR Transdermal System
+   
+   CONDITIONS:
+  1975-02-16 : Medication review due (situation)
+   
+   CARE PLANS:
+  1975-02-16 : Care Plan
+                         Reason: Aortic valve regurgitation (disorder)
+                         Activity: smoking cessation therapy
+                         Activity: Referral for laboratory tests (procedure)
+                         Activity: Referral to radiology service (procedure)
+                         Activity: Refer for angiogram (procedure)
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1965-01-30 : Aortic valve regurgitation (disorder)
+  1953-07-12 : Has a criminal record (finding)
+  1952-04-20 : Anemia (disorder)
+  1949-04-17 : Prediabetes
+  1942-04-05 : Received higher education (finding)
+  1942-04-05 : Housing unsatisfactory (finding)
+  1942-04-05 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1949-04-17 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

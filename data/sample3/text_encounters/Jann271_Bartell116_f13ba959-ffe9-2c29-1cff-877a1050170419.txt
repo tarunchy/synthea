@@ -1,0 +1,63 @@
+Jann271 Bartell116
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2006-04-11
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-08-14 : Encounter at TEWKSBURY HOSPITAL
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2018-08-14 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+   
+   OBSERVATIONS:
+  2018-08-14 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2018-08-14 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-08-14 : Respiratory rate                         16.0 /min
+  2018-08-14 : Heart rate                               72.0 /min
+  2018-08-14 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  91.0 mm[Hg]
+  2018-08-14 : Body mass index (BMI) [Percentile] Per age and sex 6.3 %
+  2018-08-14 : Body mass index (BMI) [Ratio]            15.2 kg/m2
+  2018-08-14 : Body Weight                              36.3 kg
+  2018-08-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-08-14 : Body Height                              154.6 cm
+   
+   PROCEDURES:
+  2018-08-14 : Anticipatory guidance (procedure)
+  2018-08-14 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2018-08-14 : Assessment of substance use (procedure)
+  2018-08-14 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2018-08-14 : Depression screening (procedure)
+   
+   IMMUNIZATIONS:
+  2018-08-14 : HPV, quadrivalent
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2017-04-25 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

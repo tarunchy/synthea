@@ -1,0 +1,62 @@
+Ellena683 Homenick806
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2005-07-28
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2006-05-11 : Fish (substance)
+  2006-05-11 : Shellfish (substance)
+  2006-05-11 : Cow's milk (substance)
+  2006-05-11 : Aspirin
+  2006-05-11 : Tree pollen (substance)
+  2006-05-11 : Grass pollen (substance)
+  2006-05-11 : Animal dander (substance)
+  2006-05-11 : House dust mite (organism)
+  2006-05-11 : Mold (organism)
+  2006-05-11 : Latex (substance)
+  2006-05-11 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-07-31 : Encounter at EMERSON HOSPITAL : Encounter for Allergy to substance (finding)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2021-07-31 : Subcutaneous immunotherapy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-04-02 : Medication review due (situation)
+  2009-11-14 : Perennial allergic rhinitis with seasonal variation
+   
+   MEDICATIONS:
+  2006-05-11 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2006-05-11 : Loratadine 5 MG Chewable Tablet
+   
+   CAREPLANS:
+  2018-08-02 : Allergic disorder monitoring
+                         Activity: Allergen immunotherapy (regime/therapy)
+  2006-04-23 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,46 @@
+Erasmo545 Fritsch593
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 40
+Birth Date:          1983-07-15
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2002-09-13 : Encounter at TAUNTON MEDICAL CENTER, PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2002-09-13 : Full-time employment (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2001-09-07 : Stress (finding)
+  2001-09-07 : Received higher education (finding)
+  1999-08-27 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

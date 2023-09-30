@@ -1,0 +1,63 @@
+Ike571 Conroy74
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 99
+Birth Date:          1924-02-10
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1988-10-23 : Encounter at STEWARD NORWOOD HOSPITAL INC : Encounter for Hyperlipidemia
+Type: ambulatory
+   
+   MEDICATIONS:
+  1988-10-23 : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+  1988-10-23 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1988-10-02 : Hyperlipidemia
+  1977-06-03 : Osteoarthritis of knee
+  1963-05-12 : Has a criminal record (finding)
+  1961-04-30 : Essential hypertension (disorder)
+  1958-04-27 : Body mass index 30+ - obesity (finding)
+  1949-02-20 : History of appendectomy
+  1949-02-20 : Appendicitis
+  1942-04-05 : Received higher education (finding)
+   
+   MEDICATIONS:
+  1988-10-02 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  1977-06-03 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+   
+   CAREPLANS:
+  1961-04-30 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,79 @@
+Gerry91 Schumm995
+=================
+Race:                Native
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 29
+Birth Date:          1993-10-23
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2018-12-13 : Sulfamethoxazole / Trimethoprim
+  2018-12-13 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-12-13 : Encounter at VHS ACQUISITION SUBSIDIARY NUMBER 9, INC. : Encounter for Allergy to substance (finding)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+  2018-12-13 : Allergic disorder monitoring
+                         Activity: Allergen immunotherapy (regime/therapy)
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2018-12-13 : Latex IgE Ab [Units/volume] in Serum     0.2 kU/L
+  2018-12-13 : Honey bee IgE Ab [Units/volume] in Serum 0.3 kU/L
+  2018-12-13 : Cladosporium herbarum IgE Ab [Units/volume] in Serum 0.1 kU/L
+  2018-12-13 : American house dust mite IgE Ab [Units/volume] in Serum 0.1 kU/L
+  2018-12-13 : Cat dander IgE Ab [Units/volume] in Serum 0.2 kU/L
+  2018-12-13 : Common Ragweed IgE Ab [Units/volume] in Serum 0.2 kU/L
+  2018-12-13 : White oak IgE Ab [Units/volume] in Serum 0.0 kU/L
+  2018-12-13 : Cow milk IgE Ab [Units/volume] in Serum  0.3 kU/L
+  2018-12-13 : Soybean IgE Ab [Units/volume] in Serum   0.3 kU/L
+  2018-12-13 : Egg white IgE Ab [Units/volume] in Serum 0.3 kU/L
+  2018-12-13 : Wheat IgE Ab [Units/volume] in Serum     0.1 kU/L
+  2018-12-13 : Shrimp IgE Ab [Units/volume] in Serum    0.3 kU/L
+  2018-12-13 : Codfish IgE Ab [Units/volume] in Serum   0.3 kU/L
+  2018-12-13 : Walnut IgE Ab [Units/volume] in Serum    0.1 kU/L
+  2018-12-13 : Peanut IgE Ab [Units/volume] in Serum    0.1 kU/L
+   
+   PROCEDURES:
+  2018-12-13 : Allergy screening test
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-11-29 : Contact dermatitis
+  2018-03-10 : Victim of intimate partner abuse (finding)
+  2018-03-10 : Social isolation (finding)
+  2018-03-10 : Full-time employment (finding)
+  2017-03-04 : Stress (finding)
+  2015-02-21 : Has a criminal record (finding)
+  2014-02-03 : Chronic low back pain (finding)
+  2014-02-03 : Chronic pain (finding)
+  2011-12-17 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2018-11-30 + Hydrocortisone 10 MG/ML Topical Cream for Contact dermatitis
+  2018-03-10 : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2014-03-29 : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+   
+   CAREPLANS:
+  2018-11-29 : Skin condition care
+                         Reason: Contact dermatitis
+                         Activity: Application of moisturizer to skin
+  2014-03-29 : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavioral therapy (regime/therapy)
+   
+--------------------------------------------------------------------------------

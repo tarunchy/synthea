@@ -1,0 +1,46 @@
+Darryl392 Becker968
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 67
+Birth Date:          1955-09-17
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1981-10-31 : Encounter at MEDICAL EXPRESS URGENT CARE CENTER CO INC
+Type: urgentcare
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1981-10-31 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1980-11-22 : Stress (finding)
+  1973-11-10 : Only received primary school education (finding)
+  1973-11-10 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

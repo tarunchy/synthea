@@ -1,0 +1,114 @@
+Alvin56 Stark857
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 19
+Birth Date:          2004-05-13
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-10-06 : Encounter at SENIOR RESIDENTIAL CARE - KINGSTON, INC. : Encounter for Patient transfer to skilled nursing facility (procedure)
+Type: snf
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2018-10-06 : Patient transfer to skilled nursing facility (procedure)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2018-11-14 : Discharge from skilled nursing facility (procedure)
+  2018-11-14 : Pre-discharge assessment (procedure)
+  2018-11-13 : Professional / ancillary services care (regime/therapy)
+  2018-11-13 : Occupational therapy (regime/therapy)
+  2018-11-13 : Physical therapy procedure (regime/therapy)
+  2018-11-13 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-11-12 : Professional / ancillary services care (regime/therapy)
+  2018-11-12 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-11-11 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-11-10 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-11-09 : Professional / ancillary services care (regime/therapy)
+  2018-11-09 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-11-08 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-11-07 : Speech and language therapy regime (regime/therapy)
+  2018-11-07 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-11-06 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-11-05 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-11-04 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-11-03 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-11-02 : Speech and language therapy regime (regime/therapy)
+  2018-11-02 : Occupational therapy (regime/therapy)
+  2018-11-02 : Physical therapy procedure (regime/therapy)
+  2018-11-02 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-11-01 : Occupational therapy (regime/therapy)
+  2018-11-01 : Physical therapy procedure (regime/therapy)
+  2018-11-01 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-31 : Professional / ancillary services care (regime/therapy)
+  2018-10-31 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-30 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-29 : Occupational therapy (regime/therapy)
+  2018-10-29 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-28 : Professional / ancillary services care (regime/therapy)
+  2018-10-28 : Physical therapy procedure (regime/therapy)
+  2018-10-28 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-27 : Occupational therapy (regime/therapy)
+  2018-10-27 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-26 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-25 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-24 : Occupational therapy (regime/therapy)
+  2018-10-24 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-23 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-22 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-21 : Professional / ancillary services care (regime/therapy)
+  2018-10-21 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-20 : Professional / ancillary services care (regime/therapy)
+  2018-10-20 : Speech and language therapy regime (regime/therapy)
+  2018-10-20 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-19 : Professional / ancillary services care (regime/therapy)
+  2018-10-19 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-18 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-17 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-16 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-15 : Professional / ancillary services care (regime/therapy)
+  2018-10-15 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-14 : Occupational therapy (regime/therapy)
+  2018-10-14 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-13 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-12 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-11 : Occupational therapy (regime/therapy)
+  2018-10-11 : Physical therapy procedure (regime/therapy)
+  2018-10-11 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-10 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-09 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-08 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-07 : Speech and language therapy regime (regime/therapy)
+  2018-10-07 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-06 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-10-06 : Development of individualized plan of care (procedure)
+  2018-10-06 : Initial patient assessment (procedure)
+  2018-10-06 : History AND physical examination (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2016-06-02 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

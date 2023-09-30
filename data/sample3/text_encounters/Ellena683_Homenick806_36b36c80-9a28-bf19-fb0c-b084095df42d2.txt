@@ -1,0 +1,81 @@
+Ellena683 Homenick806
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2005-07-28
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2006-05-11 : Fish (substance)
+  2006-05-11 : Shellfish (substance)
+  2006-05-11 : Cow's milk (substance)
+  2006-05-11 : Aspirin
+  2006-05-11 : Tree pollen (substance)
+  2006-05-11 : Grass pollen (substance)
+  2006-05-11 : Animal dander (substance)
+  2006-05-11 : House dust mite (organism)
+  2006-05-11 : Mold (organism)
+  2006-05-11 : Latex (substance)
+  2006-05-11 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-09-15 : Encounter at CHELMSFORD PRIMARY CARE LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2022-09-15 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2022-09-15 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+   
+   OBSERVATIONS:
+  2022-09-15 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2022-09-15 : Tobacco smoking status                   Ex-smoker (finding) 
+  2022-09-15 : Respiratory rate                         13.0 /min
+  2022-09-15 : Heart rate                               66.0 /min
+  2022-09-15 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  84.0 mm[Hg]
+  2022-09-15 : Body mass index (BMI) [Percentile] Per age and sex 43.7 %
+  2022-09-15 : Body mass index (BMI) [Ratio]            20.5 kg/m2
+  2022-09-15 : Body Weight                              56.6 kg
+  2022-09-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-09-15 : Body Height                              166.3 cm
+   
+   PROCEDURES:
+  2022-09-15 : Anticipatory guidance (procedure)
+  2022-09-15 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2022-09-15 : Assessment of substance use (procedure)
+  2022-09-15 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2022-09-15 : Depression screening (procedure)
+   
+   IMMUNIZATIONS:
+  2022-09-15 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-09-09 : Risk activity involvement (finding)
+  2009-11-14 : Perennial allergic rhinitis with seasonal variation
+   
+   MEDICATIONS:
+  2022-07-12 : Trinessa 28 Day Pack
+  2006-05-11 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2006-05-11 : Loratadine 5 MG Chewable Tablet
+   
+   CAREPLANS:
+  2006-04-23 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,59 @@
+Alvin56 Hamill307
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 68
+Birth Date:          1954-12-24
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2017-05-12 : Encounter at DIMOCK COMMUNITY HEALTH CENTER, INC
+Type: emergency
+   
+   MEDICATIONS:
+  2017-05-12 : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes mellitus type 2 (disorder)
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2006-03-03 : Retinopathy due to type 2 diabetes mellitus (disorder)
+  1996-01-05 : Hypertriglyceridemia (disorder)
+  1996-01-05 : Hyperglycemia (disorder)
+  1994-12-30 : Diabetes mellitus type 2 (disorder)
+  1994-12-30 : Metabolic syndrome X (disorder)
+  1989-03-10 : Body mass index 30+ - obesity (finding)
+  1980-02-29 : Anemia (disorder)
+  1977-02-25 : Prediabetes
+  1974-02-22 : Lack of access to transportation (finding)
+  1973-02-16 : Has a criminal record (finding)
+  1973-02-16 : Transport problem (finding)
+  1973-02-16 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1977-02-25 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

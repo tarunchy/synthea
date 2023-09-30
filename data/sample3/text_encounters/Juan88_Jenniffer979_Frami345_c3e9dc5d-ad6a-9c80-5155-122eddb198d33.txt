@@ -1,0 +1,118 @@
+Juan88 Jenniffer979 Frami345
+============================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 56
+Birth Date:          1967-06-27
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-07-20 : Encounter at CARING HEALTH CENTER, INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2021-07-20 : Full-time employment (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2021-07-20 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           85.7 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     10.1 mg/dL
+           - Creatinine [Mass/volume] in Blood        1.0 mg/dL
+           - Calcium [Mass/volume] in Blood           8.7 mg/dL
+           - Sodium [Moles/volume] in Blood           140.9 mmol/L
+           - Potassium [Moles/volume] in Blood        4.5 mmol/L
+           - Chloride [Moles/volume] in Blood         105.1 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 20.9 mmol/L
+  2021-07-20 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2021-07-20 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+   
+   OBSERVATIONS:
+  2021-07-20 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-07-20 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2021-07-20 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 60596 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  125 Wintheiser Brook 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 2.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2021-07-20 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-07-20 : Carbon dioxide, total [Moles/volume] in Blood 20.9 mmol/L
+  2021-07-20 : Chloride [Moles/volume] in Blood         105.1 mmol/L
+  2021-07-20 : Potassium [Moles/volume] in Blood        4.5 mmol/L
+  2021-07-20 : Sodium [Moles/volume] in Blood           140.9 mmol/L
+  2021-07-20 : Calcium [Mass/volume] in Blood           8.7 mg/dL
+  2021-07-20 : Creatinine [Mass/volume] in Blood        1.0 mg/dL
+  2021-07-20 : Urea nitrogen [Mass/volume] in Blood     10.1 mg/dL
+  2021-07-20 : Glucose [Mass/volume] in Blood           85.7 mg/dL
+  2021-07-20 : Respiratory rate                         12.0 /min
+  2021-07-20 : Heart rate                               76.0 /min
+  2021-07-20 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 65.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  2021-07-20 : Body mass index (BMI) [Ratio]            30.4 kg/m2
+  2021-07-20 : Body Weight                              94.9 kg
+  2021-07-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-07-20 : Body Height                              176.6 cm
+  2021-07-20 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+   
+   PROCEDURES:
+  2021-07-20 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-07-20 : Depression screening (procedure)
+  2021-07-20 : Assessment of anxiety (procedure)
+  2021-07-20 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+  2021-07-20 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-07-09 : Stress (finding)
+  2018-07-03 : Medication review due (situation)
+  2013-07-16 : Body mass index 30+ - obesity (finding)
+  2011-03-03 : History of appendectomy
+  2011-03-03 : Appendicitis
+  2007-07-03 : Anemia (disorder)
+  2007-07-03 : Prediabetes
+  2002-07-31 : History of tubal ligation (situation)
+  1985-08-20 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2007-07-10 : ferrous sulfate 325 MG Oral Tablet
+   
+   CAREPLANS:
+  2007-07-03 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

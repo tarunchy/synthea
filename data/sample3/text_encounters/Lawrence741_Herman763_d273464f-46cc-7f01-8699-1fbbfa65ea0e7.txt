@@ -1,0 +1,64 @@
+Lawrence741 Herman763
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2005-12-22
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-01-23 : Encounter at JEWISH FAMILY & CHILDREN'S SERVICE
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2020-01-23 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-01-23 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2020-01-23 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+   
+   OBSERVATIONS:
+  2020-01-23 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2020-01-23 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2020-01-23 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-01-23 : Respiratory rate                         13.0 /min
+  2020-01-23 : Heart rate                               61.0 /min
+  2020-01-23 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2020-01-23 : Body mass index (BMI) [Percentile] Per age and sex 92.6 %
+  2020-01-23 : Body mass index (BMI) [Ratio]            25.9 kg/m2
+  2020-01-23 : Body Weight                              60.8 kg
+  2020-01-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-01-23 : Body Height                              153.3 cm
+   
+   PROCEDURES:
+  2020-01-23 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2020-01-23 : Depression screening (procedure)
+  2020-01-23 : Assessment of anxiety (procedure)
+   
+   IMMUNIZATIONS:
+  2020-01-23 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

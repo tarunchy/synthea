@@ -1,0 +1,69 @@
+Bettina657 Hammes673
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 18
+Birth Date:          2004-12-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-01-28 : Encounter at CHELMSFORD FAMILY PRACTICE, PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2022-01-28 : Risk activity involvement (finding)
+  2022-01-28 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2022-01-28 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2022-01-28 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+   
+   OBSERVATIONS:
+  2022-01-28 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+  2022-01-28 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2022-01-28 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-01-28 : Respiratory rate                         15.0 /min
+  2022-01-28 : Heart rate                               62.0 /min
+  2022-01-28 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  144.0 mm[Hg]
+  2022-01-28 : Body mass index (BMI) [Percentile] Per age and sex 83.5 %
+  2022-01-28 : Body mass index (BMI) [Ratio]            24.9 kg/m2
+  2022-01-28 : Body Weight                              60.3 kg
+  2022-01-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2022-01-28 : Body Height                              155.7 cm
+   
+   PROCEDURES:
+  2022-01-28 : Health risks education (procedure) for Risk activity involvement (finding)
+  2022-01-28 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2022-01-28 : Assessment of substance use (procedure)
+  2022-01-28 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2022-01-28 : Depression screening (procedure)
+  2022-01-28 : Assessment of anxiety (procedure)
+  2022-01-28 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2022-01-28 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

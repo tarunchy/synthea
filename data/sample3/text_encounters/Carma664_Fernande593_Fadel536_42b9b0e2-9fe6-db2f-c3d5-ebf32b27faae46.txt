@@ -1,0 +1,44 @@
+Carma664 Fernande593 Fadel536
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 30
+Birth Date:          1992-12-22
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2011-02-15 : Encounter at VIGILANT FAMILY HEALTH CLINIC, INC.
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2011-02-15 : Limited social contact (finding)
+  2011-02-15 : Received certificate of high school equivalency (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

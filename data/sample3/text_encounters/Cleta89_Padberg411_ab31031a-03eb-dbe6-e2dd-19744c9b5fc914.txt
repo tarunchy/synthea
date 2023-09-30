@@ -1,0 +1,59 @@
+Cleta89 Padberg411
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 51
+Birth Date:          1971-10-23
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-05-24 : Encounter at UNIVERSITY OF MA MED CTR-ESRD : Encounter for Contraception care (regime/therapy)
+Type: outpatient
+   
+   MEDICATIONS:
+  2020-05-24 : Liletta 52 MG Intrauterine System
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-11-16 : Severe anxiety (panic) (finding)
+  2019-11-16 : Stress (finding)
+  2019-11-16 : Part-time employment (finding)
+  2009-01-10 : Victim of intimate partner abuse (finding)
+  2006-01-07 : Limited social contact (finding)
+  1990-12-22 : Anemia (disorder)
+  1990-12-22 : Prediabetes
+  1989-12-16 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2020-01-04 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  1990-12-22 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

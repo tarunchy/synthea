@@ -1,0 +1,43 @@
+Marta91 Ángela136 Sotelo656
+========Á==================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 53
+Birth Date:          1969-09-25
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1986-01-09 : Encounter at DEDHAM MEDICAL ASSOCIATES URGENT CARE CENTER LLC
+Type: urgentcare
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1986-01-09 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

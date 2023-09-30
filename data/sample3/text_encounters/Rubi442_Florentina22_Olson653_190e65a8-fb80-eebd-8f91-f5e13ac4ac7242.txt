@@ -1,0 +1,57 @@
+Rubi442 Florentina22 Olson653
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 33
+Birth Date:          1990-03-05
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2015-06-09 : Encounter at CARDIOVASCULAR CENTER AT TUFTS MEDICAL CENTER INC
+Type: wellness
+   
+   MEDICATIONS:
+  2015-06-09 : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2015-06-09 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2015-06-09 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+  2015-06-09 : Social isolation (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2014-06-03 : Limited social contact (finding)
+  2014-05-06 : Stress (finding)
+  2008-04-29 : Received higher education (finding)
+  2008-04-29 : Essential hypertension (disorder)
+  2007-04-24 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2008-04-29 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

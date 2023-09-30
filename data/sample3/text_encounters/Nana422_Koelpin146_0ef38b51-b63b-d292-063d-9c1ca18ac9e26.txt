@@ -1,0 +1,55 @@
+Nana422 Koelpin146
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 13
+Birth Date:          2010-01-24
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-02-02 : Encounter at RUTLAND FAMILY HEALTH CENTER
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2020-02-02 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-02-02 : Respiratory rate                         12.0 /min
+  2020-02-02 : Heart rate                               64.0 /min
+  2020-02-02 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  92.0 mm[Hg]
+  2020-02-02 : Body mass index (BMI) [Percentile] Per age and sex 2.2 %
+  2020-02-02 : Body mass index (BMI) [Ratio]            13.6 kg/m2
+  2020-02-02 : Body Weight                              28.1 kg
+  2020-02-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2020-02-02 : Body Height                              143.7 cm
+   
+   PROCEDURES:
+  2020-02-02 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2020-02-02 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

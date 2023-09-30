@@ -1,0 +1,64 @@
+Clair921 Ziemann98
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 19
+Birth Date:          2004-05-07
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-06-14 : Encounter at STEWARD ST ELIZABETHS MEDICAL CENTER OF BOSTON INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2019-06-14 : Risk activity involvement (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2019-06-14 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+   
+   OBSERVATIONS:
+  2019-06-14 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2019-06-14 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-06-14 : Respiratory rate                         16.0 /min
+  2019-06-14 : Heart rate                               75.0 /min
+  2019-06-14 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  102.0 mm[Hg]
+  2019-06-14 : Body mass index (BMI) [Percentile] Per age and sex 96.4 %
+  2019-06-14 : Body mass index (BMI) [Ratio]            28.0 kg/m2
+  2019-06-14 : Body Weight                              91.4 kg
+  2019-06-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-06-14 : Body Height                              180.6 cm
+   
+   PROCEDURES:
+  2019-06-14 : Health risks education (procedure) for Risk activity involvement (finding)
+  2019-06-14 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2019-06-14 : Assessment of substance use (procedure)
+  2019-06-14 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2019-06-14 : Depression screening (procedure)
+   
+   IMMUNIZATIONS:
+  2019-06-14 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-06-08 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

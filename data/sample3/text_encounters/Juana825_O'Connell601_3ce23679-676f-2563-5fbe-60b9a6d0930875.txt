@@ -1,0 +1,49 @@
+Juana825 O'Connell601
+=========='==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 70
+Birth Date:          1952-09-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1977-10-28 : Encounter at AP MEDICAL LLC : Encounter for Sterilization requested (situation)
+Type: inpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1977-10-28 : History of tubal ligation (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1971-11-10 : Transport problem (finding)
+  1971-11-10 : Full-time employment (finding)
+  1970-11-04 : Has a criminal record (finding)
+  1970-11-04 : Lack of access to transportation (finding)
+  1970-11-04 : Received certificate of high school equivalency (finding)
+  1970-06-23 : Chronic sinusitis (disorder)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

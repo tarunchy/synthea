@@ -1,0 +1,44 @@
+Deandra603 Glynda607 Bergstrom287
+=================================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1957-07-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1980-03-11 : Encounter at TEWKSBURY HOSPITAL
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1980-03-11 : Full-time employment (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1975-09-09 : Received certificate of high school equivalency (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,106 @@
+Wyatt967 Schuppe920
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 32
+Birth Date:          1990-12-05
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1991-09-14 : Tree nut (substance)
+  1991-09-14 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-02-16 : Encounter at MELROSE FAMILY OPTICIANS LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2022-02-16 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 159.6 mg/dL
+           - Triglycerides                            139.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      77.2 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 54.4 mg/dL
+  2022-02-16 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-02-16 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+   
+   OBSERVATIONS:
+  2022-02-16 : Total score [DAST-10]                    1.0 {score}
+  2022-02-16 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2022-02-16 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 10096 /a
+           - Primary insurance                        Medicaid 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  1083 Larkin Village 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 7.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2022-02-16 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-02-16 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 54.4 mg/dL
+  2022-02-16 : Low Density Lipoprotein Cholesterol      77.2 mg/dL
+  2022-02-16 : Triglycerides                            139.8 mg/dL
+  2022-02-16 : Cholesterol [Mass/volume] in Serum or Plasma 159.6 mg/dL
+  2022-02-16 : Respiratory rate                         15.0 /min
+  2022-02-16 : Heart rate                               77.0 /min
+  2022-02-16 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2022-02-16 : Body mass index (BMI) [Ratio]            28.8 kg/m2
+  2022-02-16 : Body Weight                              93.2 kg
+  2022-02-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-02-16 : Body Height                              180.0 cm
+   
+   PROCEDURES:
+  2022-02-16 : Screening for drug abuse (procedure)
+  2022-02-16 : Assessment of substance use (procedure)
+  2022-02-16 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-02-16 : Depression screening (procedure)
+  2022-02-16 : Assessment of health and social care needs (procedure)
+  2022-02-16 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2022-02-16 : Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+  2022-02-16 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-02-13 : Full-time employment (finding)
+  2009-01-28 : Received higher education (finding)
+  2002-12-25 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+  1991-09-14 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  1991-09-14 : diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+   
+   CAREPLANS:
+  1991-09-02 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

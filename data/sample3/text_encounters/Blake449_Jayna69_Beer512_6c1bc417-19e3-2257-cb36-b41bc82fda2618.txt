@@ -1,0 +1,92 @@
+Blake449 Jayna69 Beer512
+========================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 39
+Birth Date:          1984-01-01
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1985-02-28 : Shellfish (substance)
+  1985-02-28 : Bee venom (substance)
+  1985-02-28 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-10-03 : Encounter at Quincy Outpatient Clinic : Encounter for Normal pregnancy
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2021-10-03 : Normal pregnancy
+   
+   CARE PLANS:
+  2021-10-03 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2021-10-03 : Physical examination procedure (procedure) for Normal pregnancy
+  2021-10-03 : Urine protein test for Normal pregnancy
+  2021-10-03 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy
+  2021-10-03 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2021-10-03 : Rubella screening for Normal pregnancy
+  2021-10-03 : Hepatitis C antibody, confirmatory test for Normal pregnancy
+  2021-10-03 : Urine screening test for diabetes for Normal pregnancy
+  2021-10-03 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2021-10-03 : Urine culture for Normal pregnancy
+  2021-10-03 : Syphilis infectious titer test (procedure) for Normal pregnancy
+  2021-10-03 : Gonorrhea infection titer test (procedure) for Normal pregnancy
+  2021-10-03 : Chlamydia antigen test for Normal pregnancy
+  2021-10-03 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2021-10-03 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2021-10-03 : Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential for Normal pregnancy
+  2021-10-03 : Blood group typing (procedure) for Normal pregnancy
+  2021-10-03 : Auscultation of the fetal heart for Normal pregnancy
+  2021-10-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-10-03 : Ultrasound scan for fetal viability for Normal pregnancy
+  2021-10-03 : Standard pregnancy test for Normal pregnancy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-03-28 : Medication review due (situation)
+  2020-01-26 : Social isolation (finding)
+  2020-01-26 : Full-time employment (finding)
+  2019-09-22 : Stress (finding)
+  2019-09-10 : Chronic sinusitis (disorder)
+  2018-03-11 : Victim of intimate partner abuse (finding)
+  2014-02-16 : Has a criminal record (finding)
+  2014-02-04 : Chronic low back pain (finding)
+  2014-02-04 : Chronic pain (finding)
+  2013-07-07 : Body mass index 30+ - obesity (finding)
+  2006-03-05 : Prediabetes
+  2003-03-02 : Limited social contact (finding)
+  2002-02-24 : Received higher education (finding)
+  2002-02-24 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+  2021-03-28 : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  1985-02-28 : Astemizole 10 MG Oral Tablet
+   
+   CAREPLANS:
+  2006-03-05 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1985-02-12 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

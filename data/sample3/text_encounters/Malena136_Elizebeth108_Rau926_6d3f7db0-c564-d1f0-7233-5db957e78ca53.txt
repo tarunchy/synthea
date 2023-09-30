@@ -1,0 +1,55 @@
+Malena136 Elizebeth108 Rau926
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 43
+Birth Date:          1980-02-15
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-08-13 : Encounter at ARBOUR-FULLER HOSPITAL : Encounter for Contraception care (regime/therapy)
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2022-08-13 : Insertion of intrauterine contraceptive device
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2022-02-25 : Full-time employment (finding)
+  2021-12-21 : Osteoarthritis of knee
+  2014-05-02 : Has a criminal record (finding)
+  2014-05-02 : Body mass index 30+ - obesity (finding)
+  1998-04-10 : Received certificate of high school equivalency (finding)
+  1981-05-29 : History of single seizure (situation)
+  1981-05-29 : Seizure disorder
+   
+   MEDICATIONS:
+  2021-12-21 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+   
+   CAREPLANS:
+  2021-12-21 : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+   
+--------------------------------------------------------------------------------

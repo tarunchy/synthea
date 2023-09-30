@@ -1,0 +1,67 @@
+Byron202 Tillman293
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 11
+Birth Date:          2012-06-16
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2013-12-17 : Cow's milk (substance)
+  2013-12-17 : Tree pollen (substance)
+  2013-12-17 : Grass pollen (substance)
+  2013-12-17 : Animal dander (substance)
+  2013-12-17 : House dust mite (organism)
+  2013-12-17 : Mold (organism)
+  2013-12-17 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-06-25 : Encounter at GREATER LAWRENCE FAMILY HEALTH CENTER INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2022-06-25 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2022-06-25 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-06-25 : Respiratory rate                         15.0 /min
+  2022-06-25 : Heart rate                               90.0 /min
+  2022-06-25 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  139.0 mm[Hg]
+  2022-06-25 : Body mass index (BMI) [Percentile] Per age and sex 62.8 %
+  2022-06-25 : Body mass index (BMI) [Ratio]            17.4 kg/m2
+  2022-06-25 : Body Weight                              35.0 kg
+  2022-06-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2022-06-25 : Body Height                              142.1 cm
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2022-06-25 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-04-12 : Perennial allergic rhinitis with seasonal variation
+   
+   MEDICATIONS:
+  2013-12-17 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2013-12-17 : Fexofenadine hydrochloride 30 MG Oral Tablet
+   
+   CAREPLANS:
+  2013-11-30 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,135 @@
+Deb577 Katherin596 Bogisich202
+==============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 69
+Birth Date:          1953-09-13
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1954-06-28 : Shellfish (substance)
+  1954-06-28 : Aspirin
+  1954-06-28 : Lisinopril
+  1954-06-28 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-03-12 : Encounter at LE & CHANG FAMILY URGENT CARE PC
+Type: urgentcare
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2023-03-12 : Social isolation (finding)
+  2023-03-12 : Unemployed (finding)
+  2023-03-12 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2023-03-12 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           68.3 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     12.0 mg/dL
+           - Creatinine [Mass/volume] in Blood        0.7 mg/dL
+           - Calcium [Mass/volume] in Blood           9.4 mg/dL
+           - Sodium [Moles/volume] in Blood           137.6 mmol/L
+           - Potassium [Moles/volume] in Blood        4.7 mmol/L
+           - Chloride [Moles/volume] in Blood         105.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 25.9 mmol/L
+  2023-03-12 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       41.0 {#}
+           - Fall risk level [Morse Fall Scale]       Moderate Risk (MFS Score 25 - 45) 
+  2023-03-12 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+   
+   OBSERVATIONS:
+  2023-03-12 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2023-03-12 : Fall risk level [Morse Fall Scale]       Moderate Risk (MFS Score 25 - 45) 
+  2023-03-12 : Fall risk total [Morse Fall Scale]       41.0 {#}
+  2023-03-12 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 29884 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Unemployed 
+           - Highest level of education               More than high school 
+           - Address                                  1037 Zboncak Mews Unit 99 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 7.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2023-03-12 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-03-12 : Carbon dioxide, total [Moles/volume] in Blood 25.9 mmol/L
+  2023-03-12 : Chloride [Moles/volume] in Blood         105.3 mmol/L
+  2023-03-12 : Potassium [Moles/volume] in Blood        4.7 mmol/L
+  2023-03-12 : Sodium [Moles/volume] in Blood           137.6 mmol/L
+  2023-03-12 : Calcium [Mass/volume] in Blood           9.4 mg/dL
+  2023-03-12 : Creatinine [Mass/volume] in Blood        0.7 mg/dL
+  2023-03-12 : Urea nitrogen [Mass/volume] in Blood     12.0 mg/dL
+  2023-03-12 : Glucose [Mass/volume] in Blood           68.3 mg/dL
+  2023-03-12 : Respiratory rate                         15.0 /min
+  2023-03-12 : Heart rate                               77.0 /min
+  2023-03-12 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2023-03-12 : Body mass index (BMI) [Ratio]            27.9 kg/m2
+  2023-03-12 : Body Weight                              68.0 kg
+  2023-03-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2023-03-12 : Body Height                              156.3 cm
+  2023-03-12 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+   
+   PROCEDURES:
+  2023-03-12 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2023-03-12 : Depression screening (procedure)
+  2023-03-12 : Assessment using Morse Fall Scale (procedure)
+  2023-03-12 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2023-03-05 : Acute bronchitis (disorder)
+  2008-11-14 : Drug overdose
+  2007-11-08 : Dependent drug abuse (disorder)
+  1994-10-30 : Miscarriage in first trimester
+  1993-09-19 : Anemia (disorder)
+  1993-09-19 : Prediabetes
+  1981-11-22 : Body mass index 30+ - obesity (finding)
+  1971-11-07 : Received higher education (finding)
+  1970-05-06 : History of single seizure (situation)
+  1970-05-06 : Seizure disorder
+   
+   MEDICATIONS:
+  2023-03-05 + Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+   
+   CAREPLANS:
+  2023-03-05 : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2008-11-14 : Care plan (record artifact)
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+  1993-09-19 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1954-06-14 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

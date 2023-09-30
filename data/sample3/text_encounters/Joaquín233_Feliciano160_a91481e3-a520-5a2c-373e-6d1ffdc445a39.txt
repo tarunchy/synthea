@@ -1,0 +1,51 @@
+Joaquín233 Feliciano160
+=====í=================
+Race:                Asian
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 36
+Birth Date:          1987-03-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2008-08-26 : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2008-08-26 : Unhealthy alcohol drinking behavior (finding)
+  2008-08-26 : Anemia (disorder)
+  2008-08-26 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2006-05-09 : Prediabetes
+  2005-05-03 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2006-05-09 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

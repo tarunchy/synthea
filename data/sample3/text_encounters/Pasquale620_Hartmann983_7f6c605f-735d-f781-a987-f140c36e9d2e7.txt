@@ -1,0 +1,66 @@
+Pasquale620 Hartmann983
+=======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 3
+Birth Date:          2020-03-28
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2021-06-12 : Peanut (substance)
+  2021-06-12 : Wheat (substance)
+  2021-06-12 : Tree pollen (substance)
+  2021-06-12 : Grass pollen (substance)
+  2021-06-12 : Animal dander (substance)
+  2021-06-12 : House dust mite (organism)
+  2021-06-12 : Mold (organism)
+  2021-06-12 : Bee venom (substance)
+  2021-06-12 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-06-05 : Encounter at MANET COMMUNITY HEALTH CENTER, INC.
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2021-06-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-06-05 : Respiratory rate                         16.0 /min
+  2021-06-05 : Heart rate                               83.0 /min
+  2021-06-05 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2021-06-05 : Head Occipital-frontal circumference     45.8 cm
+  2021-06-05 : Head Occipital-frontal circumference Percentile 17.5 %
+  2021-06-05 : Weight-for-length Per age and sex        71.8 %
+  2021-06-05 : Body Weight                              10.2 kg
+  2021-06-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-06-05 : Body Height                              75.3 cm
+   
+   PROCEDURES:
+  2021-06-05 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2021-05-18 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

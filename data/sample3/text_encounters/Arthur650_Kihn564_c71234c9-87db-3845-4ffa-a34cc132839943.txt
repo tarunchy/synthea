@@ -1,0 +1,49 @@
+Arthur650 Kihn564
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 26
+Birth Date:          1997-04-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2015-06-18 : Encounter at URGENT CARE MEDICAL ASSOCIATES, LLC
+Type: urgentcare
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2015-06-18 : Stress (finding)
+  2015-06-18 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2015-06-04 : Full-time employment (finding)
+  2015-06-04 : Received higher education (finding)
+  2008-12-09 : History of appendectomy
+  2008-12-09 : Appendicitis
+  2008-12-09 : Rupture of appendix
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

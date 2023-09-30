@@ -1,0 +1,192 @@
+Enriqueta274 Barrows492
+=======================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1965-06-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2016-09-07 : Encounter at HEBREW REHABILITATION CENTER : Encounter for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+Type: inpatient
+   
+   MEDICATIONS:
+  2016-09-09 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-09-09 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-09-08 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-09-08 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-09-07 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-09-07 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2016-09-07 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Blood           64.7 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     9.5 mg/dL
+           - Creatinine [Mass/volume] in Blood        3.5 mg/dL
+           - Calcium [Mass/volume] in Blood           8.7 mg/dL
+           - Sodium [Moles/volume] in Blood           136.7 mmol/L
+           - Potassium [Moles/volume] in Blood        5.2 mmol/L
+           - Chloride [Moles/volume] in Blood         110.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 24.6 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 13.9 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.5 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.3 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.9 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.7 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 32.3 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 47.2 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 10.7 U/L
+  2016-09-07 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 2.0 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.6 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 13.4 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                5.5 pH
+           - Protein [Mass/volume] in Urine by Test strip 414.1 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2016-09-07 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 1.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.0 %
+           - MCV [Entitic volume] by Automated count  94.5 fL
+           - MCH [Entitic mass] by Automated count    30.9 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.9 fL
+           - Platelets [#/volume] in Blood by Automated count 302.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 483.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+   
+   OBSERVATIONS:
+  2016-09-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2016-09-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2016-09-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2016-09-07 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2016-09-07 : Platelet distribution width [Entitic volume] in Blood by Automated count 483.3 fL
+  2016-09-07 : Platelets [#/volume] in Blood by Automated count 302.1 10*3/uL
+  2016-09-07 : Erythrocyte distribution width [Entitic volume] by Automated count 42.9 fL
+  2016-09-07 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2016-09-07 : MCH [Entitic mass] by Automated count    30.9 pg
+  2016-09-07 : MCV [Entitic volume] by Automated count  94.5 fL
+  2016-09-07 : Hematocrit [Volume Fraction] of Blood by Automated count 42.0 %
+  2016-09-07 : Hemoglobin [Mass/volume] in Blood        13.9 g/dL
+  2016-09-07 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2016-09-07 : Leukocytes [#/volume] in Blood by Automated count 1.9 10*3/uL
+  2016-09-07 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2016-09-07 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2016-09-07 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2016-09-07 : Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+  2016-09-07 : Protein [Mass/volume] in Urine by Test strip 414.1 mg/dL
+  2016-09-07 : pH of Urine by Test strip                5.5 pH
+  2016-09-07 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2016-09-07 : Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+  2016-09-07 : Ketones [Mass/volume] in Urine by Test strip 13.4 mg/dL
+  2016-09-07 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2016-09-07 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.6 mg/dL
+  2016-09-07 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2016-09-07 : Glucose [Mass/volume] in Urine by Test strip 2.0 mg/dL
+  2016-09-07 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2016-09-07 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2016-09-07 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2016-09-07 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2016-09-07 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 10.7 U/L
+  2016-09-07 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 47.2 U/L
+  2016-09-07 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 32.3 U/L
+  2016-09-07 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.7 mg/dL
+  2016-09-07 : Globulin [Mass/volume] in Serum by calculation 2.9 g/L
+  2016-09-07 : Albumin [Mass/volume] in Serum or Plasma 4.3 g/dL
+  2016-09-07 : Protein [Mass/volume] in Serum or Plasma 6.5 g/dL
+  2016-09-07 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 13.9 mL/min
+  2016-09-07 : Carbon dioxide, total [Moles/volume] in Blood 24.6 mmol/L
+  2016-09-07 : Chloride [Moles/volume] in Blood         110.3 mmol/L
+  2016-09-07 : Potassium [Moles/volume] in Blood        5.2 mmol/L
+  2016-09-07 : Sodium [Moles/volume] in Blood           136.7 mmol/L
+  2016-09-07 : Calcium [Mass/volume] in Blood           8.7 mg/dL
+  2016-09-07 : Creatinine [Mass/volume] in Blood        3.5 mg/dL
+  2016-09-07 : Urea nitrogen [Mass/volume] in Blood     9.5 mg/dL
+  2016-09-07 : Glucose [Mass/volume] in Blood           64.7 mg/dL
+   
+   PROCEDURES:
+  2016-09-09 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-09-09 : Hearing examination (procedure)
+  2016-09-08 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-09-08 : Hearing examination (procedure)
+  2016-09-07 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-09-07 : Hearing examination (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2016-08-24 : Stress (finding)
+  2016-07-13 : Full-time employment (finding)
+  2016-05-18 : Victim of intimate partner abuse (finding)
+  2016-01-11 : Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-08 : Small cell carcinoma of lung (disorder)
+  2015-12-08 : Suspected lung cancer (situation)
+  2015-11-18 : End-stage renal disease (disorder)
+  2015-02-15 : Awaiting transplantation of kidney (situation)
+  2015-02-04 : Chronic kidney disease stage 4 (disorder)
+  2008-12-24 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  2008-12-24 : Chronic kidney disease stage 3 (disorder)
+  2007-03-07 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  2007-03-07 : Chronic kidney disease stage 2 (disorder)
+  2005-05-11 : Disorder of kidney due to diabetes mellitus (disorder)
+  2005-05-11 : Chronic kidney disease stage 1 (disorder)
+  2004-04-14 : Metabolic syndrome X (disorder)
+  1997-10-29 : Body mass index 30+ - obesity (finding)
+  1984-08-15 : Anemia (disorder)
+  1984-08-15 : Prediabetes
+  1983-08-10 : Received higher education (finding)
+  1983-08-10 : Essential hypertension (disorder)
+   
+   MEDICATIONS:
+  2016-08-24 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2016-08-24 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2016-08-24 + insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  1984-08-23 : Vitamin B12 5 MG/ML Injectable Solution
+   
+   CAREPLANS:
+  2016-01-11 : Terminal care
+                         Reason: Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+                         Activity: Comfort measures
+                         Activity: Chronic pain control management
+                         Activity: Cancer education
+  2014-12-20 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1984-08-15 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1983-08-10 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

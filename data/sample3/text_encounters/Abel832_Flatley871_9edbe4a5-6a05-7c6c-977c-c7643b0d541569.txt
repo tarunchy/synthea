@@ -1,0 +1,96 @@
+Abel832 Flatley871
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1983-05-08 : Encounter at VA Boston Healthcare System, West Roxbury Campus
+Type: wellness
+   
+   MEDICATIONS:
+  1983-05-08 : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  1983-05-08 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  1983-05-08 : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes mellitus type 2 (disorder)
+   
+   CONDITIONS:
+  1983-05-08 : Opioid abuse (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1981-04-26 : Stress (finding)
+  1981-04-26 : Limited social contact (finding)
+  1981-04-26 : Neuropathy due to type 2 diabetes mellitus (disorder)
+  1981-04-26 : Medication review due (situation)
+  1979-04-15 : Hyperglycemia (disorder)
+  1976-03-01 : Obstructive sleep apnea syndrome (disorder)
+  1976-01-28 : Sleep disorder (disorder)
+  1975-03-23 : Metabolic syndrome X (disorder)
+  1975-03-23 : Hypertriglyceridemia (disorder)
+  1974-03-17 : Diabetes mellitus type 2 (disorder)
+  1972-03-05 : Essential hypertension (disorder)
+  1971-06-04 : Osteoarthritis of hip
+  1968-03-07 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  1968-02-25 : Ischemic heart disease (disorder)
+  1958-04-27 : Body mass index 30+ - obesity (finding)
+  1955-04-24 : Anemia (disorder)
+  1952-04-20 : Prediabetes
+  1942-04-05 : Received higher education (finding)
+  1942-04-05 : Served in armed forces (finding)
+  1938-11-25 : Epilepsy
+  1938-11-25 : History of single seizure (situation)
+  1938-11-25 : Seizure disorder
+   
+   MEDICATIONS:
+  1976-03-09 : Meperidine Hydrochloride 50 MG Oral Tablet
+  1971-06-04 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of hip
+  1968-03-03 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+   
+   CAREPLANS:
+  1976-03-01 : Care plan (record artifact)
+                         Reason: Obstructive sleep apnea syndrome (disorder)
+                         Activity: Weight reduction regimen (regime/therapy)
+                         Activity: Warning. Avoid alcoholic drink (qualifier value)
+                         Activity: Continuous positive airway pressure ventilation treatment (regime/therapy)
+                         Activity: Counseling for substance abuse (procedure)
+                         Activity: Substance abuse prevention education (procedure)
+                         Activity: Substance abuse prevention management (procedure)
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+  1972-03-05 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1971-06-04 : Musculoskeletal care
+                         Reason: Osteoarthritis of hip
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  1952-04-20 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

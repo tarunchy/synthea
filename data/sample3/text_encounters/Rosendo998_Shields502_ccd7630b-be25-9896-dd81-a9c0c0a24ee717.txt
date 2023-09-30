@@ -1,0 +1,51 @@
+Rosendo998 Shields502
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 59
+Birth Date:          1964-03-10
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1989-05-16 : Encounter at DAVIS SQUARE FAMILY PRACTICE
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1989-05-16 : Social isolation (finding)
+  1989-05-16 : Full-time employment (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1986-05-13 : Prediabetes
+  1986-05-13 : Medication review due (situation)
+  1982-05-04 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1986-05-13 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

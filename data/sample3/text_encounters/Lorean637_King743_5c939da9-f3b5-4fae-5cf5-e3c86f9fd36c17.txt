@@ -1,0 +1,51 @@
+Lorean637 King743
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 21
+Birth Date:          2001-11-17
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-04-14 : Encounter at COOLEY DICKINSON HOSPITAL INC : Encounter for Acute viral pharyngitis (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2020-04-14 : Acute viral pharyngitis (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2020-04-14 : Body temperature                         37.6 Cel
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-02-08 : Medication review due (situation)
+  2020-01-11 : Stress (finding)
+  2020-01-11 : Unemployed (finding)
+  2020-01-11 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2020-01-27 : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+   
+--------------------------------------------------------------------------------

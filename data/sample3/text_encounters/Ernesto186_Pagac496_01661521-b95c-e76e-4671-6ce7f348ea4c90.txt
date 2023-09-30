@@ -1,0 +1,177 @@
+Ernesto186 Pagac496
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1997-03-02 : Encounter at VA Boston Healthcare System, West Roxbury Campus
+Type: outpatient
+   
+   MEDICATIONS:
+  1997-03-02 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  1997-03-02 : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes mellitus type 2 (disorder)
+  1997-03-02 : warfarin sodium 5 MG Oral Tablet
+  1997-03-02 : insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+   
+   CONDITIONS:
+  1997-03-02 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  1997-03-02 : Basic metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 98.6 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 17.4 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.0 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.5 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 136.7 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.6 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 102.2 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 23.5 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 54.7 mL/min/{1.73_m2}
+  1997-03-02 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.4 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.3 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 10.7 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = ++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.9 pH
+           - Protein [Mass/volume] in Urine by Test strip 379.5 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+   
+   OBSERVATIONS:
+  1997-03-02 : Hemoglobin A1c/Hemoglobin.total in Blood 3.0 %
+  1997-03-02 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  1997-03-02 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  1997-03-02 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  1997-03-02 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  1997-03-02 : Protein [Mass/volume] in Urine by Test strip 379.5 mg/dL
+  1997-03-02 : pH of Urine by Test strip                6.9 pH
+  1997-03-02 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  1997-03-02 : Ketones [Presence] in Urine by Test strip Urine ketone test = ++ (finding) {nominal}
+  1997-03-02 : Ketones [Mass/volume] in Urine by Test strip 10.7 mg/dL
+  1997-03-02 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  1997-03-02 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.3 mg/dL
+  1997-03-02 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  1997-03-02 : Glucose [Mass/volume] in Urine by Test strip 1.4 mg/dL
+  1997-03-02 : Color of Urine                           Brown color (qualifier value) {nominal}
+  1997-03-02 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  1997-03-02 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  1997-03-02 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  1997-03-02 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 54.7 mL/min/{1.73_m2}
+  1997-03-02 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 23.5 mmol/L
+  1997-03-02 : Chloride [Moles/volume] in Serum or Plasma 102.2 mmol/L
+  1997-03-02 : Potassium [Moles/volume] in Serum or Plasma 4.6 mmol/L
+  1997-03-02 : Sodium [Moles/volume] in Serum or Plasma 136.7 mmol/L
+  1997-03-02 : Calcium [Mass/volume] in Serum or Plasma 9.5 mg/dL
+  1997-03-02 : Creatinine [Mass/volume] in Serum or Plasma 2.0 mg/dL
+  1997-03-02 : Urea nitrogen [Mass/volume] in Serum or Plasma 17.4 mg/dL
+  1997-03-02 : Glucose [Mass/volume] in Serum or Plasma 98.6 mg/dL
+   
+   PROCEDURES:
+  1997-03-02 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1997-01-19 : Full-time employment (finding)
+  1995-02-12 : Drug overdose
+  1993-10-03 : Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+  1993-09-05 : Non-small cell lung cancer (disorder)
+  1993-07-11 : Suspected lung cancer (situation)
+  1991-12-29 : Carcinoma in situ of prostate (disorder)
+  1991-12-29 : Neoplasm of prostate
+  1991-11-17 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  1991-11-17 : Chronic kidney disease stage 3 (disorder)
+  1991-02-24 : History of aortic valve replacement (situation)
+  1991-01-24 : Aortic valve regurgitation (disorder)
+  1990-04-24 : Dependent drug abuse (disorder)
+  1989-08-02 : History of myocardial infarction (situation)
+  1989-07-28 : Acute non-ST segment elevation myocardial infarction (disorder)
+  1986-02-16 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1986-02-16 : Chronic kidney disease stage 2 (disorder)
+  1984-11-04 : Disorder of kidney due to diabetes mellitus (disorder)
+  1984-11-04 : Chronic kidney disease stage 1 (disorder)
+  1980-10-21 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  1980-10-12 : Ischemic heart disease (disorder)
+  1974-09-08 : Has a criminal record (finding)
+  1974-09-08 : Neuropathy due to type 2 diabetes mellitus (disorder)
+  1964-07-12 : Hypertriglyceridemia (disorder)
+  1964-07-12 : Hyperglycemia (disorder)
+  1963-07-07 : Diabetes mellitus type 2 (disorder)
+  1961-06-25 : Metabolic syndrome X (disorder)
+  1960-06-19 : Body mass index 30+ - obesity (finding)
+  1949-04-17 : Essential hypertension (disorder)
+  1946-04-14 : Anemia (disorder)
+  1946-04-14 : Prediabetes
+  1942-04-05 : Received higher education (finding)
+  1942-04-05 : Housing unsatisfactory (finding)
+  1942-04-05 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+  1980-10-19 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1980-10-19 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+   
+   CAREPLANS:
+  1993-10-03 : Terminal care
+                         Reason: Non-small cell carcinoma of lung, TNM stage 1 (disorder)
+                         Activity: Comfort measures
+                         Activity: Chronic pain control management
+                         Activity: Cancer education
+  1991-12-29 : Cancer care plan
+                         Reason: Neoplasm of prostate
+                         Reason: Neoplasm of prostate
+                         Activity: Physical activity target light exercise
+                         Activity: Ice bath treatment
+  1991-03-02 : Discharge care plan (record artifact)
+                         Reason: History of aortic valve replacement (situation)
+                         Activity: Perioperative care management (procedure)
+                         Activity: Cardiovascular monitoring (regime/therapy)
+                         Activity: Management of vascular system care (procedure)
+                         Activity: Activity care (regime/therapy)
+                         Activity: Advance diet as tolerated (regime/therapy)
+                         Activity: Pharmacological assessment (procedure)
+                         Activity: Dressing change management (procedure)
+                         Activity: Patient education (procedure)
+                         Activity: Scheduling of follow up appointment (procedure)
+  1991-01-25 : Care plan (record artifact)
+                         Reason: Aortic valve regurgitation (disorder)
+                         Activity: Referral for laboratory tests (procedure)
+                         Activity: Referral to radiology service (procedure)
+                         Activity: Refer for angiogram (procedure)
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+  1949-04-17 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1946-04-14 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

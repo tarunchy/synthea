@@ -1,0 +1,171 @@
+Elliot577 Rau926
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1996-06-16 : Encounter at COMPREHENSIVE PRIMARY CARE LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1996-06-16 : Reports of violence in the environment (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  1996-06-16 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           66.6 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     10.7 mg/dL
+           - Creatinine [Mass/volume] in Blood        0.8 mg/dL
+           - Calcium [Mass/volume] in Blood           9.0 mg/dL
+           - Sodium [Moles/volume] in Blood           139.1 mmol/L
+           - Potassium [Moles/volume] in Blood        4.4 mmol/L
+           - Chloride [Moles/volume] in Blood         107.1 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 23.7 mmol/L
+  1996-06-16 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.3 %
+           - MCV [Entitic volume] by Automated count  93.0 fL
+           - MCH [Entitic mass] by Automated count    30.5 pg
+           - MCHC [Mass/volume] by Automated count    33.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.6 fL
+           - Platelets [#/volume] in Blood by Automated count 203.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 334.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  1996-06-16 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  1996-06-16 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       55.0 {#}
+           - Fall risk level [Morse Fall Scale]       High Risk (MFS Score 50+) 
+  1996-06-16 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  1996-06-16 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  1996-06-16 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+   
+   OBSERVATIONS:
+  1996-06-16 : Total score [DAST-10]                    2.0 {score}
+  1996-06-16 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  1996-06-16 : Total score [HARK]                       0.0 {score}
+  1996-06-16 : Fall risk level [Morse Fall Scale]       High Risk (MFS Score 50+) 
+  1996-06-16 : Fall risk total [Morse Fall Scale]       55.0 {#}
+  1996-06-16 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  1996-06-16 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? No 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 123104 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  410 Hickle Knoll Unit 99 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 5.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  1996-06-16 : Tobacco smoking status                   Ex-smoker (finding) 
+  1996-06-16 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  1996-06-16 : Platelet distribution width [Entitic volume] in Blood by Automated count 334.7 fL
+  1996-06-16 : Platelets [#/volume] in Blood by Automated count 203.5 10*3/uL
+  1996-06-16 : Erythrocyte distribution width [Entitic volume] by Automated count 43.6 fL
+  1996-06-16 : MCHC [Mass/volume] by Automated count    33.6 g/dL
+  1996-06-16 : MCH [Entitic mass] by Automated count    30.5 pg
+  1996-06-16 : MCV [Entitic volume] by Automated count  93.0 fL
+  1996-06-16 : Hematocrit [Volume Fraction] of Blood by Automated count 35.3 %
+  1996-06-16 : Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+  1996-06-16 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  1996-06-16 : Leukocytes [#/volume] in Blood by Automated count 4.7 10*3/uL
+  1996-06-16 : Carbon dioxide, total [Moles/volume] in Blood 23.7 mmol/L
+  1996-06-16 : Chloride [Moles/volume] in Blood         107.1 mmol/L
+  1996-06-16 : Potassium [Moles/volume] in Blood        4.4 mmol/L
+  1996-06-16 : Sodium [Moles/volume] in Blood           139.1 mmol/L
+  1996-06-16 : Calcium [Mass/volume] in Blood           9.0 mg/dL
+  1996-06-16 : Creatinine [Mass/volume] in Blood        0.8 mg/dL
+  1996-06-16 : Urea nitrogen [Mass/volume] in Blood     10.7 mg/dL
+  1996-06-16 : Glucose [Mass/volume] in Blood           66.6 mg/dL
+  1996-06-16 : Respiratory rate                         15.0 /min
+  1996-06-16 : Heart rate                               70.0 /min
+  1996-06-16 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  1996-06-16 : Body mass index (BMI) [Ratio]            27.8 kg/m2
+  1996-06-16 : Body Weight                              84.8 kg
+  1996-06-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  1996-06-16 : Body Height                              174.7 cm
+  1996-06-16 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+   
+   PROCEDURES:
+  1996-06-16 : Screening for drug abuse (procedure)
+  1996-06-16 : Assessment of substance use (procedure)
+  1996-06-16 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  1996-06-16 : Depression screening (procedure)
+  1996-06-16 : Screening for domestic abuse (procedure)
+  1996-06-16 : Assessment using Morse Fall Scale (procedure)
+  1996-06-16 : Assessment of anxiety (procedure)
+  1996-06-16 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+  1996-06-16 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1995-06-11 : Unhealthy alcohol drinking behavior (finding)
+  1995-06-11 : Full-time employment (finding)
+  1995-06-11 : Medication review due (situation)
+  1992-05-24 : Familial Alzheimer's disease of early onset (disorder)
+  1977-04-04 : History of coronary artery bypass grafting (situation)
+  1977-03-09 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  1977-02-27 : Ischemic heart disease (disorder)
+  1972-11-15 : Osteoarthritis of knee
+  1961-04-30 : Body mass index 30+ - obesity (finding)
+  1955-04-24 : Anemia (disorder)
+  1952-04-20 : Prediabetes
+  1943-04-11 : Lack of access to transportation (finding)
+  1942-04-05 : Transport problem (finding)
+  1942-04-05 : Received higher education (finding)
+   
+   MEDICATIONS:
+  1977-03-06 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1972-11-15 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+   
+   CAREPLANS:
+  1992-05-24 : Dementia management
+                         Reason: Familial Alzheimer's disease of early onset (disorder)
+                         Activity: Patient education (procedure)
+                         Activity: Promotion of use of memory skills
+                         Activity: Long term social support
+  1972-11-15 : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  1952-04-20 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,61 @@
+Alvin56 Stark857
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 19
+Birth Date:          2004-05-13
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-07-13 : Encounter at PRIMARY & PREVENTIVE CARE, INC.
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2023-07-13 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-07-13 : Respiratory rate                         13.0 /min
+  2023-07-13 : Heart rate                               76.0 /min
+  2023-07-13 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2023-07-13 : Body mass index (BMI) [Percentile] Per age and sex 75.0 %
+  2023-07-13 : Body mass index (BMI) [Ratio]            24.9 kg/m2
+  2023-07-13 : Body Weight                              76.4 kg
+  2023-07-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2023-07-13 : Body Height                              175.0 cm
+   
+   PROCEDURES:
+  2023-07-13 : Assessment of health and social care needs (procedure)
+  2023-07-13 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2023-03-16 : Not in labor force (finding)
+  2022-07-07 : Refugee (person)
+  2022-07-07 : Stress (finding)
+  2022-07-07 : Received higher education (finding)
+  2022-07-07 : Housing unsatisfactory (finding)
+  2021-07-01 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

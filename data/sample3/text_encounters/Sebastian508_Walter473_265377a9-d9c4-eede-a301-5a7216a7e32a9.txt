@@ -1,0 +1,80 @@
+Sebastian508 Walter473
+======================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 2
+Birth Date:          2021-04-11
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-04-11 : Encounter at TAUNTON MEDICAL CENTER, PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2021-04-11 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2021-04-11 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.1 %
+           - MCV [Entitic volume] by Automated count  82.1 fL
+           - MCH [Entitic mass] by Automated count    27.1 pg
+           - MCHC [Mass/volume] by Automated count    35.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.7 fL
+           - Platelets [#/volume] in Blood by Automated count 304.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 478.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+   
+   OBSERVATIONS:
+  2021-04-11 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-04-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2021-04-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 478.7 fL
+  2021-04-11 : Platelets [#/volume] in Blood by Automated count 304.4 10*3/uL
+  2021-04-11 : Erythrocyte distribution width [Entitic volume] by Automated count 41.7 fL
+  2021-04-11 : MCHC [Mass/volume] by Automated count    35.9 g/dL
+  2021-04-11 : MCH [Entitic mass] by Automated count    27.1 pg
+  2021-04-11 : MCV [Entitic volume] by Automated count  82.1 fL
+  2021-04-11 : Hematocrit [Volume Fraction] of Blood by Automated count 46.1 %
+  2021-04-11 : Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+  2021-04-11 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2021-04-11 : Leukocytes [#/volume] in Blood by Automated count 9.9 10*3/uL
+  2021-04-11 : Respiratory rate                         15.0 /min
+  2021-04-11 : Heart rate                               95.0 /min
+  2021-04-11 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  138.0 mm[Hg]
+  2021-04-11 : Head Occipital-frontal circumference     38.8 cm
+  2021-04-11 : Head Occipital-frontal circumference Percentile 96.9 %
+  2021-04-11 : Weight-for-length Per age and sex        0.7 %
+  2021-04-11 : Body Weight                              4.3 kg
+  2021-04-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2021-04-11 : Body Height                              56.8 cm
+   
+   PROCEDURES:
+  2021-04-11 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2021-04-11 : Hep B, adolescent or pediatric
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

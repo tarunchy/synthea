@@ -1,0 +1,56 @@
+Myrta75 Kihn564
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 0
+Birth Date:          2022-09-24
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-10-29 : Encounter at IDEAL HEALTHCARE SOLUTIONS LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2022-10-29 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-10-29 : Respiratory rate                         15.0 /min
+  2022-10-29 : Heart rate                               83.0 /min
+  2022-10-29 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2022-10-29 : Head Occipital-frontal circumference     37.8 cm
+  2022-10-29 : Head Occipital-frontal circumference Percentile 45.3 %
+  2022-10-29 : Weight-for-length Per age and sex        85.6 %
+  2022-10-29 : Body Weight                              5.2 kg
+  2022-10-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-10-29 : Body Height                              54.9 cm
+   
+   PROCEDURES:
+  2022-10-29 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2022-10-29 : Hep B, adolescent or pediatric
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

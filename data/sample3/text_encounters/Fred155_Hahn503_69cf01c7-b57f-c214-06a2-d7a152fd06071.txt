@@ -1,0 +1,48 @@
+Fred155 Hahn503
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          2012-06-16
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-06-11 : Encounter at ACCESS PRIMARY CARE INC : Encounter for Bullet wound
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2022-06-11 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Bullet wound 
+   
+   OBSERVATIONS:
+  2022-06-11 : Cause of Death [US Standard Certificate of Death] Bullet wound 
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2022-06-04 : Bullet wound
+  2022-06-04 : Gunshot wound (disorder)
+  2020-06-13 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

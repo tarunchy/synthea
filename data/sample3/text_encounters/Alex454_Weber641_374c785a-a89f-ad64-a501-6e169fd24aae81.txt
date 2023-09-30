@@ -1,0 +1,43 @@
+Alex454 Weber641
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 69
+Birth Date:          1953-11-27
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1954-08-24 : Encounter at FIRST PSYCHIATRIC PLANNERS, INC : Encounter for Otitis media
+Type: outpatient
+   
+   MEDICATIONS:
+  1954-08-24 : Aspirin 81 MG Oral Tablet
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

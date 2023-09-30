@@ -1,0 +1,84 @@
+Frederica279 Kub800
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 7
+Birth Date:          2015-10-25
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-05-09 : Encounter at CAPE COD HOSPITAL INC
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2021-05-09 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2021-05-09 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.1 %
+           - MCV [Entitic volume] by Automated count  86.0 fL
+           - MCH [Entitic mass] by Automated count    32.6 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+           - Platelets [#/volume] in Blood by Automated count 437.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 302.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+   
+   OBSERVATIONS:
+  2021-05-09 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-05-09 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2021-05-09 : Platelet distribution width [Entitic volume] in Blood by Automated count 302.7 fL
+  2021-05-09 : Platelets [#/volume] in Blood by Automated count 437.5 10*3/uL
+  2021-05-09 : Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+  2021-05-09 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2021-05-09 : MCH [Entitic mass] by Automated count    32.6 pg
+  2021-05-09 : MCV [Entitic volume] by Automated count  86.0 fL
+  2021-05-09 : Hematocrit [Volume Fraction] of Blood by Automated count 45.1 %
+  2021-05-09 : Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+  2021-05-09 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2021-05-09 : Leukocytes [#/volume] in Blood by Automated count 7.1 10*3/uL
+  2021-05-09 : Respiratory rate                         14.0 /min
+  2021-05-09 : Heart rate                               73.0 /min
+  2021-05-09 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  96.0 mm[Hg]
+  2021-05-09 : Body mass index (BMI) [Percentile] Per age and sex 88.7 %
+  2021-05-09 : Body mass index (BMI) [Ratio]            17.3 kg/m2
+  2021-05-09 : Body Weight                              20.1 kg
+  2021-05-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-05-09 : Body Height                              107.9 cm
+   
+   PROCEDURES:
+  2021-05-09 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2021-05-09 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-04-28 : Acute bronchitis (disorder)
+   
+   MEDICATIONS:
+  2021-04-28 + Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+   
+   CAREPLANS:
+  2021-04-28 : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,43 @@
+Elizabeth24 Stefania815 Dare640
+===============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 46
+Birth Date:          1977-01-30
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1977-01-30 : Encounter at TRINITY FAMILY MEDICINE
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1977-01-30 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

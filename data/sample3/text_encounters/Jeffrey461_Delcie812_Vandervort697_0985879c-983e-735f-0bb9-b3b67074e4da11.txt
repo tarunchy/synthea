@@ -1,0 +1,65 @@
+Jeffrey461 Delcie812 Vandervort697
+==================================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 34
+Birth Date:          1989-02-01
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-04-08 : Encounter at THE SHRINERS HOSPITAL FOR CHILDREN : Encounter for Normal pregnancy
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2020-04-08 : Auscultation of the fetal heart for Normal pregnancy
+  2020-04-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-04-08 : Urine screening for glucose for Normal pregnancy
+  2020-04-08 : Administration of diphtheria, pertussis, and tetanus vaccine for Normal pregnancy
+  2020-04-08 : Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential for Normal pregnancy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-11-20 : Normal pregnancy
+  2019-09-28 : Recurrent urinary tract infection
+  2019-05-08 : Stress (finding)
+  2018-05-02 : Full-time employment (finding)
+  2014-04-09 : Essential hypertension (disorder)
+  2008-04-02 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2019-05-08 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2019-05-08 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CAREPLANS:
+  2019-11-20 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2014-04-09 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

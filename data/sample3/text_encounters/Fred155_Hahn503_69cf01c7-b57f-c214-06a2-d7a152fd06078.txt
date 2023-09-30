@@ -1,0 +1,61 @@
+Fred155 Hahn503
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          2012-06-16
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-07-13 : Encounter at BEAR MT NORTH ANDOVER, LLC : Encounter for Patient transfer to skilled nursing facility (procedure)
+Type: snf
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2018-07-13 : Patient transfer to skilled nursing facility (procedure)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2018-07-23 : Discharge from skilled nursing facility (procedure)
+  2018-07-23 : Pre-discharge assessment (procedure)
+  2018-07-22 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-07-21 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-07-20 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-07-19 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-07-18 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-07-17 : Occupational therapy (regime/therapy)
+  2018-07-17 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-07-16 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-07-15 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-07-14 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-07-13 : Physical therapy procedure (regime/therapy)
+  2018-07-13 : Nursing care/supplementary surveillance (regime/therapy)
+  2018-07-13 : Development of individualized plan of care (procedure)
+  2018-07-13 : Initial patient assessment (procedure)
+  2018-07-13 : History AND physical examination (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2017-05-27 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

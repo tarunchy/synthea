@@ -1,0 +1,49 @@
+Byron202 Tillman293
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 11
+Birth Date:          2012-06-16
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2013-12-17 : Cow's milk (substance)
+  2013-12-17 : Tree pollen (substance)
+  2013-12-17 : Grass pollen (substance)
+  2013-12-17 : Animal dander (substance)
+  2013-12-17 : House dust mite (organism)
+  2013-12-17 : Mold (organism)
+  2013-12-17 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2013-11-23 : Encounter at GREATER LAWRENCE FAMILY HEALTH CENTER INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2013-11-23 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

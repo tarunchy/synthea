@@ -1,0 +1,52 @@
+Lorean637 King743
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 21
+Birth Date:          2001-11-17
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-02-06 : Encounter at COOLEY DICKINSON HOSPITAL INC : Encounter for Normal pregnancy
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2021-02-06 : Auscultation of the fetal heart for Normal pregnancy
+  2021-02-06 : Evaluation of uterine fundal height for Normal pregnancy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-01-16 : Has a criminal record (finding)
+  2021-01-16 : Full-time employment (finding)
+  2020-08-22 : Normal pregnancy
+  2020-01-11 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2020-08-22 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+   
+--------------------------------------------------------------------------------

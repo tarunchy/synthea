@@ -1,0 +1,45 @@
+Mauricio81 Reinger292
+=====================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 17
+Birth Date:          2006-07-12
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2007-01-28 : Encounter at APPLE VALLEY CENTER : Encounter for Seizure disorder
+Type: emergency
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2007-01-28 : Epilepsy
+  2007-01-28 : History of single seizure (situation)
+  2007-01-28 : Seizure disorder
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

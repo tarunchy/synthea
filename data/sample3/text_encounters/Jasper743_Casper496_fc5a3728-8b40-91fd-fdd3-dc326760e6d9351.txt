@@ -1,0 +1,63 @@
+Jasper743 Casper496
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1979-08-12 : Encounter at CLASSIC HEALTHCARE MEDICAL GROUP LLC
+Type: wellness
+   
+   MEDICATIONS:
+  1979-08-12 : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  1979-08-12 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  1979-08-12 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+  1979-08-12 : Stress (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1977-09-04 : Full-time employment (finding)
+  1976-09-05 : Victim of intimate partner abuse (finding)
+  1976-09-05 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  1976-09-05 : Chronic kidney disease stage 3 (disorder)
+  1974-07-14 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1974-07-14 : Chronic kidney disease stage 2 (disorder)
+  1973-07-08 : Disorder of kidney due to diabetes mellitus (disorder)
+  1973-07-08 : Chronic kidney disease stage 1 (disorder)
+  1968-06-09 : Body mass index 30+ - obesity (finding)
+  1961-04-30 : Essential hypertension (disorder)
+  1942-04-05 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1961-04-30 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

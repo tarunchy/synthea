@@ -1,0 +1,46 @@
+Mauricio81 Reinger292
+=====================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 17
+Birth Date:          2006-07-12
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-06-09 : Encounter at NASHOBA VALLEY MEDICAL CENTER, A STEWARD FAMILY HOSPITAL INC
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2021-06-09 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2007-01-28 : Epilepsy
+  2007-01-28 : History of single seizure (situation)
+  2007-01-28 : Seizure disorder
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

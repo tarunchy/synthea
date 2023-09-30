@@ -1,0 +1,62 @@
+Felisa186 Klein929
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 26
+Birth Date:          1997-03-24
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1998-05-13 : Peanut (substance)
+  1998-05-13 : Fish (substance)
+  1998-05-13 : Wheat (substance)
+  1998-05-13 : Grass pollen (substance)
+  1998-05-13 : Animal dander (substance)
+  1998-05-13 : Mold (organism)
+  1998-05-13 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-03-06 : Encounter at WP ACQUISITION SUB LLC : Encounter for Contraception care (regime/therapy)
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2023-03-06 : Insertion of subcutaneous contraceptive
+  2023-03-06 : Removal of subcutaneous contraceptive
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2022-05-30 : Reports of violence in the environment (finding)
+  2019-05-27 : Stress (finding)
+  2019-05-27 : Full-time employment (finding)
+  2016-05-23 : Medication review due (situation)
+  2015-05-18 : Received certificate of high school equivalency (finding)
+  2012-04-30 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+  2023-02-03 : Trinessa 28 Day Pack
+  1998-05-13 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  1998-05-13 : Loratadine 5 MG Chewable Tablet
+   
+   CAREPLANS:
+  1998-04-29 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

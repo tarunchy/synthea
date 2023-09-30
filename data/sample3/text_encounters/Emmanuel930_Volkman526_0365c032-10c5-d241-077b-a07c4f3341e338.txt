@@ -1,0 +1,51 @@
+Emmanuel930 Volkman526
+======================
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 23
+Birth Date:          1999-11-18
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2001-12-27 : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Childhood asthma
+Type: ambulatory
+   
+   MEDICATIONS:
+  2001-12-27 : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2001-12-27 : budesonide 0.125 MG/ML Inhalation Suspension for Childhood asthma
+   
+   CONDITIONS:
+  2001-12-27 : Childhood asthma
+   
+   CARE PLANS:
+  2001-12-27 : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2000-02-24 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

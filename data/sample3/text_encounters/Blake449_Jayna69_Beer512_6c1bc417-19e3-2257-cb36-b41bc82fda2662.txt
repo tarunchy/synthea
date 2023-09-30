@@ -1,0 +1,58 @@
+Blake449 Jayna69 Beer512
+========================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 39
+Birth Date:          1984-01-01
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1985-02-28 : Shellfish (substance)
+  1985-02-28 : Bee venom (substance)
+  1985-02-28 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2006-03-05 : Encounter at Quincy Outpatient Clinic
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2006-03-05 : Not in labor force (finding)
+  2006-03-05 : Prediabetes
+   
+   CARE PLANS:
+  2006-03-05 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2003-03-02 : Stress (finding)
+  2003-03-02 : Limited social contact (finding)
+  2002-02-24 : Received higher education (finding)
+  2002-02-24 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+  1985-02-28 : Astemizole 10 MG Oral Tablet
+   
+   CAREPLANS:
+  1985-02-12 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

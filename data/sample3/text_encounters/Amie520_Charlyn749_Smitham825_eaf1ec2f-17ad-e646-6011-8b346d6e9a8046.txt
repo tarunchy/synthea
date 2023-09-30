@@ -1,0 +1,52 @@
+Amie520 Charlyn749 Smitham825
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 43
+Birth Date:          1980-03-14
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1998-05-22 : Encounter at RISE ABOVE WELLNESS HEALTH SERVICES LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1998-05-23 : Stress (finding)
+  1998-05-23 : Lack of access to transportation (finding)
+  1998-05-23 : Only received primary school education (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1998-05-15 : Normal pregnancy
+  1995-05-06 : Risk activity involvement (finding)
+  1995-03-13 : Impacted molars
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1998-05-15 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+   
+--------------------------------------------------------------------------------

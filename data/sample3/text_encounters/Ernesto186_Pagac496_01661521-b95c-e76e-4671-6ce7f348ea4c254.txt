@@ -1,0 +1,105 @@
+Ernesto186 Pagac496
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1991-12-22 : Encounter at VA Boston Healthcare System, West Roxbury Campus
+Type: wellness
+   
+   MEDICATIONS:
+  1991-12-22 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  1991-12-22 : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes mellitus type 2 (disorder)
+  1991-12-22 : warfarin sodium 5 MG Oral Tablet
+  1991-12-22 : insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1991-12-15 : Part-time employment (finding)
+  1991-11-17 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  1991-11-17 : Chronic kidney disease stage 3 (disorder)
+  1991-10-20 : Stress (finding)
+  1991-02-24 : History of aortic valve replacement (situation)
+  1991-01-24 : Aortic valve regurgitation (disorder)
+  1990-04-24 : Dependent drug abuse (disorder)
+  1989-08-02 : History of myocardial infarction (situation)
+  1989-07-28 : Acute non-ST segment elevation myocardial infarction (disorder)
+  1986-02-16 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1986-02-16 : Chronic kidney disease stage 2 (disorder)
+  1984-11-04 : Disorder of kidney due to diabetes mellitus (disorder)
+  1984-11-04 : Chronic kidney disease stage 1 (disorder)
+  1980-10-21 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  1980-10-12 : Ischemic heart disease (disorder)
+  1974-09-08 : Has a criminal record (finding)
+  1974-09-08 : Neuropathy due to type 2 diabetes mellitus (disorder)
+  1964-07-12 : Hypertriglyceridemia (disorder)
+  1964-07-12 : Hyperglycemia (disorder)
+  1963-07-07 : Diabetes mellitus type 2 (disorder)
+  1961-06-25 : Metabolic syndrome X (disorder)
+  1960-06-19 : Body mass index 30+ - obesity (finding)
+  1949-04-17 : Essential hypertension (disorder)
+  1946-04-14 : Anemia (disorder)
+  1946-04-14 : Prediabetes
+  1942-04-05 : Received higher education (finding)
+  1942-04-05 : Housing unsatisfactory (finding)
+  1942-04-05 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+  1980-10-19 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1980-10-19 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+   
+   CAREPLANS:
+  1991-03-02 : Discharge care plan (record artifact)
+                         Reason: History of aortic valve replacement (situation)
+                         Activity: Perioperative care management (procedure)
+                         Activity: Cardiovascular monitoring (regime/therapy)
+                         Activity: Management of vascular system care (procedure)
+                         Activity: Activity care (regime/therapy)
+                         Activity: Advance diet as tolerated (regime/therapy)
+                         Activity: Pharmacological assessment (procedure)
+                         Activity: Dressing change management (procedure)
+                         Activity: Patient education (procedure)
+                         Activity: Scheduling of follow up appointment (procedure)
+  1991-01-25 : Care plan (record artifact)
+                         Reason: Aortic valve regurgitation (disorder)
+                         Activity: Referral for laboratory tests (procedure)
+                         Activity: Referral to radiology service (procedure)
+                         Activity: Refer for angiogram (procedure)
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+  1949-04-17 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1946-04-14 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

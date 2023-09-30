@@ -1,0 +1,130 @@
+Carolyn322 Auer97
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 58
+Birth Date:          1965-01-04
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-02-20 : Encounter at NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2023-02-20 : Has a criminal record (finding)
+  2023-02-20 : Unemployed (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2023-02-20 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           79.2 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     16.4 mg/dL
+           - Creatinine [Mass/volume] in Blood        0.7 mg/dL
+           - Calcium [Mass/volume] in Blood           8.7 mg/dL
+           - Sodium [Moles/volume] in Blood           143.1 mmol/L
+           - Potassium [Moles/volume] in Blood        5.0 mmol/L
+           - Chloride [Moles/volume] in Blood         101.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 27.7 mmol/L
+  2023-02-20 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2023-02-20 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2023-02-20 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+   
+   OBSERVATIONS:
+  2023-02-20 : Total score [AUDIT-C]                    1.0 {score}
+  2023-02-20 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2023-02-20 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2023-02-20 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 24206 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Unemployed 
+           - Highest level of education               More than high school 
+           - Address                                  1015 Farrell Heights 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 4.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2023-02-20 : Tobacco smoking status                   Ex-smoker (finding) 
+  2023-02-20 : Carbon dioxide, total [Moles/volume] in Blood 27.7 mmol/L
+  2023-02-20 : Chloride [Moles/volume] in Blood         101.3 mmol/L
+  2023-02-20 : Potassium [Moles/volume] in Blood        5.0 mmol/L
+  2023-02-20 : Sodium [Moles/volume] in Blood           143.1 mmol/L
+  2023-02-20 : Calcium [Mass/volume] in Blood           8.7 mg/dL
+  2023-02-20 : Creatinine [Mass/volume] in Blood        0.7 mg/dL
+  2023-02-20 : Urea nitrogen [Mass/volume] in Blood     16.4 mg/dL
+  2023-02-20 : Glucose [Mass/volume] in Blood           79.2 mg/dL
+  2023-02-20 : Respiratory rate                         15.0 /min
+  2023-02-20 : Heart rate                               77.0 /min
+  2023-02-20 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  98.0 mm[Hg]
+  2023-02-20 : Body mass index (BMI) [Ratio]            28.2 kg/m2
+  2023-02-20 : Body Weight                              70.6 kg
+  2023-02-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2023-02-20 : Body Height                              158.3 cm
+  2023-02-20 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+   
+   PROCEDURES:
+  2023-02-20 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2023-02-20 : Assessment of substance use (procedure)
+  2023-02-20 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2023-02-20 : Depression screening (procedure)
+  2023-02-20 : Assessment of anxiety (procedure)
+  2023-02-20 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+  2023-02-20 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-03-08 : Idiopathic atrophic hypothyroidism
+  2020-02-03 : Medication review due (situation)
+  2019-01-28 : Anemia (disorder)
+  2019-01-28 : Prediabetes
+  2008-12-23 : Osteoarthritis of knee
+  2007-09-22 : Malignant neoplasm of breast (disorder)
+  1996-03-18 : Body mass index 30+ - obesity (finding)
+  1992-03-16 : Miscarriage in first trimester
+  1983-02-28 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2020-03-08 : Levothyroxine Sodium 0.075 MG Oral Tablet
+  2019-02-04 : Vitamin B12 5 MG/ML Injectable Solution
+  2008-12-23 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+   
+   CAREPLANS:
+  2019-01-28 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2008-12-23 : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+   
+--------------------------------------------------------------------------------

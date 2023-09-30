@@ -1,0 +1,43 @@
+Danae973 Debbi640 Brekke496
+===========================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 66
+Birth Date:          1957-07-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1967-10-03 : Encounter at HALLMARK HEALTH URGENT CARE PHYSICIANS LLC
+Type: urgentcare
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1967-10-03 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

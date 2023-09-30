@@ -1,0 +1,70 @@
+Mauricio81 Reinger292
+=====================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 17
+Birth Date:          2006-07-12
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-11-03 : Encounter at NASHOBA VALLEY MEDICAL CENTER
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2021-11-03 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2021-11-03 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2021-11-03 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+   
+   OBSERVATIONS:
+  2021-11-03 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2021-11-03 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2021-11-03 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-11-03 : Respiratory rate                         16.0 /min
+  2021-11-03 : Heart rate                               82.0 /min
+  2021-11-03 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  106.0 mm[Hg]
+  2021-11-03 : Body mass index (BMI) [Percentile] Per age and sex 64.3 %
+  2021-11-03 : Body mass index (BMI) [Ratio]            21.1 kg/m2
+  2021-11-03 : Body Weight                              61.7 kg
+  2021-11-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-11-03 : Body Height                              171.0 cm
+   
+   PROCEDURES:
+  2021-11-03 : Anticipatory guidance (procedure)
+  2021-11-03 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-11-03 : Assessment of substance use (procedure)
+  2021-11-03 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-11-03 : Depression screening (procedure)
+  2021-11-03 : Assessment of anxiety (procedure)
+   
+   IMMUNIZATIONS:
+  2021-11-03 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2007-01-28 : Epilepsy
+  2007-01-28 : History of single seizure (situation)
+  2007-01-28 : Seizure disorder
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

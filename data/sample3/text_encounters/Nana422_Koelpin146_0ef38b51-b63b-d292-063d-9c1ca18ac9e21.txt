@@ -1,0 +1,69 @@
+Nana422 Koelpin146
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 13
+Birth Date:          2010-01-24
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-02-19 : Encounter at RUTLAND FAMILY HEALTH CENTER
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2023-02-19 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2023-02-19 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+   
+   OBSERVATIONS:
+  2023-02-19 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2023-02-19 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2023-02-19 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-02-19 : Respiratory rate                         14.0 /min
+  2023-02-19 : Heart rate                               61.0 /min
+  2023-02-19 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  92.0 mm[Hg]
+  2023-02-19 : Body mass index (BMI) [Percentile] Per age and sex 3.5 %
+  2023-02-19 : Body mass index (BMI) [Ratio]            15.1 kg/m2
+  2023-02-19 : Body Weight                              39.9 kg
+  2023-02-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2023-02-19 : Body Height                              162.9 cm
+   
+   PROCEDURES:
+  2023-02-19 : Anticipatory guidance (procedure)
+  2023-02-19 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2023-02-19 : Assessment of substance use (procedure)
+  2023-02-19 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2023-02-19 : Depression screening (procedure)
+  2023-02-19 : Assessment of anxiety (procedure)
+  2023-02-19 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2023-02-19 : HPV, quadrivalent
+  2023-02-19 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2022-02-13 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

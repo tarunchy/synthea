@@ -1,0 +1,74 @@
+Lorean637 King743
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 21
+Birth Date:          2001-11-17
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-08-22 : Encounter at COOLEY DICKINSON HOSPITAL INC : Encounter for Normal pregnancy
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2020-08-22 : Normal pregnancy
+   
+   CARE PLANS:
+  2020-08-22 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2020-08-22 : Physical examination procedure (procedure) for Normal pregnancy
+  2020-08-22 : Urine protein test for Normal pregnancy
+  2020-08-22 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy
+  2020-08-22 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2020-08-22 : Rubella screening for Normal pregnancy
+  2020-08-22 : Hepatitis C antibody, confirmatory test for Normal pregnancy
+  2020-08-22 : Urine screening test for diabetes for Normal pregnancy
+  2020-08-22 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2020-08-22 : Urine culture for Normal pregnancy
+  2020-08-22 : Syphilis infectious titer test (procedure) for Normal pregnancy
+  2020-08-22 : Gonorrhea infection titer test (procedure) for Normal pregnancy
+  2020-08-22 : Chlamydia antigen test for Normal pregnancy
+  2020-08-22 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2020-08-22 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2020-08-22 : Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential for Normal pregnancy
+  2020-08-22 : Blood group typing (procedure) for Normal pregnancy
+  2020-08-22 : Auscultation of the fetal heart for Normal pregnancy
+  2020-08-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-08-22 : Ultrasound scan for fetal viability for Normal pregnancy
+  2020-08-22 : Standard pregnancy test for Normal pregnancy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-02-08 : Medication review due (situation)
+  2020-01-11 : Stress (finding)
+  2020-01-11 : Unemployed (finding)
+  2020-01-11 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2020-01-27 : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+   
+--------------------------------------------------------------------------------

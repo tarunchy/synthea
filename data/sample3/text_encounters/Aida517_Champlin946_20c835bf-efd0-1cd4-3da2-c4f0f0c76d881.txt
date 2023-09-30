@@ -1,0 +1,46 @@
+Aida517 Champlin946
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 6
+Birth Date:          2017-06-28
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-06-18 : Encounter at T MASSACHUSETTS, LLC : Encounter for Otitis media
+Type: outpatient
+   
+   MEDICATIONS:
+  2023-06-18 : Acetaminophen 160 MG Chewable Tablet
+  2023-06-18 : Amoxicillin 500 MG Oral Tablet
+   
+   CONDITIONS:
+  2023-06-18 : Otitis media
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-06-03 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

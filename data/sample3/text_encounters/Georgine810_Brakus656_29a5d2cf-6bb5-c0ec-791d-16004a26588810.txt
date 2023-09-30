@@ -1,0 +1,56 @@
+Georgine810 Brakus656
+=====================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 5
+Birth Date:          2018-05-26
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-02-22 : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2020-02-22 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-02-22 : Respiratory rate                         14.0 /min
+  2020-02-22 : Heart rate                               79.0 /min
+  2020-02-22 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2020-02-22 : Head Occipital-frontal circumference     45.7 cm
+  2020-02-22 : Head Occipital-frontal circumference Percentile 17.7 %
+  2020-02-22 : Weight-for-length Per age and sex        86.9 %
+  2020-02-22 : Body Weight                              11.5 kg
+  2020-02-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2020-02-22 : Body Height                              79.2 cm
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2020-02-22 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-09-01 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,62 @@
+Juan88 Jenniffer979 Frami345
+============================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 56
+Birth Date:          1967-06-27
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-05-17 : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS : Encounter for Acute bronchitis (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+  2019-05-17 : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+   
+   CONDITIONS:
+  2019-05-17 : Acute bronchitis (disorder)
+   
+   CARE PLANS:
+  2019-05-17 : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2019-05-17 : Plain chest X-ray (procedure) for Acute bronchitis (disorder)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-07-03 : Medication review due (situation)
+  2013-07-16 : Full-time employment (finding)
+  2013-07-16 : Body mass index 30+ - obesity (finding)
+  2011-03-03 : History of appendectomy
+  2011-03-03 : Appendicitis
+  2007-07-03 : Anemia (disorder)
+  2007-07-03 : Prediabetes
+  2002-07-31 : History of tubal ligation (situation)
+  1985-08-20 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2007-07-10 : ferrous sulfate 325 MG Oral Tablet
+   
+   CAREPLANS:
+  2007-07-03 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

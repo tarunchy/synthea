@@ -1,0 +1,55 @@
+Ryan260 Schimmel440
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 8
+Birth Date:          2015-01-23
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-01-20 : Encounter at NEW BEDFORD INTERNAL MEDICINE & GERIATRICS, LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2023-01-20 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-01-20 : Respiratory rate                         13.0 /min
+  2023-01-20 : Heart rate                               81.0 /min
+  2023-01-20 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  88.0 mm[Hg]
+  2023-01-20 : Body mass index (BMI) [Percentile] Per age and sex 82.9 %
+  2023-01-20 : Body mass index (BMI) [Ratio]            17.7 kg/m2
+  2023-01-20 : Body Weight                              29.2 kg
+  2023-01-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2023-01-20 : Body Height                              128.5 cm
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2023-01-20 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-12-28 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,54 @@
+Herma433 Gibson10
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 21
+Birth Date:          2002-05-20
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-04-05 : Encounter at WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL, LLC : Encounter for Normal pregnancy
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2021-04-05 : Auscultation of the fetal heart for Normal pregnancy
+  2021-04-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-04-05 : Streptococcus pneumoniae group B antigen assay for Normal pregnancy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-03-08 : Preeclampsia
+  2020-09-21 : Normal pregnancy
+  2020-07-13 : Social isolation (finding)
+  2020-07-13 : Full-time employment (finding)
+  2020-07-13 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2020-09-21 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+   
+--------------------------------------------------------------------------------

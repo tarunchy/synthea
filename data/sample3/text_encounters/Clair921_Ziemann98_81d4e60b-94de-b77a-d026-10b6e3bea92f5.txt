@@ -1,0 +1,92 @@
+Clair921 Ziemann98
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 19
+Birth Date:          2004-05-07
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-06-19 : Encounter at STEWARD ST ELIZABETHS MEDICAL CENTER OF BOSTON INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-06-19 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.4 %
+           - MCV [Entitic volume] by Automated count  87.6 fL
+           - MCH [Entitic mass] by Automated count    28.0 pg
+           - MCHC [Mass/volume] by Automated count    34.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.2 fL
+           - Platelets [#/volume] in Blood by Automated count 347.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 337.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2020-06-19 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 11.0 {score}
+  2020-06-19 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+   
+   OBSERVATIONS:
+  2020-06-19 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2020-06-19 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 11.0 {score}
+  2020-06-19 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-06-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2020-06-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 337.3 fL
+  2020-06-19 : Platelets [#/volume] in Blood by Automated count 347.8 10*3/uL
+  2020-06-19 : Erythrocyte distribution width [Entitic volume] by Automated count 42.2 fL
+  2020-06-19 : MCHC [Mass/volume] by Automated count    34.2 g/dL
+  2020-06-19 : MCH [Entitic mass] by Automated count    28.0 pg
+  2020-06-19 : MCV [Entitic volume] by Automated count  87.6 fL
+  2020-06-19 : Hematocrit [Volume Fraction] of Blood by Automated count 41.4 %
+  2020-06-19 : Hemoglobin [Mass/volume] in Blood        12.9 g/dL
+  2020-06-19 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2020-06-19 : Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+  2020-06-19 : Respiratory rate                         13.0 /min
+  2020-06-19 : Heart rate                               72.0 /min
+  2020-06-19 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  106.0 mm[Hg]
+  2020-06-19 : Body mass index (BMI) [Percentile] Per age and sex 97.0 %
+  2020-06-19 : Body mass index (BMI) [Ratio]            29.3 kg/m2
+  2020-06-19 : Body Weight                              98.8 kg
+  2020-06-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2020-06-19 : Body Height                              183.5 cm
+   
+   PROCEDURES:
+  2020-06-19 : Anticipatory guidance (procedure)
+  2020-06-19 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2020-06-19 : Assessment of substance use (procedure)
+  2020-06-19 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2020-06-19 : Depression screening (procedure)
+  2020-06-19 : Assessment of anxiety (procedure)
+   
+   IMMUNIZATIONS:
+  2020-06-19 : meningococcal MCV4P
+  2020-06-19 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-06-14 : Risk activity involvement (finding)
+  2018-06-08 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

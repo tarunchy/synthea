@@ -1,0 +1,61 @@
+Lorean637 King743
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 21
+Birth Date:          2001-11-17
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-01-05 : Encounter at HILLTOWN COMMUNITY HEALTH CENTERS INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2019-01-05 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+   
+   OBSERVATIONS:
+  2019-01-05 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2019-01-05 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-01-05 : Respiratory rate                         15.0 /min
+  2019-01-05 : Heart rate                               84.0 /min
+  2019-01-05 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  102.0 mm[Hg]
+  2019-01-05 : Body mass index (BMI) [Percentile] Per age and sex 10.1 %
+  2019-01-05 : Body mass index (BMI) [Ratio]            17.9 kg/m2
+  2019-01-05 : Body Weight                              53.9 kg
+  2019-01-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-01-05 : Body Height                              173.6 cm
+   
+   PROCEDURES:
+  2019-01-05 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2019-01-05 : Depression screening (procedure)
+   
+   IMMUNIZATIONS:
+  2019-01-05 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2016-12-24 : Medication review due (situation)
+   
+   MEDICATIONS:
+  2018-11-01 : Trinessa 28 Day Pack
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

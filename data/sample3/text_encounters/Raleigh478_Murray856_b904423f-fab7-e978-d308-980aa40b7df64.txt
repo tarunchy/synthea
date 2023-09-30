@@ -1,0 +1,61 @@
+Raleigh478 Murray856
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 30
+Birth Date:          1992-12-12
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-10-02 : Encounter at VA Boston Healthcare System, West Roxbury Campus : Encounter for Acute viral pharyngitis (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2019-10-02 : Acute viral pharyngitis (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2019-10-02 : Body temperature                         37.3 Cel
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-02-17 : Social isolation (finding)
+  2018-02-17 : Full-time employment (finding)
+  2018-02-17 : Medication review due (situation)
+  2016-02-10 : Sepsis (disorder)
+  2015-03-29 : Stress (finding)
+  2015-02-14 : Limited social contact (finding)
+  2012-02-11 : Transport problem (finding)
+  2012-01-28 : Major depression disorder
+  2011-02-05 : Lack of access to transportation (finding)
+  2011-02-05 : Received higher education (finding)
+  2011-02-05 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+  2012-01-28 + FLUoxetine 20 MG Oral Capsule for Major depression, single episode
+   
+   CAREPLANS:
+  2012-01-28 : Major depressive disorder clinical management plan
+                         Reason: Major depression disorder
+  2012-01-28 : Mental health care plan
+                         Reason: Major depression, single episode
+                         Activity: Initial psychiatric interview with mental status and evaluation
+   
+--------------------------------------------------------------------------------

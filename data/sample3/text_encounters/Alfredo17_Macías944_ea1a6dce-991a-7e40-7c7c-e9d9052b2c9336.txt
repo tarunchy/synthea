@@ -1,0 +1,56 @@
+Alfredo17 Macías944
+=============í=====
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 18
+Birth Date:          2004-11-21
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2005-06-28 : Peanut (substance)
+  2005-06-28 : Grass pollen (substance)
+  2005-06-28 : Animal dander (substance)
+  2005-06-28 : House dust mite (organism)
+  2005-06-28 : Mold (organism)
+  2005-06-28 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-01-09 : Encounter at MARLBOROUGH HOSPITAL CORP : Encounter for Allergy to substance (finding)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2020-01-09 : Subcutaneous immunotherapy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2010-10-08 : Seasonal allergic rhinitis
+   
+   MEDICATIONS:
+  2005-06-28 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2005-06-28 : Fexofenadine hydrochloride 30 MG Oral Tablet
+   
+   CAREPLANS:
+  2017-11-26 : Allergic disorder monitoring
+                         Activity: Allergen immunotherapy (regime/therapy)
+  2005-06-18 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

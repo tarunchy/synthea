@@ -1,0 +1,82 @@
+Lawrence741 Herman763
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2005-12-22
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-02-13 : Encounter at NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC : Encounter for Suspected COVID-19
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2021-02-13 : COVID-19
+  2021-02-13 : Fever (finding)
+   
+   CARE PLANS:
+  2021-02-13 : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Isolation of infected patient (procedure)
+  2021-02-13 : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Personal protective equipment (physical object)
+   
+   REPORTS:
+  2021-02-13 : Respiratory pathogens DNA and RNA panel - Respiratory specimen by NAA with probe detection
+           - Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-02-13 : SARS-CoV-2 RNA Pnl Resp NAA+probe
+           - SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+   
+   OBSERVATIONS:
+  2021-02-13 : SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2021-02-13 : Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-02-13 : Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-02-13 : Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-02-13 : Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-02-13 : Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-02-13 : Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-02-13 : Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-02-13 : Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-02-13 : Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-02-13 : Body Weight                              65.4 kg
+  2021-02-13 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  133.0 mm[Hg]
+  2021-02-13 : Oxygen saturation in Arterial blood      84.2 %
+  2021-02-13 : Heart rate                               133.7 /min
+  2021-02-13 : Respiratory rate                         38.5 /min
+  2021-02-13 : Body temperature                         40.7 Cel
+   
+   PROCEDURES:
+  2021-02-13 : Face mask (physical object) for Suspected COVID-19
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-01-23 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

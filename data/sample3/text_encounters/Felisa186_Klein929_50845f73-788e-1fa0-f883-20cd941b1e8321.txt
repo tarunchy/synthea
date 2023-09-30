@@ -1,0 +1,49 @@
+Felisa186 Klein929
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 26
+Birth Date:          1997-03-24
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1998-05-13 : Peanut (substance)
+  1998-05-13 : Fish (substance)
+  1998-05-13 : Wheat (substance)
+  1998-05-13 : Grass pollen (substance)
+  1998-05-13 : Animal dander (substance)
+  1998-05-13 : Mold (organism)
+  1998-05-13 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+1998-03-02 : Encounter at GARDEN STATE HEALTHCARE ASSOCIATES LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1998-03-02 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

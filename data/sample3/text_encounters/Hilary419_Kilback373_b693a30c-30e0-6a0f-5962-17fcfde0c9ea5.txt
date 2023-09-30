@@ -1,0 +1,126 @@
+Hilary419 Kilback373
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 43
+Birth Date:          1980-04-25
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-10-11 : Encounter at CAPE COD HOSPITAL INC
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2019-10-11 : Full-time employment (finding)
+  2019-10-11 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2019-10-11 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.0 %
+           - MCV [Entitic volume] by Automated count  92.8 fL
+           - MCH [Entitic mass] by Automated count    27.4 pg
+           - MCHC [Mass/volume] by Automated count    33.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+           - Platelets [#/volume] in Blood by Automated count 185.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 472.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2019-10-12 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2019-10-12 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2019-10-12 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+   
+   OBSERVATIONS:
+  2019-10-12 : Total score [AUDIT-C]                    2.0 {score}
+  2019-10-12 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2019-10-12 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2019-10-11 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Clothing 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 81969 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  1013 Stokes Boulevard Apt 71 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 7.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2019-10-11 : Tobacco smoking status                   Ex-smoker (finding) 
+  2019-10-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2019-10-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 472.4 fL
+  2019-10-11 : Platelets [#/volume] in Blood by Automated count 185.9 10*3/uL
+  2019-10-11 : Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+  2019-10-11 : MCHC [Mass/volume] by Automated count    33.9 g/dL
+  2019-10-11 : MCH [Entitic mass] by Automated count    27.4 pg
+  2019-10-11 : MCV [Entitic volume] by Automated count  92.8 fL
+  2019-10-11 : Hematocrit [Volume Fraction] of Blood by Automated count 44.0 %
+  2019-10-11 : Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+  2019-10-11 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2019-10-11 : Leukocytes [#/volume] in Blood by Automated count 3.9 10*3/uL
+  2019-10-11 : Respiratory rate                         12.0 /min
+  2019-10-11 : Heart rate                               76.0 /min
+  2019-10-11 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2019-10-11 : Body mass index (BMI) [Ratio]            27.6 kg/m2
+  2019-10-11 : Body Weight                              82.4 kg
+  2019-10-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-10-11 : Body Height                              172.9 cm
+   
+   PROCEDURES:
+  2019-10-12 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2019-10-12 : Assessment of substance use (procedure)
+  2019-10-12 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2019-10-12 : Depression screening (procedure)
+  2019-10-11 : Assessment of anxiety (procedure)
+  2019-10-11 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+  2019-10-11 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-10-01 : Acute bronchitis (disorder)
+  2018-01-12 : Stress (finding)
+  2017-12-06 : Chronic sinusitis (disorder)
+  2015-10-18 : History of tubal ligation (situation)
+  2002-06-28 : Body mass index 30+ - obesity (finding)
+  1998-06-19 : Received higher education (finding)
+  1997-06-13 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+  2019-10-01 + Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+   
+   CAREPLANS:
+  2019-10-01 : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+   
+--------------------------------------------------------------------------------

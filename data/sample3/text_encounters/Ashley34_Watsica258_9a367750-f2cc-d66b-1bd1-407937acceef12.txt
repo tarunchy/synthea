@@ -1,0 +1,46 @@
+Ashley34 Watsica258
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 44
+Birth Date:          1979-06-21
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2008-06-19 : Encounter at ARBOUR-FULLER HOSPITAL
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2008-06-19 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2007-08-30 : Full-time employment (finding)
+  1997-08-14 : Received higher education (finding)
+  1996-08-08 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

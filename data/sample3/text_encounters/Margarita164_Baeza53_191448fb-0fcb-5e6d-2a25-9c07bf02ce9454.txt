@@ -1,0 +1,49 @@
+Margarita164 Baeza53
+====================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 15
+Birth Date:          2008-01-27
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2009-04-22 : Peanut (substance)
+  2009-04-22 : Tree pollen (substance)
+  2009-04-22 : Grass pollen (substance)
+  2009-04-22 : Animal dander (substance)
+  2009-04-22 : House dust mite (organism)
+  2009-04-22 : Mold (organism)
+  2009-04-22 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2009-01-04 : Encounter at CLARITY HEALTH & WELLNESS LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2009-01-04 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

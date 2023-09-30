@@ -1,0 +1,249 @@
+Enriqueta274 Barrows492
+=======================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1965-06-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2016-01-11 : Encounter at HEBREW REHABILITATION CENTER : Encounter for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+Type: inpatient
+   
+   MEDICATIONS:
+  2016-01-24 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-24 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-23 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-23 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-22 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-22 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-21 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-21 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-20 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-20 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-19 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-19 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-18 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-18 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-17 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-17 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-15 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-15 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-14 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-14 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-13 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-13 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-12 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-12 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-11 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-11 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2016-01-11 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Blood           94.3 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     19.3 mg/dL
+           - Creatinine [Mass/volume] in Blood        3.3 mg/dL
+           - Calcium [Mass/volume] in Blood           8.8 mg/dL
+           - Sodium [Moles/volume] in Blood           143.5 mmol/L
+           - Potassium [Moles/volume] in Blood        3.7 mmol/L
+           - Chloride [Moles/volume] in Blood         103.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 24.4 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 19.9 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.9 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.8 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.5 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.6 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 83.9 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 46.2 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.4 U/L
+  2016-01-11 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 2.2 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.8 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 19.7 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                5.0 pH
+           - Protein [Mass/volume] in Urine by Test strip 440.6 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2016-01-11 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.5 %
+           - MCV [Entitic volume] by Automated count  85.9 fL
+           - MCH [Entitic mass] by Automated count    29.6 pg
+           - MCHC [Mass/volume] by Automated count    34.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.5 fL
+           - Platelets [#/volume] in Blood by Automated count 326.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 439.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+   
+   OBSERVATIONS:
+  2016-01-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 9.0 {score}
+  2016-01-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2016-01-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2016-01-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2016-01-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2016-01-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 9.0 {score}
+  2016-01-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2016-01-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2016-01-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2016-01-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 10.0 {score}
+  2016-01-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2016-01-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2016-01-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2016-01-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2016-01-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 439.4 fL
+  2016-01-11 : Platelets [#/volume] in Blood by Automated count 326.3 10*3/uL
+  2016-01-11 : Erythrocyte distribution width [Entitic volume] by Automated count 43.5 fL
+  2016-01-11 : MCHC [Mass/volume] by Automated count    34.6 g/dL
+  2016-01-11 : MCH [Entitic mass] by Automated count    29.6 pg
+  2016-01-11 : MCV [Entitic volume] by Automated count  85.9 fL
+  2016-01-11 : Hematocrit [Volume Fraction] of Blood by Automated count 47.5 %
+  2016-01-11 : Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+  2016-01-11 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2016-01-11 : Leukocytes [#/volume] in Blood by Automated count 3.5 10*3/uL
+  2016-01-11 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2016-01-11 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2016-01-11 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2016-01-11 : Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+  2016-01-11 : Protein [Mass/volume] in Urine by Test strip 440.6 mg/dL
+  2016-01-11 : pH of Urine by Test strip                5.0 pH
+  2016-01-11 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2016-01-11 : Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+  2016-01-11 : Ketones [Mass/volume] in Urine by Test strip 19.7 mg/dL
+  2016-01-11 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2016-01-11 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.8 mg/dL
+  2016-01-11 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2016-01-11 : Glucose [Mass/volume] in Urine by Test strip 2.2 mg/dL
+  2016-01-11 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2016-01-11 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2016-01-11 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2016-01-11 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2016-01-11 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.4 U/L
+  2016-01-11 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 46.2 U/L
+  2016-01-11 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 83.9 U/L
+  2016-01-11 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.6 mg/dL
+  2016-01-11 : Globulin [Mass/volume] in Serum by calculation 2.5 g/L
+  2016-01-11 : Albumin [Mass/volume] in Serum or Plasma 3.8 g/dL
+  2016-01-11 : Protein [Mass/volume] in Serum or Plasma 6.9 g/dL
+  2016-01-11 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 19.9 mL/min
+  2016-01-11 : Carbon dioxide, total [Moles/volume] in Blood 24.4 mmol/L
+  2016-01-11 : Chloride [Moles/volume] in Blood         103.3 mmol/L
+  2016-01-11 : Potassium [Moles/volume] in Blood        3.7 mmol/L
+  2016-01-11 : Sodium [Moles/volume] in Blood           143.5 mmol/L
+  2016-01-11 : Calcium [Mass/volume] in Blood           8.8 mg/dL
+  2016-01-11 : Creatinine [Mass/volume] in Blood        3.3 mg/dL
+  2016-01-11 : Urea nitrogen [Mass/volume] in Blood     19.3 mg/dL
+  2016-01-11 : Glucose [Mass/volume] in Blood           94.3 mg/dL
+   
+   PROCEDURES:
+  2016-01-24 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-24 : Hearing examination (procedure)
+  2016-01-23 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-23 : Hearing examination (procedure)
+  2016-01-22 : High resolution computed tomography of chest without contrast (procedure)
+  2016-01-22 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-22 : Hearing examination (procedure)
+  2016-01-21 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-21 : Hearing examination (procedure)
+  2016-01-20 : High resolution computed tomography of chest without contrast (procedure)
+  2016-01-20 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-20 : Hearing examination (procedure)
+  2016-01-19 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-19 : Hearing examination (procedure)
+  2016-01-18 : High resolution computed tomography of chest without contrast (procedure)
+  2016-01-18 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-18 : Hearing examination (procedure)
+  2016-01-17 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-17 : Hearing examination (procedure)
+  2016-01-15 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-15 : Hearing examination (procedure)
+  2016-01-14 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-14 : Hearing examination (procedure)
+  2016-01-13 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-13 : Hearing examination (procedure)
+  2016-01-12 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-12 : Hearing examination (procedure)
+  2016-01-11 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-11 : Hearing examination (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+  2016-01-22 : Computed Tomography, Thoracic structure (body structure)
+  2016-01-20 : Computed Tomography, Thoracic structure (body structure)
+  2016-01-18 : Computed Tomography, Thoracic structure (body structure)
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2016-01-11 : Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-08 : Small cell carcinoma of lung (disorder)
+  2015-12-23 : Medication review due (situation)
+  2015-12-16 : Stress (finding)
+  2015-12-16 : Social isolation (finding)
+  2015-12-08 : Suspected lung cancer (situation)
+  2015-11-18 : End-stage renal disease (disorder)
+  2015-02-15 : Awaiting transplantation of kidney (situation)
+  2015-02-04 : Chronic kidney disease stage 4 (disorder)
+  2014-02-26 : Full-time employment (finding)
+  2008-12-24 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  2008-12-24 : Chronic kidney disease stage 3 (disorder)
+  2007-03-07 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  2007-03-07 : Chronic kidney disease stage 2 (disorder)
+  2005-05-11 : Disorder of kidney due to diabetes mellitus (disorder)
+  2005-05-11 : Chronic kidney disease stage 1 (disorder)
+  2004-04-14 : Metabolic syndrome X (disorder)
+  1997-10-29 : Body mass index 30+ - obesity (finding)
+  1984-08-15 : Anemia (disorder)
+  1984-08-15 : Prediabetes
+  1983-08-10 : Received higher education (finding)
+  1983-08-10 : Essential hypertension (disorder)
+   
+   MEDICATIONS:
+  2015-12-23 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2015-12-23 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2015-12-23 + insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  1984-08-23 : Vitamin B12 5 MG/ML Injectable Solution
+   
+   CAREPLANS:
+  2016-01-11 : Terminal care
+                         Reason: Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+                         Activity: Comfort measures
+                         Activity: Chronic pain control management
+                         Activity: Cancer education
+  2014-12-20 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1984-08-15 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1983-08-10 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

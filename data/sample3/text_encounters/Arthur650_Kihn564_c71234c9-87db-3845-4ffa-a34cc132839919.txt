@@ -1,0 +1,76 @@
+Arthur650 Kihn564
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 26
+Birth Date:          1997-04-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-07-21 : Encounter at HEBREW SENIORLIFE AFFILIATED MEDICAL GROUP INC : Encounter for Suspected COVID-19
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2021-07-21 : COVID-19
+  2021-07-21 : Fever (finding)
+  2021-07-21 : Fatigue (finding)
+  2021-07-21 : Cough (finding)
+   
+   CARE PLANS:
+  2021-07-21 : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Isolation of infected patient (procedure)
+  2021-07-21 : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Personal protective equipment (physical object)
+   
+   REPORTS:
+  2021-07-21 : Influenza virus A and B Ag panel - Upper respiratory specimen by Rapid immunoassay
+           - Influenza virus A Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+           - Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+  2021-07-21 : SARS-CoV-2 RNA Pnl Resp NAA+probe
+           - SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+   
+   OBSERVATIONS:
+  2021-07-21 : SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2021-07-21 : Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+  2021-07-21 : Influenza virus A Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+  2021-07-21 : Body Weight                              60.9 kg
+  2021-07-21 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2021-07-21 : Oxygen saturation in Arterial blood      86.4 %
+  2021-07-21 : Heart rate                               196.7 /min
+  2021-07-21 : Respiratory rate                         15.6 /min
+  2021-07-21 : Body temperature                         39.5 Cel
+   
+   PROCEDURES:
+  2021-07-21 : Face mask (physical object) for Suspected COVID-19
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-06-13 : Part-time employment (finding)
+  2015-06-18 : Stress (finding)
+  2015-06-18 : Medication review due (situation)
+  2015-06-04 : Received higher education (finding)
+  2008-12-09 : History of appendectomy
+  2008-12-09 : Appendicitis
+  2008-12-09 : Rupture of appendix
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

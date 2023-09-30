@@ -1,0 +1,46 @@
+Renata373 Skiles927
+===================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 20
+Birth Date:          2002-09-07
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-02-11 : Encounter at MELROSEWAKEFIELD HEALTHCARE, INC : Encounter for Contraception care (regime/therapy)
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2023-02-11 : Intramuscular injection
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-11-06 : Social isolation (finding)
+  2021-11-06 : Unemployed (finding)
+  2020-10-31 : Received certificate of high school equivalency (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

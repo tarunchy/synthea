@@ -1,0 +1,78 @@
+Lai148 Gerlach374
+=================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 10
+Birth Date:          2012-08-12
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-07-29 : Encounter at FATHERS UPLIFT FAMILY GROUP LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2018-07-29 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.2 %
+           - MCV [Entitic volume] by Automated count  92.9 fL
+           - MCH [Entitic mass] by Automated count    28.6 pg
+           - MCHC [Mass/volume] by Automated count    34.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.9 fL
+           - Platelets [#/volume] in Blood by Automated count 293.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 350.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+   
+   OBSERVATIONS:
+  2018-07-29 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-07-29 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2018-07-29 : Platelet distribution width [Entitic volume] in Blood by Automated count 350.0 fL
+  2018-07-29 : Platelets [#/volume] in Blood by Automated count 293.9 10*3/uL
+  2018-07-29 : Erythrocyte distribution width [Entitic volume] by Automated count 43.9 fL
+  2018-07-29 : MCHC [Mass/volume] by Automated count    34.7 g/dL
+  2018-07-29 : MCH [Entitic mass] by Automated count    28.6 pg
+  2018-07-29 : MCV [Entitic volume] by Automated count  92.9 fL
+  2018-07-29 : Hematocrit [Volume Fraction] of Blood by Automated count 40.2 %
+  2018-07-29 : Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+  2018-07-29 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2018-07-29 : Leukocytes [#/volume] in Blood by Automated count 10.4 10*3/uL
+  2018-07-29 : Respiratory rate                         16.0 /min
+  2018-07-29 : Heart rate                               64.0 /min
+  2018-07-29 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2018-07-29 : Body mass index (BMI) [Percentile] Per age and sex 75.7 %
+  2018-07-29 : Body mass index (BMI) [Ratio]            16.4 kg/m2
+  2018-07-29 : Body Weight                              21.1 kg
+  2018-07-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2018-07-29 : Body Height                              113.6 cm
+   
+   PROCEDURES:
+  2018-07-29 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2018-07-29 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

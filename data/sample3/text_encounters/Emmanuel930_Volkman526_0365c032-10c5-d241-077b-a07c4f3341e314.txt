@@ -1,0 +1,52 @@
+Emmanuel930 Volkman526
+======================
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 23
+Birth Date:          1999-11-18
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2017-12-23 : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Chronic pain (finding)
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2017-12-23 : Chronic low back pain (finding)
+  2017-12-23 : Chronic pain (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2001-12-27 : Childhood asthma
+   
+   MEDICATIONS:
+  2017-01-05 + albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2017-01-05 + budesonide 0.125 MG/ML Inhalation Suspension for Childhood asthma
+   
+   CAREPLANS:
+  2001-12-27 : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+   
+--------------------------------------------------------------------------------

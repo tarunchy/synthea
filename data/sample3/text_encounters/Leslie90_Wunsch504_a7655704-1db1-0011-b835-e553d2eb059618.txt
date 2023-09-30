@@ -1,0 +1,119 @@
+Leslie90 Wunsch504
+==================
+Race:                Asian
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 46
+Birth Date:          1976-09-03
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1977-03-15 : Wheat (substance)
+  1977-03-15 : Eggs (edible) (substance)
+  1977-03-15 : Cow's milk (substance)
+  1977-03-15 : Lisinopril
+  1977-03-15 : Tree pollen (substance)
+  1977-03-15 : Grass pollen (substance)
+  1977-03-15 : Animal dander (substance)
+  1977-03-15 : House dust mite (organism)
+  1977-03-15 : Mold (organism)
+  1977-03-15 : Latex (substance)
+  1977-03-15 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-07-10 : Encounter at THE LOWELL GENERAL HOSPITAL : Encounter for Suspected COVID-19
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2020-07-10 : COVID-19
+  2020-07-10 : Fever (finding)
+  2020-07-10 : Wheezing (finding)
+  2020-07-10 : Dyspnea (finding)
+  2020-07-10 : Cough (finding)
+   
+   CARE PLANS:
+  2020-07-10 : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Isolation of infected patient (procedure)
+  2020-07-10 : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Personal protective equipment (physical object)
+   
+   REPORTS:
+  2020-07-10 : Respiratory pathogens DNA and RNA panel - Respiratory specimen by NAA with probe detection
+           - Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-07-10 : SARS-CoV-2 RNA Pnl Resp NAA+probe
+           - SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+   
+   OBSERVATIONS:
+  2020-07-10 : SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2020-07-10 : Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-07-10 : Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-07-10 : Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-07-10 : Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-07-10 : Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-07-10 : Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-07-10 : Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-07-10 : Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-07-10 : Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-07-10 : Body Weight                              88.8 kg
+  2020-07-10 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 90.0 mm[Hg]
+           - Systolic Blood Pressure                  154.0 mm[Hg]
+  2020-07-10 : Oxygen saturation in Arterial blood      75.1 %
+  2020-07-10 : Heart rate                               128.2 /min
+  2020-07-10 : Respiratory rate                         30.1 /min
+  2020-07-10 : Body temperature                         38.1 Cel
+   
+   PROCEDURES:
+  2020-07-10 : Face mask (physical object) for Suspected COVID-19
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-08-02 : Full-time employment (finding)
+  2019-07-05 : Body mass index 30+ - obesity (finding)
+  2018-05-04 : Osteoarthritis of knee
+  2015-11-27 : Disorder of kidney due to diabetes mellitus (disorder)
+  2015-11-27 : Chronic kidney disease stage 1 (disorder)
+  1998-11-06 : Essential hypertension (disorder)
+  1994-10-28 : Received higher education (finding)
+  1993-10-22 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+  2020-03-06 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2020-03-06 + losartan potassium 25 MG Oral Tablet for Essential hypertension (disorder)
+  2018-05-04 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+  1977-03-15 : Astemizole 10 MG Oral Tablet
+   
+   CAREPLANS:
+  2018-05-04 : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  1998-11-06 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1977-03-02 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

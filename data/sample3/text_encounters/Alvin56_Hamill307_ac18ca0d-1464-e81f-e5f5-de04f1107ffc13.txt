@@ -1,0 +1,181 @@
+Alvin56 Hamill307
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 68
+Birth Date:          1954-12-24
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-05-22 : Encounter at FATHERS UPLIFT FAMILY GROUP LLC
+Type: wellness
+   
+   MEDICATIONS:
+  2020-05-29 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2020-05-29 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  2020-05-29 : Simvastatin 20 MG Oral Tablet
+  2020-05-29 : Clopidogrel 75 MG Oral Tablet
+  2020-05-22 : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes mellitus type 2 (disorder)
+   
+   CONDITIONS:
+  2020-05-22 : Stress (finding)
+  2020-05-22 : Full-time employment (finding)
+  2020-05-22 : Ischemic heart disease (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-05-22 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           83.8 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     10.5 mg/dL
+           - Creatinine [Mass/volume] in Blood        0.9 mg/dL
+           - Calcium [Mass/volume] in Blood           9.3 mg/dL
+           - Sodium [Moles/volume] in Blood           139.3 mmol/L
+           - Potassium [Moles/volume] in Blood        3.9 mmol/L
+           - Chloride [Moles/volume] in Blood         107.6 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 28.3 mmol/L
+  2020-05-22 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 202.8 mg/dL
+           - Triglycerides                            112.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      146.1 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 34.3 mg/dL
+  2020-05-22 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.9 %
+           - MCV [Entitic volume] by Automated count  87.2 fL
+           - MCH [Entitic mass] by Automated count    32.6 pg
+           - MCHC [Mass/volume] by Automated count    35.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.1 fL
+           - Platelets [#/volume] in Blood by Automated count 196.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 220.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2020-05-22 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2020-05-22 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       9.0 {#}
+           - Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2020-05-22 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2020-05-22 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-05-22 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+   
+   OBSERVATIONS:
+  2020-05-22 : Total score [AUDIT-C]                    1.0 {score}
+  2020-05-22 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-05-22 : Total score [HARK]                       0.0 {score}
+  2020-05-22 : Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2020-05-22 : Fall risk total [Morse Fall Scale]       9.0 {#}
+  2020-05-22 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2020-05-22 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 95455 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  1015 Schmeler Trail Apt 43 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 5.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2020-05-22 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-05-22 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 93.2 mL/min/{1.73_m2}
+  2020-05-22 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2020-05-22 : Platelet distribution width [Entitic volume] in Blood by Automated count 220.7 fL
+  2020-05-22 : Platelets [#/volume] in Blood by Automated count 196.6 10*3/uL
+  2020-05-22 : Erythrocyte distribution width [Entitic volume] by Automated count 42.1 fL
+  2020-05-22 : MCHC [Mass/volume] by Automated count    35.3 g/dL
+  2020-05-22 : MCH [Entitic mass] by Automated count    32.6 pg
+  2020-05-22 : MCV [Entitic volume] by Automated count  87.2 fL
+  2020-05-22 : Hematocrit [Volume Fraction] of Blood by Automated count 47.9 %
+  2020-05-22 : Hemoglobin [Mass/volume] in Blood        16.2 g/dL
+  2020-05-22 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2020-05-22 : Leukocytes [#/volume] in Blood by Automated count 6.2 10*3/uL
+  2020-05-22 : Microalbumin/Creatinine [Mass Ratio] in Urine 15.6 mg/g
+  2020-05-22 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 34.3 mg/dL
+  2020-05-22 : Low Density Lipoprotein Cholesterol      146.1 mg/dL
+  2020-05-22 : Triglycerides                            112.1 mg/dL
+  2020-05-22 : Cholesterol [Mass/volume] in Serum or Plasma 202.8 mg/dL
+  2020-05-22 : Carbon dioxide, total [Moles/volume] in Blood 28.3 mmol/L
+  2020-05-22 : Chloride [Moles/volume] in Blood         107.6 mmol/L
+  2020-05-22 : Potassium [Moles/volume] in Blood        3.9 mmol/L
+  2020-05-22 : Sodium [Moles/volume] in Blood           139.3 mmol/L
+  2020-05-22 : Calcium [Mass/volume] in Blood           9.3 mg/dL
+  2020-05-22 : Creatinine [Mass/volume] in Blood        0.9 mg/dL
+  2020-05-22 : Urea nitrogen [Mass/volume] in Blood     10.5 mg/dL
+  2020-05-22 : Glucose [Mass/volume] in Blood           83.8 mg/dL
+  2020-05-22 : Respiratory rate                         15.0 /min
+  2020-05-22 : Heart rate                               64.0 /min
+  2020-05-22 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  137.0 mm[Hg]
+  2020-05-22 : Body mass index (BMI) [Ratio]            28.2 kg/m2
+  2020-05-22 : Body Weight                              81.0 kg
+  2020-05-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2020-05-22 : Body Height                              169.4 cm
+  2020-05-22 : Hemoglobin A1c/Hemoglobin.total in Blood 5.6 %
+   
+   PROCEDURES:
+  2020-05-22 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2020-05-22 : Assessment of substance use (procedure)
+  2020-05-22 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2020-05-22 : Depression screening (procedure)
+  2020-05-22 : Screening for domestic abuse (procedure)
+  2020-05-22 : Assessment using Morse Fall Scale (procedure)
+  2020-05-22 : Assessment of anxiety (procedure)
+  2020-05-22 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+  2020-05-22 : Pneumococcal conjugate PCV 13
+  2020-05-22 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-12-24 : Polyp of colon
+  2019-05-17 : Social isolation (finding)
+  2019-05-17 : Medication review due (situation)
+  2018-05-11 : Limited social contact (finding)
+  2006-03-03 : Retinopathy due to type 2 diabetes mellitus (disorder)
+  1996-01-05 : Hypertriglyceridemia (disorder)
+  1996-01-05 : Hyperglycemia (disorder)
+  1994-12-30 : Diabetes mellitus type 2 (disorder)
+  1994-12-30 : Metabolic syndrome X (disorder)
+  1989-03-10 : Body mass index 30+ - obesity (finding)
+  1980-02-29 : Anemia (disorder)
+  1977-02-25 : Prediabetes
+  1974-02-22 : Lack of access to transportation (finding)
+  1973-02-16 : Has a criminal record (finding)
+  1973-02-16 : Transport problem (finding)
+  1973-02-16 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1977-02-25 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

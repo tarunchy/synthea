@@ -1,0 +1,49 @@
+Dalila583 Simonis280
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 43
+Birth Date:          1980-03-02
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-03-07 : Encounter at BETH ISRAEL DEACONESS HOSPITAL MILTON INC
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2021-03-07 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-03-08 : Limited social contact (finding)
+  2020-03-08 : Not in labor force (finding)
+  2020-03-08 : Medication review due (situation)
+  2005-05-08 : Victim of intimate partner abuse (finding)
+  2005-04-13 : History of tubal ligation (situation)
+  1998-04-26 : Received certificate of high school equivalency (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

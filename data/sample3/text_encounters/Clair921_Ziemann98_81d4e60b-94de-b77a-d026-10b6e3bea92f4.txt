@@ -1,0 +1,63 @@
+Clair921 Ziemann98
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 19
+Birth Date:          2004-05-07
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-06-25 : Encounter at STEWARD ST ELIZABETHS MEDICAL CENTER OF BOSTON INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2021-06-25 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 14.0 {score}
+   
+   OBSERVATIONS:
+  2021-06-25 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 14.0 {score}
+  2021-06-25 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-06-25 : Respiratory rate                         12.0 /min
+  2021-06-25 : Heart rate                               84.0 /min
+  2021-06-25 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2021-06-25 : Body mass index (BMI) [Percentile] Per age and sex 94.8 %
+  2021-06-25 : Body mass index (BMI) [Ratio]            28.2 kg/m2
+  2021-06-25 : Body Weight                              96.5 kg
+  2021-06-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2021-06-25 : Body Height                              185.0 cm
+   
+   PROCEDURES:
+  2021-06-25 : Anticipatory guidance (procedure)
+  2021-06-25 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-06-25 : Assessment of substance use (procedure)
+  2021-06-25 : Assessment of anxiety (procedure)
+  2021-06-25 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2021-06-25 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-06-25 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

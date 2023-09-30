@@ -1,0 +1,81 @@
+Onita767 Kendall673 Zulauf375
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 33
+Birth Date:          1989-08-11
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-11-09 : Encounter at ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE : Encounter for Normal pregnancy
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2018-11-09 : Normal pregnancy
+   
+   CARE PLANS:
+  2018-11-09 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2018-11-09 : Physical examination procedure (procedure) for Normal pregnancy
+  2018-11-09 : Urine protein test for Normal pregnancy
+  2018-11-09 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy
+  2018-11-09 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2018-11-09 : Rubella screening for Normal pregnancy
+  2018-11-09 : Hepatitis C antibody, confirmatory test for Normal pregnancy
+  2018-11-09 : Urine screening test for diabetes for Normal pregnancy
+  2018-11-09 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2018-11-09 : Urine culture for Normal pregnancy
+  2018-11-09 : Syphilis infectious titer test (procedure) for Normal pregnancy
+  2018-11-09 : Gonorrhea infection titer test (procedure) for Normal pregnancy
+  2018-11-09 : Chlamydia antigen test for Normal pregnancy
+  2018-11-09 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2018-11-09 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2018-11-09 : Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential for Normal pregnancy
+  2018-11-09 : Blood group typing (procedure) for Normal pregnancy
+  2018-11-09 : Auscultation of the fetal heart for Normal pregnancy
+  2018-11-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-11-09 : Ultrasound scan for fetal viability for Normal pregnancy
+  2018-11-09 : Standard pregnancy test for Normal pregnancy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2013-03-15 : Dependent drug abuse (disorder)
+  2013-03-01 : Drug overdose
+  2010-09-17 : Miscarriage in first trimester
+  2008-10-10 : Medication review due (situation)
+  2007-10-05 : Full-time employment (finding)
+  2007-10-05 : Received certificate of high school equivalency (finding)
+  2007-10-05 : Housing unsatisfactory (finding)
+  2004-09-18 : Impacted molars
+  2004-03-17 : Chronic intractable migraine without aura
+  2003-12-13 : Chronic pain
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2013-03-01 : Care plan (record artifact)
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+   
+--------------------------------------------------------------------------------

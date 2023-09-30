@@ -1,0 +1,65 @@
+Rubi442 Florentina22 Olson653
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 33
+Birth Date:          1990-03-05
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-05-11 : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Contraception care (regime/therapy)
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2021-05-11 : Intramuscular injection
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-07-07 : Full-time employment (finding)
+  2016-06-14 : Anemia (disorder)
+  2016-06-14 : Prediabetes
+  2015-06-09 : Social isolation (finding)
+  2014-06-03 : Limited social contact (finding)
+  2008-04-29 : Received higher education (finding)
+  2008-04-29 : Essential hypertension (disorder)
+  2007-04-24 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+  2020-07-31 : Natazia 28 Day Pack
+  2020-07-07 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2020-07-07 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2020-07-07 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CAREPLANS:
+  2016-06-14 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2008-04-29 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

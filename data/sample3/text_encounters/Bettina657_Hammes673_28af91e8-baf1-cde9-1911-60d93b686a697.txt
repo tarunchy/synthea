@@ -1,0 +1,88 @@
+Bettina657 Hammes673
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 18
+Birth Date:          2004-12-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-01-22 : Encounter at CHELMSFORD FAMILY PRACTICE, PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2021-01-22 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.9 %
+           - MCV [Entitic volume] by Automated count  92.8 fL
+           - MCH [Entitic mass] by Automated count    31.6 pg
+           - MCHC [Mass/volume] by Automated count    35.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.3 fL
+           - Platelets [#/volume] in Blood by Automated count 293.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 240.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2021-01-22 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+   
+   OBSERVATIONS:
+  2021-01-22 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2021-01-22 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-01-22 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2021-01-22 : Platelet distribution width [Entitic volume] in Blood by Automated count 240.8 fL
+  2021-01-22 : Platelets [#/volume] in Blood by Automated count 293.3 10*3/uL
+  2021-01-22 : Erythrocyte distribution width [Entitic volume] by Automated count 41.3 fL
+  2021-01-22 : MCHC [Mass/volume] by Automated count    35.5 g/dL
+  2021-01-22 : MCH [Entitic mass] by Automated count    31.6 pg
+  2021-01-22 : MCV [Entitic volume] by Automated count  92.8 fL
+  2021-01-22 : Hematocrit [Volume Fraction] of Blood by Automated count 36.9 %
+  2021-01-22 : Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+  2021-01-22 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2021-01-22 : Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+  2021-01-22 : Respiratory rate                         13.0 /min
+  2021-01-22 : Heart rate                               92.0 /min
+  2021-01-22 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  140.0 mm[Hg]
+  2021-01-22 : Body mass index (BMI) [Percentile] Per age and sex 87.3 %
+  2021-01-22 : Body mass index (BMI) [Ratio]            25.3 kg/m2
+  2021-01-22 : Body Weight                              61.1 kg
+  2021-01-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-01-22 : Body Height                              155.3 cm
+   
+   PROCEDURES:
+  2021-01-22 : Anticipatory guidance (procedure)
+  2021-01-22 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-01-22 : Assessment of substance use (procedure)
+  2021-01-22 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-01-22 : Depression screening (procedure)
+  2021-01-22 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2021-01-22 : meningococcal MCV4P
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-01-17 : Severe anxiety (panic) (finding)
+   
+   MEDICATIONS:
+  2020-11-29 : Jolivette 28 Day Pack
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

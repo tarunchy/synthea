@@ -1,0 +1,88 @@
+Carolyn322 Auer97
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 58
+Birth Date:          1965-01-04
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-02-04 : Encounter at AP MEDICAL LLC : Encounter for Anemia (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+  2019-02-04 : Vitamin B12 5 MG/ML Injectable Solution
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2019-02-04 : CBC panel - Blood by Automated count
+           - Hemoglobin [Mass/volume] in Blood        11.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood    34.3 %
+           - Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - MCV [Entitic volume] by Automated count  90.3 fL
+           - MCH [Entitic mass] by Automated count    32.4 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.3 fL
+           - Platelets [#/volume] in Blood by Automated count 306.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 281.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+   
+   OBSERVATIONS:
+  2019-02-04 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2019-02-04 : Platelet distribution width [Entitic volume] in Blood by Automated count 281.8 fL
+  2019-02-04 : Platelets [#/volume] in Blood by Automated count 306.5 10*3/uL
+  2019-02-04 : Erythrocyte distribution width [Entitic volume] by Automated count 43.3 fL
+  2019-02-04 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2019-02-04 : MCH [Entitic mass] by Automated count    32.4 pg
+  2019-02-04 : MCV [Entitic volume] by Automated count  90.3 fL
+  2019-02-04 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2019-02-04 : Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+  2019-02-04 : Hematocrit [Volume Fraction] of Blood    34.3 %
+  2019-02-04 : Hemoglobin [Mass/volume] in Blood        11.4 g/dL
+   
+   PROCEDURES:
+  2019-02-04 : Brief general examination (procedure)
+  2019-02-04 : Medication Reconciliation (procedure)
+  2019-02-04 : Review of systems (procedure)
+  2019-02-04 : Peripheral blood smear interpretation
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-01-28 : Severe anxiety (panic) (finding)
+  2019-01-28 : Not in labor force (finding)
+  2019-01-28 : Anemia (disorder)
+  2019-01-28 : Prediabetes
+  2008-12-23 : Osteoarthritis of knee
+  2007-09-22 : Malignant neoplasm of breast (disorder)
+  1996-03-18 : Body mass index 30+ - obesity (finding)
+  1992-03-16 : Miscarriage in first trimester
+  1983-02-28 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2008-12-23 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+   
+   CAREPLANS:
+  2019-01-28 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2008-12-23 : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+   
+--------------------------------------------------------------------------------

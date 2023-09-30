@@ -1,0 +1,46 @@
+Alex454 Weber641
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 69
+Birth Date:          1953-11-27
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1979-02-02 : Encounter at ZANJABEE INTEGRATIVE MEDICINE AND PRIMARY CARE LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1979-02-02 : Stress (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1972-01-21 : Full-time employment (finding)
+  1972-01-21 : Received higher education (finding)
+  1970-01-09 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

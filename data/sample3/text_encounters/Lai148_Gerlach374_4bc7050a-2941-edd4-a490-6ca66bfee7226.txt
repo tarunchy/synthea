@@ -1,0 +1,56 @@
+Lai148 Gerlach374
+=================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 10
+Birth Date:          2012-08-12
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-08-04 : Encounter at FATHERS UPLIFT FAMILY GROUP LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2019-08-04 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2019-08-04 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-08-04 : Respiratory rate                         14.0 /min
+  2019-08-04 : Heart rate                               95.0 /min
+  2019-08-04 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2019-08-04 : Body mass index (BMI) [Percentile] Per age and sex 78.5 %
+  2019-08-04 : Body mass index (BMI) [Ratio]            17.0 kg/m2
+  2019-08-04 : Body Weight                              24.6 kg
+  2019-08-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-08-04 : Body Height                              120.4 cm
+   
+   PROCEDURES:
+  2019-08-04 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2019-08-04 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

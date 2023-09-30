@@ -1,0 +1,79 @@
+Myrta75 Kihn564
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 0
+Birth Date:          2022-09-24
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-09-24 : Encounter at IDEAL HEALTHCARE SOLUTIONS LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2022-09-24 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2022-09-24 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.7 %
+           - MCV [Entitic volume] by Automated count  80.9 fL
+           - MCH [Entitic mass] by Automated count    30.6 pg
+           - MCHC [Mass/volume] by Automated count    34.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+           - Platelets [#/volume] in Blood by Automated count 333.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 444.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+   
+   OBSERVATIONS:
+  2022-09-24 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-09-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2022-09-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 444.2 fL
+  2022-09-24 : Platelets [#/volume] in Blood by Automated count 333.4 10*3/uL
+  2022-09-24 : Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+  2022-09-24 : MCHC [Mass/volume] by Automated count    34.2 g/dL
+  2022-09-24 : MCH [Entitic mass] by Automated count    30.6 pg
+  2022-09-24 : MCV [Entitic volume] by Automated count  80.9 fL
+  2022-09-24 : Hematocrit [Volume Fraction] of Blood by Automated count 39.7 %
+  2022-09-24 : Hemoglobin [Mass/volume] in Blood        17.1 g/dL
+  2022-09-24 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2022-09-24 : Leukocytes [#/volume] in Blood by Automated count 10.3 10*3/uL
+  2022-09-24 : Respiratory rate                         15.0 /min
+  2022-09-24 : Heart rate                               99.0 /min
+  2022-09-24 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2022-09-24 : Head Occipital-frontal circumference     34.5 cm
+  2022-09-24 : Head Occipital-frontal circumference Percentile 45.3 %
+  2022-09-24 : Weight-for-length Per age and sex        95.5 %
+  2022-09-24 : Body Weight                              4.4 kg
+  2022-09-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2022-09-24 : Body Height                              51.3 cm
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2022-09-24 : Hep B, adolescent or pediatric
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

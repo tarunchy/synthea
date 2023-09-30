@@ -1,0 +1,111 @@
+Berry486 Hickle134
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 23
+Birth Date:          1999-12-31
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-03-04 : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2022-03-04 : Not in labor force (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2022-03-04 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.6 %
+           - MCV [Entitic volume] by Automated count  84.2 fL
+           - MCH [Entitic mass] by Automated count    31.7 pg
+           - MCHC [Mass/volume] by Automated count    33.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+           - Platelets [#/volume] in Blood by Automated count 226.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 437.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2022-03-04 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+   
+   OBSERVATIONS:
+  2022-03-04 : Total score [AUDIT-C]                    2.0 {score}
+  2022-03-04 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 90069 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Otherwise unemployed but not seeking work (ex: student, retired, disabled, unpaid primary care giver) 
+           - Highest level of education               More than high school 
+           - Address                                  708 Pollich Rest 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 7.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2022-03-04 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-03-04 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2022-03-04 : Platelet distribution width [Entitic volume] in Blood by Automated count 437.4 fL
+  2022-03-04 : Platelets [#/volume] in Blood by Automated count 226.6 10*3/uL
+  2022-03-04 : Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+  2022-03-04 : MCHC [Mass/volume] by Automated count    33.6 g/dL
+  2022-03-04 : MCH [Entitic mass] by Automated count    31.7 pg
+  2022-03-04 : MCV [Entitic volume] by Automated count  84.2 fL
+  2022-03-04 : Hematocrit [Volume Fraction] of Blood by Automated count 40.6 %
+  2022-03-04 : Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+  2022-03-04 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2022-03-04 : Leukocytes [#/volume] in Blood by Automated count 3.9 10*3/uL
+  2022-03-04 : Respiratory rate                         16.0 /min
+  2022-03-04 : Heart rate                               66.0 /min
+  2022-03-04 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 64.0 mm[Hg]
+           - Systolic Blood Pressure                  99.0 mm[Hg]
+  2022-03-04 : Body mass index (BMI) [Ratio]            19.6 kg/m2
+  2022-03-04 : Body Weight                              49.8 kg
+  2022-03-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2022-03-04 : Body Height                              159.4 cm
+   
+   PROCEDURES:
+  2022-03-04 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-03-04 : Assessment of substance use (procedure)
+  2022-03-04 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+  2022-03-04 : meningococcal MCV4P
+  2022-03-04 : Hep B, adult
+  2022-03-04 : Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+  2022-03-04 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-02-23 : Received higher education (finding)
+  2017-02-17 : Medication review due (situation)
+   
+   MEDICATIONS:
+  2021-05-10 : Seasonique 91 Day Pack
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

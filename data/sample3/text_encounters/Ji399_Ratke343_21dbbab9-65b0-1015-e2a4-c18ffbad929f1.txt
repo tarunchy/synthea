@@ -1,0 +1,176 @@
+Ji399 Ratke343
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 67
+Birth Date:          1956-05-04
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-02-03 : Encounter at BARRINGTON FAMILY MEDICINE PC
+Type: wellness
+   
+   MEDICATIONS:
+  2023-02-03 : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2023-02-03 : Warfarin Sodium 5 MG Oral Tablet for Atrial fibrillation (disorder)
+  2023-02-03 : Digoxin 0.125 MG Oral Tablet for Atrial fibrillation (disorder)
+  2023-02-03 : verapamil hydrochloride 80 MG Oral Tablet for Atrial fibrillation (disorder)
+   
+   CONDITIONS:
+  2023-02-03 : Limited social contact (finding)
+  2023-02-03 : Disorder of kidney due to diabetes mellitus (disorder)
+  2023-02-03 : Chronic kidney disease stage 1 (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2023-02-03 : Basic metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 75.1 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 14.7 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 1.6 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.0 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 137.7 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.0 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 103.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 24.8 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 136.5 mL/min/{1.73_m2}
+  2023-02-03 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 0.6 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.8 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 8.5 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = trace (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.2 pH
+           - Protein [Mass/volume] in Urine by Test strip 57.2 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = + (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2023-02-03 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       77.0 {#}
+           - Fall risk level [Morse Fall Scale]       High Risk (MFS Score 50+) 
+  2023-02-03 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    0.0 {score}
+   
+   OBSERVATIONS:
+  2023-02-03 : Total score [AUDIT-C]                    0.0 {score}
+  2023-02-03 : Fall risk level [Morse Fall Scale]       High Risk (MFS Score 50+) 
+  2023-02-03 : Fall risk total [Morse Fall Scale]       77.0 {#}
+  2023-02-03 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 29070 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  476 Heathcote Arcade Suite 73 
+           - Are you worried about losing your housing? Yes 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 8.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2023-02-03 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-02-03 : Respiratory rate                         13.0 /min
+  2023-02-03 : Heart rate                               100.0 /min
+  2023-02-03 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2023-02-03 : Body mass index (BMI) [Ratio]            27.6 kg/m2
+  2023-02-03 : Body Weight                              75.0 kg
+  2023-02-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2023-02-03 : Body Height                              164.8 cm
+  2023-02-03 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2023-02-03 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2023-02-03 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2023-02-03 : Protein [Presence] in Urine by Test strip Urine protein test = + (finding) {nominal}
+  2023-02-03 : Protein [Mass/volume] in Urine by Test strip 57.2 mg/dL
+  2023-02-03 : pH of Urine by Test strip                6.2 pH
+  2023-02-03 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2023-02-03 : Ketones [Presence] in Urine by Test strip Urine ketone test = trace (finding) {nominal}
+  2023-02-03 : Ketones [Mass/volume] in Urine by Test strip 8.5 mg/dL
+  2023-02-03 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2023-02-03 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.8 mg/dL
+  2023-02-03 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2023-02-03 : Glucose [Mass/volume] in Urine by Test strip 0.6 mg/dL
+  2023-02-03 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2023-02-03 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2023-02-03 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2023-02-03 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2023-02-03 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 136.5 mL/min/{1.73_m2}
+  2023-02-03 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 24.8 mmol/L
+  2023-02-03 : Chloride [Moles/volume] in Serum or Plasma 103.3 mmol/L
+  2023-02-03 : Potassium [Moles/volume] in Serum or Plasma 4.0 mmol/L
+  2023-02-03 : Sodium [Moles/volume] in Serum or Plasma 137.7 mmol/L
+  2023-02-03 : Calcium [Mass/volume] in Serum or Plasma 9.0 mg/dL
+  2023-02-03 : Creatinine [Mass/volume] in Serum or Plasma 1.6 mg/dL
+  2023-02-03 : Urea nitrogen [Mass/volume] in Serum or Plasma 14.7 mg/dL
+  2023-02-03 : Glucose [Mass/volume] in Serum or Plasma 75.1 mg/dL
+   
+   PROCEDURES:
+  2023-02-03 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2023-02-03 : Assessment of substance use (procedure)
+  2023-02-03 : Assessment using Morse Fall Scale (procedure)
+  2023-02-03 : Assessment of health and social care needs (procedure)
+  2023-02-03 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2023-02-03 : pneumococcal polysaccharide vaccine, 23 valent
+  2023-02-03 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2022-02-18 : History of coronary artery bypass grafting (situation)
+  2022-02-09 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2022-01-28 : Ischemic heart disease (disorder)
+  2021-01-22 : Atrial fibrillation (disorder)
+  2019-01-11 : Full-time employment (finding)
+  2014-06-23 : Osteoarthritis of knee
+  1997-05-09 : Body mass index 30+ - obesity (finding)
+  1987-07-17 : Essential hypertension (disorder)
+  1981-04-17 : Miscarriage in first trimester
+  1974-06-28 : Received higher education (finding)
+  1974-06-28 : Housing unsatisfactory (finding)
+   
+   MEDICATIONS:
+  2022-02-04 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2022-02-04 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  2022-02-04 : Simvastatin 20 MG Oral Tablet
+  2022-02-04 : Clopidogrel 75 MG Oral Tablet
+  2014-06-23 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+   
+   CAREPLANS:
+  2014-06-23 : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  1987-07-17 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

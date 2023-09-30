@@ -1,0 +1,153 @@
+Desmond566 Botsford977
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1994-05-18 : Encounter at VA Boston Healthcare System, West Roxbury Campus : Encounter for Hyperlipidemia
+Type: ambulatory
+   
+   MEDICATIONS:
+  1994-05-18 : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  1994-05-18 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Blood           84.6 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     17.0 mg/dL
+           - Creatinine [Mass/volume] in Blood        3.1 mg/dL
+           - Calcium [Mass/volume] in Blood           9.9 mg/dL
+           - Sodium [Moles/volume] in Blood           136.8 mmol/L
+           - Potassium [Moles/volume] in Blood        3.8 mmol/L
+           - Chloride [Moles/volume] in Blood         101.1 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 20.3 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 89.9 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.1 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.8 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 3.0 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.2 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 121.3 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 41.5 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.8 U/L
+  1994-05-18 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 206.7 mg/dL
+           - Triglycerides                            106.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      125.0 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 32.5 mg/dL
+   
+   OBSERVATIONS:
+  1994-05-18 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 32.5 mg/dL
+  1994-05-18 : Low Density Lipoprotein Cholesterol      125.0 mg/dL
+  1994-05-18 : Triglycerides                            106.8 mg/dL
+  1994-05-18 : Cholesterol [Mass/volume] in Serum or Plasma 206.7 mg/dL
+  1994-05-18 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.8 U/L
+  1994-05-18 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 41.5 U/L
+  1994-05-18 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 121.3 U/L
+  1994-05-18 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.2 mg/dL
+  1994-05-18 : Globulin [Mass/volume] in Serum by calculation 3.0 g/L
+  1994-05-18 : Albumin [Mass/volume] in Serum or Plasma 4.8 g/dL
+  1994-05-18 : Protein [Mass/volume] in Serum or Plasma 7.1 g/dL
+  1994-05-18 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 89.9 mL/min
+  1994-05-18 : Carbon dioxide, total [Moles/volume] in Blood 20.3 mmol/L
+  1994-05-18 : Chloride [Moles/volume] in Blood         101.1 mmol/L
+  1994-05-18 : Potassium [Moles/volume] in Blood        3.8 mmol/L
+  1994-05-18 : Sodium [Moles/volume] in Blood           136.8 mmol/L
+  1994-05-18 : Calcium [Mass/volume] in Blood           9.9 mg/dL
+  1994-05-18 : Creatinine [Mass/volume] in Blood        3.1 mg/dL
+  1994-05-18 : Urea nitrogen [Mass/volume] in Blood     17.0 mg/dL
+  1994-05-18 : Glucose [Mass/volume] in Blood           84.6 mg/dL
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1994-04-17 : Not in labor force (finding)
+  1994-03-05 : History of myocardial infarction (situation)
+  1994-03-04 : Preinfarction syndrome (disorder)
+  1993-10-24 : Stress (finding)
+  1991-02-17 : Awaiting transplantation of kidney (situation)
+  1991-02-03 : End-stage renal disease (disorder)
+  1990-12-30 : Anemia (disorder)
+  1989-08-13 : Atrial fibrillation (disorder)
+  1989-04-11 : Hyperlipidemia
+  1986-05-04 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  1986-05-04 : Chronic kidney disease stage 3 (disorder)
+  1985-08-04 : Carcinoma in situ of prostate (disorder)
+  1985-08-04 : Neoplasm of prostate
+  1971-11-14 : Metabolic syndrome X (disorder)
+  1969-07-27 : Body mass index 30+ - obesity (finding)
+  1962-07-14 : Osteoarthritis of knee
+  1958-10-26 : Prediabetes
+  1958-05-25 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1958-05-25 : Chronic kidney disease stage 2 (disorder)
+  1955-12-11 : Disorder of kidney due to diabetes mellitus (disorder)
+  1955-12-11 : Chronic kidney disease stage 1 (disorder)
+  1952-04-20 : Essential hypertension (disorder)
+  1942-04-05 : Received higher education (finding)
+  1942-04-05 : Housing unsatisfactory (finding)
+  1942-04-05 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+  1994-04-17 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  1994-04-17 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  1994-04-17 + Warfarin Sodium 5 MG Oral Tablet for Atrial fibrillation (disorder)
+  1994-04-17 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  1994-04-17 + Digoxin 0.125 MG Oral Tablet for Atrial fibrillation (disorder)
+  1994-04-17 + verapamil hydrochloride 80 MG Oral Tablet for Atrial fibrillation (disorder)
+  1994-04-17 + insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  1994-03-05 : prasugrel 10 MG Oral Tablet
+  1994-03-05 : telmisartan 80 MG Oral Tablet
+  1994-03-05 : atorvastatin 10 MG Oral Tablet
+  1994-03-05 : 24 HR metoprolol succinate 25 MG Extended Release Oral Tablet
+  1994-03-05 : aspirin 81 MG Oral Tablet
+  1990-12-30 : ferrous sulfate 325 MG Oral Tablet
+  1989-05-02 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  1962-07-14 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+   
+   CAREPLANS:
+  1994-03-05 : Discharge care plan (record artifact)
+  1991-01-02 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1989-05-02 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+  1985-08-04 : Cancer care plan
+                         Reason: Neoplasm of prostate
+                         Reason: Neoplasm of prostate
+                         Activity: Physical activity target light exercise
+                         Activity: Ice bath treatment
+  1962-07-14 : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  1958-10-26 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1952-04-20 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

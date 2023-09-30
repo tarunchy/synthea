@@ -1,0 +1,187 @@
+Ji399 Ratke343
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 67
+Birth Date:          1956-05-04
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-02-13 : Encounter at Fitchburg Outpatient Clinic : Encounter for Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2022-02-13 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.6 %
+           - MCV [Entitic volume] by Automated count  88.3 fL
+           - MCH [Entitic mass] by Automated count    32.5 pg
+           - MCHC [Mass/volume] by Automated count    35.3 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 15.1 %
+           - Platelets [#/volume] in Blood by Automated count 376.9 10*3/uL
+  2022-02-13 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 93.3 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 18.3 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.6 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 8.7 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 137.0 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.9 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 101.0 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.3 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 6.3 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 8.2 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.4 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 6.8 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 91.9 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.1 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 28.8 U/L
+  2022-02-13 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    10.5 s
+           - INR in Platelet poor plasma by Coagulation assay 0.9 {INR}
+  2022-02-13 : Gas panel - Arterial blood
+           - pH of Arterial blood                     7.2 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 36.2 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 86.2 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 22.5 mmol/L
+           - Oxygen saturation in Arterial blood      93.0 %
+  2022-02-13 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 167.5 mg/dL
+           - Triglycerides                            113.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      84.2 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 60.7 mg/dL
+  2022-02-13 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 0.0 pg/mL
+  2022-02-13 : Urinalysis complete panel - Urine
+           - Glucose [Presence] in Urine by Test strip 1.0 {presence}
+           - Bilirubin.total [Presence] in Urine by Test strip 1.0 {presence}
+           - Ketones [Presence] in Urine by Test strip 1.0 {presence}
+           - Specific gravity of Urine by Test strip  1.0 {SG}
+           - pH of Urine by Test strip                4.8 [pH]
+           - Protein [Presence] in Urine by Test strip 1.0 {presence}
+           - Nitrite [Presence] in Urine by Test strip 1.0 {presence}
+           - Hemoglobin [Presence] in Urine by Test strip 0.0 {presence}
+           - Leukocyte esterase [Presence] in Urine by Test strip 0.0 {presence}
+  2022-02-13 : Heart failure tracking panel
+           - Left ventricular Ejection fraction       36.5 %
+   
+   OBSERVATIONS:
+  2022-02-13 : Left ventricular Ejection fraction       36.5 %
+  2022-02-13 : Leukocyte esterase [Presence] in Urine by Test strip 0.0 {presence}
+  2022-02-13 : Hemoglobin [Presence] in Urine by Test strip 0.0 {presence}
+  2022-02-13 : Nitrite [Presence] in Urine by Test strip 1.0 {presence}
+  2022-02-13 : Protein [Presence] in Urine by Test strip 1.0 {presence}
+  2022-02-13 : pH of Urine by Test strip                4.8 [pH]
+  2022-02-13 : Specific gravity of Urine by Test strip  1.0 {SG}
+  2022-02-13 : Ketones [Presence] in Urine by Test strip 1.0 {presence}
+  2022-02-13 : Bilirubin.total [Presence] in Urine by Test strip 1.0 {presence}
+  2022-02-13 : Glucose [Presence] in Urine by Test strip 1.0 {presence}
+  2022-02-13 : Hemoglobin A1c/Hemoglobin.total in Blood 5.2 %
+  2022-02-13 : Thyrotropin [Units/volume] in Serum or Plasma 4.1 m[IU]/L
+  2022-02-13 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 0.0 pg/mL
+  2022-02-13 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 60.7 mg/dL
+  2022-02-13 : Low Density Lipoprotein Cholesterol      84.2 mg/dL
+  2022-02-13 : Triglycerides                            113.0 mg/dL
+  2022-02-13 : Cholesterol [Mass/volume] in Serum or Plasma 167.5 mg/dL
+  2022-02-13 : Oxygen saturation in Arterial blood      93.0 %
+  2022-02-13 : Bicarbonate [Moles/volume] in Arterial blood 22.5 mmol/L
+  2022-02-13 : Oxygen [Partial pressure] in Arterial blood 86.2 mm[Hg]
+  2022-02-13 : Carbon dioxide [Partial pressure] in Arterial blood 36.2 mm[Hg]
+  2022-02-13 : pH of Arterial blood                     7.2 [pH]
+  2022-02-13 : aPTT in Blood by Coagulation assay       33.7 s
+  2022-02-13 : INR in Platelet poor plasma by Coagulation assay 0.9 {INR}
+  2022-02-13 : Prothrombin time (PT)                    10.5 s
+  2022-02-13 : Phosphate [Mass/volume] in Serum or Plasma 3.4 mg/dL
+  2022-02-13 : Magnesium [Mass/volume] in Serum or Plasma 1.9 mg/dL
+  2022-02-13 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 28.8 U/L
+  2022-02-13 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.1 U/L
+  2022-02-13 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 91.9 U/L
+  2022-02-13 : Bilirubin.total [Mass/volume] in Serum or Plasma 6.8 mg/dL
+  2022-02-13 : Albumin [Mass/volume] in Serum or Plasma 4.4 g/dL
+  2022-02-13 : Protein [Mass/volume] in Serum or Plasma 8.2 g/dL
+  2022-02-13 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 6.3 mL/min
+  2022-02-13 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.3 mmol/L
+  2022-02-13 : Chloride [Moles/volume] in Serum or Plasma 101.0 mmol/L
+  2022-02-13 : Potassium [Moles/volume] in Serum or Plasma 4.9 mmol/L
+  2022-02-13 : Sodium [Moles/volume] in Serum or Plasma 137.0 mmol/L
+  2022-02-13 : Calcium [Mass/volume] in Serum or Plasma 8.7 mg/dL
+  2022-02-13 : Creatinine [Mass/volume] in Serum or Plasma 2.6 mg/dL
+  2022-02-13 : Urea nitrogen [Mass/volume] in Serum or Plasma 18.3 mg/dL
+  2022-02-13 : Glucose [Mass/volume] in Serum or Plasma 93.3 mg/dL
+  2022-02-13 : Platelets [#/volume] in Blood by Automated count 376.9 10*3/uL
+  2022-02-13 : Erythrocyte distribution width [Ratio] by Automated count 15.1 %
+  2022-02-13 : MCHC [Mass/volume] by Automated count    35.3 g/dL
+  2022-02-13 : MCH [Entitic mass] by Automated count    32.5 pg
+  2022-02-13 : MCV [Entitic volume] by Automated count  88.3 fL
+  2022-02-13 : Hematocrit [Volume Fraction] of Blood by Automated count 49.6 %
+  2022-02-13 : Hemoglobin [Mass/volume] in Blood        16.2 g/dL
+  2022-02-13 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2022-02-13 : Leukocytes [#/volume] in Blood by Automated count 8.7 10*3/uL
+   
+   PROCEDURES:
+  2022-02-13 : Scheduling (procedure) for Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2022-02-13 : Notification of treatment plan (procedure)
+  2022-02-13 : Echocardiography (procedure)
+  2022-02-13 : Plain chest X-ray (procedure)
+  2022-02-13 : Electrocardiographic procedure (procedure)
+  2022-02-13 : Blood group typing (procedure)
+  2022-02-13 : Pre-surgery testing (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+  2022-02-13 : Ultrasound, Heart structure (body structure)
+  2022-02-13 : Computed Radiography, Thoracic structure (body structure)
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2022-02-09 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2022-01-28 : Ischemic heart disease (disorder)
+  2021-01-22 : Medication review due (situation)
+  2021-01-22 : Atrial fibrillation (disorder)
+  2019-01-11 : Stress (finding)
+  2019-01-11 : Full-time employment (finding)
+  2014-06-23 : Osteoarthritis of knee
+  1997-05-09 : Body mass index 30+ - obesity (finding)
+  1987-07-17 : Essential hypertension (disorder)
+  1981-04-17 : Miscarriage in first trimester
+  1974-06-28 : Received higher education (finding)
+  1974-06-28 : Housing unsatisfactory (finding)
+   
+   MEDICATIONS:
+  2022-02-04 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2022-02-04 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  2022-02-04 : Simvastatin 20 MG Oral Tablet
+  2022-02-04 : Clopidogrel 75 MG Oral Tablet
+  2022-01-28 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2022-01-28 + Warfarin Sodium 5 MG Oral Tablet for Atrial fibrillation (disorder)
+  2022-01-28 + Digoxin 0.125 MG Oral Tablet for Atrial fibrillation (disorder)
+  2022-01-28 + verapamil hydrochloride 80 MG Oral Tablet for Atrial fibrillation (disorder)
+  2014-06-23 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+   
+   CAREPLANS:
+  2014-06-23 : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  1987-07-17 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

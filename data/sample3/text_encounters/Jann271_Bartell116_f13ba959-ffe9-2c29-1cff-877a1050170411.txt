@@ -1,0 +1,62 @@
+Jann271 Bartell116
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2006-04-11
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-05-12 : Encounter at RHEUMATOLOGY AND INTERNAL MEDICINE ASSOCIATES PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2020-05-12 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-05-12 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+   
+   OBSERVATIONS:
+  2020-05-12 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2020-05-12 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-05-12 : Respiratory rate                         14.0 /min
+  2020-05-12 : Heart rate                               74.0 /min
+  2020-05-12 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 69.0 mm[Hg]
+           - Systolic Blood Pressure                  91.0 mm[Hg]
+  2020-05-12 : Body mass index (BMI) [Percentile] Per age and sex 7.6 %
+  2020-05-12 : Body mass index (BMI) [Ratio]            16.2 kg/m2
+  2020-05-12 : Body Weight                              42.2 kg
+  2020-05-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2020-05-12 : Body Height                              161.5 cm
+   
+   PROCEDURES:
+  2020-05-12 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2020-05-12 : Depression screening (procedure)
+   
+   IMMUNIZATIONS:
+  2020-05-12 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+  2020-04-10 : Levora 0.15/30 28 Day Pack
+  2019-10-13 : Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

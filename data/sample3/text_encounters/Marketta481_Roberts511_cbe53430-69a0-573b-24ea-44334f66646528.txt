@@ -1,0 +1,45 @@
+Marketta481 Roberts511
+======================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 44
+Birth Date:          1978-07-30
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1999-04-11 : Encounter at CAREWELL URGENT CARE CENTERS OF MA, PC
+Type: urgentcare
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1999-04-11 : Full-time employment (finding)
+  1999-04-11 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1996-09-22 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

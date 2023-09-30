@@ -1,0 +1,111 @@
+Ashley34 Watsica258
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 44
+Birth Date:          1979-06-21
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-07-01 : Encounter at A&A HEALTHCARE LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2021-07-01 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2021-07-01 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 168.3 mg/dL
+           - Triglycerides                            114.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      120.8 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 24.6 mg/dL
+  2021-07-01 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-07-01 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-07-01 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+   
+   OBSERVATIONS:
+  2021-07-01 : Total score [DAST-10]                    1.0 {score}
+  2021-07-01 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-07-01 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-07-01 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 38635 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  1055 Trantow Crossing 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 7.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2021-07-01 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-07-01 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 24.6 mg/dL
+  2021-07-01 : Low Density Lipoprotein Cholesterol      120.8 mg/dL
+  2021-07-01 : Triglycerides                            114.3 mg/dL
+  2021-07-01 : Cholesterol [Mass/volume] in Serum or Plasma 168.3 mg/dL
+  2021-07-01 : Respiratory rate                         14.0 /min
+  2021-07-01 : Heart rate                               68.0 /min
+  2021-07-01 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  134.0 mm[Hg]
+  2021-07-01 : Body mass index (BMI) [Ratio]            28.5 kg/m2
+  2021-07-01 : Body Weight                              88.0 kg
+  2021-07-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-07-01 : Body Height                              175.8 cm
+   
+   PROCEDURES:
+  2021-07-01 : Screening for drug abuse (procedure)
+  2021-07-01 : Assessment of substance use (procedure)
+  2021-07-01 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-07-01 : Depression screening (procedure)
+  2021-07-01 : Assessment of anxiety (procedure)
+  2021-07-01 : Assessment of health and social care needs (procedure)
+  2021-07-01 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2021-07-01 : Hep A, adult
+  2021-07-01 : Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed
+  2021-07-01 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-06-27 : Body mass index 30+ - obesity (finding)
+  2016-12-04 : Drug overdose
+  2014-02-01 : Fibromyalgia (disorder)
+  2014-02-01 : Chronic low back pain (finding)
+  2014-02-01 : Chronic pain (finding)
+  2007-08-30 : Full-time employment (finding)
+  1997-08-14 : Received higher education (finding)
+  1996-08-08 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

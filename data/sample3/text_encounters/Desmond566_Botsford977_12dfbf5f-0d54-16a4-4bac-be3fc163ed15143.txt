@@ -1,0 +1,116 @@
+Desmond566 Botsford977
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1994-09-30 : Encounter at VA Boston Healthcare System, West Roxbury Campus : Encounter for End-stage renal disease (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+  1994-09-30 : 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] for Anemia (disorder)
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  1994-09-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1994-09-30 : Weight difference [Mass difference] --pre dialysis - post dialysis 3.3 kg
+   
+   PROCEDURES:
+  1994-09-30 : Renal dialysis (procedure) for End-stage renal disease (disorder)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1994-07-17 : Full-time employment (finding)
+  1994-07-17 : Medication review due (situation)
+  1994-03-05 : History of myocardial infarction (situation)
+  1994-03-04 : Preinfarction syndrome (disorder)
+  1993-10-24 : Stress (finding)
+  1991-02-17 : Awaiting transplantation of kidney (situation)
+  1991-02-03 : End-stage renal disease (disorder)
+  1990-12-30 : Anemia (disorder)
+  1989-08-13 : Atrial fibrillation (disorder)
+  1989-04-11 : Hyperlipidemia
+  1986-05-04 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  1986-05-04 : Chronic kidney disease stage 3 (disorder)
+  1985-08-04 : Carcinoma in situ of prostate (disorder)
+  1985-08-04 : Neoplasm of prostate
+  1971-11-14 : Metabolic syndrome X (disorder)
+  1969-07-27 : Body mass index 30+ - obesity (finding)
+  1962-07-14 : Osteoarthritis of knee
+  1958-10-26 : Prediabetes
+  1958-05-25 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1958-05-25 : Chronic kidney disease stage 2 (disorder)
+  1955-12-11 : Disorder of kidney due to diabetes mellitus (disorder)
+  1955-12-11 : Chronic kidney disease stage 1 (disorder)
+  1952-04-20 : Essential hypertension (disorder)
+  1942-04-05 : Received higher education (finding)
+  1942-04-05 : Housing unsatisfactory (finding)
+  1942-04-05 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+  1994-07-17 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  1994-07-17 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  1994-07-17 + Warfarin Sodium 5 MG Oral Tablet for Atrial fibrillation (disorder)
+  1994-07-17 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  1994-07-17 + Digoxin 0.125 MG Oral Tablet for Atrial fibrillation (disorder)
+  1994-07-17 + verapamil hydrochloride 80 MG Oral Tablet for Atrial fibrillation (disorder)
+  1994-07-17 + insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  1994-05-18 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  1994-03-05 : prasugrel 10 MG Oral Tablet
+  1994-03-05 : telmisartan 80 MG Oral Tablet
+  1994-03-05 : atorvastatin 10 MG Oral Tablet
+  1994-03-05 : 24 HR metoprolol succinate 25 MG Extended Release Oral Tablet
+  1994-03-05 : aspirin 81 MG Oral Tablet
+  1990-12-30 : ferrous sulfate 325 MG Oral Tablet
+  1989-05-02 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  1962-07-14 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+   
+   CAREPLANS:
+  1994-03-05 : Discharge care plan (record artifact)
+  1991-01-02 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1989-05-02 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+  1985-08-04 : Cancer care plan
+                         Reason: Neoplasm of prostate
+                         Reason: Neoplasm of prostate
+                         Activity: Physical activity target light exercise
+                         Activity: Ice bath treatment
+  1962-07-14 : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  1958-10-26 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1952-04-20 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

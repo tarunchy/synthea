@@ -1,0 +1,110 @@
+Emmanuel930 Volkman526
+======================
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 23
+Birth Date:          1999-11-18
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-01-23 : Encounter at NEW ENGLAND PROFESSIONAL HOME HEALTH CARE LLC
+Type: wellness
+   
+   MEDICATIONS:
+  2020-01-23 : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2020-01-23 : budesonide 0.125 MG/ML Inhalation Suspension for Childhood asthma
+   
+   CONDITIONS:
+  2020-08-11 : Suspected COVID-19
+  2020-01-23 : Limited social contact (finding)
+  2020-01-23 : Lack of access to transportation (finding)
+  2020-01-23 : Part-time employment (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-01-23 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2020-01-23 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-01-23 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+   
+   OBSERVATIONS:
+  2020-01-23 : Total score [AUDIT-C]                    1.0 {score}
+  2020-01-23 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-01-23 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2020-01-23 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 130517 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Part-time or temporary work 
+           - Highest level of education               More than high school 
+           - Address                                  315 Oberbrunner Lock Unit 81 
+           - Are you worried about losing your housing? Yes 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 2.0 {#}
+           - Preferred language                       Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     Other 
+           - Do you consider yourself Hispanic/Latino? No 
+  2020-01-23 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-01-23 : Respiratory rate                         14.0 /min
+  2020-01-23 : Heart rate                               83.0 /min
+  2020-01-23 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2020-01-23 : Body mass index (BMI) [Ratio]            22.2 kg/m2
+  2020-01-23 : Body Weight                              69.8 kg
+  2020-01-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2020-01-23 : Body Height                              177.4 cm
+   
+   PROCEDURES:
+  2020-01-23 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2020-01-23 : Assessment of substance use (procedure)
+  2020-01-23 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2020-01-23 : Depression screening (procedure)
+  2020-01-23 : Assessment of anxiety (procedure)
+  2020-01-23 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+  2020-01-23 : Hep B, adult
+  2020-01-23 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-01-17 : Social isolation (finding)
+  2019-01-17 : Medication review due (situation)
+  2018-01-11 : Stress (finding)
+  2018-01-11 : Transport problem (finding)
+  2018-01-11 : Received higher education (finding)
+  2018-01-11 : Housing unsatisfactory (finding)
+  2017-12-23 : Chronic low back pain (finding)
+  2017-12-23 : Chronic pain (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2001-12-27 : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,47 @@
+Lawrence741 Herman763
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2005-12-22
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-10-30 : Encounter at NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC : Encounter for Streptococcal sore throat (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+  2018-10-30 : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+   
+   CONDITIONS:
+  2018-10-30 : Streptococcal sore throat (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2018-10-30 : Body temperature                         37.2 Cel
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-01-11 : Risk activity involvement (finding)
+  2015-12-10 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

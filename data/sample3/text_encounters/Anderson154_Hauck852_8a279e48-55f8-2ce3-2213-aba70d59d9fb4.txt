@@ -1,0 +1,118 @@
+Anderson154 Hauck852
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 28
+Birth Date:          1995-01-31
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-05-18 : Encounter at INTERNAL MEDICINE PHYSICIANS OF THE NORTH SHORE
+Type: wellness
+   
+   MEDICATIONS:
+  2021-05-18 : Acetaminophen 325 MG Oral Tablet [Tylenol]
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2021-05-18 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.1 %
+           - MCV [Entitic volume] by Automated count  92.8 fL
+           - MCH [Entitic mass] by Automated count    29.9 pg
+           - MCHC [Mass/volume] by Automated count    35.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.1 fL
+           - Platelets [#/volume] in Blood by Automated count 262.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 356.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2021-05-18 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-05-18 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+   
+   OBSERVATIONS:
+  2021-05-18 : Total score [DAST-10]                    1.0 {score}
+  2021-05-18 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-05-18 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Child care 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 14826 /a
+           - Primary insurance                        Medicaid 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  452 Labadie Mews Unit 17 
+           - Are you worried about losing your housing? Yes 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 4.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2021-05-18 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-05-18 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2021-05-18 : Platelet distribution width [Entitic volume] in Blood by Automated count 356.6 fL
+  2021-05-18 : Platelets [#/volume] in Blood by Automated count 262.7 10*3/uL
+  2021-05-18 : Erythrocyte distribution width [Entitic volume] by Automated count 45.1 fL
+  2021-05-18 : MCHC [Mass/volume] by Automated count    35.5 g/dL
+  2021-05-18 : MCH [Entitic mass] by Automated count    29.9 pg
+  2021-05-18 : MCV [Entitic volume] by Automated count  92.8 fL
+  2021-05-18 : Hematocrit [Volume Fraction] of Blood by Automated count 46.1 %
+  2021-05-18 : Hemoglobin [Mass/volume] in Blood        16.5 g/dL
+  2021-05-18 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2021-05-18 : Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+  2021-05-18 : Respiratory rate                         15.0 /min
+  2021-05-18 : Heart rate                               86.0 /min
+  2021-05-18 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  94.0 mm[Hg]
+  2021-05-18 : Body mass index (BMI) [Ratio]            26.9 kg/m2
+  2021-05-18 : Body Weight                              73.9 kg
+  2021-05-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-05-18 : Body Height                              165.7 cm
+   
+   PROCEDURES:
+  2021-05-18 : Screening for drug abuse (procedure)
+  2021-05-18 : Assessment of substance use (procedure)
+  2021-05-18 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-05-18 : Depression screening (procedure)
+  2021-05-18 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+  2021-05-18 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-05-07 : Full-time employment (finding)
+  2018-05-01 : Misuses drugs (finding)
+  2014-02-06 : Chronic neck pain (finding)
+  2014-02-06 : Chronic low back pain (finding)
+  2014-02-06 : Chronic pain (finding)
+  2013-04-02 : Received higher education (finding)
+  2013-04-02 : Housing unsatisfactory (finding)
+  2013-04-02 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

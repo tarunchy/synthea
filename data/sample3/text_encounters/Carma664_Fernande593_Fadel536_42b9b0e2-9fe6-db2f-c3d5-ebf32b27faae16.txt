@@ -1,0 +1,52 @@
+Carma664 Fernande593 Fadel536
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 30
+Birth Date:          1992-12-22
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-03-16 : Encounter at STEWARD GOOD SAMARITAN MEDICAL CENTER, INC.
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2021-03-16 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-09-08 : Full-time employment (finding)
+  2020-09-08 : Medication review due (situation)
+  2016-03-01 : Body mass index 30+ - obesity (finding)
+  2014-02-06 : Fibromyalgia (disorder)
+  2014-02-06 : Chronic low back pain (finding)
+  2014-02-06 : Chronic pain (finding)
+  2011-02-15 : Received certificate of high school equivalency (finding)
+   
+   MEDICATIONS:
+  2020-09-08 : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2020-04-21 : Errin 28 Day Pack
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

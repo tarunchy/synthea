@@ -1,0 +1,47 @@
+Renata373 Skiles927
+===================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 20
+Birth Date:          2002-09-07
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-10-02 : Encounter at MELROSEWAKEFIELD HEALTHCARE, INC
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2021-10-02 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-10-31 : Reports of violence in the environment (finding)
+  2020-10-31 : Full-time employment (finding)
+  2020-10-31 : Received certificate of high school equivalency (finding)
+  2014-09-27 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

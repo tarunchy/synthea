@@ -1,0 +1,55 @@
+Cristian531 Montero62
+=====================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 11
+Birth Date:          2011-08-26
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-08-17 : Encounter at CHELMSFORD PRIMARY CARE LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2018-08-17 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-08-17 : Respiratory rate                         14.0 /min
+  2018-08-17 : Heart rate                               82.0 /min
+  2018-08-17 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2018-08-17 : Body mass index (BMI) [Percentile] Per age and sex 12.7 %
+  2018-08-17 : Body mass index (BMI) [Ratio]            14.2 kg/m2
+  2018-08-17 : Body Weight                              20.5 kg
+  2018-08-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2018-08-17 : Body Height                              120.1 cm
+   
+   PROCEDURES:
+  2018-08-17 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2018-08-17 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

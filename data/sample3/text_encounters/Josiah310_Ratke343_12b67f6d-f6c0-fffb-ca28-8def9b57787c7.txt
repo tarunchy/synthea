@@ -1,0 +1,61 @@
+Josiah310 Ratke343
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 3
+Birth Date:          2020-06-05
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-02-12 : Encounter at GREATER LAWRENCE FAMILY HEALTH CENTER INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2021-02-12 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2021-02-12 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-02-12 : Respiratory rate                         14.0 /min
+  2021-02-12 : Heart rate                               87.0 /min
+  2021-02-12 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 93.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2021-02-12 : Head Occipital-frontal circumference     45.0 cm
+  2021-02-12 : Head Occipital-frontal circumference Percentile 49.1 %
+  2021-02-12 : Weight-for-length Per age and sex        22.5 %
+  2021-02-12 : Body Weight                              8.3 kg
+  2021-02-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-02-12 : Body Height                              70.7 cm
+   
+   PROCEDURES:
+  2021-02-12 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2021-02-12 : Hep B, adolescent or pediatric
+  2021-02-12 : Pneumococcal conjugate PCV 13
+  2021-02-12 : DTaP
+  2021-02-12 : Influenza, seasonal, injectable, preservative free
+  2021-02-12 : IPV
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

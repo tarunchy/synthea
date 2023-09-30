@@ -1,0 +1,123 @@
+Alex454 Weber641
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 69
+Birth Date:          1953-11-27
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-09-17 : Encounter at ZANJABEE INTEGRATIVE MEDICINE AND PRIMARY CARE LLC
+Type: wellness
+   
+   MEDICATIONS:
+  2021-09-17 : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+  2021-09-17 : Reports of violence in the environment (finding)
+  2021-09-17 : Social isolation (finding)
+  2021-09-17 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2021-09-17 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2021-09-17 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+   
+   OBSERVATIONS:
+  2021-09-17 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-09-17 : Total score [HARK]                       0.0 {score}
+  2021-09-17 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? No 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 144005 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  928 Bahringer Row 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 4.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2021-09-17 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-09-17 : Respiratory rate                         15.0 /min
+  2021-09-17 : Heart rate                               68.0 /min
+  2021-09-17 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  106.0 mm[Hg]
+  2021-09-17 : Body mass index (BMI) [Ratio]            29.2 kg/m2
+  2021-09-17 : Body Weight                              96.0 kg
+  2021-09-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2021-09-17 : Body Height                              181.2 cm
+   
+   PROCEDURES:
+  2021-09-17 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-09-17 : Depression screening (procedure)
+  2021-09-17 : Screening for domestic abuse (procedure)
+  2021-09-17 : Assessment of health and social care needs (procedure)
+  2021-09-17 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2021-09-17 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-08-31 : Full-time employment (finding)
+  2004-06-21 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2004-06-11 : Ischemic heart disease (disorder)
+  1999-10-28 : History of myocardial infarction (situation)
+  1999-10-27 : Acute non-ST segment elevation myocardial infarction (disorder)
+  1995-04-21 : Hyperlipidemia
+  1990-03-23 : Body mass index 30+ - obesity (finding)
+  1988-03-16 : Sepsis (disorder)
+  1982-02-05 : Essential hypertension (disorder)
+  1972-01-21 : Received higher education (finding)
+  1970-01-09 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+  2020-09-12 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2004-06-18 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2004-06-18 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  2004-06-18 : Simvastatin 20 MG Oral Tablet
+  2004-06-18 : Clopidogrel 75 MG Oral Tablet
+  1999-10-28 : prasugrel 10 MG Oral Tablet
+  1999-10-28 : ramipril 10 MG Oral Capsule
+  1999-10-28 : pravastatin sodium 40 MG Oral Tablet
+  1999-10-28 : metoprolol tartrate 50 MG Oral Tablet
+  1999-10-28 : aspirin 81 MG Oral Tablet
+  1995-05-12 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+   
+   CAREPLANS:
+  1999-10-28 : Discharge care plan (record artifact)
+  1995-05-12 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+  1982-02-05 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

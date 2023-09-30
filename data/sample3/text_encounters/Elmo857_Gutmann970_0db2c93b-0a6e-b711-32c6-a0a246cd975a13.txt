@@ -1,0 +1,46 @@
+Elmo857 Gutmann970
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 10
+Birth Date:          2013-07-15
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2014-05-09 : Shellfish (substance)
+  2014-05-09 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2014-04-24 : Encounter at BAYSTATE MEDICAL CENTER INC. : Encounter for Shellfish (substance)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+  2014-04-24 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,55 @@
+Byron202 Tillman293
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 11
+Birth Date:          2012-06-16
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2013-12-17 : Cow's milk (substance)
+  2013-12-17 : Tree pollen (substance)
+  2013-12-17 : Grass pollen (substance)
+  2013-12-17 : Animal dander (substance)
+  2013-12-17 : House dust mite (organism)
+  2013-12-17 : Mold (organism)
+  2013-12-17 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-04-12 : Encounter at HOLY FAMILY HOSPITAL : Encounter for Perennial allergic rhinitis with seasonal variation
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2018-04-12 : Perennial allergic rhinitis with seasonal variation
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2015-11-21 : Medication review due (situation)
+   
+   MEDICATIONS:
+  2013-12-17 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2013-12-17 : Fexofenadine hydrochloride 30 MG Oral Tablet
+   
+   CAREPLANS:
+  2013-11-30 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,64 @@
+Alvin56 Stark857
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 19
+Birth Date:          2004-05-13
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-07-01 : Encounter at PRIMARY & PREVENTIVE CARE, INC.
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2021-07-01 : Risk activity involvement (finding)
+  2021-07-01 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2021-07-01 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+   
+   OBSERVATIONS:
+  2021-07-01 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2021-07-01 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-07-01 : Respiratory rate                         12.0 /min
+  2021-07-01 : Heart rate                               77.0 /min
+  2021-07-01 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2021-07-01 : Body mass index (BMI) [Percentile] Per age and sex 88.0 %
+  2021-07-01 : Body mass index (BMI) [Ratio]            25.7 kg/m2
+  2021-07-01 : Body Weight                              77.5 kg
+  2021-07-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2021-07-01 : Body Height                              173.8 cm
+   
+   PROCEDURES:
+  2021-07-01 : Health risks education (procedure) for Risk activity involvement (finding)
+  2021-07-01 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-07-01 : Assessment of substance use (procedure)
+  2021-07-01 : Assessment of anxiety (procedure)
+  2021-07-01 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2021-07-01 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

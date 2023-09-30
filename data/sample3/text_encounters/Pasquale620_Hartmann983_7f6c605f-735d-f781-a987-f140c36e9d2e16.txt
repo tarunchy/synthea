@@ -1,0 +1,64 @@
+Pasquale620 Hartmann983
+=======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 3
+Birth Date:          2020-03-28
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2021-06-12 : Peanut (substance)
+  2021-06-12 : Wheat (substance)
+  2021-06-12 : Tree pollen (substance)
+  2021-06-12 : Grass pollen (substance)
+  2021-06-12 : Animal dander (substance)
+  2021-06-12 : House dust mite (organism)
+  2021-06-12 : Mold (organism)
+  2021-06-12 : Bee venom (substance)
+  2021-06-12 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-05-02 : Encounter at MANET COMMUNITY HEALTH CENTER, INC.
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2020-05-02 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-05-02 : Respiratory rate                         13.0 /min
+  2020-05-02 : Heart rate                               95.0 /min
+  2020-05-02 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2020-05-02 : Head Occipital-frontal circumference     37.6 cm
+  2020-05-02 : Head Occipital-frontal circumference Percentile 17.5 %
+  2020-05-02 : Weight-for-length Per age and sex        43.8 %
+  2020-05-02 : Body Weight                              4.4 kg
+  2020-05-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2020-05-02 : Body Height                              54.1 cm
+   
+   PROCEDURES:
+  2020-05-02 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2020-05-02 : Hep B, adolescent or pediatric
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

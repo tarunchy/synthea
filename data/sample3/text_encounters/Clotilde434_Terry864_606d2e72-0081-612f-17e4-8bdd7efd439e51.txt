@@ -1,0 +1,49 @@
+Clotilde434 Terry864
+====================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 58
+Birth Date:          1965-06-16
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1966-10-09 : Wheat (substance)
+  1966-10-09 : Aspirin
+  1966-10-09 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+1983-08-10 : Encounter at MEASURED WELLNESS LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1983-08-10 : Received higher education (finding)
+  1983-08-10 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1966-09-24 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

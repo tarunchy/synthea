@@ -1,0 +1,76 @@
+Carma664 Fernande593 Fadel536
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 30
+Birth Date:          1992-12-22
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-07-30 : Encounter at STEWARD GOOD SAMARITAN MEDICAL CENTER, INC. : Encounter for Normal pregnancy
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2019-07-30 : Normal pregnancy
+   
+   CARE PLANS:
+  2019-07-30 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2019-07-30 : Physical examination procedure (procedure) for Normal pregnancy
+  2019-07-30 : Urine protein test for Normal pregnancy
+  2019-07-30 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy
+  2019-07-30 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2019-07-30 : Rubella screening for Normal pregnancy
+  2019-07-30 : Hepatitis C antibody, confirmatory test for Normal pregnancy
+  2019-07-30 : Urine screening test for diabetes for Normal pregnancy
+  2019-07-30 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2019-07-30 : Urine culture for Normal pregnancy
+  2019-07-30 : Syphilis infectious titer test (procedure) for Normal pregnancy
+  2019-07-30 : Gonorrhea infection titer test (procedure) for Normal pregnancy
+  2019-07-30 : Chlamydia antigen test for Normal pregnancy
+  2019-07-30 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2019-07-30 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2019-07-30 : Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential for Normal pregnancy
+  2019-07-30 : Blood group typing (procedure) for Normal pregnancy
+  2019-07-30 : Auscultation of the fetal heart for Normal pregnancy
+  2019-07-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-07-30 : Ultrasound scan for fetal viability for Normal pregnancy
+  2019-07-30 : Standard pregnancy test for Normal pregnancy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-03-19 : Medication review due (situation)
+  2016-03-01 : Stress (finding)
+  2016-03-01 : Body mass index 30+ - obesity (finding)
+  2014-02-06 : Fibromyalgia (disorder)
+  2014-02-06 : Chronic low back pain (finding)
+  2014-02-06 : Chronic pain (finding)
+  2012-02-21 : Full-time employment (finding)
+  2011-02-15 : Received certificate of high school equivalency (finding)
+   
+   MEDICATIONS:
+  2019-03-19 : Acetaminophen 325 MG Oral Tablet [Tylenol]
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

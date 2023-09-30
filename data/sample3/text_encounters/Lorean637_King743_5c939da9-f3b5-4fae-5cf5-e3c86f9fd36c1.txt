@@ -1,0 +1,47 @@
+Lorean637 King743
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 21
+Birth Date:          2001-11-17
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-08-21 : Encounter at COOLEY DICKINSON HOSPITAL INC
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2021-08-21 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-01-16 : Has a criminal record (finding)
+  2021-01-16 : Full-time employment (finding)
+  2020-01-11 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2021-05-15 : Levora 0.15/30 28 Day Pack
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

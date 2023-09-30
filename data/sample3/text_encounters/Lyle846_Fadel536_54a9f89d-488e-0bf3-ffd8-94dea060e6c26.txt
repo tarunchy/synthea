@@ -1,0 +1,202 @@
+Lyle846 Fadel536
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 55
+Birth Date:          1968-03-17
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-01-01 : Encounter at MARLBOROUGH HOSPITAL CORP
+Type: outpatient
+   
+   MEDICATIONS:
+  2023-01-01 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2023-01-01 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2023-01-01 : insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+   
+   CONDITIONS:
+  2023-01-01 : Not in labor force (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2023-01-01 : Basic metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 91.2 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 11.7 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.1 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 140.9 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.5 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 104.5 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 25.8 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 37.3 mL/min/{1.73_m2}
+  2023-01-01 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.2 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.5 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 13.3 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = ++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                5.6 pH
+           - Protein [Mass/volume] in Urine by Test strip 322.3 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2023-01-01 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           91.2 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     11.7 mg/dL
+           - Creatinine [Mass/volume] in Blood        6.6 mg/dL
+           - Calcium [Mass/volume] in Blood           9.3 mg/dL
+           - Sodium [Moles/volume] in Blood           140.9 mmol/L
+           - Potassium [Moles/volume] in Blood        4.5 mmol/L
+           - Chloride [Moles/volume] in Blood         104.5 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 25.8 mmol/L
+  2023-01-01 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2023-01-01 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2023-01-01 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2023-01-01 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+   
+   OBSERVATIONS:
+  2023-01-01 : Total score [AUDIT-C]                    1.0 {score}
+  2023-01-01 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2023-01-01 : Total score [HARK]                       0.0 {score}
+  2023-01-01 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2023-01-01 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Medicine or Any Health Care (Medical, Dental, Mental Health, Vision) 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 51825 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Otherwise unemployed but not seeking work (ex: student, retired, disabled, unpaid primary care giver) 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  735 Schimmel Forge 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 5.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     Black/African American 
+           - Do you consider yourself Hispanic/Latino? No 
+  2023-01-01 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2023-01-01 : Carbon dioxide, total [Moles/volume] in Blood 25.8 mmol/L
+  2023-01-01 : Chloride [Moles/volume] in Blood         104.5 mmol/L
+  2023-01-01 : Potassium [Moles/volume] in Blood        4.5 mmol/L
+  2023-01-01 : Sodium [Moles/volume] in Blood           140.9 mmol/L
+  2023-01-01 : Calcium [Mass/volume] in Blood           9.3 mg/dL
+  2023-01-01 : Creatinine [Mass/volume] in Blood        6.6 mg/dL
+  2023-01-01 : Urea nitrogen [Mass/volume] in Blood     11.7 mg/dL
+  2023-01-01 : Glucose [Mass/volume] in Blood           91.2 mg/dL
+  2023-01-01 : Respiratory rate                         15.0 /min
+  2023-01-01 : Heart rate                               87.0 /min
+  2023-01-01 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2023-01-01 : Body mass index (BMI) [Ratio]            29.7 kg/m2
+  2023-01-01 : Body Weight                              86.5 kg
+  2023-01-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2023-01-01 : Body Height                              170.6 cm
+  2023-01-01 : Hemoglobin A1c/Hemoglobin.total in Blood 2.9 %
+  2023-01-01 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2023-01-01 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2023-01-01 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2023-01-01 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2023-01-01 : Protein [Mass/volume] in Urine by Test strip 322.3 mg/dL
+  2023-01-01 : pH of Urine by Test strip                5.6 pH
+  2023-01-01 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2023-01-01 : Ketones [Presence] in Urine by Test strip Urine ketone test = ++ (finding) {nominal}
+  2023-01-01 : Ketones [Mass/volume] in Urine by Test strip 13.3 mg/dL
+  2023-01-01 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2023-01-01 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.5 mg/dL
+  2023-01-01 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2023-01-01 : Glucose [Mass/volume] in Urine by Test strip 1.2 mg/dL
+  2023-01-01 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2023-01-01 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2023-01-01 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2023-01-01 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2023-01-01 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 37.3 mL/min/{1.73_m2}
+  2023-01-01 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 25.8 mmol/L
+  2023-01-01 : Chloride [Moles/volume] in Serum or Plasma 104.5 mmol/L
+  2023-01-01 : Potassium [Moles/volume] in Serum or Plasma 4.5 mmol/L
+  2023-01-01 : Sodium [Moles/volume] in Serum or Plasma 140.9 mmol/L
+  2023-01-01 : Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+  2023-01-01 : Creatinine [Mass/volume] in Serum or Plasma 2.1 mg/dL
+  2023-01-01 : Urea nitrogen [Mass/volume] in Serum or Plasma 11.7 mg/dL
+  2023-01-01 : Glucose [Mass/volume] in Serum or Plasma 91.2 mg/dL
+   
+   PROCEDURES:
+  2023-01-01 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2023-01-01 : Assessment of substance use (procedure)
+  2023-01-01 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2023-01-01 : Depression screening (procedure)
+  2023-01-01 : Screening for domestic abuse (procedure)
+  2023-01-01 : Assessment of anxiety (procedure)
+  2023-01-01 : Assessment of health and social care needs (procedure)
+  2023-01-01 : Sleep apnea assessment (procedure) for Sleep disorder (disorder)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2022-11-06 : Medication review due (situation)
+  2022-03-06 : Stress (finding)
+  2016-04-19 : Obstructive sleep apnea syndrome (disorder)
+  2016-03-13 : Sleep disorder (disorder)
+  2015-03-15 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  2015-03-15 : Chronic kidney disease stage 3 (disorder)
+  2011-08-28 : Metabolic syndrome X (disorder)
+  2011-01-30 : Prediabetes
+  2009-08-23 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  2009-08-23 : Chronic kidney disease stage 2 (disorder)
+  2004-04-11 : Disorder of kidney due to diabetes mellitus (disorder)
+  2004-04-11 : Chronic kidney disease stage 1 (disorder)
+  1993-05-23 : Has a criminal record (finding)
+  1993-05-23 : Essential hypertension (disorder)
+  1990-05-20 : Body mass index 30+ - obesity (finding)
+  1986-05-11 : Received certificate of high school equivalency (finding)
+  1982-04-18 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2016-04-19 : Care plan (record artifact)
+                         Reason: Obstructive sleep apnea syndrome (disorder)
+                         Activity: Weight reduction regimen (regime/therapy)
+                         Activity: Warning. Avoid alcoholic drink (qualifier value)
+                         Activity: Continuous positive airway pressure ventilation treatment (regime/therapy)
+  2011-01-30 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1993-05-23 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

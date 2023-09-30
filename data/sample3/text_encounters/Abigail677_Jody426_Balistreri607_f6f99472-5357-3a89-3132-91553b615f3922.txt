@@ -1,0 +1,73 @@
+Abigail677 Jody426 Balistreri607
+================================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 33
+Birth Date:          1990-04-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-12-09 : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Normal pregnancy
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2019-12-09 : Normal pregnancy
+   
+   CARE PLANS:
+  2019-12-09 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2019-12-09 : Physical examination procedure (procedure) for Normal pregnancy
+  2019-12-09 : Urine protein test for Normal pregnancy
+  2019-12-09 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy
+  2019-12-09 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2019-12-09 : Rubella screening for Normal pregnancy
+  2019-12-09 : Hepatitis C antibody, confirmatory test for Normal pregnancy
+  2019-12-09 : Urine screening test for diabetes for Normal pregnancy
+  2019-12-09 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2019-12-09 : Urine culture for Normal pregnancy
+  2019-12-09 : Syphilis infectious titer test (procedure) for Normal pregnancy
+  2019-12-09 : Gonorrhea infection titer test (procedure) for Normal pregnancy
+  2019-12-09 : Chlamydia antigen test for Normal pregnancy
+  2019-12-09 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2019-12-09 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2019-12-09 : Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential for Normal pregnancy
+  2019-12-09 : Blood group typing (procedure) for Normal pregnancy
+  2019-12-09 : Auscultation of the fetal heart for Normal pregnancy
+  2019-12-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-12-09 : Ultrasound scan for fetal viability for Normal pregnancy
+  2019-12-09 : Standard pregnancy test for Normal pregnancy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-06-25 : Full-time employment (finding)
+  2018-06-25 : Medication review due (situation)
+  2015-06-22 : Stress (finding)
+  2012-06-18 : Body mass index 30+ - obesity (finding)
+  2008-06-09 : Only received primary school education (finding)
+  2004-05-17 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

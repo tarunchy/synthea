@@ -1,0 +1,152 @@
+Daniela614 Chacón810
+===============ó====
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 81
+Birth Date:          1942-02-12
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-08-18 : Encounter at STURDY MEMORIAL HOSPITAL INC
+Type: outpatient
+   
+   MEDICATIONS:
+  2022-08-18 : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2022-08-18 : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+  2022-08-18 : Stress (finding)
+  2022-08-18 : Full-time employment (finding)
+  2022-08-18 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2022-08-18 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-08-18 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       19.0 {#}
+           - Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2022-08-18 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2022-08-18 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2022-08-18 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+   
+   OBSERVATIONS:
+  2022-08-18 : Total score [AUDIT-C]                    2.0 {score}
+  2022-08-18 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2022-08-18 : Total score [HARK]                       0.0 {score}
+  2022-08-18 : Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2022-08-18 : Fall risk total [Morse Fall Scale]       19.0 {#}
+  2022-08-18 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2022-08-18 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 117341 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  408 Roberts Passage Suite 16 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 1.0 {#}
+           - Preferred language                       Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2022-08-18 : Tobacco smoking status                   Ex-smoker (finding) 
+  2022-08-18 : Respiratory rate                         13.0 /min
+  2022-08-18 : Heart rate                               77.0 /min
+  2022-08-18 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  100.0 mm[Hg]
+  2022-08-18 : Body mass index (BMI) [Ratio]            32.0 kg/m2
+  2022-08-18 : Body Weight                              84.4 kg
+  2022-08-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-08-18 : Body Height                              162.4 cm
+   
+   PROCEDURES:
+  2022-08-18 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2022-08-18 : Assessment of substance use (procedure)
+  2022-08-18 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2022-08-18 : Depression screening (procedure)
+  2022-08-18 : Screening for domestic abuse (procedure)
+  2022-08-18 : Assessment using Morse Fall Scale (procedure)
+  2022-08-18 : Assessment of anxiety (procedure)
+  2022-08-18 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+  2022-08-18 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-09-05 : Alzheimer's disease (disorder)
+  2015-09-01 : History of coronary artery bypass grafting (situation)
+  2015-08-25 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2015-08-13 : Ischemic heart disease (disorder)
+  2014-02-01 : Chronic neck pain (finding)
+  2014-02-01 : Chronic low back pain (finding)
+  2014-02-01 : Chronic pain (finding)
+  2012-07-26 : Hyperlipidemia
+  2000-11-15 : Osteoarthritis of knee
+  2000-02-10 : History of myocardial infarction (situation)
+  2000-02-08 : Acute non-ST segment elevation myocardial infarction (disorder)
+  1986-02-27 : Essential hypertension (disorder)
+  1964-04-16 : Body mass index 30+ - obesity (finding)
+  1960-04-07 : Refugee (person)
+  1960-04-07 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2021-09-17 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2021-02-12 + 24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule for Alzheimer's disease (disorder)
+  2015-08-20 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2015-08-20 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  2015-08-20 : Simvastatin 20 MG Oral Tablet
+  2015-08-20 : Clopidogrel 75 MG Oral Tablet
+  2012-08-16 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2000-11-15 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+  2000-02-10 : prasugrel 10 MG Oral Tablet
+  2000-02-10 : atorvastatin 40 MG Oral Tablet
+  2000-02-10 : atenolol 100 MG Oral Tablet
+  2000-02-10 : aspirin 81 MG Oral Tablet
+   
+   CAREPLANS:
+  2019-09-05 : Dementia management
+                         Reason: Alzheimer's disease (disorder)
+                         Activity: Patient education (procedure)
+                         Activity: Promotion of use of memory skills
+                         Activity: Long term social support
+  2012-08-16 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+  2000-11-15 : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  2000-02-10 : Discharge care plan (record artifact)
+  1986-02-27 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

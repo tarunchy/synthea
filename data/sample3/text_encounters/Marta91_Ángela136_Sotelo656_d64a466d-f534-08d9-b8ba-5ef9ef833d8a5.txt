@@ -1,0 +1,72 @@
+Marta91 Ángela136 Sotelo656
+========Á==================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 53
+Birth Date:          1969-09-25
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-04-22 : Encounter at LEMUEL SHATTUCK HOSPITAL
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2021-04-22 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-05-21 : Stress (finding)
+  2019-05-16 : Medication review due (situation)
+  2016-04-28 : Full-time employment (finding)
+  2014-04-17 : Metabolic syndrome X (disorder)
+  2010-11-07 : Osteoarthritis of knee
+  2007-03-08 : Anemia (disorder)
+  2007-03-08 : Prediabetes
+  2002-02-07 : Refugee (person)
+  1993-12-23 : Body mass index 30+ - obesity (finding)
+  1988-11-24 : Transport problem (finding)
+  1987-11-19 : Lack of access to transportation (finding)
+  1987-11-19 : Received higher education (finding)
+  1987-11-19 : Essential hypertension (disorder)
+   
+   MEDICATIONS:
+  2020-05-21 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2020-05-21 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CAREPLANS:
+  2010-11-07 : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  2007-03-08 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1987-11-19 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

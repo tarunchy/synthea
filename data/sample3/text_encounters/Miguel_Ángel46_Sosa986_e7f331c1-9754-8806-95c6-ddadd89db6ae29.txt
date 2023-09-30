@@ -1,0 +1,45 @@
+Miguel Ángel46 Sosa986
+=======Á==============
+Race:                Asian
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 41
+Birth Date:          1981-11-09
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1985-09-04 : Penicillin V
+  1985-09-04 : Lisinopril
+  1985-09-04 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+1983-10-17 : Encounter at WOODLAND INTERNISTS, P.C.
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1983-10-17 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

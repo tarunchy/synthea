@@ -1,0 +1,117 @@
+Shirlene698 Lin401 Pagac496
+===========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1953-09-13
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1984-01-01 : Encounter at CORNERSTONE FAMILY MEDICINE, INC.
+Type: wellness
+   
+   MEDICATIONS:
+  1984-01-01 : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Pulmonary emphysema (disorder)
+  1984-01-01 : albuterol 5 MG/ML Inhalation Solution for Pulmonary emphysema (disorder)
+   
+   CONDITIONS:
+  1984-01-01 : Limited social contact (finding)
+  1984-01-01 : Part-time employment (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  1984-01-01 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 185.7 mg/dL
+           - Triglycerides                            122.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      108.6 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 52.7 mg/dL
+  1984-01-01 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  1984-01-01 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  1984-01-01 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+   
+   OBSERVATIONS:
+  1984-01-01 : Total score [AUDIT-C]                    1.0 {score}
+  1984-01-01 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  1984-01-01 : Total score [HARK]                       0.0 {score}
+  1984-01-01 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 29884 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Part-time or temporary work 
+           - Highest level of education               More than high school 
+           - Address                                  440 Nader Ferry 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 5.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  1984-01-01 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  1984-01-01 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 52.7 mg/dL
+  1984-01-01 : Low Density Lipoprotein Cholesterol      108.6 mg/dL
+  1984-01-01 : Triglycerides                            122.0 mg/dL
+  1984-01-01 : Cholesterol [Mass/volume] in Serum or Plasma 185.7 mg/dL
+  1984-01-01 : Respiratory rate                         13.0 /min
+  1984-01-01 : Heart rate                               66.0 /min
+  1984-01-01 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  1984-01-01 : Body mass index (BMI) [Ratio]            29.0 kg/m2
+  1984-01-01 : Body Weight                              87.8 kg
+  1984-01-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1984-01-01 : Body Height                              173.9 cm
+  1984-01-01 : FEV1/FVC                                 25.2 %
+   
+   PROCEDURES:
+  1984-01-01 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  1984-01-01 : Assessment of substance use (procedure)
+  1984-01-01 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  1984-01-01 : Depression screening (procedure)
+  1984-01-01 : Screening for domestic abuse (procedure)
+  1984-01-01 : Assessment of health and social care needs (procedure)
+  1984-01-01 : Pulmonary rehabilitation (regime/therapy) for Pulmonary emphysema (disorder)
+  1984-01-01 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+   
+   IMMUNIZATIONS:
+  1984-01-01 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1982-12-26 : Medication review due (situation)
+  1978-08-20 : Miscarriage in first trimester
+  1972-11-12 : Anemia (disorder)
+  1972-11-12 : Pulmonary emphysema (disorder)
+  1971-11-07 : Received higher education (finding)
+  1959-09-07 : Chronic sinusitis (disorder)
+   
+   MEDICATIONS:
+  1976-08-25 : Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+   
+   CAREPLANS:
+  1972-11-12 : Chronic obstructive pulmonary disease clinical management plan
+                         Reason: Pulmonary emphysema (disorder)
+                         Activity: Exercise therapy
+                         Activity: Pulmonary rehabilitation (regime/therapy)
+   
+--------------------------------------------------------------------------------

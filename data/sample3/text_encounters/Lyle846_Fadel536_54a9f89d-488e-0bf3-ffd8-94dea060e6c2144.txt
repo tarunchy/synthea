@@ -1,0 +1,59 @@
+Lyle846 Fadel536
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 55
+Birth Date:          1968-03-17
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2004-05-02 : Encounter at PATRIOT URGENT CARE PROFESSIONALS PC
+Type: urgentcare
+   
+   MEDICATIONS:
+  2004-05-02 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2004-05-02 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2004-04-11 : Disorder of kidney due to diabetes mellitus (disorder)
+  2004-04-11 : Chronic kidney disease stage 1 (disorder)
+  2004-04-11 : Medication review due (situation)
+  1996-06-09 : Stress (finding)
+  1993-05-23 : Has a criminal record (finding)
+  1993-05-23 : Essential hypertension (disorder)
+  1990-05-20 : Body mass index 30+ - obesity (finding)
+  1986-05-11 : Received certificate of high school equivalency (finding)
+  1982-04-18 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1993-05-23 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

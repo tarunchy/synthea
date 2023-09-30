@@ -1,0 +1,64 @@
+Danilo179 Ruecker817
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 47
+Birth Date:          1976-03-15
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2001-06-26 : Sulfamethoxazole / Trimethoprim
+  2001-06-26 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2001-05-21 : Encounter at HARBOR HEALTH SERVICES INC
+Type: wellness
+   
+   MEDICATIONS:
+  2001-05-21 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2001-05-21 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2001-05-21 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2001-05-21 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+  2001-05-21 : Anemia (disorder)
+  2001-05-21 : Prediabetes
+  2001-05-21 : Medication review due (situation)
+  2001-05-21 : Essential hypertension (disorder)
+   
+   CARE PLANS:
+  2001-05-21 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2001-05-21 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1995-05-15 : Lack of access to transportation (finding)
+  1994-05-09 : Transport problem (finding)
+  1994-05-09 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

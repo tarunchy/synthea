@@ -1,0 +1,241 @@
+Ian270 Bayer639
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2003-04-06 : Encounter at DEDHAM MEDICAL ASSOCIATES URGENT CARE CENTER LLC
+Type: urgentcare
+   
+   MEDICATIONS:
+  2003-04-06 : warfarin sodium 5 MG Oral Tablet
+  2003-04-06 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2003-04-06 : insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+   
+   CONDITIONS:
+  2003-04-06 : Social isolation (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2003-04-06 : Basic metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 89.7 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 16.0 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.0 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.4 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 142.1 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.6 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 102.4 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 23.8 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 52.1 mL/min/{1.73_m2}
+  2003-04-06 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.2 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.2 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 13.2 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = ++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.1 pH
+           - Protein [Mass/volume] in Urine by Test strip 381.0 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2003-04-06 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           89.7 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     16.0 mg/dL
+           - Creatinine [Mass/volume] in Blood        3.1 mg/dL
+           - Calcium [Mass/volume] in Blood           9.4 mg/dL
+           - Sodium [Moles/volume] in Blood           142.1 mmol/L
+           - Potassium [Moles/volume] in Blood        4.6 mmol/L
+           - Chloride [Moles/volume] in Blood         102.4 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 23.8 mmol/L
+  2003-04-06 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2003-04-06 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       42.0 {#}
+           - Fall risk level [Morse Fall Scale]       Moderate Risk (MFS Score 25 - 45) 
+  2003-04-06 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2003-04-06 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2003-04-06 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+   
+   OBSERVATIONS:
+  2003-04-06 : Total score [DAST-10]                    2.0 {score}
+  2003-04-06 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2003-04-06 : Total score [HARK]                       0.0 {score}
+  2003-04-06 : Fall risk level [Morse Fall Scale]       Moderate Risk (MFS Score 25 - 45) 
+  2003-04-06 : Fall risk total [Morse Fall Scale]       42.0 {#}
+  2003-04-06 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2003-04-06 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 123104 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  870 Moore Village Apt 68 
+           - Are you worried about losing your housing? Yes 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 7.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? Yes 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2003-04-06 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2003-04-06 : Carbon dioxide, total [Moles/volume] in Blood 23.8 mmol/L
+  2003-04-06 : Chloride [Moles/volume] in Blood         102.4 mmol/L
+  2003-04-06 : Potassium [Moles/volume] in Blood        4.6 mmol/L
+  2003-04-06 : Sodium [Moles/volume] in Blood           142.1 mmol/L
+  2003-04-06 : Calcium [Mass/volume] in Blood           9.4 mg/dL
+  2003-04-06 : Creatinine [Mass/volume] in Blood        3.1 mg/dL
+  2003-04-06 : Urea nitrogen [Mass/volume] in Blood     16.0 mg/dL
+  2003-04-06 : Glucose [Mass/volume] in Blood           89.7 mg/dL
+  2003-04-06 : Respiratory rate                         12.0 /min
+  2003-04-06 : Heart rate                               77.0 /min
+  2003-04-06 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2003-04-06 : Body mass index (BMI) [Ratio]            27.6 kg/m2
+  2003-04-06 : Body Weight                              94.1 kg
+  2003-04-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2003-04-06 : Body Height                              184.5 cm
+  2003-04-06 : Hemoglobin A1c/Hemoglobin.total in Blood 3.0 %
+  2003-04-06 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2003-04-06 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2003-04-06 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2003-04-06 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2003-04-06 : Protein [Mass/volume] in Urine by Test strip 381.0 mg/dL
+  2003-04-06 : pH of Urine by Test strip                6.1 pH
+  2003-04-06 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2003-04-06 : Ketones [Presence] in Urine by Test strip Urine ketone test = ++ (finding) {nominal}
+  2003-04-06 : Ketones [Mass/volume] in Urine by Test strip 13.2 mg/dL
+  2003-04-06 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2003-04-06 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.2 mg/dL
+  2003-04-06 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2003-04-06 : Glucose [Mass/volume] in Urine by Test strip 1.2 mg/dL
+  2003-04-06 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2003-04-06 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2003-04-06 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2003-04-06 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2003-04-06 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 52.1 mL/min/{1.73_m2}
+  2003-04-06 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 23.8 mmol/L
+  2003-04-06 : Chloride [Moles/volume] in Serum or Plasma 102.4 mmol/L
+  2003-04-06 : Potassium [Moles/volume] in Serum or Plasma 4.6 mmol/L
+  2003-04-06 : Sodium [Moles/volume] in Serum or Plasma 142.1 mmol/L
+  2003-04-06 : Calcium [Mass/volume] in Serum or Plasma 9.4 mg/dL
+  2003-04-06 : Creatinine [Mass/volume] in Serum or Plasma 2.0 mg/dL
+  2003-04-06 : Urea nitrogen [Mass/volume] in Serum or Plasma 16.0 mg/dL
+  2003-04-06 : Glucose [Mass/volume] in Serum or Plasma 89.7 mg/dL
+   
+   PROCEDURES:
+  2003-04-06 : Screening for drug abuse (procedure)
+  2003-04-06 : Assessment of substance use (procedure)
+  2003-04-06 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2003-04-06 : Depression screening (procedure)
+  2003-04-06 : Screening for domestic abuse (procedure)
+  2003-04-06 : Assessment using Morse Fall Scale (procedure)
+  2003-04-06 : Assessment of anxiety (procedure)
+  2003-04-06 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2003-03-02 : Stress (finding)
+  2003-03-02 : Medication review due (situation)
+  2003-01-05 : Full-time employment (finding)
+  2001-06-10 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  2001-06-10 : Chronic kidney disease stage 3 (disorder)
+  2000-12-19 : Alzheimer's disease (disorder)
+  1994-06-05 : Osteoporosis (disorder)
+  1992-07-20 : History of aortic valve replacement (situation)
+  1990-11-11 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1990-11-11 : Chronic kidney disease stage 2 (disorder)
+  1990-05-13 : Carcinoma in situ of prostate (disorder)
+  1990-05-13 : Neoplasm of prostate
+  1988-11-20 : Disorder of kidney due to diabetes mellitus (disorder)
+  1988-11-20 : Chronic kidney disease stage 1 (disorder)
+  1987-05-05 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  1987-04-26 : Ischemic heart disease (disorder)
+  1976-02-22 : Essential hypertension (disorder)
+  1975-04-20 : Smokes tobacco daily
+  1965-01-30 : Aortic valve regurgitation (disorder)
+  1953-07-12 : Has a criminal record (finding)
+  1952-04-20 : Anemia (disorder)
+  1949-04-17 : Prediabetes
+  1942-04-05 : Received higher education (finding)
+  1942-04-05 : Housing unsatisfactory (finding)
+  1942-04-05 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+  2000-12-19 + Donepezil hydrochloride 10 MG Oral Tablet for Alzheimer's disease (disorder)
+  1987-05-03 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1987-05-03 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  1975-02-16 : nicotine 7 MG/Day 24HR Transdermal System
+   
+   CAREPLANS:
+  2000-12-19 : Dementia management
+                         Reason: Alzheimer's disease (disorder)
+                         Activity: Patient education (procedure)
+                         Activity: Promotion of use of memory skills
+                         Activity: Long term social support
+  1992-07-21 : Discharge care plan (record artifact)
+                         Reason: History of aortic valve replacement (situation)
+                         Activity: Perioperative care management (procedure)
+                         Activity: Cardiovascular monitoring (regime/therapy)
+                         Activity: Management of vascular system care (procedure)
+                         Activity: Activity care (regime/therapy)
+                         Activity: Advance diet as tolerated (regime/therapy)
+                         Activity: Pharmacological assessment (procedure)
+                         Activity: Dressing change management (procedure)
+                         Activity: Patient education (procedure)
+                         Activity: Scheduling of follow up appointment (procedure)
+  1990-05-13 : Cancer care plan
+                         Reason: Neoplasm of prostate
+                         Reason: Neoplasm of prostate
+                         Activity: Physical activity target light exercise
+                         Activity: Ice bath treatment
+  1976-02-22 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1975-02-16 : Care Plan
+                         Reason: Aortic valve regurgitation (disorder)
+                         Activity: smoking cessation therapy
+                         Activity: Referral for laboratory tests (procedure)
+                         Activity: Referral to radiology service (procedure)
+                         Activity: Refer for angiogram (procedure)
+  1949-04-17 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

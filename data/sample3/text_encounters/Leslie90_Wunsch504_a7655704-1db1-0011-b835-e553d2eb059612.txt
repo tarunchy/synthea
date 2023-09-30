@@ -1,0 +1,85 @@
+Leslie90 Wunsch504
+==================
+Race:                Asian
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 46
+Birth Date:          1976-09-03
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1977-03-15 : Wheat (substance)
+  1977-03-15 : Eggs (edible) (substance)
+  1977-03-15 : Cow's milk (substance)
+  1977-03-15 : Lisinopril
+  1977-03-15 : Tree pollen (substance)
+  1977-03-15 : Grass pollen (substance)
+  1977-03-15 : Animal dander (substance)
+  1977-03-15 : House dust mite (organism)
+  1977-03-15 : Mold (organism)
+  1977-03-15 : Latex (substance)
+  1977-03-15 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-04-25 : Encounter at Fitchburg Outpatient Clinic : Encounter for Aortic valve regurgitation (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2022-04-25 : Transthoracic echocardiography (procedure)
+  2022-04-25 : Referral for echocardiography (procedure) for Aortic valve regurgitation (disorder)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+  2022-04-25 : Ultrasound, Heart structure (body structure)
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2022-03-18 : Full-time employment (finding)
+  2021-08-23 : Aortic valve regurgitation (disorder)
+  2021-06-25 : Stress (finding)
+  2021-06-25 : Social isolation (finding)
+  2021-03-12 : Limited social contact (finding)
+  2021-03-12 : Medication review due (situation)
+  2019-07-05 : Body mass index 30+ - obesity (finding)
+  2018-05-04 : Osteoarthritis of knee
+  2015-11-27 : Disorder of kidney due to diabetes mellitus (disorder)
+  2015-11-27 : Chronic kidney disease stage 1 (disorder)
+  1998-11-06 : Essential hypertension (disorder)
+  1994-10-28 : Received higher education (finding)
+  1993-10-22 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+  2022-03-18 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2022-03-18 + losartan potassium 25 MG Oral Tablet for Essential hypertension (disorder)
+  2018-05-04 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+  1977-03-15 : Astemizole 10 MG Oral Tablet
+   
+   CAREPLANS:
+  2018-05-04 : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  1998-11-06 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1977-03-02 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

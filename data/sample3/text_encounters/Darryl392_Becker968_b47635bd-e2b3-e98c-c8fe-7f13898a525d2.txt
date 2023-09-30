@@ -1,0 +1,143 @@
+Darryl392 Becker968
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 67
+Birth Date:          1955-09-17
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-05-27 : Encounter at Springfield Outpatient Clinic
+Type: wellness
+   
+   MEDICATIONS:
+  2023-05-27 : Alendronic acid 10 MG Oral Tablet for Osteoporosis (disorder)
+  2023-05-27 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2023-05-27 : insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2023-05-27 : Basic metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 72.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 16.9 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.1 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 10.1 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 138.4 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.2 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 102.5 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 27.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 66.8 mL/min/{1.73_m2}
+  2023-05-27 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 0.7 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.1 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 13.9 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.1 pH
+           - Protein [Mass/volume] in Urine by Test strip 224.3 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+   
+   OBSERVATIONS:
+  2023-05-27 : Hemoglobin A1c/Hemoglobin.total in Blood 2.8 %
+  2023-05-27 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2023-05-27 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2023-05-27 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2023-05-27 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2023-05-27 : Protein [Mass/volume] in Urine by Test strip 224.3 mg/dL
+  2023-05-27 : pH of Urine by Test strip                6.1 pH
+  2023-05-27 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2023-05-27 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2023-05-27 : Ketones [Mass/volume] in Urine by Test strip 13.9 mg/dL
+  2023-05-27 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2023-05-27 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.1 mg/dL
+  2023-05-27 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2023-05-27 : Glucose [Mass/volume] in Urine by Test strip 0.7 mg/dL
+  2023-05-27 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2023-05-27 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2023-05-27 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2023-05-27 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2023-05-27 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 66.8 mL/min/{1.73_m2}
+  2023-05-27 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 27.7 mmol/L
+  2023-05-27 : Chloride [Moles/volume] in Serum or Plasma 102.5 mmol/L
+  2023-05-27 : Potassium [Moles/volume] in Serum or Plasma 4.2 mmol/L
+  2023-05-27 : Sodium [Moles/volume] in Serum or Plasma 138.4 mmol/L
+  2023-05-27 : Calcium [Mass/volume] in Serum or Plasma 10.1 mg/dL
+  2023-05-27 : Creatinine [Mass/volume] in Serum or Plasma 2.1 mg/dL
+  2023-05-27 : Urea nitrogen [Mass/volume] in Serum or Plasma 16.9 mg/dL
+  2023-05-27 : Glucose [Mass/volume] in Serum or Plasma 72.0 mg/dL
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2023-05-21 : Stress (finding)
+  2022-08-20 : Medication review due (situation)
+  2022-05-21 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  2022-05-21 : Chronic kidney disease stage 2 (disorder)
+  2022-02-27 : Malignant tumor of colon
+  2022-02-24 : Recurrent rectal polyp
+  2021-05-16 : Full-time employment (finding)
+  2020-09-17 : Polyp of colon
+  2020-05-09 : Hyperlipidemia
+  2016-04-16 : Osteoporosis (disorder)
+  2009-03-07 : Prediabetes
+  2009-03-07 : Metabolic syndrome X (disorder)
+  2002-07-06 : Alcoholism
+  2002-01-27 : Unhealthy alcohol drinking behavior (finding)
+  2001-01-20 : Body mass index 30+ - obesity (finding)
+  1993-12-11 : Disorder of kidney due to diabetes mellitus (disorder)
+  1993-12-11 : Chronic kidney disease stage 1 (disorder)
+  1992-12-05 : Essential hypertension (disorder)
+  1973-11-10 : Only received primary school education (finding)
+  1973-11-10 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+  2022-05-30 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2020-05-30 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+   
+   CAREPLANS:
+  2022-02-27 : Cancer care plan
+                         Reason: Malignant tumor of colon
+                         Activity: Healthy diet
+                         Activity: Colonoscopy planned
+                         Activity: Cancer education
+  2020-05-30 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+  2009-03-07 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2002-01-26 : Care Plan
+                         Activity: Alcoholism counseling
+  1992-12-05 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

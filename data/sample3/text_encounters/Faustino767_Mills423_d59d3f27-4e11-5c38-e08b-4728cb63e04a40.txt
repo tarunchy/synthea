@@ -1,0 +1,57 @@
+Faustino767 Mills423
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 81
+Birth Date:          1942-01-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1998-08-01 : Encounter at LAKEVILLE FAMILY MEDICINE PC
+Type: wellness
+   
+   MEDICATIONS:
+  1998-08-01 : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  1998-08-01 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  1998-08-01 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+  1998-08-01 : Full-time employment (finding)
+  1998-08-01 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1997-07-26 : Stress (finding)
+  1987-05-30 : Body mass index 30+ - obesity (finding)
+  1976-03-27 : Essential hypertension (disorder)
+  1960-03-05 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1976-03-27 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,46 @@
+Ji399 Ratke343
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 67
+Birth Date:          1956-05-04
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1974-06-28 : Encounter at BARRINGTON FAMILY MEDICINE PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1974-06-28 : Limited social contact (finding)
+  1974-06-28 : Full-time employment (finding)
+  1974-06-28 : Received higher education (finding)
+  1974-06-28 : Housing unsatisfactory (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

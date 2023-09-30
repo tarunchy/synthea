@@ -1,0 +1,715 @@
+
+1997-03-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Felisa186
+ is a newborn nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+1998-03-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Felisa186
+ is a 11 month-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+1998-04-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Felisa186
+ is a 1 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was placed on a careplan:
+- self-care interventions (procedure)
+
+
+
+1998-05-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Felisa186
+ is a 1 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with allergy to substance (finding), mold (organism), animal dander (substance), grass pollen (substance), wheat (substance), fish (substance), peanut (substance). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- loratadine 5 mg chewable tablet
+- nda020800 0.3 ml epinephrine 1 mg/ml auto-injector
+
+
+
+1999-08-30
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Felisa186
+ is a 2 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2001-02-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Felisa186
+ is a 3 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2006-03-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Felisa186
+ is a 9 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2007-04-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Felisa186
+ is a 10 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2009-04-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Felisa186
+ is a 12 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2012-04-30
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Felisa186
+ is a 15 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with risk activity involvement (finding). 
+
+## Plan
+
+
+
+
+2012-08-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Felisa186
+ is a 15 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2012-08-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Felisa186
+ is a 15 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2015-05-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Felisa186
+ is a 18 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with received certificate of high school equivalency (finding). 
+
+## Plan
+
+
+
+
+2016-05-23
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Felisa186
+ is a 19 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation), part-time employment (finding), limited social contact (finding). 
+
+## Plan
+
+
+
+
+2019-02-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Felisa186
+ is a 21 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- insertion of subcutaneous contraceptive
+The patient was prescribed the following medications:
+- etonogestrel 68 mg drug implant
+
+
+
+2019-05-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Felisa186
+ is a 22 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, td (adult), 5 lf tetanus toxoid, preservative free, adsorbed, hep b, adult, meningococcal mcv4p. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2020-02-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Felisa186
+ is a 22 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- natazia 28 day pack
+
+
+
+2021-02-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Felisa186
+ is a 23 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2022-04-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Felisa186
+ is a 25 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with otitis media. 
+
+## Plan
+
+The patient was prescribed the following medications:
+- amoxicillin 250 mg oral capsule
+- naproxen sodium 220 mg oral tablet
+
+
+
+2022-05-30
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Felisa186
+ is a 25 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with reports of violence in the environment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+
+
+
+2023-02-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Felisa186
+ is a 25 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- trinessa 28 day pack
+
+
+
+2023-03-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Felisa186
+ is a 25 year-old nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- removal of subcutaneous contraceptive
+- insertion of subcutaneous contraceptive
+
+
+

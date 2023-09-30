@@ -1,0 +1,120 @@
+Jerrod232 Cormier289
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 61
+Birth Date:          1961-10-09
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-11-19 : Encounter at SKIN WELLNESS PHYSICIANS LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2018-11-19 : Part-time employment (finding)
+  2018-11-19 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2018-11-19 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.1 %
+           - MCV [Entitic volume] by Automated count  82.9 fL
+           - MCH [Entitic mass] by Automated count    27.4 pg
+           - MCHC [Mass/volume] by Automated count    35.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.0 fL
+           - Platelets [#/volume] in Blood by Automated count 425.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 308.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2018-11-19 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+   
+   OBSERVATIONS:
+  2018-11-19 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2018-11-19 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 84284 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Part-time or temporary work 
+           - Highest level of education               More than high school 
+           - Address                                  880 Ortiz Loaf 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 7.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2018-11-19 : Tobacco smoking status                   Ex-smoker (finding) 
+  2018-11-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2018-11-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 308.7 fL
+  2018-11-19 : Platelets [#/volume] in Blood by Automated count 425.5 10*3/uL
+  2018-11-19 : Erythrocyte distribution width [Entitic volume] by Automated count 43.0 fL
+  2018-11-19 : MCHC [Mass/volume] by Automated count    35.6 g/dL
+  2018-11-19 : MCH [Entitic mass] by Automated count    27.4 pg
+  2018-11-19 : MCV [Entitic volume] by Automated count  82.9 fL
+  2018-11-19 : Hematocrit [Volume Fraction] of Blood by Automated count 48.1 %
+  2018-11-19 : Hemoglobin [Mass/volume] in Blood        16.7 g/dL
+  2018-11-19 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2018-11-19 : Leukocytes [#/volume] in Blood by Automated count 4.0 10*3/uL
+  2018-11-19 : Respiratory rate                         15.0 /min
+  2018-11-19 : Heart rate                               78.0 /min
+  2018-11-19 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 68.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2018-11-19 : Body mass index (BMI) [Ratio]            27.6 kg/m2
+  2018-11-19 : Body Weight                              76.7 kg
+  2018-11-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-11-19 : Body Height                              166.8 cm
+   
+   PROCEDURES:
+  2018-11-19 : Assessment of anxiety (procedure)
+  2018-11-19 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+  2018-11-19 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2017-11-13 : Stress (finding)
+  2014-02-05 : Chronic neck pain (finding)
+  2014-02-05 : Chronic low back pain (finding)
+  2014-02-05 : Chronic pain (finding)
+  2009-11-02 : Has a criminal record (finding)
+  2009-11-02 : Hyperlipidemia
+  1989-12-18 : Body mass index 30+ - obesity (finding)
+  1986-08-19 : Chronic sinusitis (disorder)
+  1979-12-03 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2017-11-21 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2009-11-23 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+   
+   CAREPLANS:
+  2009-11-23 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+   
+--------------------------------------------------------------------------------

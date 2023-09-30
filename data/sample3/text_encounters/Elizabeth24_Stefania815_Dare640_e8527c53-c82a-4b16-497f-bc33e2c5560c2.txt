@@ -1,0 +1,66 @@
+Elizabeth24 Stefania815 Dare640
+===============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 46
+Birth Date:          1977-01-30
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-06-11 : Encounter at BROCKTON HOSPITAL, INC. : Encounter for Contraception care (regime/therapy)
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2023-06-11 : Intramuscular injection
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2023-02-19 : Stress (finding)
+  2023-02-19 : Social isolation (finding)
+  2023-02-19 : Part-time employment (finding)
+  2022-08-28 : Medication review due (situation)
+  2016-07-24 : Anemia (disorder)
+  2015-07-19 : Prediabetes
+  2013-07-07 : Body mass index 30+ - obesity (finding)
+  2007-05-13 : Miscarriage in first trimester
+  1995-03-26 : Only received primary school education (finding)
+  1995-03-26 : Housing unsatisfactory (finding)
+   
+   MEDICATIONS:
+  2023-05-06 : Errin 28 Day Pack
+  2023-02-19 + albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2023-02-19 + budesonide 0.125 MG/ML Inhalation Suspension for Childhood asthma
+  2016-07-31 : Vitamin B12 5 MG/ML Injectable Solution
+   
+   CAREPLANS:
+  2015-07-19 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1981-07-02 : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+   
+--------------------------------------------------------------------------------

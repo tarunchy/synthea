@@ -1,0 +1,239 @@
+Jasper743 Casper496
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1991-02-03 : Encounter at Fitchburg Outpatient Clinic : Encounter for Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+Type: inpatient
+   
+   MEDICATIONS:
+  1991-02-03 : remifentanil 2 MG Injection
+  1991-02-03 : isoflurane 99.9 % Inhalation Solution
+  1991-02-03 : Rocuronium bromide 10 MG/ML Injectable Solution
+  1991-02-03 : 100 ML Propofol 10 MG/ML Injection
+  1991-02-03 : Midazolam 1 MG/ML Injectable Solution
+  1991-02-03 : 2 ML Ondansetron 2 MG/ML Injection
+  1991-02-03 : 25 ML protamine sulfate (USP) 10 MG/ML Injection
+  1991-02-03 : 1 ML heparin sodium, porcine 5000 UNT/ML Injection
+  1991-02-03 : cefazolin 2000 MG Injection
+   
+   CONDITIONS:
+  1991-02-03 : History of coronary artery bypass grafting (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  1991-02-03 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.9 %
+           - MCV [Entitic volume] by Automated count  89.6 fL
+           - MCH [Entitic mass] by Automated count    32.9 pg
+           - MCHC [Mass/volume] by Automated count    35.2 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 15.2 %
+           - Platelets [#/volume] in Blood by Automated count 443.4 10*3/uL
+  1991-02-03 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 91.4 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 17.5 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.7 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.8 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 139.2 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.8 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 102.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.1 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 7.0 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.1 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.4 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 14.9 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 96.3 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 39.8 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 16.3 U/L
+  1991-02-03 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    11.7 s
+           - INR in Platelet poor plasma by Coagulation assay 1.0 {INR}
+  1991-02-03 : Gas panel - Arterial blood
+           - pH of Arterial blood                     7.3 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 43.8 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 83.7 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 25.5 mmol/L
+           - Oxygen saturation in Arterial blood      96.0 %
+  1991-02-03 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 144.0 mg/dL
+           - Triglycerides                            145.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      65.7 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 49.1 mg/dL
+  1991-02-03 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 0.0 pg/mL
+  1991-02-03 : Urinalysis complete panel - Urine
+           - Glucose [Presence] in Urine by Test strip 1.0 {presence}
+           - Bilirubin.total [Presence] in Urine by Test strip 1.0 {presence}
+           - Ketones [Presence] in Urine by Test strip 1.0 {presence}
+           - Specific gravity of Urine by Test strip  1.0 {SG}
+           - pH of Urine by Test strip                4.8 [pH]
+           - Protein [Presence] in Urine by Test strip 1.0 {presence}
+           - Nitrite [Presence] in Urine by Test strip 1.0 {presence}
+           - Hemoglobin [Presence] in Urine by Test strip 0.0 {presence}
+           - Leukocyte esterase [Presence] in Urine by Test strip 0.0 {presence}
+  1991-02-03 : Heart failure tracking panel
+           - Left ventricular Ejection fraction       47.8 %
+  1991-02-03 : Gas panel - Arterial blood
+           - pH of Arterial blood                     6.8 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 35.9 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 85.2 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 22.7 mmol/L
+           - Oxygen saturation in Arterial blood      96.0 %
+  1991-02-03 : Gas panel - Venous blood
+           - pH of Venous blood                       7.3 [pH]
+           - Carbon dioxide [Partial pressure] in Venous blood 41.0 mm[Hg]
+           - Oxygen [Partial pressure] in Venous blood 41.0 mm[Hg]
+           - Bicarbonate [Moles/volume] in Venous blood 22.8 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Venous blood 1.2 mmol/L
+   
+   OBSERVATIONS:
+  1991-02-03 : Procedure Narrative                      CABG Arterial Conduits: 2 {#}
+  1991-02-03 : Procedure Narrative                      CABG Grafts: 3 {#}
+  1991-02-03 : Magnesium [Mass/volume] in Serum or Plasma 1.8 mg/dL
+  1991-02-03 : Carbon dioxide, total [Moles/volume] in Venous blood 1.2 mmol/L
+  1991-02-03 : Bicarbonate [Moles/volume] in Venous blood 22.8 mmol/L
+  1991-02-03 : Oxygen [Partial pressure] in Venous blood 41.0 mm[Hg]
+  1991-02-03 : Carbon dioxide [Partial pressure] in Venous blood 41.0 mm[Hg]
+  1991-02-03 : pH of Venous blood                       7.3 [pH]
+  1991-02-03 : Oxygen saturation in Arterial blood      96.0 %
+  1991-02-03 : Bicarbonate [Moles/volume] in Arterial blood 22.7 mmol/L
+  1991-02-03 : Oxygen [Partial pressure] in Arterial blood 85.2 mm[Hg]
+  1991-02-03 : Carbon dioxide [Partial pressure] in Arterial blood 35.9 mm[Hg]
+  1991-02-03 : pH of Arterial blood                     6.8 [pH]
+  1991-02-03 : Activated clotting time (ACT) of Blood by Coagulation assay 128.0 s
+  1991-02-03 : Left ventricular Ejection fraction       47.8 %
+  1991-02-03 : Leukocyte esterase [Presence] in Urine by Test strip 0.0 {presence}
+  1991-02-03 : Hemoglobin [Presence] in Urine by Test strip 0.0 {presence}
+  1991-02-03 : Nitrite [Presence] in Urine by Test strip 1.0 {presence}
+  1991-02-03 : Protein [Presence] in Urine by Test strip 1.0 {presence}
+  1991-02-03 : pH of Urine by Test strip                4.8 [pH]
+  1991-02-03 : Specific gravity of Urine by Test strip  1.0 {SG}
+  1991-02-03 : Ketones [Presence] in Urine by Test strip 1.0 {presence}
+  1991-02-03 : Bilirubin.total [Presence] in Urine by Test strip 1.0 {presence}
+  1991-02-03 : Glucose [Presence] in Urine by Test strip 1.0 {presence}
+  1991-02-03 : Hemoglobin A1c/Hemoglobin.total in Blood 5.4 %
+  1991-02-03 : Thyrotropin [Units/volume] in Serum or Plasma 2.0 m[IU]/L
+  1991-02-03 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 0.0 pg/mL
+  1991-02-03 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 49.1 mg/dL
+  1991-02-03 : Low Density Lipoprotein Cholesterol      65.7 mg/dL
+  1991-02-03 : Triglycerides                            145.9 mg/dL
+  1991-02-03 : Cholesterol [Mass/volume] in Serum or Plasma 144.0 mg/dL
+  1991-02-03 : Oxygen saturation in Arterial blood      96.0 %
+  1991-02-03 : Bicarbonate [Moles/volume] in Arterial blood 25.5 mmol/L
+  1991-02-03 : Oxygen [Partial pressure] in Arterial blood 83.7 mm[Hg]
+  1991-02-03 : Carbon dioxide [Partial pressure] in Arterial blood 43.8 mm[Hg]
+  1991-02-03 : pH of Arterial blood                     7.3 [pH]
+  1991-02-03 : aPTT in Blood by Coagulation assay       32.1 s
+  1991-02-03 : INR in Platelet poor plasma by Coagulation assay 1.0 {INR}
+  1991-02-03 : Prothrombin time (PT)                    11.7 s
+  1991-02-03 : Phosphate [Mass/volume] in Serum or Plasma 3.0 mg/dL
+  1991-02-03 : Magnesium [Mass/volume] in Serum or Plasma 2.1 mg/dL
+  1991-02-03 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 16.3 U/L
+  1991-02-03 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 39.8 U/L
+  1991-02-03 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 96.3 U/L
+  1991-02-03 : Bilirubin.total [Mass/volume] in Serum or Plasma 14.9 mg/dL
+  1991-02-03 : Albumin [Mass/volume] in Serum or Plasma 4.4 g/dL
+  1991-02-03 : Protein [Mass/volume] in Serum or Plasma 6.1 g/dL
+  1991-02-03 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 7.0 mL/min
+  1991-02-03 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.1 mmol/L
+  1991-02-03 : Chloride [Moles/volume] in Serum or Plasma 102.3 mmol/L
+  1991-02-03 : Potassium [Moles/volume] in Serum or Plasma 4.8 mmol/L
+  1991-02-03 : Sodium [Moles/volume] in Serum or Plasma 139.2 mmol/L
+  1991-02-03 : Calcium [Mass/volume] in Serum or Plasma 9.8 mg/dL
+  1991-02-03 : Creatinine [Mass/volume] in Serum or Plasma 2.7 mg/dL
+  1991-02-03 : Urea nitrogen [Mass/volume] in Serum or Plasma 17.5 mg/dL
+  1991-02-03 : Glucose [Mass/volume] in Serum or Plasma 91.4 mg/dL
+  1991-02-03 : Platelets [#/volume] in Blood by Automated count 443.4 10*3/uL
+  1991-02-03 : Erythrocyte distribution width [Ratio] by Automated count 15.2 %
+  1991-02-03 : MCHC [Mass/volume] by Automated count    35.2 g/dL
+  1991-02-03 : MCH [Entitic mass] by Automated count    32.9 pg
+  1991-02-03 : MCV [Entitic volume] by Automated count  89.6 fL
+  1991-02-03 : Hematocrit [Volume Fraction] of Blood by Automated count 41.9 %
+  1991-02-03 : Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+  1991-02-03 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  1991-02-03 : Leukocytes [#/volume] in Blood by Automated count 10.0 10*3/uL
+   
+   PROCEDURES:
+  1991-02-03 : Documentation procedure (procedure)
+  1991-02-03 : Vascular cannula removal (procedure)
+  1991-02-03 : Removal of aortic cross clamp (procedure)
+  1991-02-03 : Coronary artery bypass grafting (procedure) for Ischemic heart disease (disorder)
+  1991-02-03 : Median sternotomy (procedure)
+  1991-02-03 : Induced cardioplegia (procedure)
+  1991-02-03 : Placement of aortic cross clamp (procedure)
+  1991-02-03 : Cardiopulmonary bypass operation (procedure)
+  1991-02-03 : Cannulation (procedure)
+  1991-02-03 : Preparation of patient for procedure (regime/therapy)
+  1991-02-03 : Pulmonary catheterization with Swan-Ganz catheter (procedure)
+  1991-02-03 : Intubation
+  1991-02-03 : Administration of anesthesia for procedure (procedure)
+  1991-02-03 : Insertion of catheter into artery (procedure)
+  1991-02-03 : Scheduling (procedure) for Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  1991-02-03 : Notification of treatment plan (procedure)
+  1991-02-03 : Echocardiography (procedure)
+  1991-02-03 : Plain chest X-ray (procedure)
+  1991-02-03 : Electrocardiographic procedure (procedure)
+  1991-02-03 : Blood group typing (procedure)
+  1991-02-03 : Pre-surgery testing (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+  1991-02-03 : Ultrasound, Heart structure (body structure)
+  1991-02-03 : Computed Radiography, Thoracic structure (body structure)
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1991-01-20 : Full-time employment (finding)
+  1991-01-09 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  1990-12-20 : Ischemic heart disease (disorder)
+  1990-10-14 : Medication review due (situation)
+  1989-07-30 : Stress (finding)
+  1989-07-02 : End-stage renal disease (disorder)
+  1987-09-27 : Chronic kidney disease stage 4 (disorder)
+  1987-07-09 : Awaiting transplantation of kidney (situation)
+  1984-07-01 : Osteoporosis (disorder)
+  1976-09-05 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  1976-09-05 : Chronic kidney disease stage 3 (disorder)
+  1974-07-14 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1974-07-14 : Chronic kidney disease stage 2 (disorder)
+  1973-07-08 : Disorder of kidney due to diabetes mellitus (disorder)
+  1973-07-08 : Chronic kidney disease stage 1 (disorder)
+  1968-06-09 : Body mass index 30+ - obesity (finding)
+  1961-04-30 : Essential hypertension (disorder)
+  1942-04-05 : Received higher education (finding)
+   
+   MEDICATIONS:
+  1991-01-20 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  1991-01-20 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  1991-01-20 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  1990-12-27 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1990-12-27 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+   
+   CAREPLANS:
+  1987-05-13 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1961-04-30 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

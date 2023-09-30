@@ -1,0 +1,43 @@
+Joaquín233 Feliciano160
+=====í=================
+Race:                Asian
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 36
+Birth Date:          1987-03-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1994-03-01 : Encounter at DANVERS FAMILY DOCTORS PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1994-03-01 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

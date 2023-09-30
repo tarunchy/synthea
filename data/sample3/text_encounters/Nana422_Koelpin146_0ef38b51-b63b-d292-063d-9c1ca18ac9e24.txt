@@ -1,0 +1,81 @@
+Nana422 Koelpin146
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 13
+Birth Date:          2010-01-24
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-02-07 : Encounter at RUTLAND FAMILY HEALTH CENTER
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2021-02-07 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2021-02-07 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.8 %
+           - MCV [Entitic volume] by Automated count  84.3 fL
+           - MCH [Entitic mass] by Automated count    31.5 pg
+           - MCHC [Mass/volume] by Automated count    34.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.5 fL
+           - Platelets [#/volume] in Blood by Automated count 161.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 177.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+   
+   OBSERVATIONS:
+  2021-02-07 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-02-07 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2021-02-07 : Platelet distribution width [Entitic volume] in Blood by Automated count 177.0 fL
+  2021-02-07 : Platelets [#/volume] in Blood by Automated count 161.2 10*3/uL
+  2021-02-07 : Erythrocyte distribution width [Entitic volume] by Automated count 42.5 fL
+  2021-02-07 : MCHC [Mass/volume] by Automated count    34.7 g/dL
+  2021-02-07 : MCH [Entitic mass] by Automated count    31.5 pg
+  2021-02-07 : MCV [Entitic volume] by Automated count  84.3 fL
+  2021-02-07 : Hematocrit [Volume Fraction] of Blood by Automated count 35.8 %
+  2021-02-07 : Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+  2021-02-07 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2021-02-07 : Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+  2021-02-07 : Respiratory rate                         13.0 /min
+  2021-02-07 : Heart rate                               75.0 /min
+  2021-02-07 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  86.0 mm[Hg]
+  2021-02-07 : Body mass index (BMI) [Percentile] Per age and sex 2.6 %
+  2021-02-07 : Body mass index (BMI) [Ratio]            14.0 kg/m2
+  2021-02-07 : Body Weight                              31.6 kg
+  2021-02-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-02-07 : Body Height                              150.2 cm
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2021-02-07 : meningococcal MCV4P
+  2021-02-07 : HPV, quadrivalent
+  2021-02-07 : Influenza, seasonal, injectable, preservative free
+  2021-02-07 : Tdap
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

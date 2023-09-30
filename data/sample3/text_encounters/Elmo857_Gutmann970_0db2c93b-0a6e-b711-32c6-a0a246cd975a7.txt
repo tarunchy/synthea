@@ -1,0 +1,84 @@
+Elmo857 Gutmann970
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 10
+Birth Date:          2013-07-15
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2014-05-09 : Shellfish (substance)
+  2014-05-09 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-07-01 : Encounter at CONTINUUM HEALTHCARE SOLUTIONS LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2019-07-01 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.2 %
+           - MCV [Entitic volume] by Automated count  86.3 fL
+           - MCH [Entitic mass] by Automated count    32.5 pg
+           - MCHC [Mass/volume] by Automated count    33.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.0 fL
+           - Platelets [#/volume] in Blood by Automated count 275.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 384.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+   
+   OBSERVATIONS:
+  2019-07-01 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-07-01 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2019-07-01 : Platelet distribution width [Entitic volume] in Blood by Automated count 384.6 fL
+  2019-07-01 : Platelets [#/volume] in Blood by Automated count 275.5 10*3/uL
+  2019-07-01 : Erythrocyte distribution width [Entitic volume] by Automated count 39.0 fL
+  2019-07-01 : MCHC [Mass/volume] by Automated count    33.9 g/dL
+  2019-07-01 : MCH [Entitic mass] by Automated count    32.5 pg
+  2019-07-01 : MCV [Entitic volume] by Automated count  86.3 fL
+  2019-07-01 : Hematocrit [Volume Fraction] of Blood by Automated count 47.2 %
+  2019-07-01 : Hemoglobin [Mass/volume] in Blood        14.6 g/dL
+  2019-07-01 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2019-07-01 : Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+  2019-07-01 : Respiratory rate                         13.0 /min
+  2019-07-01 : Heart rate                               98.0 /min
+  2019-07-01 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2019-07-01 : Body mass index (BMI) [Percentile] Per age and sex 97.3 %
+  2019-07-01 : Body mass index (BMI) [Ratio]            19.2 kg/m2
+  2019-07-01 : Body Weight                              25.7 kg
+  2019-07-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-07-01 : Body Height                              115.6 cm
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2019-07-01 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2017-06-19 : Medication review due (situation)
+   
+   MEDICATIONS:
+  2014-05-09 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2014-05-09 : cetirizine hydrochloride 5 MG Oral Tablet
+   
+   CAREPLANS:
+  2014-04-24 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

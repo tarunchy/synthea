@@ -1,0 +1,49 @@
+Mauricio81 Reinger292
+=====================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 17
+Birth Date:          2006-07-12
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-06-18 : Encounter at NASHOBA VALLEY MEDICAL CENTER : Encounter for Streptococcal sore throat (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+  2019-06-18 : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+   
+   CONDITIONS:
+  2019-06-18 : Streptococcal sore throat (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2019-06-18 : Body temperature                         37.3 Cel
+   
+   PROCEDURES:
+  2019-06-18 : Throat culture (procedure) for Streptococcal sore throat (disorder)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2007-01-28 : Epilepsy
+  2007-01-28 : History of single seizure (situation)
+  2007-01-28 : Seizure disorder
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

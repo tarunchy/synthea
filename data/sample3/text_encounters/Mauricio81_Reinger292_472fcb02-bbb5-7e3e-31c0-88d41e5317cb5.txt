@@ -1,0 +1,70 @@
+Mauricio81 Reinger292
+=====================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 17
+Birth Date:          2006-07-12
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-10-28 : Encounter at NASHOBA VALLEY MEDICAL CENTER
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2020-10-28 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-10-28 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 8.0 {score}
+  2020-10-28 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+   
+   OBSERVATIONS:
+  2020-10-28 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2020-10-28 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 8.0 {score}
+  2020-10-28 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-10-28 : Respiratory rate                         14.0 /min
+  2020-10-28 : Heart rate                               66.0 /min
+  2020-10-28 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  100.0 mm[Hg]
+  2020-10-28 : Body mass index (BMI) [Percentile] Per age and sex 61.1 %
+  2020-10-28 : Body mass index (BMI) [Ratio]            20.1 kg/m2
+  2020-10-28 : Body Weight                              55.2 kg
+  2020-10-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-10-28 : Body Height                              165.7 cm
+   
+   PROCEDURES:
+  2020-10-28 : Anticipatory guidance (procedure)
+  2020-10-28 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2020-10-28 : Assessment of substance use (procedure)
+  2020-10-28 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2020-10-28 : Depression screening (procedure)
+  2020-10-28 : Assessment of anxiety (procedure)
+  2020-10-28 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2007-01-28 : Epilepsy
+  2007-01-28 : History of single seizure (situation)
+  2007-01-28 : Seizure disorder
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

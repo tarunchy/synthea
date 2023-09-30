@@ -1,0 +1,92 @@
+Deandra603 Glynda607 Bergstrom287
+=================================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1957-07-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2008-11-11 : Encounter at COMPASSUS - SOUTHERN MASSACHUSETTS : Encounter for Overlapping malignant neoplasm of colon
+Type: hospice
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2008-11-30 : Patient discharge (procedure)
+  2008-11-29 : Hospice care (regime/therapy)
+  2008-11-28 : Hospice care (regime/therapy)
+  2008-11-27 : Hospice care (regime/therapy)
+  2008-11-26 : Hospice care (regime/therapy)
+  2008-11-25 : Hospice care (regime/therapy)
+  2008-11-24 : Hospice care (regime/therapy)
+  2008-11-23 : Hospice care (regime/therapy)
+  2008-11-22 : Hospice care (regime/therapy)
+  2008-11-21 : Hospice care (regime/therapy)
+  2008-11-20 : Hospice care (regime/therapy)
+  2008-11-19 : Hospice care (regime/therapy)
+  2008-11-18 : Hospice care (regime/therapy)
+  2008-11-17 : Hospice care (regime/therapy)
+  2008-11-16 : Hospice care (regime/therapy)
+  2008-11-15 : Hospice care (regime/therapy)
+  2008-11-14 : Hospice care (regime/therapy)
+  2008-11-13 : Hospice care (regime/therapy)
+  2008-11-12 : Hospice care (regime/therapy)
+  2008-11-11 : Hospice care (regime/therapy)
+  2008-11-11 : Development of individualized plan of care (procedure)
+  2008-11-11 : Initial patient assessment (procedure)
+  2008-11-11 : Notifications (procedure)
+  2008-11-11 : Certification procedure (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2008-11-10 : Overlapping malignant neoplasm of colon
+  2008-11-06 : Recurrent rectal polyp
+  2007-07-24 : Polyp of colon
+  2007-07-17 : Full-time employment (finding)
+  2007-07-17 : Essential hypertension (disorder)
+  2003-08-05 : Medication review due (situation)
+  1999-07-27 : Body mass index 30+ - obesity (finding)
+  1982-09-21 : Anemia (disorder)
+  1982-09-21 : Prediabetes
+  1975-09-09 : Received certificate of high school equivalency (finding)
+   
+   MEDICATIONS:
+  2008-07-22 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CAREPLANS:
+  2008-11-10 : Cancer care plan
+                         Reason: Overlapping malignant neoplasm of colon
+                         Activity: Healthy diet
+                         Activity: Colonoscopy planned
+                         Activity: Cancer education
+  2007-07-17 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1982-09-21 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

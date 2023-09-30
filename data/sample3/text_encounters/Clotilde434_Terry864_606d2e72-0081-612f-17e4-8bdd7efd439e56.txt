@@ -1,0 +1,48 @@
+Clotilde434 Terry864
+====================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 58
+Birth Date:          1965-06-16
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1966-10-09 : Wheat (substance)
+  1966-10-09 : Aspirin
+  1966-10-09 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+1966-09-24 : Encounter at BRIGHAM AND WOMEN'S FAULKNER HOSPITAL, INC. : Encounter for Wheat (substance)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+  1966-09-24 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1966-05-25 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

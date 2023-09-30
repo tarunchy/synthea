@@ -1,0 +1,64 @@
+Byron202 Tillman293
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 11
+Birth Date:          2012-06-16
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2013-12-17 : Cow's milk (substance)
+  2013-12-17 : Tree pollen (substance)
+  2013-12-17 : Grass pollen (substance)
+  2013-12-17 : Animal dander (substance)
+  2013-12-17 : House dust mite (organism)
+  2013-12-17 : Mold (organism)
+  2013-12-17 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-09-18 : Encounter at NEVINS NURSING & REHABILITATION CENTER : Encounter for Fracture of bone (disorder)
+Type: emergency
+   
+   MEDICATIONS:
+  2020-09-18 : Ibuprofen 100 MG Oral Tablet
+   
+   CONDITIONS:
+  2020-09-18 : Fracture of forearm
+  2020-09-18 : Fracture of bone (disorder)
+   
+   CARE PLANS:
+  2020-09-18 : Fracture care
+                         Reason: Fracture of forearm
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2020-09-18 : Bone immobilization for Fracture of forearm
+  2020-09-18 : Upper arm X-ray
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+  2020-09-18 : Digital Radiography, Structure of upper extremity between shoulder and elbow (body structure)
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-04-12 : Perennial allergic rhinitis with seasonal variation
+   
+   MEDICATIONS:
+  2013-12-17 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2013-12-17 : Fexofenadine hydrochloride 30 MG Oral Tablet
+   
+   CAREPLANS:
+  2013-11-30 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

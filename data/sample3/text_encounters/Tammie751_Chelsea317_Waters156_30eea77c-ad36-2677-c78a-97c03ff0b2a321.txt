@@ -1,0 +1,136 @@
+Tammie751 Chelsea317 Waters156
+==============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 53
+Birth Date:          1970-05-17
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-01-05 : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+Type: wellness
+   
+   MEDICATIONS:
+  2020-01-05 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+  2020-01-05 : Stress (finding)
+  2020-01-05 : Not in labor force (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-01-05 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           98.2 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     15.4 mg/dL
+           - Creatinine [Mass/volume] in Blood        0.8 mg/dL
+           - Calcium [Mass/volume] in Blood           9.2 mg/dL
+           - Sodium [Moles/volume] in Blood           136.2 mmol/L
+           - Potassium [Moles/volume] in Blood        4.1 mmol/L
+           - Chloride [Moles/volume] in Blood         102.9 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 20.2 mmol/L
+  2020-01-05 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2020-01-05 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+   
+   OBSERVATIONS:
+  2020-01-05 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-01-05 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2020-01-05 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress level                             Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 49921 /a
+           - Primary insurance                        None/uninsured 
+           - Employment status - current              Otherwise unemployed but not seeking work (ex: student, retired, disabled, unpaid primary care giver) 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  444 Douglas Rapid Apt 79 
+           - Are you worried about losing your housing? Yes 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 6.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2020-01-05 : Tobacco smoking status                   Ex-smoker (finding) 
+  2020-01-05 : Carbon dioxide, total [Moles/volume] in Blood 20.2 mmol/L
+  2020-01-05 : Chloride [Moles/volume] in Blood         102.9 mmol/L
+  2020-01-05 : Potassium [Moles/volume] in Blood        4.1 mmol/L
+  2020-01-05 : Sodium [Moles/volume] in Blood           136.2 mmol/L
+  2020-01-05 : Calcium [Mass/volume] in Blood           9.2 mg/dL
+  2020-01-05 : Creatinine [Mass/volume] in Blood        0.8 mg/dL
+  2020-01-05 : Urea nitrogen [Mass/volume] in Blood     15.4 mg/dL
+  2020-01-05 : Glucose [Mass/volume] in Blood           98.2 mg/dL
+  2020-01-05 : Respiratory rate                         14.0 /min
+  2020-01-05 : Heart rate                               61.0 /min
+  2020-01-05 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 104.0 mm[Hg]
+           - Systolic Blood Pressure                  138.0 mm[Hg]
+  2020-01-05 : Body mass index (BMI) [Ratio]            27.6 kg/m2
+  2020-01-05 : Body Weight                              73.3 kg
+  2020-01-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2020-01-05 : Body Height                              163.0 cm
+  2020-01-05 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+   
+   PROCEDURES:
+  2020-01-05 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2020-01-05 : Depression screening (procedure)
+  2020-01-05 : Assessment of anxiety (procedure)
+  2020-01-05 : Assessment of health and social care needs (procedure)
+  2020-01-05 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2020-01-05 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-12-30 : Familial Alzheimer's disease of early onset (disorder)
+  2017-12-24 : Unhealthy alcohol drinking behavior (finding)
+  2017-12-24 : Victim of intimate partner abuse (finding)
+  2006-02-09 : History of tubal ligation (situation)
+  2002-09-29 : Anemia (disorder)
+  2002-09-29 : Prediabetes
+  1995-08-20 : Has a criminal record (finding)
+  1994-08-17 : Chronic sinusitis (disorder)
+  1988-07-10 : Received certificate of high school equivalency (finding)
+  1988-07-10 : Housing unsatisfactory (finding)
+  1988-07-10 : Essential hypertension (disorder)
+  1987-07-05 : Risk activity involvement (finding)
+  1987-03-26 : Malignant neoplasm of breast (disorder)
+   
+   MEDICATIONS:
+  2019-12-26 + 24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule for Familial Alzheimer's disease of early onset (disorder)
+   
+   CAREPLANS:
+  2018-12-30 : Dementia management
+                         Reason: Familial Alzheimer's disease of early onset (disorder)
+                         Activity: Patient education (procedure)
+                         Activity: Promotion of use of memory skills
+                         Activity: Long term social support
+  2002-09-29 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1988-07-10 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

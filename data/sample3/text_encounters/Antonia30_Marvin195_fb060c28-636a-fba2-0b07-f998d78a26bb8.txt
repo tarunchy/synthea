@@ -1,0 +1,67 @@
+Antonia30 Marvin195
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 38
+Birth Date:          1984-11-18
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1986-02-19 : Tree nut (substance)
+  1986-02-19 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-05-26 : Encounter at BETH ISRAEL DEACONESS HOSPITAL MILTON INC : Encounter for Dependent drug abuse (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2022-05-26 : Rehabilitation therapy (regime/therapy) for Dependent drug abuse (disorder)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2022-02-06 : Stress (finding)
+  2022-02-06 : Full-time employment (finding)
+  2022-02-06 : Anemia (disorder)
+  2016-05-15 : Chronic sinusitis (disorder)
+  2006-01-08 : Prediabetes
+  2003-01-12 : Limited social contact (finding)
+  2003-01-12 : Only received primary school education (finding)
+  2001-07-08 : Drug overdose
+  1999-07-12 : Dependent drug abuse (disorder)
+  1999-01-28 : Chronic intractable migraine without aura
+  1998-12-22 : Impacted molars
+   
+   MEDICATIONS:
+  1986-02-19 : Chlorpheniramine Maleate 2 MG/ML Oral Solution
+   
+   CAREPLANS:
+  2006-01-08 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2001-07-08 : Care plan (record artifact)
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+  1986-02-03 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

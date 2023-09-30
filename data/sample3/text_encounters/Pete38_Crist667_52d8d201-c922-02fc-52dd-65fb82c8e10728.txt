@@ -1,0 +1,94 @@
+Pete38 Crist667
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 13
+Birth Date:          2010-01-30
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2011-03-30 : Peanut (substance)
+  2011-03-30 : Fish (substance)
+  2011-03-30 : Aspirin
+  2011-03-30 : Grass pollen (substance)
+  2011-03-30 : Animal dander (substance)
+  2011-03-30 : House dust mite (organism)
+  2011-03-30 : Mold (organism)
+  2011-03-30 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-02-19 : Encounter at EDEN HOME HEALTH CARE LLC
+Type: wellness
+   
+   MEDICATIONS:
+  2022-02-19 : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2022-02-19 : budesonide 0.125 MG/ML Inhalation Suspension [Pulmicort] for Childhood asthma
+   
+   CONDITIONS:
+  2022-02-19 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2022-02-19 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+   
+   OBSERVATIONS:
+  2022-02-19 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2022-02-19 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2022-02-19 : Respiratory rate                         12.0 /min
+  2022-02-19 : Heart rate                               75.0 /min
+  2022-02-19 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  142.0 mm[Hg]
+  2022-02-19 : Body mass index (BMI) [Percentile] Per age and sex 65.8 %
+  2022-02-19 : Body mass index (BMI) [Ratio]            18.9 kg/m2
+  2022-02-19 : Body Weight                              41.0 kg
+  2022-02-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2022-02-19 : Body Height                              147.4 cm
+   
+   PROCEDURES:
+  2022-02-19 : Anticipatory guidance (procedure)
+  2022-02-19 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2022-02-19 : Assessment of substance use (procedure)
+  2022-02-19 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2022-02-19 : Depression screening (procedure)
+   
+   IMMUNIZATIONS:
+  2022-02-19 : HPV, quadrivalent
+  2022-02-19 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-06-15 : Child attention deficit disorder
+  2013-10-20 : Atopic dermatitis
+  2012-12-26 : Seasonal allergic rhinitis
+  2012-05-13 : Childhood asthma
+   
+   MEDICATIONS:
+  2021-06-15 + Methylphenidate Hydrochloride 20 MG Oral Tablet for Child attention deficit disorder
+  2011-03-30 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2011-03-30 : Loratadine 5 MG Chewable Tablet
+   
+   CAREPLANS:
+  2021-06-15 : Overactivity/inattention behavior management
+                         Activity: Counseling
+                         Activity: Psychological assessment
+  2013-10-20 : Skin condition care
+                         Reason: Atopic dermatitis
+                         Activity: Application of moisturizer to skin
+  2012-05-13 : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+  2011-03-16 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

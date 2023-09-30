@@ -1,0 +1,50 @@
+Bettina657 Hammes673
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 18
+Birth Date:          2004-12-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-02-17 : Encounter at THE LOWELL GENERAL HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2023-02-17 : Acute viral pharyngitis (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2023-02-17 : Body temperature                         37.2 Cel
+   
+   PROCEDURES:
+  2023-02-17 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2023-02-03 : Reports of violence in the environment (finding)
+  2023-02-03 : Full-time employment (finding)
+  2023-02-03 : Received higher education (finding)
+  2023-02-03 : Housing unsatisfactory (finding)
+  2022-01-28 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,78 @@
+Fred155 Hahn503
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          2012-06-16
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-06-02 : Encounter at ACCESS PRIMARY CARE INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2018-06-02 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.4 %
+           - MCV [Entitic volume] by Automated count  81.3 fL
+           - MCH [Entitic mass] by Automated count    32.8 pg
+           - MCHC [Mass/volume] by Automated count    34.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.1 fL
+           - Platelets [#/volume] in Blood by Automated count 270.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 324.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+   
+   OBSERVATIONS:
+  2018-06-02 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2018-06-02 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2018-06-02 : Platelet distribution width [Entitic volume] in Blood by Automated count 324.8 fL
+  2018-06-02 : Platelets [#/volume] in Blood by Automated count 270.0 10*3/uL
+  2018-06-02 : Erythrocyte distribution width [Entitic volume] by Automated count 39.1 fL
+  2018-06-02 : MCHC [Mass/volume] by Automated count    34.0 g/dL
+  2018-06-02 : MCH [Entitic mass] by Automated count    32.8 pg
+  2018-06-02 : MCV [Entitic volume] by Automated count  81.3 fL
+  2018-06-02 : Hematocrit [Volume Fraction] of Blood by Automated count 46.4 %
+  2018-06-02 : Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+  2018-06-02 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2018-06-02 : Leukocytes [#/volume] in Blood by Automated count 6.0 10*3/uL
+  2018-06-02 : Respiratory rate                         15.0 /min
+  2018-06-02 : Heart rate                               87.0 /min
+  2018-06-02 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  148.0 mm[Hg]
+  2018-06-02 : Body mass index (BMI) [Percentile] Per age and sex 98.2 %
+  2018-06-02 : Body mass index (BMI) [Ratio]            19.8 kg/m2
+  2018-06-02 : Body Weight                              31.8 kg
+  2018-06-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-06-02 : Body Height                              126.7 cm
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2018-06-02 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2017-05-27 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

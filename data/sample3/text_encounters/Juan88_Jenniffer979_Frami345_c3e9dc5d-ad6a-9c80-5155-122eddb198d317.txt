@@ -1,0 +1,55 @@
+Juan88 Jenniffer979 Frami345
+============================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 56
+Birth Date:          1967-06-27
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2011-03-03 : Encounter at ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS : Encounter for Appendicitis
+Type: inpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2011-03-03 : History of appendectomy
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2007-07-03 : Anemia (disorder)
+  2007-07-03 : Prediabetes
+  2002-07-31 : History of tubal ligation (situation)
+  2001-09-18 : Stress (finding)
+  1998-09-15 : Full-time employment (finding)
+  1995-09-12 : Medication review due (situation)
+  1985-08-20 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2007-07-10 : ferrous sulfate 325 MG Oral Tablet
+   
+   CAREPLANS:
+  2007-07-03 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

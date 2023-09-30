@@ -1,0 +1,58 @@
+Emmanuel930 Volkman526
+======================
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 23
+Birth Date:          1999-11-18
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-01-11 : Encounter at NEW ENGLAND PROFESSIONAL HOME HEALTH CARE LLC
+Type: wellness
+   
+   MEDICATIONS:
+  2018-01-11 : albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2018-01-11 : budesonide 0.125 MG/ML Inhalation Suspension for Childhood asthma
+   
+   CONDITIONS:
+  2018-01-11 : Stress (finding)
+  2018-01-11 : Transport problem (finding)
+  2018-01-11 : Not in labor force (finding)
+  2018-01-11 : Received higher education (finding)
+  2018-01-11 : Housing unsatisfactory (finding)
+  2018-01-11 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2017-12-23 : Chronic low back pain (finding)
+  2017-12-23 : Chronic pain (finding)
+  2001-12-27 : Childhood asthma
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2001-12-27 : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+   
+--------------------------------------------------------------------------------

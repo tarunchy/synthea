@@ -1,0 +1,63 @@
+Tammie751 Chelsea317 Waters156
+==============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 53
+Birth Date:          1970-05-17
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2003-10-05 : Encounter at AUBURN PRIMARY CARE AND AESTHETICS
+Type: wellness
+   
+   MEDICATIONS:
+  2003-10-05 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2002-09-29 : Anemia (disorder)
+  2002-09-29 : Prediabetes
+  2000-09-17 : Full-time employment (finding)
+  1995-08-20 : Has a criminal record (finding)
+  1994-08-17 : Chronic sinusitis (disorder)
+  1988-07-10 : Received certificate of high school equivalency (finding)
+  1988-07-10 : Housing unsatisfactory (finding)
+  1988-07-10 : Essential hypertension (disorder)
+  1987-07-05 : Risk activity involvement (finding)
+  1987-03-26 : Malignant neoplasm of breast (disorder)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2002-09-29 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1988-07-10 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

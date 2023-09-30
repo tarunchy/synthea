@@ -1,0 +1,115 @@
+Danae973 Debbi640 Brekke496
+===========================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 66
+Birth Date:          1957-07-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-07-19 : Encounter at WILMINGTON REHAB CENTER LLC : Encounter for Patient transfer to skilled nursing facility (procedure)
+Type: snf
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2022-07-19 : Patient transfer to skilled nursing facility (procedure)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2022-08-21 : Discharge from skilled nursing facility (procedure)
+  2022-08-21 : Pre-discharge assessment (procedure)
+  2022-08-20 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-08-19 : Speech and language therapy regime (regime/therapy)
+  2022-08-19 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-08-18 : Professional / ancillary services care (regime/therapy)
+  2022-08-18 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-08-17 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-08-16 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-08-15 : Speech and language therapy regime (regime/therapy)
+  2022-08-15 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-08-14 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-08-13 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-08-12 : Speech and language therapy regime (regime/therapy)
+  2022-08-12 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-08-11 : Professional / ancillary services care (regime/therapy)
+  2022-08-11 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-08-10 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-08-09 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-08-08 : Occupational therapy (regime/therapy)
+  2022-08-08 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-08-07 : Physical therapy procedure (regime/therapy)
+  2022-08-07 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-08-06 : Occupational therapy (regime/therapy)
+  2022-08-06 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-08-05 : Physical therapy procedure (regime/therapy)
+  2022-08-05 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-08-04 : Professional / ancillary services care (regime/therapy)
+  2022-08-04 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-08-03 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-08-02 : Occupational therapy (regime/therapy)
+  2022-08-02 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-08-01 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-07-31 : Professional / ancillary services care (regime/therapy)
+  2022-07-31 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-07-30 : Professional / ancillary services care (regime/therapy)
+  2022-07-30 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-07-29 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-07-28 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-07-27 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-07-26 : Professional / ancillary services care (regime/therapy)
+  2022-07-26 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-07-25 : Professional / ancillary services care (regime/therapy)
+  2022-07-25 : Physical therapy procedure (regime/therapy)
+  2022-07-25 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-07-24 : Professional / ancillary services care (regime/therapy)
+  2022-07-24 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-07-23 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-07-22 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-07-21 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-07-20 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-07-19 : Professional / ancillary services care (regime/therapy)
+  2022-07-19 : Nursing care/supplementary surveillance (regime/therapy)
+  2022-07-19 : Development of individualized plan of care (procedure)
+  2022-07-19 : Initial patient assessment (procedure)
+  2022-07-19 : History AND physical examination (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-10-26 : Has a criminal record (finding)
+  2021-10-26 : Limited social contact (finding)
+  2021-10-05 : Full-time employment (finding)
+  2020-09-29 : Medication review due (situation)
+  2016-09-06 : Victim of intimate partner abuse (finding)
+  2014-02-06 : Chronic neck pain (finding)
+  2014-02-06 : Chronic low back pain (finding)
+  2014-02-06 : Chronic pain (finding)
+  2011-10-12 : Recurrent urinary tract infection
+  2001-07-31 : Body mass index 30+ - obesity (finding)
+  1975-09-09 : Social isolation (finding)
+  1975-09-09 : Received certificate of high school equivalency (finding)
+  1974-09-03 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2021-10-14 : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+   
+--------------------------------------------------------------------------------

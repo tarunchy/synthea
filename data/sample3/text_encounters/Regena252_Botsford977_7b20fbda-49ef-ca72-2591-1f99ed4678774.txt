@@ -1,0 +1,63 @@
+Regena252 Botsford977
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2005-09-23
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-12-10 : Encounter at FIRST PSYCHIATRIC PLANNERS, INC
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2021-12-10 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+   
+   OBSERVATIONS:
+  2021-12-10 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2021-12-10 : Tobacco smoking status                   Smokes tobacco daily (finding) 
+  2021-12-10 : Respiratory rate                         13.0 /min
+  2021-12-10 : Heart rate                               82.0 /min
+  2021-12-10 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2021-12-10 : Body mass index (BMI) [Percentile] Per age and sex 26.5 %
+  2021-12-10 : Body mass index (BMI) [Ratio]            18.9 kg/m2
+  2021-12-10 : Body Weight                              46.3 kg
+  2021-12-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-12-10 : Body Height                              156.7 cm
+   
+   PROCEDURES:
+  2021-12-10 : Anticipatory guidance (procedure)
+  2021-12-10 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-12-10 : Assessment of substance use (procedure)
+  2021-12-10 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-12-10 : Depression screening (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-12-02 : Acute viral pharyngitis (disorder)
+  2021-11-05 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

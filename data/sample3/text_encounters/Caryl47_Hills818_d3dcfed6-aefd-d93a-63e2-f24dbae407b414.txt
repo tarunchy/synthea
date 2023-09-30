@@ -1,0 +1,52 @@
+Caryl47 Hills818
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 22
+Birth Date:          2001-03-14
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-04-19 : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Chronic pain (finding)
+Type: outpatient
+   
+   MEDICATIONS:
+  2019-04-19 : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+   
+   CONDITIONS:
+  2019-04-19 : Chronic neck pain (finding)
+  2019-04-19 : Chronic low back pain (finding)
+  2019-04-19 : Chronic pain (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2019-04-19 : Drugs of abuse 5 panel - Urine by Screen method Negative (qualifier value) n/a
+  2019-04-19 : Pain intensity, Enjoyment of life, General activity (PEG) 3 item pain scale
+           - What number best describes how pain has interfered with your general activity during the past week 3.5 {score}
+           - What number best describes how pain has interfered with your enjoyment of life during the past week 5.7 {score}
+           - Pain severity in the past week - 0-10 numeric rating [Reported] 1.1 {score}
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2017-04-26 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

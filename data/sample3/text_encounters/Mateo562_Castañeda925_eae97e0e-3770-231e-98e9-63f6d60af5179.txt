@@ -1,0 +1,127 @@
+Mateo562 Castañeda925
+==============ñ======
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 60
+Birth Date:          1963-02-22
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-09-24 : Encounter at Fitchburg Outpatient Clinic : Encounter for Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+Type: ambulatory
+   
+   MEDICATIONS:
+  2019-09-24 : remifentanil 2 MG Injection
+  2019-09-24 : isoflurane 99.9 % Inhalation Solution
+  2019-09-24 : Rocuronium bromide 10 MG/ML Injectable Solution
+  2019-09-24 : 100 ML Propofol 10 MG/ML Injection
+  2019-09-24 : Midazolam 1 MG/ML Injectable Solution
+  2019-09-24 : 2 ML Ondansetron 2 MG/ML Injection
+  2019-09-24 : 25 ML protamine sulfate (USP) 10 MG/ML Injection
+  2019-09-24 : 1 ML heparin sodium, porcine 5000 UNT/ML Injection
+  2019-09-24 : cefazolin 2000 MG Injection
+   
+   CONDITIONS:
+  2019-09-25 : History of coronary artery bypass grafting (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2019-09-24 : Gas panel - Arterial blood
+           - pH of Arterial blood                     7.0 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 42.2 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 91.2 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 26.5 mmol/L
+           - Oxygen saturation in Arterial blood      97.0 %
+  2019-09-24 : Gas panel - Venous blood
+           - pH of Venous blood                       7.4 [pH]
+           - Carbon dioxide [Partial pressure] in Venous blood 47.6 mm[Hg]
+           - Oxygen [Partial pressure] in Venous blood 41.0 mm[Hg]
+           - Bicarbonate [Moles/volume] in Venous blood 23.0 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Venous blood 1.5 mmol/L
+   
+   OBSERVATIONS:
+  2019-09-24 : Procedure Narrative                      CABG Arterial Conduits: 1 {#}
+  2019-09-24 : Procedure Narrative                      CABG Grafts: 4 {#}
+  2019-09-24 : Magnesium [Mass/volume] in Serum or Plasma 2.0 mg/dL
+  2019-09-24 : Carbon dioxide, total [Moles/volume] in Venous blood 1.5 mmol/L
+  2019-09-24 : Bicarbonate [Moles/volume] in Venous blood 23.0 mmol/L
+  2019-09-24 : Oxygen [Partial pressure] in Venous blood 41.0 mm[Hg]
+  2019-09-24 : Carbon dioxide [Partial pressure] in Venous blood 47.6 mm[Hg]
+  2019-09-24 : pH of Venous blood                       7.4 [pH]
+  2019-09-24 : Oxygen saturation in Arterial blood      97.0 %
+  2019-09-24 : Bicarbonate [Moles/volume] in Arterial blood 26.5 mmol/L
+  2019-09-24 : Oxygen [Partial pressure] in Arterial blood 91.2 mm[Hg]
+  2019-09-24 : Carbon dioxide [Partial pressure] in Arterial blood 42.2 mm[Hg]
+  2019-09-24 : pH of Arterial blood                     7.0 [pH]
+  2019-09-24 : Activated clotting time (ACT) of Blood by Coagulation assay 116.4 s
+   
+   PROCEDURES:
+  2019-09-25 : Documentation procedure (procedure)
+  2019-09-25 : Vascular cannula removal (procedure)
+  2019-09-25 : Removal of aortic cross clamp (procedure)
+  2019-09-24 : Coronary artery bypass grafting (procedure) for Ischemic heart disease (disorder)
+  2019-09-24 : Median sternotomy (procedure)
+  2019-09-24 : Induced cardioplegia (procedure)
+  2019-09-24 : Placement of aortic cross clamp (procedure)
+  2019-09-24 : Cardiopulmonary bypass operation (procedure)
+  2019-09-24 : Cannulation (procedure)
+  2019-09-24 : Preparation of patient for procedure (regime/therapy)
+  2019-09-24 : Pulmonary catheterization with Swan-Ganz catheter (procedure)
+  2019-09-24 : Intubation
+  2019-09-24 : Administration of anesthesia for procedure (procedure)
+  2019-09-24 : Insertion of catheter into artery (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-08-30 : Limited social contact (finding)
+  2019-07-23 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2019-07-05 : Not in labor force (finding)
+  2019-07-05 : Ischemic heart disease (disorder)
+  2017-08-18 : Refugee (person)
+  2017-08-18 : Medication review due (situation)
+  2011-07-15 : Anemia (disorder)
+  2011-07-15 : Prediabetes
+  2011-07-15 : Metabolic syndrome X (disorder)
+  2000-05-12 : Essential hypertension (disorder)
+  2000-03-11 : Obstructive sleep apnea syndrome (disorder)
+  2000-02-13 : Sleep disorder (disorder)
+  1985-04-26 : Body mass index 30+ - obesity (finding)
+  1981-04-17 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2019-08-30 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2019-08-30 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2019-07-12 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2019-07-12 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  2019-07-12 : Simvastatin 20 MG Oral Tablet
+  2019-07-12 : Clopidogrel 75 MG Oral Tablet
+   
+   CAREPLANS:
+  2011-07-15 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2000-05-12 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  2000-03-11 : Care plan (record artifact)
+                         Reason: Obstructive sleep apnea syndrome (disorder)
+                         Activity: Weight reduction regimen (regime/therapy)
+                         Activity: Warning. Avoid alcoholic drink (qualifier value)
+                         Activity: Continuous positive airway pressure ventilation treatment (regime/therapy)
+   
+--------------------------------------------------------------------------------

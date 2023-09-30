@@ -1,0 +1,133 @@
+Ike571 Conroy74
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 99
+Birth Date:          1924-02-10
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-04-10 : Encounter at BOSTON HEALTH CARE INC
+Type: wellness
+   
+   MEDICATIONS:
+  2022-04-10 : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2022-04-10 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2022-04-10 : Basic metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 71.5 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 8.7 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 1.6 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 8.8 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 139.0 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.6 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 108.5 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 24.2 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 106.7 mL/min/{1.73_m2}
+  2022-04-10 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 2.1 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.3 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 15.4 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = trace (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                7.0 pH
+           - Protein [Mass/volume] in Urine by Test strip 88.6 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = + (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+   
+   OBSERVATIONS:
+  2022-04-10 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2022-04-10 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2022-04-10 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2022-04-10 : Protein [Presence] in Urine by Test strip Urine protein test = + (finding) {nominal}
+  2022-04-10 : Protein [Mass/volume] in Urine by Test strip 88.6 mg/dL
+  2022-04-10 : pH of Urine by Test strip                7.0 pH
+  2022-04-10 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2022-04-10 : Ketones [Presence] in Urine by Test strip Urine ketone test = trace (finding) {nominal}
+  2022-04-10 : Ketones [Mass/volume] in Urine by Test strip 15.4 mg/dL
+  2022-04-10 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2022-04-10 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.3 mg/dL
+  2022-04-10 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2022-04-10 : Glucose [Mass/volume] in Urine by Test strip 2.1 mg/dL
+  2022-04-10 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2022-04-10 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2022-04-10 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2022-04-10 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2022-04-10 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 106.7 mL/min/{1.73_m2}
+  2022-04-10 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 24.2 mmol/L
+  2022-04-10 : Chloride [Moles/volume] in Serum or Plasma 108.5 mmol/L
+  2022-04-10 : Potassium [Moles/volume] in Serum or Plasma 4.6 mmol/L
+  2022-04-10 : Sodium [Moles/volume] in Serum or Plasma 139.0 mmol/L
+  2022-04-10 : Calcium [Mass/volume] in Serum or Plasma 8.8 mg/dL
+  2022-04-10 : Creatinine [Mass/volume] in Serum or Plasma 1.6 mg/dL
+  2022-04-10 : Urea nitrogen [Mass/volume] in Serum or Plasma 8.7 mg/dL
+  2022-04-10 : Glucose [Mass/volume] in Serum or Plasma 71.5 mg/dL
+   
+   PROCEDURES:
+  2022-04-10 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2022-04-03 : Victim of intimate partner abuse (finding)
+  2022-04-03 : Disorder of kidney due to diabetes mellitus (disorder)
+  2022-04-03 : Chronic kidney disease stage 1 (disorder)
+  2021-04-04 : Full-time employment (finding)
+  2014-02-04 : Chronic low back pain (finding)
+  2014-02-04 : Chronic pain (finding)
+  2010-01-31 : Social isolation (finding)
+  1993-01-14 : History of coronary artery bypass grafting (situation)
+  1992-11-05 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  1992-10-25 : Ischemic heart disease (disorder)
+  1988-10-02 : Hyperlipidemia
+  1977-06-03 : Osteoarthritis of knee
+  1963-05-12 : Has a criminal record (finding)
+  1961-04-30 : Essential hypertension (disorder)
+  1958-04-27 : Body mass index 30+ - obesity (finding)
+  1949-02-20 : History of appendectomy
+  1949-02-20 : Appendicitis
+  1942-04-05 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2021-04-11 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  1992-11-01 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1992-11-01 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  1992-11-01 : Simvastatin 20 MG Oral Tablet
+  1988-10-23 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  1977-06-03 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+   
+   CAREPLANS:
+  1988-10-23 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+  1961-04-30 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

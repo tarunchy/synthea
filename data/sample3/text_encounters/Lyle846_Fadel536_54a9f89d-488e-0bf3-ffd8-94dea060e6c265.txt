@@ -1,0 +1,132 @@
+Lyle846 Fadel536
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 55
+Birth Date:          1968-03-17
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-10-21 : Encounter at MARLBOROUGH HOSPITAL CORP
+Type: outpatient
+   
+   MEDICATIONS:
+  2018-10-21 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2018-10-21 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2018-10-21 : insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2018-10-21 : Basic metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 67.1 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 11.5 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.0 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.6 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 141.6 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 3.8 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 110.8 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 23.0 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 45.7 mL/min/{1.73_m2}
+  2018-10-21 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 0.9 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.0 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 19.2 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = ++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.2 pH
+           - Protein [Mass/volume] in Urine by Test strip 322.6 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+   
+   OBSERVATIONS:
+  2018-10-21 : Hemoglobin A1c/Hemoglobin.total in Blood 3.0 %
+  2018-10-21 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2018-10-21 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2018-10-21 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2018-10-21 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2018-10-21 : Protein [Mass/volume] in Urine by Test strip 322.6 mg/dL
+  2018-10-21 : pH of Urine by Test strip                6.2 pH
+  2018-10-21 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2018-10-21 : Ketones [Presence] in Urine by Test strip Urine ketone test = ++ (finding) {nominal}
+  2018-10-21 : Ketones [Mass/volume] in Urine by Test strip 19.2 mg/dL
+  2018-10-21 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2018-10-21 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.0 mg/dL
+  2018-10-21 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2018-10-21 : Glucose [Mass/volume] in Urine by Test strip 0.9 mg/dL
+  2018-10-21 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2018-10-21 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2018-10-21 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2018-10-21 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2018-10-21 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 45.7 mL/min/{1.73_m2}
+  2018-10-21 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 23.0 mmol/L
+  2018-10-21 : Chloride [Moles/volume] in Serum or Plasma 110.8 mmol/L
+  2018-10-21 : Potassium [Moles/volume] in Serum or Plasma 3.8 mmol/L
+  2018-10-21 : Sodium [Moles/volume] in Serum or Plasma 141.6 mmol/L
+  2018-10-21 : Calcium [Mass/volume] in Serum or Plasma 9.6 mg/dL
+  2018-10-21 : Creatinine [Mass/volume] in Serum or Plasma 2.0 mg/dL
+  2018-10-21 : Urea nitrogen [Mass/volume] in Serum or Plasma 11.5 mg/dL
+  2018-10-21 : Glucose [Mass/volume] in Serum or Plasma 67.1 mg/dL
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-10-14 : Part-time employment (finding)
+  2018-08-26 : Medication review due (situation)
+  2016-04-19 : Obstructive sleep apnea syndrome (disorder)
+  2016-03-13 : Sleep disorder (disorder)
+  2015-03-15 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  2015-03-15 : Chronic kidney disease stage 3 (disorder)
+  2011-08-28 : Metabolic syndrome X (disorder)
+  2011-01-30 : Prediabetes
+  2009-08-23 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  2009-08-23 : Chronic kidney disease stage 2 (disorder)
+  2004-04-11 : Disorder of kidney due to diabetes mellitus (disorder)
+  2004-04-11 : Chronic kidney disease stage 1 (disorder)
+  1993-05-23 : Has a criminal record (finding)
+  1993-05-23 : Essential hypertension (disorder)
+  1990-05-20 : Body mass index 30+ - obesity (finding)
+  1986-05-11 : Received certificate of high school equivalency (finding)
+  1982-04-18 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2016-04-19 : Care plan (record artifact)
+                         Reason: Obstructive sleep apnea syndrome (disorder)
+                         Activity: Weight reduction regimen (regime/therapy)
+                         Activity: Warning. Avoid alcoholic drink (qualifier value)
+                         Activity: Continuous positive airway pressure ventilation treatment (regime/therapy)
+  2011-01-30 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1993-05-23 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

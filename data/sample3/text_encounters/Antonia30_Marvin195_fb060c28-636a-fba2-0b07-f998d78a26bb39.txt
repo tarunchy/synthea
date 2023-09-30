@@ -1,0 +1,48 @@
+Antonia30 Marvin195
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 38
+Birth Date:          1984-11-18
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1986-02-19 : Tree nut (substance)
+  1986-02-19 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+1998-12-22 : Encounter at BOSTONIAN NURSING CARE & REHABILITATION CTR, THE : Encounter for Impacted molars
+Type: emergency
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1998-12-22 : Impacted molars
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+  1986-02-19 : Chlorpheniramine Maleate 2 MG/ML Oral Solution
+   
+   CAREPLANS:
+  1986-02-03 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

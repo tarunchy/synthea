@@ -1,0 +1,149 @@
+Darryl392 Becker968
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 67
+Birth Date:          1955-09-17
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-09-05 : Encounter at Springfield Outpatient Clinic : Encounter for Malignant tumor of colon
+Type: ambulatory
+   
+   MEDICATIONS:
+  2022-09-05 : 10 ML oxaliplatin 5 MG/ML Injection for Malignant tumor of colon
+  2022-09-05 : Leucovorin 100 MG Injection for Malignant tumor of colon
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2022-09-05 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Blood           70.6 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     11.9 mg/dL
+           - Creatinine [Mass/volume] in Blood        2.8 mg/dL
+           - Calcium [Mass/volume] in Blood           9.1 mg/dL
+           - Sodium [Moles/volume] in Blood           139.6 mmol/L
+           - Potassium [Moles/volume] in Blood        3.8 mmol/L
+           - Chloride [Moles/volume] in Blood         109.5 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 21.1 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 8.9 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.9 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.6 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.9 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.9 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 111.9 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.1 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 25.4 U/L
+  2022-09-05 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        7.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 28.5 %
+           - MCV [Entitic volume] by Automated count  90.0 fL
+           - MCH [Entitic mass] by Automated count    27.7 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.1 fL
+           - Platelets [#/volume] in Blood by Automated count 169.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 513.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+   
+   OBSERVATIONS:
+  2022-09-05 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+  2022-09-05 : Platelet distribution width [Entitic volume] in Blood by Automated count 513.3 fL
+  2022-09-05 : Platelets [#/volume] in Blood by Automated count 169.4 10*3/uL
+  2022-09-05 : Erythrocyte distribution width [Entitic volume] by Automated count 39.1 fL
+  2022-09-05 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2022-09-05 : MCH [Entitic mass] by Automated count    27.7 pg
+  2022-09-05 : MCV [Entitic volume] by Automated count  90.0 fL
+  2022-09-05 : Hematocrit [Volume Fraction] of Blood by Automated count 28.5 %
+  2022-09-05 : Hemoglobin [Mass/volume] in Blood        7.8 g/dL
+  2022-09-05 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2022-09-05 : Leukocytes [#/volume] in Blood by Automated count 4.4 10*3/uL
+  2022-09-05 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 25.4 U/L
+  2022-09-05 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.1 U/L
+  2022-09-05 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 111.9 U/L
+  2022-09-05 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.9 mg/dL
+  2022-09-05 : Globulin [Mass/volume] in Serum by calculation 2.9 g/L
+  2022-09-05 : Albumin [Mass/volume] in Serum or Plasma 4.6 g/dL
+  2022-09-05 : Protein [Mass/volume] in Serum or Plasma 7.9 g/dL
+  2022-09-05 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 8.9 mL/min
+  2022-09-05 : Carbon dioxide, total [Moles/volume] in Blood 21.1 mmol/L
+  2022-09-05 : Chloride [Moles/volume] in Blood         109.5 mmol/L
+  2022-09-05 : Potassium [Moles/volume] in Blood        3.8 mmol/L
+  2022-09-05 : Sodium [Moles/volume] in Blood           139.6 mmol/L
+  2022-09-05 : Calcium [Mass/volume] in Blood           9.1 mg/dL
+  2022-09-05 : Creatinine [Mass/volume] in Blood        2.8 mg/dL
+  2022-09-05 : Urea nitrogen [Mass/volume] in Blood     11.9 mg/dL
+  2022-09-05 : Glucose [Mass/volume] in Blood           70.6 mg/dL
+  2022-09-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+   
+   PROCEDURES:
+  2022-09-05 : Combined chemotherapy and radiation therapy (procedure) for Malignant tumor of colon
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2022-08-21 : Social isolation (finding)
+  2022-08-20 : Medication review due (situation)
+  2022-05-22 : Stress (finding)
+  2022-05-21 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  2022-05-21 : Chronic kidney disease stage 2 (disorder)
+  2022-02-27 : Malignant tumor of colon
+  2022-02-24 : Recurrent rectal polyp
+  2021-05-16 : Full-time employment (finding)
+  2020-09-17 : Polyp of colon
+  2020-05-09 : Hyperlipidemia
+  2016-04-16 : Osteoporosis (disorder)
+  2009-03-07 : Prediabetes
+  2009-03-07 : Metabolic syndrome X (disorder)
+  2002-07-06 : Alcoholism
+  2002-01-27 : Unhealthy alcohol drinking behavior (finding)
+  2001-01-20 : Body mass index 30+ - obesity (finding)
+  1993-12-11 : Disorder of kidney due to diabetes mellitus (disorder)
+  1993-12-11 : Chronic kidney disease stage 1 (disorder)
+  1992-12-05 : Essential hypertension (disorder)
+  1973-11-10 : Only received primary school education (finding)
+  1973-11-10 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+  2022-08-20 + Alendronic acid 10 MG Oral Tablet for Osteoporosis (disorder)
+  2022-08-20 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2022-08-20 + insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2022-05-30 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2020-05-30 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+   
+   CAREPLANS:
+  2022-02-27 : Cancer care plan
+                         Reason: Malignant tumor of colon
+                         Activity: Healthy diet
+                         Activity: Colonoscopy planned
+                         Activity: Cancer education
+  2020-05-30 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+  2009-03-07 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2002-01-26 : Care Plan
+                         Activity: Alcoholism counseling
+  1992-12-05 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

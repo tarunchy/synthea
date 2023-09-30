@@ -1,0 +1,46 @@
+Abel832 Flatley871
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1938-11-25 : Encounter at ENCOMPASS HEALTH HOME HEALTH : Encounter for Seizure disorder
+Type: emergency
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1938-11-25 : Epilepsy
+  1938-11-25 : History of single seizure (situation)
+  1938-11-25 : Seizure disorder
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1936-03-01 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,205 @@
+Ian270 Bayer639
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2005-12-09 : Encounter at Fitchburg Outpatient Clinic : Encounter for Chronic congestive heart failure (disorder)
+Type: emergency
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2005-12-09 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 34.8 %
+           - MCV [Entitic volume] by Automated count  81.7 fL
+           - MCH [Entitic mass] by Automated count    30.4 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 13.3 %
+           - Platelets [#/volume] in Blood by Automated count 234.6 10*3/uL
+  2005-12-09 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 99.3 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 17.9 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 7.5 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 141.7 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.1 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 101.6 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 21.5 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 10.3 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.0 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.5 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 1.0 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 85.2 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 17.7 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 36.1 U/L
+  2005-12-09 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 103.1 mg/dL
+           - Triglycerides                            104.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      30.4 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 51.9 mg/dL
+  2005-12-09 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 0.0 pg/mL
+  2005-12-09 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 117.9 ug/L
+  2005-12-09 : Iron and Iron binding capacity panel - Serum or Plasma
+           - Iron [Mass/volume] in Serum or Plasma    112.8 ug/dL
+           - Iron binding capacity [Mass/volume] in Serum or Plasma 342.7 ug/dL
+           - Iron saturation [Mass Fraction] in Serum or Plasma 43.9 %
+   
+   OBSERVATIONS:
+  2005-12-09 : Iron saturation [Mass Fraction] in Serum or Plasma 43.9 %
+  2005-12-09 : Iron binding capacity [Mass/volume] in Serum or Plasma 342.7 ug/dL
+  2005-12-09 : Iron [Mass/volume] in Serum or Plasma    112.8 ug/dL
+  2005-12-09 : Ferritin [Mass/volume] in Serum or Plasma 117.9 ug/L
+  2005-12-09 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 0.0 pg/mL
+  2005-12-09 : Hemoglobin A1c/Hemoglobin.total in Blood 3.4 %
+  2005-12-09 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 51.9 mg/dL
+  2005-12-09 : Low Density Lipoprotein Cholesterol      30.4 mg/dL
+  2005-12-09 : Triglycerides                            104.1 mg/dL
+  2005-12-09 : Cholesterol [Mass/volume] in Serum or Plasma 103.1 mg/dL
+  2005-12-09 : Magnesium [Mass/volume] in Serum or Plasma 1.9 mg/dL
+  2005-12-09 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 36.1 U/L
+  2005-12-09 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 17.7 U/L
+  2005-12-09 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 85.2 U/L
+  2005-12-09 : Bilirubin.total [Mass/volume] in Serum or Plasma 1.0 mg/dL
+  2005-12-09 : Albumin [Mass/volume] in Serum or Plasma 4.5 g/dL
+  2005-12-09 : Protein [Mass/volume] in Serum or Plasma 7.0 g/dL
+  2005-12-09 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 10.3 mL/min
+  2005-12-09 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 21.5 mmol/L
+  2005-12-09 : Chloride [Moles/volume] in Serum or Plasma 101.6 mmol/L
+  2005-12-09 : Potassium [Moles/volume] in Serum or Plasma 4.1 mmol/L
+  2005-12-09 : Sodium [Moles/volume] in Serum or Plasma 141.7 mmol/L
+  2005-12-09 : Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+  2005-12-09 : Creatinine [Mass/volume] in Serum or Plasma 7.5 mg/dL
+  2005-12-09 : Urea nitrogen [Mass/volume] in Serum or Plasma 17.9 mg/dL
+  2005-12-09 : Glucose [Mass/volume] in Serum or Plasma 99.3 mg/dL
+  2005-12-09 : Platelets [#/volume] in Blood by Automated count 234.6 10*3/uL
+  2005-12-09 : Erythrocyte distribution width [Ratio] by Automated count 13.3 %
+  2005-12-09 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2005-12-09 : MCH [Entitic mass] by Automated count    30.4 pg
+  2005-12-09 : MCV [Entitic volume] by Automated count  81.7 fL
+  2005-12-09 : Hematocrit [Volume Fraction] of Blood by Automated count 34.8 %
+  2005-12-09 : Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+  2005-12-09 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2005-12-09 : Leukocytes [#/volume] in Blood by Automated count 6.7 10*3/uL
+  2005-12-09 : NT-proBNP                                306.4 pg/mL
+  2005-12-09 : Body Weight                              94.1 kg
+  2005-12-09 : Oxygen saturation in Arterial blood      88.0 %
+   
+   PROCEDURES:
+  2005-12-09 : Plain chest X-ray (procedure)
+  2005-12-09 : Placing subject in prone position (procedure)
+  2005-12-09 : Oxygen administration by mask (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+  2005-12-09 : Computed Radiography, Thoracic structure (body structure)
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2005-11-20 : Stress (finding)
+  2005-11-20 : Social isolation (finding)
+  2005-09-04 : Medication review due (situation)
+  2005-07-24 : Full-time employment (finding)
+  2005-04-18 : Awaiting transplantation of kidney (situation)
+  2004-12-26 : Chronic kidney disease stage 4 (disorder)
+  2004-05-02 : Chronic congestive heart failure (disorder)
+  2001-06-10 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  2001-06-10 : Chronic kidney disease stage 3 (disorder)
+  2000-12-19 : Alzheimer's disease (disorder)
+  1994-06-05 : Osteoporosis (disorder)
+  1992-07-20 : History of aortic valve replacement (situation)
+  1990-11-11 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1990-11-11 : Chronic kidney disease stage 2 (disorder)
+  1990-05-13 : Carcinoma in situ of prostate (disorder)
+  1990-05-13 : Neoplasm of prostate
+  1988-11-20 : Disorder of kidney due to diabetes mellitus (disorder)
+  1988-11-20 : Chronic kidney disease stage 1 (disorder)
+  1987-05-05 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  1987-04-26 : Ischemic heart disease (disorder)
+  1976-02-22 : Essential hypertension (disorder)
+  1975-04-20 : Smokes tobacco daily
+  1965-01-30 : Aortic valve regurgitation (disorder)
+  1953-07-12 : Has a criminal record (finding)
+  1952-04-20 : Anemia (disorder)
+  1949-04-17 : Prediabetes
+  1942-04-05 : Received higher education (finding)
+  1942-04-05 : Housing unsatisfactory (finding)
+  1942-04-05 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+  2005-11-20 : warfarin sodium 5 MG Oral Tablet
+  2005-11-20 + Furosemide 40 MG Oral Tablet for Chronic congestive heart failure (disorder)
+  2005-11-20 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2005-11-20 + insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2000-12-19 + Donepezil hydrochloride 10 MG Oral Tablet for Alzheimer's disease (disorder)
+  1987-05-03 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1987-05-03 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  1975-02-16 : nicotine 7 MG/Day 24HR Transdermal System
+   
+   CAREPLANS:
+  2005-01-09 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  2004-05-18 : Heart failure self management plan
+                         Reason: Chronic congestive heart failure (disorder)
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+  2000-12-19 : Dementia management
+                         Reason: Alzheimer's disease (disorder)
+                         Activity: Patient education (procedure)
+                         Activity: Promotion of use of memory skills
+                         Activity: Long term social support
+  1992-07-21 : Discharge care plan (record artifact)
+                         Reason: History of aortic valve replacement (situation)
+                         Activity: Perioperative care management (procedure)
+                         Activity: Cardiovascular monitoring (regime/therapy)
+                         Activity: Management of vascular system care (procedure)
+                         Activity: Activity care (regime/therapy)
+                         Activity: Advance diet as tolerated (regime/therapy)
+                         Activity: Pharmacological assessment (procedure)
+                         Activity: Dressing change management (procedure)
+                         Activity: Patient education (procedure)
+                         Activity: Scheduling of follow up appointment (procedure)
+  1990-05-13 : Cancer care plan
+                         Reason: Neoplasm of prostate
+                         Reason: Neoplasm of prostate
+                         Activity: Physical activity target light exercise
+                         Activity: Ice bath treatment
+  1976-02-22 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1975-02-16 : Care Plan
+                         Reason: Aortic valve regurgitation (disorder)
+                         Activity: smoking cessation therapy
+                         Activity: Referral for laboratory tests (procedure)
+                         Activity: Referral to radiology service (procedure)
+                         Activity: Refer for angiogram (procedure)
+  1949-04-17 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

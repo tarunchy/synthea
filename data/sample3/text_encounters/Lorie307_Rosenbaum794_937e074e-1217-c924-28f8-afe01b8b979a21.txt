@@ -1,0 +1,45 @@
+Lorie307 Rosenbaum794
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 51
+Birth Date:          1972-03-27
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1990-05-21 : Encounter at LONGFELLOW PRIMARY CARE, PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1990-05-21 : Limited social contact (finding)
+  1990-05-21 : Lack of access to transportation (finding)
+  1990-05-21 : Received higher education (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

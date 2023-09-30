@@ -1,0 +1,50 @@
+Al123 Bogan287
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 11
+Birth Date:          2011-09-04
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-10-02 : Encounter at THOMAS UPHAM HOUSE : Encounter for Sprain (morphologic abnormality)
+Type: emergency
+   
+   MEDICATIONS:
+  2018-10-02 : Ibuprofen 100 MG Oral Tablet
+   
+   CONDITIONS:
+  2018-10-02 : Sprain of ankle
+  2018-10-02 : Sprain (morphologic abnormality)
+   
+   CARE PLANS:
+  2018-10-02 : Physiotherapy care plan (record artifact)
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment program (regime/therapy)
+                         Activity: Stretching exercises
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2016-07-03 : Chronic sinusitis (disorder)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,128 @@
+Shirlene698 Lin401 Pagac496
+===========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1953-09-13
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1986-01-12 : Encounter at CORNERSTONE FAMILY MEDICINE, INC.
+Type: wellness
+   
+   MEDICATIONS:
+  1986-01-12 : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Pulmonary emphysema (disorder)
+  1986-01-12 : albuterol 5 MG/ML Inhalation Solution for Pulmonary emphysema (disorder)
+   
+   CONDITIONS:
+  1986-01-12 : Limited social contact (finding)
+  1986-01-12 : Not in labor force (finding)
+  1986-01-12 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  1986-01-12 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.1 %
+           - MCV [Entitic volume] by Automated count  87.1 fL
+           - MCH [Entitic mass] by Automated count    30.8 pg
+           - MCHC [Mass/volume] by Automated count    34.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.1 fL
+           - Platelets [#/volume] in Blood by Automated count 389.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 472.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+  1986-01-12 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  1986-01-12 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+   
+   OBSERVATIONS:
+  1986-01-12 : Total score [AUDIT-C]                    2.0 {score}
+  1986-01-12 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  1986-01-12 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 29884 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Otherwise unemployed but not seeking work (ex: student, retired, disabled, unpaid primary care giver) 
+           - Highest level of education               More than high school 
+           - Address                                  440 Nader Ferry 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 5.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  1986-01-12 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  1986-01-12 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+  1986-01-12 : Platelet distribution width [Entitic volume] in Blood by Automated count 472.4 fL
+  1986-01-12 : Platelets [#/volume] in Blood by Automated count 389.7 10*3/uL
+  1986-01-12 : Erythrocyte distribution width [Entitic volume] by Automated count 43.1 fL
+  1986-01-12 : MCHC [Mass/volume] by Automated count    34.3 g/dL
+  1986-01-12 : MCH [Entitic mass] by Automated count    30.8 pg
+  1986-01-12 : MCV [Entitic volume] by Automated count  87.1 fL
+  1986-01-12 : Hematocrit [Volume Fraction] of Blood by Automated count 48.1 %
+  1986-01-12 : Hemoglobin [Mass/volume] in Blood        13.4 g/dL
+  1986-01-12 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  1986-01-12 : Leukocytes [#/volume] in Blood by Automated count 6.2 10*3/uL
+  1986-01-12 : Respiratory rate                         15.0 /min
+  1986-01-12 : Heart rate                               63.0 /min
+  1986-01-12 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  1986-01-12 : Body mass index (BMI) [Ratio]            29.4 kg/m2
+  1986-01-12 : Body Weight                              88.8 kg
+  1986-01-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1986-01-12 : Body Height                              173.9 cm
+  1986-01-12 : FEV1/FVC                                 26.2 %
+   
+   PROCEDURES:
+  1986-01-12 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  1986-01-12 : Assessment of substance use (procedure)
+  1986-01-12 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  1986-01-12 : Depression screening (procedure)
+  1986-01-12 : Assessment of health and social care needs (procedure)
+  1986-01-12 : Pulmonary rehabilitation (regime/therapy) for Pulmonary emphysema (disorder)
+  1986-01-12 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+   
+   IMMUNIZATIONS:
+  1986-01-12 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1985-01-06 : Stress (finding)
+  1978-08-20 : Miscarriage in first trimester
+  1972-11-12 : Anemia (disorder)
+  1972-11-12 : Pulmonary emphysema (disorder)
+  1971-11-07 : Received higher education (finding)
+  1959-09-07 : Chronic sinusitis (disorder)
+   
+   MEDICATIONS:
+  1976-08-25 : Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+   
+   CAREPLANS:
+  1972-11-12 : Chronic obstructive pulmonary disease clinical management plan
+                         Reason: Pulmonary emphysema (disorder)
+                         Activity: Exercise therapy
+                         Activity: Pulmonary rehabilitation (regime/therapy)
+   
+--------------------------------------------------------------------------------

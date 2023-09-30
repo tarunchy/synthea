@@ -1,0 +1,57 @@
+Rubi442 Florentina22 Olson653
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 33
+Birth Date:          1990-03-05
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2014-05-13 : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC
+Type: outpatient
+   
+   MEDICATIONS:
+  2014-05-13 : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2014-05-13 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2014-05-13 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2014-05-06 : Stress (finding)
+  2009-05-05 : Full-time employment (finding)
+  2008-04-29 : Received higher education (finding)
+  2008-04-29 : Essential hypertension (disorder)
+  2007-04-24 : Risk activity involvement (finding)
+  2003-03-31 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2008-04-29 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

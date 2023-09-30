@@ -1,0 +1,90 @@
+Rubi442 Florentina22 Olson653
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 33
+Birth Date:          1990-03-05
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-02-27 : Encounter at VIBRA HOSPITAL OF WESTERN MASSACHUSETTS LLC : Encounter for Normal pregnancy
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2023-02-27 : Normal pregnancy
+   
+   CARE PLANS:
+  2023-02-27 : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+  2023-02-27 : Physical examination procedure (procedure) for Normal pregnancy
+  2023-02-27 : Urine protein test for Normal pregnancy
+  2023-02-27 : Skin test for tuberculosis, Tine test (procedure) for Normal pregnancy
+  2023-02-27 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2023-02-27 : Rubella screening for Normal pregnancy
+  2023-02-27 : Hepatitis C antibody, confirmatory test for Normal pregnancy
+  2023-02-27 : Urine screening test for diabetes for Normal pregnancy
+  2023-02-27 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2023-02-27 : Urine culture for Normal pregnancy
+  2023-02-27 : Syphilis infectious titer test (procedure) for Normal pregnancy
+  2023-02-27 : Gonorrhea infection titer test (procedure) for Normal pregnancy
+  2023-02-27 : Chlamydia antigen test for Normal pregnancy
+  2023-02-27 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2023-02-27 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2023-02-27 : Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential for Normal pregnancy
+  2023-02-27 : Blood group typing (procedure) for Normal pregnancy
+  2023-02-27 : Auscultation of the fetal heart for Normal pregnancy
+  2023-02-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2023-02-27 : Ultrasound scan for fetal viability for Normal pregnancy
+  2023-02-27 : Standard pregnancy test for Normal pregnancy
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2022-07-19 : Social isolation (finding)
+  2021-07-13 : Stress (finding)
+  2021-07-13 : Medication review due (situation)
+  2020-07-07 : Full-time employment (finding)
+  2016-06-14 : Anemia (disorder)
+  2016-06-14 : Prediabetes
+  2014-06-03 : Limited social contact (finding)
+  2008-04-29 : Received higher education (finding)
+  2008-04-29 : Essential hypertension (disorder)
+  2007-04-24 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+  2022-07-19 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2022-07-19 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2022-07-19 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CAREPLANS:
+  2016-06-14 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2008-04-29 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

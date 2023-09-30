@@ -1,0 +1,123 @@
+Malena136 Elizebeth108 Rau926
+=============================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 43
+Birth Date:          1980-02-15
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-02-21 : Encounter at WELLNESS ON WHEELS,PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2020-02-21 : Part-time employment (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-02-21 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.7 %
+           - MCV [Entitic volume] by Automated count  92.2 fL
+           - MCH [Entitic mass] by Automated count    32.2 pg
+           - MCHC [Mass/volume] by Automated count    34.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+           - Platelets [#/volume] in Blood by Automated count 251.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 232.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2020-02-21 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2020-02-21 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2020-02-21 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+   
+   OBSERVATIONS:
+  2020-02-21 : Total score [DAST-10]                    2.0 {score}
+  2020-02-21 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2020-02-21 : Total score [HARK]                       0.0 {score}
+  2020-02-21 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress level                             Very much 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Child care 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 82235 /a
+           - Primary insurance                        Medicare 
+           - Employment status - current              Part-time or temporary work 
+           - Highest level of education               High school diploma or GED 
+           - Address                                  905 Prosacco Fort 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 5.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2020-02-21 : Tobacco smoking status                   Ex-smoker (finding) 
+  2020-02-21 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2020-02-21 : Platelet distribution width [Entitic volume] in Blood by Automated count 232.8 fL
+  2020-02-21 : Platelets [#/volume] in Blood by Automated count 251.7 10*3/uL
+  2020-02-21 : Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+  2020-02-21 : MCHC [Mass/volume] by Automated count    34.3 g/dL
+  2020-02-21 : MCH [Entitic mass] by Automated count    32.2 pg
+  2020-02-21 : MCV [Entitic volume] by Automated count  92.2 fL
+  2020-02-21 : Hematocrit [Volume Fraction] of Blood by Automated count 41.7 %
+  2020-02-21 : Hemoglobin [Mass/volume] in Blood        14.1 g/dL
+  2020-02-21 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2020-02-21 : Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+  2020-02-21 : Respiratory rate                         15.0 /min
+  2020-02-21 : Heart rate                               86.0 /min
+  2020-02-21 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2020-02-21 : Body mass index (BMI) [Ratio]            28.1 kg/m2
+  2020-02-21 : Body Weight                              80.2 kg
+  2020-02-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-02-21 : Body Height                              169.0 cm
+   
+   PROCEDURES:
+  2020-02-21 : Screening for drug abuse (procedure)
+  2020-02-21 : Assessment of substance use (procedure)
+  2020-02-21 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2020-02-21 : Depression screening (procedure)
+  2020-02-21 : Screening for domestic abuse (procedure)
+  2020-02-21 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+  2020-02-21 : Hep A, adult
+  2020-02-21 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2017-05-05 : Stress (finding)
+  2017-05-05 : Medication review due (situation)
+  2014-05-02 : Has a criminal record (finding)
+  2014-05-02 : Body mass index 30+ - obesity (finding)
+  1998-04-10 : Received certificate of high school equivalency (finding)
+  1981-05-29 : History of single seizure (situation)
+  1981-05-29 : Seizure disorder
+   
+   MEDICATIONS:
+  2019-08-23 : Liletta 52 MG Intrauterine System
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

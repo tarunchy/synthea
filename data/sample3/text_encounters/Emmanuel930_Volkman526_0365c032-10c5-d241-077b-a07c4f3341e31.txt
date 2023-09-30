@@ -1,0 +1,59 @@
+Emmanuel930 Volkman526
+======================
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 23
+Birth Date:          1999-11-18
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2023-07-06 : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Asthma
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2023-02-09 : Stress (finding)
+  2023-02-09 : Unemployed (finding)
+  2020-01-23 : Lack of access to transportation (finding)
+  2019-01-17 : Social isolation (finding)
+  2019-01-17 : Medication review due (situation)
+  2018-01-11 : Transport problem (finding)
+  2018-01-11 : Received higher education (finding)
+  2018-01-11 : Housing unsatisfactory (finding)
+  2017-12-23 : Chronic low back pain (finding)
+  2017-12-23 : Chronic pain (finding)
+   
+   MEDICATIONS:
+  2023-02-09 + albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2023-02-09 + budesonide 0.125 MG/ML Inhalation Suspension for Childhood asthma
+   
+   CAREPLANS:
+  2001-12-27 : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+   
+--------------------------------------------------------------------------------

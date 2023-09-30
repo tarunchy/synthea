@@ -1,0 +1,67 @@
+Renata373 Skiles927
+===================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 20
+Birth Date:          2002-09-07
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-10-26 : Encounter at DUTTON FAMILY CARE ASSOCIATES LLP
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2019-10-26 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2019-10-26 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+   
+   OBSERVATIONS:
+  2019-10-26 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2019-10-26 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2019-10-26 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-10-26 : Respiratory rate                         13.0 /min
+  2019-10-26 : Heart rate                               98.0 /min
+  2019-10-26 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 90.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2019-10-26 : Body mass index (BMI) [Percentile] Per age and sex 11.9 %
+  2019-10-26 : Body mass index (BMI) [Ratio]            18.1 kg/m2
+  2019-10-26 : Body Weight                              45.1 kg
+  2019-10-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-10-26 : Body Height                              157.9 cm
+   
+   PROCEDURES:
+  2019-10-26 : Anticipatory guidance (procedure)
+  2019-10-26 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2019-10-26 : Assessment of substance use (procedure)
+  2019-10-26 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2019-10-26 : Depression screening (procedure)
+  2019-10-26 : Assessment of anxiety (procedure)
+   
+   IMMUNIZATIONS:
+  2019-10-26 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2014-09-27 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

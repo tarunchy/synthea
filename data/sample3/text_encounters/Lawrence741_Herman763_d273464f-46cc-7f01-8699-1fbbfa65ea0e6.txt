@@ -1,0 +1,64 @@
+Lawrence741 Herman763
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2005-12-22
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-01-28 : Encounter at JEWISH FAMILY & CHILDREN'S SERVICE
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2021-02-13 : Suspected COVID-19
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2021-01-28 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+   
+   OBSERVATIONS:
+  2021-01-28 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2021-01-28 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2021-01-28 : Respiratory rate                         15.0 /min
+  2021-01-28 : Heart rate                               63.0 /min
+  2021-01-28 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  136.0 mm[Hg]
+  2021-01-28 : Body mass index (BMI) [Percentile] Per age and sex 93.8 %
+  2021-01-28 : Body mass index (BMI) [Ratio]            27.4 kg/m2
+  2021-01-28 : Body Weight                              65.4 kg
+  2021-01-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-01-28 : Body Height                              154.7 cm
+   
+   PROCEDURES:
+  2021-01-28 : Anticipatory guidance (procedure)
+  2021-01-28 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-01-28 : Assessment of substance use (procedure)
+  2021-01-28 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-01-28 : Depression screening (procedure)
+   
+   IMMUNIZATIONS:
+  2021-01-28 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-01-23 : Medication review due (situation)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

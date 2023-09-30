@@ -1,0 +1,53 @@
+Daniela614 Chacón810
+===============ó====
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 81
+Birth Date:          1942-02-12
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1999-05-13 : Encounter at WELLNESS ON WHEELS,PC
+Type: wellness
+   
+   MEDICATIONS:
+  1999-05-13 : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1986-02-27 : Essential hypertension (disorder)
+  1964-04-16 : Body mass index 30+ - obesity (finding)
+  1960-04-07 : Refugee (person)
+  1960-04-07 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  1986-02-27 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

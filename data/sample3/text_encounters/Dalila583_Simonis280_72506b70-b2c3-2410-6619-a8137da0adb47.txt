@@ -1,0 +1,46 @@
+Dalila583 Simonis280
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 43
+Birth Date:          1980-03-02
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2005-05-08 : Encounter at ENRICH WELLNESS HEALTH CENTER LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2005-05-08 : Victim of intimate partner abuse (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2005-04-13 : History of tubal ligation (situation)
+  1998-04-26 : Stress (finding)
+  1998-04-26 : Received certificate of high school equivalency (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,191 @@
+Mateo562 Castañeda925
+==============ñ======
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 60
+Birth Date:          1963-02-22
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-09-02 : Encounter at Fitchburg Outpatient Clinic : Encounter for Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2019-09-02 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.2 %
+           - MCV [Entitic volume] by Automated count  93.6 fL
+           - MCH [Entitic mass] by Automated count    32.1 pg
+           - MCHC [Mass/volume] by Automated count    33.4 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 13.0 %
+           - Platelets [#/volume] in Blood by Automated count 388.4 10*3/uL
+  2019-09-02 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 98.7 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 7.9 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.8 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.4 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 139.9 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.5 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 105.8 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 21.3 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 7.2 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.6 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.0 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 13.5 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 69.7 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 1.7 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 14.7 U/L
+  2019-09-02 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    11.8 s
+           - INR in Platelet poor plasma by Coagulation assay 1.0 {INR}
+  2019-09-02 : Gas panel - Arterial blood
+           - pH of Arterial blood                     7.0 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 37.5 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 98.4 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 24.8 mmol/L
+           - Oxygen saturation in Arterial blood      95.0 %
+  2019-09-02 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 189.6 mg/dL
+           - Triglycerides                            125.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      135.6 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 28.8 mg/dL
+  2019-09-02 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 0.0 pg/mL
+  2019-09-02 : Urinalysis complete panel - Urine
+           - Glucose [Presence] in Urine by Test strip 1.0 {presence}
+           - Bilirubin.total [Presence] in Urine by Test strip 1.0 {presence}
+           - Ketones [Presence] in Urine by Test strip 1.0 {presence}
+           - Specific gravity of Urine by Test strip  1.0 {SG}
+           - pH of Urine by Test strip                7.0 [pH]
+           - Protein [Presence] in Urine by Test strip 1.0 {presence}
+           - Nitrite [Presence] in Urine by Test strip 1.0 {presence}
+           - Hemoglobin [Presence] in Urine by Test strip 0.0 {presence}
+           - Leukocyte esterase [Presence] in Urine by Test strip 0.0 {presence}
+  2019-09-02 : Heart failure tracking panel
+           - Left ventricular Ejection fraction       38.1 %
+   
+   OBSERVATIONS:
+  2019-09-02 : Left ventricular Ejection fraction       38.1 %
+  2019-09-02 : Leukocyte esterase [Presence] in Urine by Test strip 0.0 {presence}
+  2019-09-02 : Hemoglobin [Presence] in Urine by Test strip 0.0 {presence}
+  2019-09-02 : Nitrite [Presence] in Urine by Test strip 1.0 {presence}
+  2019-09-02 : Protein [Presence] in Urine by Test strip 1.0 {presence}
+  2019-09-02 : pH of Urine by Test strip                7.0 [pH]
+  2019-09-02 : Specific gravity of Urine by Test strip  1.0 {SG}
+  2019-09-02 : Ketones [Presence] in Urine by Test strip 1.0 {presence}
+  2019-09-02 : Bilirubin.total [Presence] in Urine by Test strip 1.0 {presence}
+  2019-09-02 : Glucose [Presence] in Urine by Test strip 1.0 {presence}
+  2019-09-02 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2019-09-02 : Thyrotropin [Units/volume] in Serum or Plasma 4.8 m[IU]/L
+  2019-09-02 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 0.0 pg/mL
+  2019-09-02 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 28.8 mg/dL
+  2019-09-02 : Low Density Lipoprotein Cholesterol      135.6 mg/dL
+  2019-09-02 : Triglycerides                            125.9 mg/dL
+  2019-09-02 : Cholesterol [Mass/volume] in Serum or Plasma 189.6 mg/dL
+  2019-09-02 : Oxygen saturation in Arterial blood      95.0 %
+  2019-09-02 : Bicarbonate [Moles/volume] in Arterial blood 24.8 mmol/L
+  2019-09-02 : Oxygen [Partial pressure] in Arterial blood 98.4 mm[Hg]
+  2019-09-02 : Carbon dioxide [Partial pressure] in Arterial blood 37.5 mm[Hg]
+  2019-09-02 : pH of Arterial blood                     7.0 [pH]
+  2019-09-02 : aPTT in Blood by Coagulation assay       36.4 s
+  2019-09-02 : INR in Platelet poor plasma by Coagulation assay 1.0 {INR}
+  2019-09-02 : Prothrombin time (PT)                    11.8 s
+  2019-09-02 : Phosphate [Mass/volume] in Serum or Plasma 2.5 mg/dL
+  2019-09-02 : Magnesium [Mass/volume] in Serum or Plasma 1.6 mg/dL
+  2019-09-02 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 14.7 U/L
+  2019-09-02 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 1.7 U/L
+  2019-09-02 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 69.7 U/L
+  2019-09-02 : Bilirubin.total [Mass/volume] in Serum or Plasma 13.5 mg/dL
+  2019-09-02 : Albumin [Mass/volume] in Serum or Plasma 5.0 g/dL
+  2019-09-02 : Protein [Mass/volume] in Serum or Plasma 7.6 g/dL
+  2019-09-02 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 7.2 mL/min
+  2019-09-02 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 21.3 mmol/L
+  2019-09-02 : Chloride [Moles/volume] in Serum or Plasma 105.8 mmol/L
+  2019-09-02 : Potassium [Moles/volume] in Serum or Plasma 4.5 mmol/L
+  2019-09-02 : Sodium [Moles/volume] in Serum or Plasma 139.9 mmol/L
+  2019-09-02 : Calcium [Mass/volume] in Serum or Plasma 9.4 mg/dL
+  2019-09-02 : Creatinine [Mass/volume] in Serum or Plasma 2.8 mg/dL
+  2019-09-02 : Urea nitrogen [Mass/volume] in Serum or Plasma 7.9 mg/dL
+  2019-09-02 : Glucose [Mass/volume] in Serum or Plasma 98.7 mg/dL
+  2019-09-02 : Platelets [#/volume] in Blood by Automated count 388.4 10*3/uL
+  2019-09-02 : Erythrocyte distribution width [Ratio] by Automated count 13.0 %
+  2019-09-02 : MCHC [Mass/volume] by Automated count    33.4 g/dL
+  2019-09-02 : MCH [Entitic mass] by Automated count    32.1 pg
+  2019-09-02 : MCV [Entitic volume] by Automated count  93.6 fL
+  2019-09-02 : Hematocrit [Volume Fraction] of Blood by Automated count 43.2 %
+  2019-09-02 : Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+  2019-09-02 : Erythrocytes [#/volume] in Blood by Automated count 5.6 10*6/uL
+  2019-09-02 : Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+   
+   PROCEDURES:
+  2019-09-02 : Scheduling (procedure) for Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2019-09-02 : Notification of treatment plan (procedure)
+  2019-09-02 : Echocardiography (procedure)
+  2019-09-02 : Plain chest X-ray (procedure)
+  2019-09-02 : Electrocardiographic procedure (procedure)
+  2019-09-02 : Blood group typing (procedure)
+  2019-09-02 : Pre-surgery testing (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+  2019-09-02 : Ultrasound, Heart structure (body structure)
+  2019-09-02 : Computed Radiography, Thoracic structure (body structure)
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-08-30 : Limited social contact (finding)
+  2019-07-23 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  2019-07-05 : Not in labor force (finding)
+  2019-07-05 : Ischemic heart disease (disorder)
+  2017-08-18 : Refugee (person)
+  2017-08-18 : Medication review due (situation)
+  2011-07-15 : Anemia (disorder)
+  2011-07-15 : Prediabetes
+  2011-07-15 : Metabolic syndrome X (disorder)
+  2000-05-12 : Essential hypertension (disorder)
+  2000-03-11 : Obstructive sleep apnea syndrome (disorder)
+  2000-02-13 : Sleep disorder (disorder)
+  1985-04-26 : Body mass index 30+ - obesity (finding)
+  1981-04-17 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2019-08-30 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2019-08-30 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2019-07-12 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2019-07-12 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  2019-07-12 : Simvastatin 20 MG Oral Tablet
+  2019-07-12 : Clopidogrel 75 MG Oral Tablet
+   
+   CAREPLANS:
+  2011-07-15 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2000-05-12 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  2000-03-11 : Care plan (record artifact)
+                         Reason: Obstructive sleep apnea syndrome (disorder)
+                         Activity: Weight reduction regimen (regime/therapy)
+                         Activity: Warning. Avoid alcoholic drink (qualifier value)
+                         Activity: Continuous positive airway pressure ventilation treatment (regime/therapy)
+   
+--------------------------------------------------------------------------------

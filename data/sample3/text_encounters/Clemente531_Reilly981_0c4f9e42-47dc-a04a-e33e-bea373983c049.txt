@@ -1,0 +1,51 @@
+Clemente531 Reilly981
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 26
+Birth Date:          1997-05-05
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2016-07-04 : Encounter at FAMILY MEDICAL ASSOCIATES, P.C.
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2016-07-04 : Transport problem (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2015-06-29 : Lack of access to transportation (finding)
+  2015-06-29 : Full-time employment (finding)
+  2015-06-29 : Received higher education (finding)
+  2015-06-29 : Prediabetes
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2015-06-29 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

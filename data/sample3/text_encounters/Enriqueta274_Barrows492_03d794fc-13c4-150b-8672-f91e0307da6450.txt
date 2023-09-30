@@ -1,0 +1,201 @@
+Enriqueta274 Barrows492
+=======================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1965-06-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-12-19 : Encounter at HEBREW REHABILITATION CENTER : Encounter for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+Type: inpatient
+   
+   MEDICATIONS:
+  2018-12-22 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2018-12-22 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2018-12-21 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2018-12-21 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2018-12-20 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2018-12-20 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2018-12-19 : Etoposide 100 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2018-12-19 : Cisplatin 50 MG Injection for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2018-12-19 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Blood           69.7 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     10.4 mg/dL
+           - Creatinine [Mass/volume] in Blood        3.4 mg/dL
+           - Calcium [Mass/volume] in Blood           9.0 mg/dL
+           - Sodium [Moles/volume] in Blood           144.0 mmol/L
+           - Potassium [Moles/volume] in Blood        4.1 mmol/L
+           - Chloride [Moles/volume] in Blood         107.4 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 26.8 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 12.9 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.7 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.6 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.1 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 1.1 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 23.2 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.0 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 35.9 U/L
+  2018-12-19 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.1 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.5 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 12.1 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.1 pH
+           - Protein [Mass/volume] in Urine by Test strip 445.4 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2018-12-19 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 2.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.0 %
+           - MCV [Entitic volume] by Automated count  87.5 fL
+           - MCH [Entitic mass] by Automated count    28.6 pg
+           - MCHC [Mass/volume] by Automated count    33.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.2 fL
+           - Platelets [#/volume] in Blood by Automated count 364.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 443.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+   
+   OBSERVATIONS:
+  2018-12-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2018-12-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2018-12-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2018-12-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2018-12-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+  2018-12-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 443.0 fL
+  2018-12-19 : Platelets [#/volume] in Blood by Automated count 364.2 10*3/uL
+  2018-12-19 : Erythrocyte distribution width [Entitic volume] by Automated count 41.2 fL
+  2018-12-19 : MCHC [Mass/volume] by Automated count    33.3 g/dL
+  2018-12-19 : MCH [Entitic mass] by Automated count    28.6 pg
+  2018-12-19 : MCV [Entitic volume] by Automated count  87.5 fL
+  2018-12-19 : Hematocrit [Volume Fraction] of Blood by Automated count 45.0 %
+  2018-12-19 : Hemoglobin [Mass/volume] in Blood        13.9 g/dL
+  2018-12-19 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2018-12-19 : Leukocytes [#/volume] in Blood by Automated count 2.0 10*3/uL
+  2018-12-19 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2018-12-19 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2018-12-19 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2018-12-19 : Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+  2018-12-19 : Protein [Mass/volume] in Urine by Test strip 445.4 mg/dL
+  2018-12-19 : pH of Urine by Test strip                6.1 pH
+  2018-12-19 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2018-12-19 : Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+  2018-12-19 : Ketones [Mass/volume] in Urine by Test strip 12.1 mg/dL
+  2018-12-19 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2018-12-19 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.5 mg/dL
+  2018-12-19 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2018-12-19 : Glucose [Mass/volume] in Urine by Test strip 1.1 mg/dL
+  2018-12-19 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2018-12-19 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2018-12-19 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2018-12-19 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2018-12-19 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 35.9 U/L
+  2018-12-19 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.0 U/L
+  2018-12-19 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 23.2 U/L
+  2018-12-19 : Bilirubin.total [Mass/volume] in Serum or Plasma 1.1 mg/dL
+  2018-12-19 : Globulin [Mass/volume] in Serum by calculation 2.1 g/L
+  2018-12-19 : Albumin [Mass/volume] in Serum or Plasma 3.6 g/dL
+  2018-12-19 : Protein [Mass/volume] in Serum or Plasma 6.7 g/dL
+  2018-12-19 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 12.9 mL/min
+  2018-12-19 : Carbon dioxide, total [Moles/volume] in Blood 26.8 mmol/L
+  2018-12-19 : Chloride [Moles/volume] in Blood         107.4 mmol/L
+  2018-12-19 : Potassium [Moles/volume] in Blood        4.1 mmol/L
+  2018-12-19 : Sodium [Moles/volume] in Blood           144.0 mmol/L
+  2018-12-19 : Calcium [Mass/volume] in Blood           9.0 mg/dL
+  2018-12-19 : Creatinine [Mass/volume] in Blood        3.4 mg/dL
+  2018-12-19 : Urea nitrogen [Mass/volume] in Blood     10.4 mg/dL
+  2018-12-19 : Glucose [Mass/volume] in Blood           69.7 mg/dL
+   
+   PROCEDURES:
+  2018-12-22 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2018-12-22 : Hearing examination (procedure)
+  2018-12-21 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2018-12-21 : Hearing examination (procedure)
+  2018-12-20 : High resolution computed tomography of chest without contrast (procedure)
+  2018-12-20 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2018-12-20 : Hearing examination (procedure)
+  2018-12-19 : Combined chemotherapy and radiation therapy (procedure) for Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2018-12-19 : Hearing examination (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+  2018-12-20 : Computed Tomography, Thoracic structure (body structure)
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-12-05 : Social isolation (finding)
+  2018-12-05 : Full-time employment (finding)
+  2018-10-31 : Limited social contact (finding)
+  2018-04-04 : Medication review due (situation)
+  2016-05-18 : Victim of intimate partner abuse (finding)
+  2016-01-11 : Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-08 : Small cell carcinoma of lung (disorder)
+  2015-12-08 : Suspected lung cancer (situation)
+  2015-11-18 : End-stage renal disease (disorder)
+  2015-02-15 : Awaiting transplantation of kidney (situation)
+  2015-02-04 : Chronic kidney disease stage 4 (disorder)
+  2008-12-24 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  2008-12-24 : Chronic kidney disease stage 3 (disorder)
+  2007-03-07 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  2007-03-07 : Chronic kidney disease stage 2 (disorder)
+  2005-05-11 : Disorder of kidney due to diabetes mellitus (disorder)
+  2005-05-11 : Chronic kidney disease stage 1 (disorder)
+  2004-04-14 : Metabolic syndrome X (disorder)
+  1997-10-29 : Body mass index 30+ - obesity (finding)
+  1984-08-15 : Anemia (disorder)
+  1984-08-15 : Prediabetes
+  1983-08-10 : Received higher education (finding)
+  1983-08-10 : Essential hypertension (disorder)
+   
+   MEDICATIONS:
+  2018-12-05 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2018-12-05 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2018-12-05 + insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  1984-08-23 : Vitamin B12 5 MG/ML Injectable Solution
+   
+   CAREPLANS:
+  2016-01-11 : Terminal care
+                         Reason: Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+                         Activity: Comfort measures
+                         Activity: Chronic pain control management
+                         Activity: Cancer education
+  2014-12-20 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1984-08-15 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1983-08-10 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

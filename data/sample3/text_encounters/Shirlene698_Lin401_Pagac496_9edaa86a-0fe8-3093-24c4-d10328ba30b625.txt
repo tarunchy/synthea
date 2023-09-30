@@ -1,0 +1,55 @@
+Shirlene698 Lin401 Pagac496
+===========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1953-09-13
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1977-10-09 : Encounter at CAREWELL URGENT CARE CENTERS OF MA, PC
+Type: urgentcare
+   
+   MEDICATIONS:
+  1977-10-09 : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Pulmonary emphysema (disorder)
+  1977-10-09 : albuterol 5 MG/ML Inhalation Solution for Pulmonary emphysema (disorder)
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1977-10-02 : Medication review due (situation)
+  1976-11-21 : Stress (finding)
+  1972-11-12 : Anemia (disorder)
+  1972-11-12 : Pulmonary emphysema (disorder)
+  1971-11-07 : Received higher education (finding)
+  1959-09-07 : Chronic sinusitis (disorder)
+   
+   MEDICATIONS:
+  1976-08-25 : Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+   
+   CAREPLANS:
+  1972-11-12 : Chronic obstructive pulmonary disease clinical management plan
+                         Reason: Pulmonary emphysema (disorder)
+                         Activity: Exercise therapy
+                         Activity: Pulmonary rehabilitation (regime/therapy)
+   
+--------------------------------------------------------------------------------

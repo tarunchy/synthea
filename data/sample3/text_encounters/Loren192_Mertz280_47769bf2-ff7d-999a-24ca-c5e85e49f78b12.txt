@@ -1,0 +1,60 @@
+Loren192 Mertz280
+=================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 3
+Birth Date:          2019-08-30
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-04-03 : Encounter at THE SHRINERS HOSPITAL FOR CHILDREN
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2020-04-03 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-04-03 : Respiratory rate                         13.0 /min
+  2020-04-03 : Heart rate                               94.0 /min
+  2020-04-03 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  144.0 mm[Hg]
+  2020-04-03 : Head Occipital-frontal circumference     46.5 cm
+  2020-04-03 : Head Occipital-frontal circumference Percentile 93.0 %
+  2020-04-03 : Weight-for-length Per age and sex        94.3 %
+  2020-04-03 : Body Weight                              10.6 kg
+  2020-04-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-04-03 : Body Height                              73.3 cm
+   
+   PROCEDURES:
+  2020-04-03 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2020-04-03 : Hep B, adolescent or pediatric
+  2020-04-03 : Pneumococcal conjugate PCV 13
+  2020-04-03 : DTaP
+  2020-04-03 : Influenza, seasonal, injectable, preservative free
+  2020-04-03 : IPV
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

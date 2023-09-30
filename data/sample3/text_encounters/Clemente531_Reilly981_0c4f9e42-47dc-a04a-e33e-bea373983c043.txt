@@ -1,0 +1,86 @@
+Clemente531 Reilly981
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 26
+Birth Date:          1997-05-05
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-06-01 : Encounter at NEW ENGLAND SINAI HOSPITAL : Encounter for Anemia (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-06-01 : CBC panel - Blood by Automated count
+           - Hemoglobin [Mass/volume] in Blood        11.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood    31.0 %
+           - Leukocytes [#/volume] in Blood by Automated count 6.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - MCV [Entitic volume] by Automated count  94.5 fL
+           - MCH [Entitic mass] by Automated count    32.3 pg
+           - MCHC [Mass/volume] by Automated count    35.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.4 fL
+           - Platelets [#/volume] in Blood by Automated count 395.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 451.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+   
+   OBSERVATIONS:
+  2020-06-01 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+  2020-06-01 : Platelet distribution width [Entitic volume] in Blood by Automated count 451.3 fL
+  2020-06-01 : Platelets [#/volume] in Blood by Automated count 395.6 10*3/uL
+  2020-06-01 : Erythrocyte distribution width [Entitic volume] by Automated count 40.4 fL
+  2020-06-01 : MCHC [Mass/volume] by Automated count    35.2 g/dL
+  2020-06-01 : MCH [Entitic mass] by Automated count    32.3 pg
+  2020-06-01 : MCV [Entitic volume] by Automated count  94.5 fL
+  2020-06-01 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2020-06-01 : Leukocytes [#/volume] in Blood by Automated count 6.6 10*3/uL
+  2020-06-01 : Hematocrit [Volume Fraction] of Blood    31.0 %
+  2020-06-01 : Hemoglobin [Mass/volume] in Blood        11.8 g/dL
+   
+   PROCEDURES:
+  2020-06-01 : Brief general examination (procedure)
+  2020-06-01 : Medication Reconciliation (procedure)
+  2020-06-01 : Review of systems (procedure)
+  2020-06-01 : Peripheral blood smear interpretation
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-05-25 : Acute bronchitis (disorder)
+  2020-05-11 : Social isolation (finding)
+  2020-05-11 : Anemia (disorder)
+  2019-07-08 : Medication review due (situation)
+  2016-07-04 : Transport problem (finding)
+  2015-06-29 : Lack of access to transportation (finding)
+  2015-06-29 : Full-time employment (finding)
+  2015-06-29 : Received higher education (finding)
+  2015-06-29 : Prediabetes
+   
+   MEDICATIONS:
+  2020-05-25 + Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+   
+   CAREPLANS:
+  2020-05-25 : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2015-06-29 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

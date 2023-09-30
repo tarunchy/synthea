@@ -1,0 +1,54 @@
+Caleb651 Kuhn96
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 56
+Birth Date:          1966-11-14
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-06-29 : Encounter at BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC. : Encounter for Streptococcal sore throat (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2022-06-29 : Streptococcal sore throat (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2022-06-29 : Body temperature                         38.0 Cel
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-12-08 : Has a criminal record (finding)
+  2020-12-08 : Full-time employment (finding)
+  2011-08-30 : Anemia (disorder)
+  2008-11-24 : Prediabetes
+  1985-01-08 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2011-09-06 : Vitamin B12 5 MG/ML Injectable Solution
+   
+   CAREPLANS:
+  2008-11-24 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

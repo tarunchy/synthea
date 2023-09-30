@@ -1,0 +1,54 @@
+Erasmo545 Fritsch593
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 40
+Birth Date:          1983-07-15
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-05-21 : Encounter at MORTON HOSPITAL
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2021-05-21 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-10-02 : Stress (finding)
+  2020-10-02 : Body mass index 30+ - obesity (finding)
+  2017-09-29 : Full-time employment (finding)
+  2017-09-29 : Medication review due (situation)
+  2011-09-23 : Anemia (disorder)
+  2011-09-23 : Prediabetes
+  2001-09-07 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2011-09-23 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

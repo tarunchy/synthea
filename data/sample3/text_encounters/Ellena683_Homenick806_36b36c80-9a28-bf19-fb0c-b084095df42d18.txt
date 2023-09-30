@@ -1,0 +1,106 @@
+Ellena683 Homenick806
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 17
+Birth Date:          2005-07-28
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2006-05-11 : Fish (substance)
+  2006-05-11 : Shellfish (substance)
+  2006-05-11 : Cow's milk (substance)
+  2006-05-11 : Aspirin
+  2006-05-11 : Tree pollen (substance)
+  2006-05-11 : Grass pollen (substance)
+  2006-05-11 : Animal dander (substance)
+  2006-05-11 : House dust mite (organism)
+  2006-05-11 : Mold (organism)
+  2006-05-11 : Latex (substance)
+  2006-05-11 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-09-09 : Encounter at CHELMSFORD PRIMARY CARE LLC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2021-09-09 : Risk activity involvement (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2021-09-09 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.0 %
+           - MCV [Entitic volume] by Automated count  82.9 fL
+           - MCH [Entitic mass] by Automated count    32.9 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.8 fL
+           - Platelets [#/volume] in Blood by Automated count 154.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 358.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2021-09-09 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+   
+   OBSERVATIONS:
+  2021-09-09 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+  2021-09-09 : Tobacco smoking status                   Smokes tobacco daily (finding) 
+  2021-09-09 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2021-09-09 : Platelet distribution width [Entitic volume] in Blood by Automated count 358.1 fL
+  2021-09-09 : Platelets [#/volume] in Blood by Automated count 154.0 10*3/uL
+  2021-09-09 : Erythrocyte distribution width [Entitic volume] by Automated count 41.8 fL
+  2021-09-09 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2021-09-09 : MCH [Entitic mass] by Automated count    32.9 pg
+  2021-09-09 : MCV [Entitic volume] by Automated count  82.9 fL
+  2021-09-09 : Hematocrit [Volume Fraction] of Blood by Automated count 44.0 %
+  2021-09-09 : Hemoglobin [Mass/volume] in Blood        16.7 g/dL
+  2021-09-09 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2021-09-09 : Leukocytes [#/volume] in Blood by Automated count 4.4 10*3/uL
+  2021-09-09 : Respiratory rate                         13.0 /min
+  2021-09-09 : Heart rate                               91.0 /min
+  2021-09-09 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  96.0 mm[Hg]
+  2021-09-09 : Body mass index (BMI) [Percentile] Per age and sex 64.5 %
+  2021-09-09 : Body mass index (BMI) [Ratio]            21.7 kg/m2
+  2021-09-09 : Body Weight                              59.9 kg
+  2021-09-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-09-09 : Body Height                              166.0 cm
+   
+   PROCEDURES:
+  2021-09-09 : Health risks education (procedure) for Risk activity involvement (finding)
+  2021-09-09 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-09-09 : Assessment of substance use (procedure)
+  2021-09-09 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-09-09 : Depression screening (procedure)
+  2021-09-09 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+  2021-09-09 : meningococcal MCV4P
+  2021-09-09 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2009-11-14 : Perennial allergic rhinitis with seasonal variation
+   
+   MEDICATIONS:
+  2006-05-11 : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2006-05-11 : Loratadine 5 MG Chewable Tablet
+   
+   CAREPLANS:
+  2018-08-02 : Allergic disorder monitoring
+                         Activity: Allergen immunotherapy (regime/therapy)
+  2006-04-23 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

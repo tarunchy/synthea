@@ -1,0 +1,131 @@
+Erasmo545 Fritsch593
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 40
+Birth Date:          1983-07-15
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-10-02 : Encounter at TAUNTON MEDICAL CENTER, PC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2020-10-02 : Stress (finding)
+  2020-10-02 : Body mass index 30+ - obesity (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-10-02 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           79.1 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     16.8 mg/dL
+           - Creatinine [Mass/volume] in Blood        1.4 mg/dL
+           - Calcium [Mass/volume] in Blood           9.9 mg/dL
+           - Sodium [Moles/volume] in Blood           139.1 mmol/L
+           - Potassium [Moles/volume] in Blood        3.9 mmol/L
+           - Chloride [Moles/volume] in Blood         105.8 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 20.2 mmol/L
+  2020-10-02 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 210.8 mg/dL
+           - Triglycerides                            140.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      126.9 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 55.8 mg/dL
+  2020-10-02 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2020-10-02 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+   
+   OBSERVATIONS:
+  2020-10-02 : Total score [DAST-10]                    2.0 {score}
+  2020-10-02 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2020-10-02 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 145217 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  693 Harvey Trail Apt 30 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 1.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2020-10-02 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-10-02 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 55.8 mg/dL
+  2020-10-02 : Low Density Lipoprotein Cholesterol      126.9 mg/dL
+  2020-10-02 : Triglycerides                            140.6 mg/dL
+  2020-10-02 : Cholesterol [Mass/volume] in Serum or Plasma 210.8 mg/dL
+  2020-10-02 : Carbon dioxide, total [Moles/volume] in Blood 20.2 mmol/L
+  2020-10-02 : Chloride [Moles/volume] in Blood         105.8 mmol/L
+  2020-10-02 : Potassium [Moles/volume] in Blood        3.9 mmol/L
+  2020-10-02 : Sodium [Moles/volume] in Blood           139.1 mmol/L
+  2020-10-02 : Calcium [Mass/volume] in Blood           9.9 mg/dL
+  2020-10-02 : Creatinine [Mass/volume] in Blood        1.4 mg/dL
+  2020-10-02 : Urea nitrogen [Mass/volume] in Blood     16.8 mg/dL
+  2020-10-02 : Glucose [Mass/volume] in Blood           79.1 mg/dL
+  2020-10-02 : Respiratory rate                         15.0 /min
+  2020-10-02 : Heart rate                               88.0 /min
+  2020-10-02 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 98.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2020-10-02 : Body mass index (BMI) [Ratio]            30.2 kg/m2
+  2020-10-02 : Body Weight                              99.4 kg
+  2020-10-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2020-10-02 : Body Height                              181.4 cm
+  2020-10-02 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+   
+   PROCEDURES:
+  2020-10-02 : Screening for drug abuse (procedure)
+  2020-10-02 : Assessment of substance use (procedure)
+  2020-10-02 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2020-10-02 : Depression screening (procedure)
+  2020-10-02 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+  2020-10-02 : Influenza, seasonal, injectable, preservative free
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-09-12 : Concussion with no loss of consciousness
+  2020-09-12 : Concussion injury of brain (disorder)
+  2017-09-29 : Full-time employment (finding)
+  2017-09-29 : Medication review due (situation)
+  2011-09-23 : Misuses drugs (finding)
+  2011-09-23 : Anemia (disorder)
+  2011-09-23 : Prediabetes
+  2001-09-07 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2020-09-12 : Head injury rehabilitation
+                         Reason: Concussion with no loss of consciousness
+                         Activity: Recommendation to rest
+                         Activity: Alcohol-free diet
+  2011-09-23 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

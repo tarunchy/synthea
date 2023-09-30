@@ -1,0 +1,49 @@
+Zulema784 Sanford861
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 24
+Birth Date:          1998-08-12
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-03-27 : Encounter at SOUTH SHORE HOSPITAL INC. : Encounter for Viral sinusitis (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2020-03-27 : Viral sinusitis (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2017-10-12 : Stress (finding)
+  2016-10-06 : Unhealthy alcohol drinking behavior (finding)
+  2016-10-06 : Limited social contact (finding)
+  2016-10-06 : Unemployed (finding)
+  2016-10-06 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2019-07-06 : Camila 28 Day Pack
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

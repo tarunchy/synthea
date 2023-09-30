@@ -1,0 +1,48 @@
+Ignacio928 Cedillo160
+=====================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 29
+Birth Date:          1994-01-29
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-03-13 : Encounter at THE SHRINERS HOSPITAL FOR CHILDREN
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2021-03-13 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2016-04-02 : Stress (finding)
+  2013-03-30 : Lack of access to transportation (finding)
+  2012-03-24 : Transport problem (finding)
+  2012-03-24 : Full-time employment (finding)
+  2012-03-24 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

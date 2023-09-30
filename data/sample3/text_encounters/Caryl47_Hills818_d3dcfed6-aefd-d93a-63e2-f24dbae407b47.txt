@@ -1,0 +1,81 @@
+Caryl47 Hills818
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 22
+Birth Date:          2001-03-14
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-12-15 : Encounter at UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC : Encounter for Suspected COVID-19
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2020-12-15 : COVID-19
+  2020-12-15 : Loss of taste (finding)
+  2020-12-15 : Fever (finding)
+   
+   CARE PLANS:
+  2020-12-15 : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Isolation of infected patient (procedure)
+  2020-12-15 : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Personal protective equipment (physical object)
+   
+   REPORTS:
+  2020-12-15 : Influenza virus A and B Ag panel - Upper respiratory specimen by Rapid immunoassay
+           - Influenza virus A Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+           - Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+  2020-12-15 : SARS-CoV-2 RNA Pnl Resp NAA+probe
+           - SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+   
+   OBSERVATIONS:
+  2020-12-15 : SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2020-12-15 : Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+  2020-12-15 : Influenza virus A Ag [Presence] in Upper respiratory specimen by Rapid immunoassay Not detected (qualifier value) 
+  2020-12-15 : Body Weight                              109.5 kg
+  2020-12-15 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2020-12-15 : Oxygen saturation in Arterial blood      81.9 %
+  2020-12-15 : Heart rate                               110.0 /min
+  2020-12-15 : Respiratory rate                         19.3 /min
+  2020-12-15 : Body temperature                         38.8 Cel
+   
+   PROCEDURES:
+  2020-12-15 : Face mask (physical object) for Suspected COVID-19
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-05-13 : Full-time employment (finding)
+  2019-05-08 : Received higher education (finding)
+  2019-04-19 : Chronic neck pain (finding)
+  2019-04-19 : Chronic low back pain (finding)
+  2019-04-19 : Chronic pain (finding)
+  2017-04-26 : Medication review due (situation)
+   
+   MEDICATIONS:
+  2020-05-13 : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2020-05-13 : 72 HR Fentanyl 0.025 MG/HR Transdermal System
+  2020-05-13 : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+  2020-02-16 : Camila 28 Day Pack
+   
+   CAREPLANS:
+  2019-07-13 : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavioral therapy (regime/therapy)
+   
+--------------------------------------------------------------------------------

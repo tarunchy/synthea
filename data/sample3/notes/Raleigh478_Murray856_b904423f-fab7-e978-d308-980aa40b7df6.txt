@@ -1,0 +1,384 @@
+
+2011-02-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Raleigh478
+ is a 18 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with served in armed forces (finding), received higher education (finding), full-time employment (finding), lack of access to transportation (finding), stress (finding). 
+
+## Plan
+
+
+
+
+2012-01-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Raleigh478
+ is a 19 year-old nonhispanic white male.
+
+# Social History
+Patient is married. Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was placed on a careplan:
+- mental health care plan
+
+
+
+2012-01-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Raleigh478
+ is a 19 year-old nonhispanic white male.
+
+# Social History
+Patient is married. Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with major depression disorder. 
+
+## Plan
+
+The patient was prescribed the following medications:
+- fluoxetine 20 mg oral capsule
+The patient was placed on a careplan:
+- major depressive disorder clinical management plan
+
+
+
+2012-02-11
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Raleigh478
+ is a 19 year-old nonhispanic white male.
+
+# Social History
+Patient is married. Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with transport problem (finding), stress (finding). 
+
+## Plan
+
+
+
+
+2015-02-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Raleigh478
+ is a 22 year-old nonhispanic white male.
+
+# Social History
+Patient is married. Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with limited social contact (finding). 
+
+## Plan
+
+
+
+
+2015-03-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Raleigh478
+ is a 22 year-old nonhispanic white male.
+
+# Social History
+Patient is married. Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+
+
+
+
+2016-02-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Raleigh478
+ is a 23 year-old nonhispanic white male.
+
+# Social History
+Patient is married. Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with sepsis (disorder). 
+
+## Plan
+
+
+
+
+2018-02-17
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Raleigh478
+ is a 25 year-old nonhispanic white male.
+
+# Social History
+Patient is married. Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation), full-time employment (finding), social isolation (finding). 
+
+## Plan
+
+
+
+
+2019-10-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Raleigh478
+ is a 26 year-old nonhispanic white male.
+
+# Social History
+Patient is married. Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with acute viral pharyngitis (disorder). 
+
+## Plan
+
+
+
+
+2019-12-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Raleigh478
+ is a 27 year-old nonhispanic white male.
+
+# Social History
+Patient is married. Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2021-02-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Raleigh478
+ is a 28 year-old nonhispanic white male.
+
+# Social History
+Patient is married. Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+- assessment of health and social care needs (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2021-10-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Raleigh478
+ is a 28 year-old nonhispanic white male.
+
+# Social History
+Patient is married. Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: sars-cov-2 (covid-19) vaccine, vector non-replicating, recombinant spike protein-ad26, preservative free, 0.5 ml. 
+
+
+

@@ -1,0 +1,103 @@
+Emmanuel930 Volkman526
+======================
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 23
+Birth Date:          1999-11-18
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-08-11 : Encounter at LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON : Encounter for Suspected COVID-19
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2020-08-11 : COVID-19
+  2020-08-11 : Fever (finding)
+  2020-08-11 : Diarrhea symptom (finding)
+  2020-08-11 : Fatigue (finding)
+  2020-08-11 : Sputum finding (finding)
+  2020-08-11 : Cough (finding)
+   
+   CARE PLANS:
+  2020-08-11 : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Isolation of infected patient (procedure)
+  2020-08-11 : Infectious disease care plan (record artifact)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Personal protective equipment (physical object)
+   
+   REPORTS:
+  2020-08-11 : Respiratory pathogens DNA and RNA panel - Respiratory specimen by NAA with probe detection
+           - Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-08-11 : SARS-CoV-2 RNA Pnl Resp NAA+probe
+           - SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+   
+   OBSERVATIONS:
+  2020-08-11 : SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2020-08-11 : Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-08-11 : Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-08-11 : Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-08-11 : Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-08-11 : Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-08-11 : Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-08-11 : Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-08-11 : Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-08-11 : Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-08-11 : Body Weight                              69.8 kg
+  2020-08-11 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2020-08-11 : Oxygen saturation in Arterial blood      75.8 %
+  2020-08-11 : Heart rate                               189.8 /min
+  2020-08-11 : Respiratory rate                         20.8 /min
+  2020-08-11 : Body temperature                         38.0 Cel
+   
+   PROCEDURES:
+  2020-08-11 : Face mask (physical object) for Suspected COVID-19
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2020-01-23 : Limited social contact (finding)
+  2020-01-23 : Lack of access to transportation (finding)
+  2020-01-23 : Part-time employment (finding)
+  2019-01-17 : Social isolation (finding)
+  2019-01-17 : Medication review due (situation)
+  2018-01-11 : Stress (finding)
+  2018-01-11 : Transport problem (finding)
+  2018-01-11 : Received higher education (finding)
+  2018-01-11 : Housing unsatisfactory (finding)
+  2017-12-23 : Chronic low back pain (finding)
+  2017-12-23 : Chronic pain (finding)
+   
+   MEDICATIONS:
+  2020-01-23 + albuterol 0.83 MG/ML Inhalation Solution for Childhood asthma
+  2020-01-23 + budesonide 0.125 MG/ML Inhalation Suspension for Childhood asthma
+   
+   CAREPLANS:
+  2001-12-27 : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+   
+--------------------------------------------------------------------------------

@@ -1,0 +1,205 @@
+Ian270 Bayer639
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2004-05-02 : Encounter at Fitchburg Outpatient Clinic : Encounter for Chronic congestive heart failure (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2004-05-02 : Chronic congestive heart failure (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2004-05-02 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        11.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.5 %
+           - MCV [Entitic volume] by Automated count  91.5 fL
+           - MCH [Entitic mass] by Automated count    27.4 pg
+           - MCHC [Mass/volume] by Automated count    31.6 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 12.4 %
+           - Platelets [#/volume] in Blood by Automated count 384.3 10*3/uL
+  2004-05-02 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 98.8 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 16.9 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 3.2 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 8.9 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 136.8 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.8 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 102.5 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 26.3 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 24.3 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.7 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.5 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 1.0 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 68.8 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.1 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 7.1 U/L
+  2004-05-02 : Lipid panel with direct LDL - Serum or Plasma
+           - Cholesterol [Mass/volume] in Serum or Plasma 143.3 mg/dL
+           - Triglycerides                            112.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      69.7 mg/dL
+           - Cholesterol in HDL [Mass/volume] in Serum or Plasma 51.1 mg/dL
+  2004-05-02 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 0.0 pg/mL
+  2004-05-02 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 126.4 ug/L
+  2004-05-02 : Iron and Iron binding capacity panel - Serum or Plasma
+           - Iron [Mass/volume] in Serum or Plasma    76.7 ug/dL
+           - Iron binding capacity [Mass/volume] in Serum or Plasma 378.0 ug/dL
+           - Iron saturation [Mass Fraction] in Serum or Plasma 32.3 %
+  2004-05-02 : New York Heart Association Functional Classification panel
+           - Functional capacity NYHA                 Class II 
+           - Objective assessment of cardiovascular disease NYHA Objective evidence of minimal cardiovascular disease 
+   
+   OBSERVATIONS:
+  2004-05-02 : Objective assessment of cardiovascular disease NYHA Objective evidence of minimal cardiovascular disease 
+  2004-05-02 : Functional capacity NYHA                 Class II 
+  2004-05-02 : Iron saturation [Mass Fraction] in Serum or Plasma 32.3 %
+  2004-05-02 : Iron binding capacity [Mass/volume] in Serum or Plasma 378.0 ug/dL
+  2004-05-02 : Iron [Mass/volume] in Serum or Plasma    76.7 ug/dL
+  2004-05-02 : Ferritin [Mass/volume] in Serum or Plasma 126.4 ug/L
+  2004-05-02 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 0.0 pg/mL
+  2004-05-02 : Hemoglobin A1c/Hemoglobin.total in Blood 3.0 %
+  2004-05-02 : Cholesterol in HDL [Mass/volume] in Serum or Plasma 51.1 mg/dL
+  2004-05-02 : Low Density Lipoprotein Cholesterol      69.7 mg/dL
+  2004-05-02 : Triglycerides                            112.5 mg/dL
+  2004-05-02 : Cholesterol [Mass/volume] in Serum or Plasma 143.3 mg/dL
+  2004-05-02 : Magnesium [Mass/volume] in Serum or Plasma 2.0 mg/dL
+  2004-05-02 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 7.1 U/L
+  2004-05-02 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.1 U/L
+  2004-05-02 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 68.8 U/L
+  2004-05-02 : Bilirubin.total [Mass/volume] in Serum or Plasma 1.0 mg/dL
+  2004-05-02 : Albumin [Mass/volume] in Serum or Plasma 4.5 g/dL
+  2004-05-02 : Protein [Mass/volume] in Serum or Plasma 7.7 g/dL
+  2004-05-02 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 24.3 mL/min
+  2004-05-02 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 26.3 mmol/L
+  2004-05-02 : Chloride [Moles/volume] in Serum or Plasma 102.5 mmol/L
+  2004-05-02 : Potassium [Moles/volume] in Serum or Plasma 4.8 mmol/L
+  2004-05-02 : Sodium [Moles/volume] in Serum or Plasma 136.8 mmol/L
+  2004-05-02 : Calcium [Mass/volume] in Serum or Plasma 8.9 mg/dL
+  2004-05-02 : Creatinine [Mass/volume] in Serum or Plasma 3.2 mg/dL
+  2004-05-02 : Urea nitrogen [Mass/volume] in Serum or Plasma 16.9 mg/dL
+  2004-05-02 : Glucose [Mass/volume] in Serum or Plasma 98.8 mg/dL
+  2004-05-02 : Platelets [#/volume] in Blood by Automated count 384.3 10*3/uL
+  2004-05-02 : Erythrocyte distribution width [Ratio] by Automated count 12.4 %
+  2004-05-02 : MCHC [Mass/volume] by Automated count    31.6 g/dL
+  2004-05-02 : MCH [Entitic mass] by Automated count    27.4 pg
+  2004-05-02 : MCV [Entitic volume] by Automated count  91.5 fL
+  2004-05-02 : Hematocrit [Volume Fraction] of Blood by Automated count 47.5 %
+  2004-05-02 : Hemoglobin [Mass/volume] in Blood        11.3 g/dL
+  2004-05-02 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2004-05-02 : Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+  2004-05-02 : NT-proBNP                                891.3 pg/mL
+  2004-05-02 : Body Weight                              94.1 kg
+  2004-05-02 : Symptom                                  Rales (finding) 
+  2004-05-02 : Symptom                                  Edema (finding) 
+  2004-05-02 : Symptom                                  Orthopnea (finding) 
+  2004-05-02 : Symptom                                  Paroxysmal dyspnea (finding) 
+  2004-05-02 : Symptom                                  Dyspnea (finding) 
+  2004-05-02 : Symptom                                  Dyspnea on exertion (finding) 
+   
+   PROCEDURES:
+  2004-05-02 : Assessment using New York Heart Association Classification (procedure) for Chronic congestive heart failure (disorder)
+  2004-05-02 : Plain chest X-ray (procedure)
+  2004-05-02 : Cardiovascular stress testing (procedure) for Chronic congestive heart failure (disorder)
+  2004-05-02 : Electrocardiographic procedure for Chronic congestive heart failure (disorder)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+  2004-05-02 : Computed Radiography, Thoracic structure (body structure)
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2004-04-25 : Stress (finding)
+  2004-03-28 : Part-time employment (finding)
+  2004-03-28 : Medication review due (situation)
+  2004-02-29 : Victim of intimate partner abuse (finding)
+  2001-06-10 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  2001-06-10 : Chronic kidney disease stage 3 (disorder)
+  2000-12-19 : Alzheimer's disease (disorder)
+  1994-06-05 : Osteoporosis (disorder)
+  1992-07-20 : History of aortic valve replacement (situation)
+  1990-11-11 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1990-11-11 : Chronic kidney disease stage 2 (disorder)
+  1990-05-13 : Carcinoma in situ of prostate (disorder)
+  1990-05-13 : Neoplasm of prostate
+  1988-11-20 : Disorder of kidney due to diabetes mellitus (disorder)
+  1988-11-20 : Chronic kidney disease stage 1 (disorder)
+  1987-05-05 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  1987-04-26 : Ischemic heart disease (disorder)
+  1976-02-22 : Essential hypertension (disorder)
+  1975-04-20 : Smokes tobacco daily
+  1965-01-30 : Aortic valve regurgitation (disorder)
+  1953-07-12 : Has a criminal record (finding)
+  1952-04-20 : Anemia (disorder)
+  1949-04-17 : Prediabetes
+  1942-04-05 : Received higher education (finding)
+  1942-04-05 : Housing unsatisfactory (finding)
+  1942-04-05 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+  2004-04-25 : warfarin sodium 5 MG Oral Tablet
+  2004-04-25 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2004-04-25 + insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2000-12-19 + Donepezil hydrochloride 10 MG Oral Tablet for Alzheimer's disease (disorder)
+  1987-05-03 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1987-05-03 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  1975-02-16 : nicotine 7 MG/Day 24HR Transdermal System
+   
+   CAREPLANS:
+  2000-12-19 : Dementia management
+                         Reason: Alzheimer's disease (disorder)
+                         Activity: Patient education (procedure)
+                         Activity: Promotion of use of memory skills
+                         Activity: Long term social support
+  1992-07-21 : Discharge care plan (record artifact)
+                         Reason: History of aortic valve replacement (situation)
+                         Activity: Perioperative care management (procedure)
+                         Activity: Cardiovascular monitoring (regime/therapy)
+                         Activity: Management of vascular system care (procedure)
+                         Activity: Activity care (regime/therapy)
+                         Activity: Advance diet as tolerated (regime/therapy)
+                         Activity: Pharmacological assessment (procedure)
+                         Activity: Dressing change management (procedure)
+                         Activity: Patient education (procedure)
+                         Activity: Scheduling of follow up appointment (procedure)
+  1990-05-13 : Cancer care plan
+                         Reason: Neoplasm of prostate
+                         Reason: Neoplasm of prostate
+                         Activity: Physical activity target light exercise
+                         Activity: Ice bath treatment
+  1976-02-22 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1975-02-16 : Care Plan
+                         Reason: Aortic valve regurgitation (disorder)
+                         Activity: smoking cessation therapy
+                         Activity: Referral for laboratory tests (procedure)
+                         Activity: Referral to radiology service (procedure)
+                         Activity: Refer for angiogram (procedure)
+  1949-04-17 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

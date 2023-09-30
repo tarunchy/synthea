@@ -1,0 +1,43 @@
+Marta91 Ángela136 Sotelo656
+========Á==================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 53
+Birth Date:          1969-09-25
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1970-03-05 : Encounter at DIMOCK COMMUNITY HEALTH CENTER, INC
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  1970-03-05 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

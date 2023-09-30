@@ -1,0 +1,180 @@
+Desmond566 Botsford977
+======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1924-02-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+1995-12-31 : Encounter at VA Boston Healthcare System, West Roxbury Campus : Encounter for End-stage renal disease (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  1995-12-31 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Blood           96.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     14.0 mg/dL
+           - Creatinine [Mass/volume] in Blood        2.7 mg/dL
+           - Calcium [Mass/volume] in Blood           8.9 mg/dL
+           - Sodium [Moles/volume] in Blood           138.0 mmol/L
+           - Potassium [Moles/volume] in Blood        5.1 mmol/L
+           - Chloride [Moles/volume] in Blood         103.8 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 23.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 26.4 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.2 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.4 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.4 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.5 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 32.6 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 29.6 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 37.5 U/L
+  1995-12-31 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.2 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.0 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 5.3 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                7.0 pH
+           - Protein [Mass/volume] in Urine by Test strip 449.0 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+   
+   OBSERVATIONS:
+  1995-12-31 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  1995-12-31 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  1995-12-31 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  1995-12-31 : Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+  1995-12-31 : Protein [Mass/volume] in Urine by Test strip 449.0 mg/dL
+  1995-12-31 : pH of Urine by Test strip                7.0 pH
+  1995-12-31 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  1995-12-31 : Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+  1995-12-31 : Ketones [Mass/volume] in Urine by Test strip 5.3 mg/dL
+  1995-12-31 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  1995-12-31 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.0 mg/dL
+  1995-12-31 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  1995-12-31 : Glucose [Mass/volume] in Urine by Test strip 1.2 mg/dL
+  1995-12-31 : Color of Urine                           Brown color (qualifier value) {nominal}
+  1995-12-31 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  1995-12-31 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  1995-12-31 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  1995-12-31 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 37.5 U/L
+  1995-12-31 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 29.6 U/L
+  1995-12-31 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 32.6 U/L
+  1995-12-31 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.5 mg/dL
+  1995-12-31 : Globulin [Mass/volume] in Serum by calculation 2.4 g/L
+  1995-12-31 : Albumin [Mass/volume] in Serum or Plasma 4.4 g/dL
+  1995-12-31 : Protein [Mass/volume] in Serum or Plasma 6.2 g/dL
+  1995-12-31 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 26.4 mL/min
+  1995-12-31 : Carbon dioxide, total [Moles/volume] in Blood 23.7 mmol/L
+  1995-12-31 : Chloride [Moles/volume] in Blood         103.8 mmol/L
+  1995-12-31 : Potassium [Moles/volume] in Blood        5.1 mmol/L
+  1995-12-31 : Sodium [Moles/volume] in Blood           138.0 mmol/L
+  1995-12-31 : Calcium [Mass/volume] in Blood           8.9 mg/dL
+  1995-12-31 : Creatinine [Mass/volume] in Blood        2.7 mg/dL
+  1995-12-31 : Urea nitrogen [Mass/volume] in Blood     14.0 mg/dL
+  1995-12-31 : Glucose [Mass/volume] in Blood           96.0 mg/dL
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  1995-12-24 : Misuses drugs (finding)
+  1995-12-24 : Victim of intimate partner abuse (finding)
+  1995-12-24 : Part-time employment (finding)
+  1995-08-13 : Medication review due (situation)
+  1994-03-05 : History of myocardial infarction (situation)
+  1994-03-04 : Preinfarction syndrome (disorder)
+  1991-02-17 : Awaiting transplantation of kidney (situation)
+  1991-02-03 : End-stage renal disease (disorder)
+  1990-12-30 : Anemia (disorder)
+  1989-08-13 : Atrial fibrillation (disorder)
+  1989-04-11 : Hyperlipidemia
+  1986-05-04 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  1986-05-04 : Chronic kidney disease stage 3 (disorder)
+  1985-08-04 : Carcinoma in situ of prostate (disorder)
+  1985-08-04 : Neoplasm of prostate
+  1971-11-14 : Metabolic syndrome X (disorder)
+  1969-07-27 : Body mass index 30+ - obesity (finding)
+  1962-07-14 : Osteoarthritis of knee
+  1958-10-26 : Prediabetes
+  1958-05-25 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1958-05-25 : Chronic kidney disease stage 2 (disorder)
+  1955-12-11 : Disorder of kidney due to diabetes mellitus (disorder)
+  1955-12-11 : Chronic kidney disease stage 1 (disorder)
+  1952-04-20 : Essential hypertension (disorder)
+  1942-04-05 : Received higher education (finding)
+  1942-04-05 : Housing unsatisfactory (finding)
+  1942-04-05 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+  1995-12-24 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  1995-12-24 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  1995-12-24 + Warfarin Sodium 5 MG Oral Tablet for Atrial fibrillation (disorder)
+  1995-12-24 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  1995-12-24 + Digoxin 0.125 MG Oral Tablet for Atrial fibrillation (disorder)
+  1995-12-24 + verapamil hydrochloride 80 MG Oral Tablet for Atrial fibrillation (disorder)
+  1995-12-24 + insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  1995-05-18 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  1994-03-05 : prasugrel 10 MG Oral Tablet
+  1994-03-05 : telmisartan 80 MG Oral Tablet
+  1994-03-05 : atorvastatin 10 MG Oral Tablet
+  1994-03-05 : 24 HR metoprolol succinate 25 MG Extended Release Oral Tablet
+  1994-03-05 : aspirin 81 MG Oral Tablet
+  1990-12-30 : ferrous sulfate 325 MG Oral Tablet
+  1962-07-14 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+   
+   CAREPLANS:
+  1994-03-05 : Discharge care plan (record artifact)
+  1991-01-02 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1989-05-02 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+  1985-08-04 : Cancer care plan
+                         Reason: Neoplasm of prostate
+                         Reason: Neoplasm of prostate
+                         Activity: Physical activity target light exercise
+                         Activity: Ice bath treatment
+  1962-07-14 : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  1958-10-26 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1952-04-20 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

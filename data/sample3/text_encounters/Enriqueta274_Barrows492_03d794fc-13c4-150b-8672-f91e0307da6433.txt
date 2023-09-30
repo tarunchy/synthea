@@ -1,0 +1,481 @@
+Enriqueta274 Barrows492
+=======================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1965-06-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-02-14 : Encounter at HEBREW REHABILITATION CENTER : Encounter for Awaiting transplantation of kidney (situation)
+Type: inpatient
+   
+   MEDICATIONS:
+  2019-02-22 : 24 HR tacrolimus 1 MG Extended Release Oral Tablet for History of renal transplant (situation)
+  2019-02-22 : 1 ML tacrolimus 5 MG/ML Injection for History of renal transplant (situation)
+  2019-02-21 : 1 ML tacrolimus 5 MG/ML Injection for History of renal transplant (situation)
+  2019-02-20 : 1 ML tacrolimus 5 MG/ML Injection for History of renal transplant (situation)
+  2019-02-19 : 1 ML tacrolimus 5 MG/ML Injection for History of renal transplant (situation)
+  2019-02-18 : 1 ML tacrolimus 5 MG/ML Injection for History of renal transplant (situation)
+  2019-02-17 : 1 ML tacrolimus 5 MG/ML Injection for History of renal transplant (situation)
+  2019-02-16 : 1 ML tacrolimus 5 MG/ML Injection for History of renal transplant (situation)
+  2019-02-15 : 1 ML tacrolimus 5 MG/ML Injection for History of renal transplant (situation)
+  2019-02-14 : 1 ML tacrolimus 5 MG/ML Injection for Awaiting transplantation of kidney (situation)
+   
+   CONDITIONS:
+  2019-02-14 : History of renal transplant (situation)
+   
+   CARE PLANS:
+  2019-02-14 : Care plan (record artifact)
+                         Activity: Transplantation of kidney regime (regime/therapy)
+                         Activity: Post-surgical wound care (regime/therapy)
+                         Activity: Renal function monitoring (regime/therapy)
+                         Activity: Very low sodium diet (finding)
+   
+   REPORTS:
+  2019-02-14 : Basic Metabolic 2000 Panel
+           - Glucose                                  92.6 mg/dL
+           - Urea Nitrogen                            12.7 mg/dL
+           - Creatinine                               2.9 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   139.9 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 105.4 mmol/L
+           - Carbon Dioxide                           21.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 5.3 mL/min
+  2019-02-14 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.0 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.6 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 8.2 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                5.3 pH
+           - Protein [Mass/volume] in Urine by Test strip 426.2 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2019-02-15 : Basic Metabolic Panel
+           - Glucose                                  92.6 mg/dL
+           - Urea Nitrogen                            12.7 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   139.9 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 105.4 mmol/L
+           - Carbon Dioxide                           21.7 mmol/L
+  2019-02-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.0 %
+           - MCV [Entitic volume] by Automated count  90.4 fL
+           - MCH [Entitic mass] by Automated count    30.7 pg
+           - MCHC [Mass/volume] by Automated count    34.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.7 fL
+           - Platelets [#/volume] in Blood by Automated count 374.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 283.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2019-02-16 : Basic Metabolic Panel
+           - Glucose                                  92.6 mg/dL
+           - Urea Nitrogen                            12.7 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   139.9 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 105.4 mmol/L
+           - Carbon Dioxide                           21.7 mmol/L
+  2019-02-16 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.8 %
+           - MCV [Entitic volume] by Automated count  80.3 fL
+           - MCH [Entitic mass] by Automated count    31.8 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.6 fL
+           - Platelets [#/volume] in Blood by Automated count 229.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 289.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2019-02-17 : Basic Metabolic Panel
+           - Glucose                                  92.6 mg/dL
+           - Urea Nitrogen                            12.7 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   139.9 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 105.4 mmol/L
+           - Carbon Dioxide                           21.7 mmol/L
+  2019-02-17 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.4 %
+           - MCV [Entitic volume] by Automated count  86.1 fL
+           - MCH [Entitic mass] by Automated count    31.6 pg
+           - MCHC [Mass/volume] by Automated count    33.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.0 fL
+           - Platelets [#/volume] in Blood by Automated count 322.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 343.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2019-02-18 : Basic Metabolic Panel
+           - Glucose                                  92.6 mg/dL
+           - Urea Nitrogen                            12.7 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   139.9 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 105.4 mmol/L
+           - Carbon Dioxide                           21.7 mmol/L
+  2019-02-18 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.3 %
+           - MCV [Entitic volume] by Automated count  93.6 fL
+           - MCH [Entitic mass] by Automated count    32.5 pg
+           - MCHC [Mass/volume] by Automated count    33.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.9 fL
+           - Platelets [#/volume] in Blood by Automated count 330.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 218.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2019-02-19 : Basic Metabolic Panel
+           - Glucose                                  92.6 mg/dL
+           - Urea Nitrogen                            12.7 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   139.9 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 105.4 mmol/L
+           - Carbon Dioxide                           21.7 mmol/L
+  2019-02-19 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.4 %
+           - MCV [Entitic volume] by Automated count  81.0 fL
+           - MCH [Entitic mass] by Automated count    31.2 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.6 fL
+           - Platelets [#/volume] in Blood by Automated count 274.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 170.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2019-02-20 : Basic Metabolic Panel
+           - Glucose                                  81.7 mg/dL
+           - Urea Nitrogen                            7.3 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   137.0 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 104.3 mmol/L
+           - Carbon Dioxide                           23.9 mmol/L
+  2019-02-20 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.0 %
+           - MCV [Entitic volume] by Automated count  90.3 fL
+           - MCH [Entitic mass] by Automated count    27.4 pg
+           - MCHC [Mass/volume] by Automated count    35.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.2 fL
+           - Platelets [#/volume] in Blood by Automated count 163.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 186.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2019-02-21 : Basic Metabolic Panel
+           - Glucose                                  81.7 mg/dL
+           - Urea Nitrogen                            7.3 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   137.0 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 104.3 mmol/L
+           - Carbon Dioxide                           23.9 mmol/L
+  2019-02-21 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.9 %
+           - MCV [Entitic volume] by Automated count  93.9 fL
+           - MCH [Entitic mass] by Automated count    27.3 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.0 fL
+           - Platelets [#/volume] in Blood by Automated count 301.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 448.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2019-02-22 : Basic Metabolic Panel
+           - Glucose                                  81.7 mg/dL
+           - Urea Nitrogen                            7.3 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   137.0 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 104.3 mmol/L
+           - Carbon Dioxide                           23.9 mmol/L
+  2019-02-22 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.4 %
+           - MCV [Entitic volume] by Automated count  81.3 fL
+           - MCH [Entitic mass] by Automated count    30.2 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.9 fL
+           - Platelets [#/volume] in Blood by Automated count 447.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 518.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+   
+   OBSERVATIONS:
+  2019-02-22 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+  2019-02-22 : Platelet distribution width [Entitic volume] in Blood by Automated count 518.4 fL
+  2019-02-22 : Platelets [#/volume] in Blood by Automated count 447.5 10*3/uL
+  2019-02-22 : Erythrocyte distribution width [Entitic volume] by Automated count 39.9 fL
+  2019-02-22 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2019-02-22 : MCH [Entitic mass] by Automated count    30.2 pg
+  2019-02-22 : MCV [Entitic volume] by Automated count  81.3 fL
+  2019-02-22 : Hematocrit [Volume Fraction] of Blood by Automated count 39.4 %
+  2019-02-22 : Hemoglobin [Mass/volume] in Blood        15.4 g/dL
+  2019-02-22 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2019-02-22 : Leukocytes [#/volume] in Blood by Automated count 10.0 10*3/uL
+  2019-02-22 : Carbon Dioxide                           23.9 mmol/L
+  2019-02-22 : Chloride                                 104.3 mmol/L
+  2019-02-22 : Potassium                                4.1 mmol/L
+  2019-02-22 : Sodium                                   137.0 mmol/L
+  2019-02-22 : Calcium                                  9.8 mg/dL
+  2019-02-22 : Creatinine                               1.2 mg/dL
+  2019-02-22 : Urea Nitrogen                            7.3 mg/dL
+  2019-02-22 : Glucose                                  81.7 mg/dL
+  2019-02-21 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2019-02-21 : Platelet distribution width [Entitic volume] in Blood by Automated count 448.0 fL
+  2019-02-21 : Platelets [#/volume] in Blood by Automated count 301.5 10*3/uL
+  2019-02-21 : Erythrocyte distribution width [Entitic volume] by Automated count 45.0 fL
+  2019-02-21 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2019-02-21 : MCH [Entitic mass] by Automated count    27.3 pg
+  2019-02-21 : MCV [Entitic volume] by Automated count  93.9 fL
+  2019-02-21 : Hematocrit [Volume Fraction] of Blood by Automated count 47.9 %
+  2019-02-21 : Hemoglobin [Mass/volume] in Blood        17.0 g/dL
+  2019-02-21 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2019-02-21 : Leukocytes [#/volume] in Blood by Automated count 10.4 10*3/uL
+  2019-02-21 : Carbon Dioxide                           23.9 mmol/L
+  2019-02-21 : Chloride                                 104.3 mmol/L
+  2019-02-21 : Potassium                                4.1 mmol/L
+  2019-02-21 : Sodium                                   137.0 mmol/L
+  2019-02-21 : Calcium                                  9.8 mg/dL
+  2019-02-21 : Creatinine                               1.2 mg/dL
+  2019-02-21 : Urea Nitrogen                            7.3 mg/dL
+  2019-02-21 : Glucose                                  81.7 mg/dL
+  2019-02-20 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2019-02-20 : Platelet distribution width [Entitic volume] in Blood by Automated count 186.9 fL
+  2019-02-20 : Platelets [#/volume] in Blood by Automated count 163.5 10*3/uL
+  2019-02-20 : Erythrocyte distribution width [Entitic volume] by Automated count 45.2 fL
+  2019-02-20 : MCHC [Mass/volume] by Automated count    35.6 g/dL
+  2019-02-20 : MCH [Entitic mass] by Automated count    27.4 pg
+  2019-02-20 : MCV [Entitic volume] by Automated count  90.3 fL
+  2019-02-20 : Hematocrit [Volume Fraction] of Blood by Automated count 37.0 %
+  2019-02-20 : Hemoglobin [Mass/volume] in Blood        16.3 g/dL
+  2019-02-20 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2019-02-20 : Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+  2019-02-20 : Carbon Dioxide                           23.9 mmol/L
+  2019-02-20 : Chloride                                 104.3 mmol/L
+  2019-02-20 : Potassium                                4.1 mmol/L
+  2019-02-20 : Sodium                                   137.0 mmol/L
+  2019-02-20 : Calcium                                  9.8 mg/dL
+  2019-02-20 : Creatinine                               1.2 mg/dL
+  2019-02-20 : Urea Nitrogen                            7.3 mg/dL
+  2019-02-20 : Glucose                                  81.7 mg/dL
+  2019-02-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2019-02-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 170.4 fL
+  2019-02-19 : Platelets [#/volume] in Blood by Automated count 274.7 10*3/uL
+  2019-02-19 : Erythrocyte distribution width [Entitic volume] by Automated count 43.6 fL
+  2019-02-19 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2019-02-19 : MCH [Entitic mass] by Automated count    31.2 pg
+  2019-02-19 : MCV [Entitic volume] by Automated count  81.0 fL
+  2019-02-19 : Hematocrit [Volume Fraction] of Blood by Automated count 37.4 %
+  2019-02-19 : Hemoglobin [Mass/volume] in Blood        12.0 g/dL
+  2019-02-19 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2019-02-19 : Leukocytes [#/volume] in Blood by Automated count 10.1 10*3/uL
+  2019-02-19 : Carbon Dioxide                           21.7 mmol/L
+  2019-02-19 : Chloride                                 105.4 mmol/L
+  2019-02-19 : Potassium                                4.4 mmol/L
+  2019-02-19 : Sodium                                   139.9 mmol/L
+  2019-02-19 : Calcium                                  9.6 mg/dL
+  2019-02-19 : Creatinine                               0.8 mg/dL
+  2019-02-19 : Urea Nitrogen                            12.7 mg/dL
+  2019-02-19 : Glucose                                  92.6 mg/dL
+  2019-02-18 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2019-02-18 : Platelet distribution width [Entitic volume] in Blood by Automated count 218.6 fL
+  2019-02-18 : Platelets [#/volume] in Blood by Automated count 330.5 10*3/uL
+  2019-02-18 : Erythrocyte distribution width [Entitic volume] by Automated count 44.9 fL
+  2019-02-18 : MCHC [Mass/volume] by Automated count    33.6 g/dL
+  2019-02-18 : MCH [Entitic mass] by Automated count    32.5 pg
+  2019-02-18 : MCV [Entitic volume] by Automated count  93.6 fL
+  2019-02-18 : Hematocrit [Volume Fraction] of Blood by Automated count 44.3 %
+  2019-02-18 : Hemoglobin [Mass/volume] in Blood        14.7 g/dL
+  2019-02-18 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2019-02-18 : Leukocytes [#/volume] in Blood by Automated count 4.8 10*3/uL
+  2019-02-18 : Carbon Dioxide                           21.7 mmol/L
+  2019-02-18 : Chloride                                 105.4 mmol/L
+  2019-02-18 : Potassium                                4.4 mmol/L
+  2019-02-18 : Sodium                                   139.9 mmol/L
+  2019-02-18 : Calcium                                  9.6 mg/dL
+  2019-02-18 : Creatinine                               0.8 mg/dL
+  2019-02-18 : Urea Nitrogen                            12.7 mg/dL
+  2019-02-18 : Glucose                                  92.6 mg/dL
+  2019-02-17 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2019-02-17 : Platelet distribution width [Entitic volume] in Blood by Automated count 343.8 fL
+  2019-02-17 : Platelets [#/volume] in Blood by Automated count 322.5 10*3/uL
+  2019-02-17 : Erythrocyte distribution width [Entitic volume] by Automated count 45.0 fL
+  2019-02-17 : MCHC [Mass/volume] by Automated count    33.1 g/dL
+  2019-02-17 : MCH [Entitic mass] by Automated count    31.6 pg
+  2019-02-17 : MCV [Entitic volume] by Automated count  86.1 fL
+  2019-02-17 : Hematocrit [Volume Fraction] of Blood by Automated count 38.4 %
+  2019-02-17 : Hemoglobin [Mass/volume] in Blood        15.8 g/dL
+  2019-02-17 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2019-02-17 : Leukocytes [#/volume] in Blood by Automated count 7.3 10*3/uL
+  2019-02-17 : Carbon Dioxide                           21.7 mmol/L
+  2019-02-17 : Chloride                                 105.4 mmol/L
+  2019-02-17 : Potassium                                4.4 mmol/L
+  2019-02-17 : Sodium                                   139.9 mmol/L
+  2019-02-17 : Calcium                                  9.6 mg/dL
+  2019-02-17 : Creatinine                               0.8 mg/dL
+  2019-02-17 : Urea Nitrogen                            12.7 mg/dL
+  2019-02-17 : Glucose                                  92.6 mg/dL
+  2019-02-16 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2019-02-16 : Platelet distribution width [Entitic volume] in Blood by Automated count 289.4 fL
+  2019-02-16 : Platelets [#/volume] in Blood by Automated count 229.3 10*3/uL
+  2019-02-16 : Erythrocyte distribution width [Entitic volume] by Automated count 41.6 fL
+  2019-02-16 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2019-02-16 : MCH [Entitic mass] by Automated count    31.8 pg
+  2019-02-16 : MCV [Entitic volume] by Automated count  80.3 fL
+  2019-02-16 : Hematocrit [Volume Fraction] of Blood by Automated count 40.8 %
+  2019-02-16 : Hemoglobin [Mass/volume] in Blood        15.5 g/dL
+  2019-02-16 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2019-02-16 : Leukocytes [#/volume] in Blood by Automated count 9.1 10*3/uL
+  2019-02-16 : Carbon Dioxide                           21.7 mmol/L
+  2019-02-16 : Chloride                                 105.4 mmol/L
+  2019-02-16 : Potassium                                4.4 mmol/L
+  2019-02-16 : Sodium                                   139.9 mmol/L
+  2019-02-16 : Calcium                                  9.6 mg/dL
+  2019-02-16 : Creatinine                               0.8 mg/dL
+  2019-02-16 : Urea Nitrogen                            12.7 mg/dL
+  2019-02-16 : Glucose                                  92.6 mg/dL
+  2019-02-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2019-02-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 283.5 fL
+  2019-02-15 : Platelets [#/volume] in Blood by Automated count 374.6 10*3/uL
+  2019-02-15 : Erythrocyte distribution width [Entitic volume] by Automated count 45.7 fL
+  2019-02-15 : MCHC [Mass/volume] by Automated count    34.9 g/dL
+  2019-02-15 : MCH [Entitic mass] by Automated count    30.7 pg
+  2019-02-15 : MCV [Entitic volume] by Automated count  90.4 fL
+  2019-02-15 : Hematocrit [Volume Fraction] of Blood by Automated count 49.0 %
+  2019-02-15 : Hemoglobin [Mass/volume] in Blood        14.7 g/dL
+  2019-02-15 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2019-02-15 : Leukocytes [#/volume] in Blood by Automated count 9.7 10*3/uL
+  2019-02-15 : Carbon Dioxide                           21.7 mmol/L
+  2019-02-15 : Chloride                                 105.4 mmol/L
+  2019-02-15 : Potassium                                4.4 mmol/L
+  2019-02-15 : Sodium                                   139.9 mmol/L
+  2019-02-15 : Calcium                                  9.6 mg/dL
+  2019-02-15 : Creatinine                               0.8 mg/dL
+  2019-02-15 : Urea Nitrogen                            12.7 mg/dL
+  2019-02-15 : Glucose                                  92.6 mg/dL
+  2019-02-14 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2019-02-14 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2019-02-14 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2019-02-14 : Protein [Presence] in Urine by Test strip Urine protein test = +++ (finding) {nominal}
+  2019-02-14 : Protein [Mass/volume] in Urine by Test strip 426.2 mg/dL
+  2019-02-14 : pH of Urine by Test strip                5.3 pH
+  2019-02-14 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2019-02-14 : Ketones [Presence] in Urine by Test strip Urine ketone test = +++ (finding) {nominal}
+  2019-02-14 : Ketones [Mass/volume] in Urine by Test strip 8.2 mg/dL
+  2019-02-14 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2019-02-14 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.6 mg/dL
+  2019-02-14 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2019-02-14 : Glucose [Mass/volume] in Urine by Test strip 1.0 mg/dL
+  2019-02-14 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2019-02-14 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2019-02-14 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2019-02-14 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2019-02-14 : Glomerular filtration rate/1.73 sq M.predicted 5.3 mL/min
+  2019-02-14 : Carbon Dioxide                           21.7 mmol/L
+  2019-02-14 : Chloride                                 105.4 mmol/L
+  2019-02-14 : Potassium                                4.4 mmol/L
+  2019-02-14 : Sodium                                   139.9 mmol/L
+  2019-02-14 : Calcium                                  9.6 mg/dL
+  2019-02-14 : Creatinine                               2.9 mg/dL
+  2019-02-14 : Urea Nitrogen                            12.7 mg/dL
+  2019-02-14 : Glucose                                  92.6 mg/dL
+   
+   PROCEDURES:
+  2019-02-22 : Transplantation of kidney regime (regime/therapy) for History of renal transplant (situation)
+  2019-02-21 : Transplantation of kidney regime (regime/therapy) for History of renal transplant (situation)
+  2019-02-20 : Transplantation of kidney regime (regime/therapy) for History of renal transplant (situation)
+  2019-02-19 : Transplantation of kidney regime (regime/therapy) for History of renal transplant (situation)
+  2019-02-18 : Transplantation of kidney regime (regime/therapy) for History of renal transplant (situation)
+  2019-02-17 : Transplantation of kidney regime (regime/therapy) for History of renal transplant (situation)
+  2019-02-16 : Transplantation of kidney regime (regime/therapy) for History of renal transplant (situation)
+  2019-02-15 : Transplantation of kidney regime (regime/therapy) for History of renal transplant (situation)
+  2019-02-14 : Transplant of kidney (procedure) for Awaiting transplantation of kidney (situation)
+  2019-02-14 : Pretransplant evaluation of kidney recipient (procedure) for Awaiting transplantation of kidney (situation)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-12-05 : Social isolation (finding)
+  2018-12-05 : Full-time employment (finding)
+  2018-10-31 : Limited social contact (finding)
+  2016-05-18 : Victim of intimate partner abuse (finding)
+  2016-01-11 : Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+  2016-01-08 : Small cell carcinoma of lung (disorder)
+  2015-12-08 : Suspected lung cancer (situation)
+  2008-12-24 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  2007-03-07 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  2005-05-11 : Disorder of kidney due to diabetes mellitus (disorder)
+  2004-04-14 : Metabolic syndrome X (disorder)
+  1997-10-29 : Body mass index 30+ - obesity (finding)
+  1984-08-15 : Anemia (disorder)
+  1984-08-15 : Prediabetes
+  1983-08-10 : Received higher education (finding)
+  1983-08-10 : Essential hypertension (disorder)
+   
+   MEDICATIONS:
+  2019-01-30 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2019-01-30 + Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+  2019-01-30 + insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  1984-08-23 : Vitamin B12 5 MG/ML Injectable Solution
+   
+   CAREPLANS:
+  2016-01-11 : Terminal care
+                         Reason: Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder)
+                         Activity: Comfort measures
+                         Activity: Chronic pain control management
+                         Activity: Cancer education
+  2014-12-20 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1984-08-15 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1983-08-10 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

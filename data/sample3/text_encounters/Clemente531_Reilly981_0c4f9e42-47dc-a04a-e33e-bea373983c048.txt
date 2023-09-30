@@ -1,0 +1,54 @@
+Clemente531 Reilly981
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 26
+Birth Date:          1997-05-05
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-01-12 : Encounter at NEW ENGLAND SINAI HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2019-01-12 : Acute viral pharyngitis (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2019-01-12 : Body temperature                         37.6 Cel
+   
+   PROCEDURES:
+  2019-01-12 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2016-07-04 : Transport problem (finding)
+  2015-06-29 : Lack of access to transportation (finding)
+  2015-06-29 : Full-time employment (finding)
+  2015-06-29 : Received higher education (finding)
+  2015-06-29 : Prediabetes
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2015-06-29 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------

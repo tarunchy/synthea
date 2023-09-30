@@ -1,0 +1,72 @@
+Ike571 Conroy74
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 99
+Birth Date:          1924-02-10
+Marital Status:      D
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2010-01-31 : Encounter at BOSTON HEALTH CARE INC
+Type: wellness
+   
+   MEDICATIONS:
+  2010-01-31 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+  2010-01-31 : Social isolation (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2005-01-02 : Limited social contact (finding)
+  1993-01-14 : History of coronary artery bypass grafting (situation)
+  1992-11-05 : Abnormal findings diagnostic imaging heart+coronary circulat (finding)
+  1992-10-25 : Ischemic heart disease (disorder)
+  1988-10-02 : Hyperlipidemia
+  1977-06-03 : Osteoarthritis of knee
+  1963-05-12 : Has a criminal record (finding)
+  1961-04-30 : Essential hypertension (disorder)
+  1958-04-27 : Body mass index 30+ - obesity (finding)
+  1949-02-20 : History of appendectomy
+  1949-02-20 : Appendicitis
+  1942-04-05 : Received higher education (finding)
+   
+   MEDICATIONS:
+  2009-01-26 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  1992-11-01 : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1992-11-01 : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet
+  1992-11-01 : Simvastatin 20 MG Oral Tablet
+  1988-10-23 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  1977-06-03 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+   
+   CAREPLANS:
+  1988-10-23 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+  1961-04-30 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

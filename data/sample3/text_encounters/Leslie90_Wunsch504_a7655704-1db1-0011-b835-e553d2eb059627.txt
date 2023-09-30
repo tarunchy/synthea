@@ -1,0 +1,182 @@
+Leslie90 Wunsch504
+==================
+Race:                Asian
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 46
+Birth Date:          1976-09-03
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1977-03-15 : Wheat (substance)
+  1977-03-15 : Eggs (edible) (substance)
+  1977-03-15 : Cow's milk (substance)
+  1977-03-15 : Lisinopril
+  1977-03-15 : Tree pollen (substance)
+  1977-03-15 : Grass pollen (substance)
+  1977-03-15 : Animal dander (substance)
+  1977-03-15 : House dust mite (organism)
+  1977-03-15 : Mold (organism)
+  1977-03-15 : Latex (substance)
+  1977-03-15 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-08-02 : Encounter at WILLOW MANOR
+Type: emergency
+   
+   MEDICATIONS:
+  2019-08-02 : amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2019-08-02 : losartan potassium 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+  2019-08-02 : Stress (finding)
+  2019-08-02 : Full-time employment (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2019-08-02 : Basic metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 94.1 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 9.8 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 1.7 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.4 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 140.6 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 3.7 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 107.0 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 25.2 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 94.7 mL/min/{1.73_m2}
+  2019-08-02 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 1.1 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.7 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 4.4 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = trace (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                7.0 pH
+           - Protein [Mass/volume] in Urine by Test strip 120.5 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = + (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2019-08-02 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2019-08-02 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2019-08-02 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+   
+   OBSERVATIONS:
+  2019-08-02 : Total score [AUDIT-C]                    2.0 {score}
+  2019-08-02 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2019-08-02 : Total score [HARK]                       0.0 {score}
+  2019-08-02 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? Yes 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 7250 /a
+           - Primary insurance                        Medicaid 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  1018 Jaskolski Esplanade Unit 99 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 4.0 {#}
+           - Preferred language                       English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? Yes 
+           - Race                                     Asian 
+           - Do you consider yourself Hispanic/Latino? No 
+  2019-08-02 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2019-08-02 : Respiratory rate                         14.0 /min
+  2019-08-02 : Heart rate                               76.0 /min
+  2019-08-02 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 90.0 mm[Hg]
+           - Systolic Blood Pressure                  145.0 mm[Hg]
+  2019-08-02 : Body mass index (BMI) [Ratio]            30.1 kg/m2
+  2019-08-02 : Body Weight                              93.9 kg
+  2019-08-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-08-02 : Body Height                              176.5 cm
+  2019-08-02 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2019-08-02 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2019-08-02 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2019-08-02 : Protein [Presence] in Urine by Test strip Urine protein test = + (finding) {nominal}
+  2019-08-02 : Protein [Mass/volume] in Urine by Test strip 120.5 mg/dL
+  2019-08-02 : pH of Urine by Test strip                7.0 pH
+  2019-08-02 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2019-08-02 : Ketones [Presence] in Urine by Test strip Urine ketone test = trace (finding) {nominal}
+  2019-08-02 : Ketones [Mass/volume] in Urine by Test strip 4.4 mg/dL
+  2019-08-02 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2019-08-02 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.7 mg/dL
+  2019-08-02 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2019-08-02 : Glucose [Mass/volume] in Urine by Test strip 1.1 mg/dL
+  2019-08-02 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2019-08-02 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2019-08-02 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2019-08-02 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2019-08-02 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 94.7 mL/min/{1.73_m2}
+  2019-08-02 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 25.2 mmol/L
+  2019-08-02 : Chloride [Moles/volume] in Serum or Plasma 107.0 mmol/L
+  2019-08-02 : Potassium [Moles/volume] in Serum or Plasma 3.7 mmol/L
+  2019-08-02 : Sodium [Moles/volume] in Serum or Plasma 140.6 mmol/L
+  2019-08-02 : Calcium [Mass/volume] in Serum or Plasma 9.4 mg/dL
+  2019-08-02 : Creatinine [Mass/volume] in Serum or Plasma 1.7 mg/dL
+  2019-08-02 : Urea nitrogen [Mass/volume] in Serum or Plasma 9.8 mg/dL
+  2019-08-02 : Glucose [Mass/volume] in Serum or Plasma 94.1 mg/dL
+   
+   PROCEDURES:
+  2019-08-02 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2019-08-02 : Assessment of substance use (procedure)
+  2019-08-02 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2019-08-02 : Depression screening (procedure)
+  2019-08-02 : Screening for domestic abuse (procedure)
+  2019-08-02 : Assessment of health and social care needs (procedure)
+  2019-08-02 : Medication Reconciliation (procedure)
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-07-25 : Viral sinusitis (disorder)
+  2019-07-05 : Body mass index 30+ - obesity (finding)
+  2018-05-04 : Osteoarthritis of knee
+  2017-02-17 : Victim of intimate partner abuse (finding)
+  2015-11-27 : Disorder of kidney due to diabetes mellitus (disorder)
+  2015-11-27 : Chronic kidney disease stage 1 (disorder)
+  1998-11-06 : Essential hypertension (disorder)
+  1994-10-28 : Received higher education (finding)
+  1993-10-22 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+  2018-05-04 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+  1977-03-15 : Astemizole 10 MG Oral Tablet
+   
+   CAREPLANS:
+  2018-05-04 : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  1998-11-06 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1977-03-02 : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+   
+--------------------------------------------------------------------------------

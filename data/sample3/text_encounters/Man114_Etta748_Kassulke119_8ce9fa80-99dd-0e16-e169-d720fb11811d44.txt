@@ -1,0 +1,136 @@
+Man114 Etta748 Kassulke119
+==========================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 76
+Birth Date:          1946-12-23
+Marital Status:      W
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2018-11-12 : Encounter at HEALTH ALLIANCE HOME HEALTH AND HOSPICE
+Type: emergency
+   
+   MEDICATIONS:
+  2018-11-12 : Alendronic acid 10 MG Oral Tablet for Osteoporosis (disorder)
+  2018-11-12 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2018-11-12 : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2018-11-12 : 24 HR tacrolimus 1 MG Extended Release Oral Tablet for History of renal transplant (situation)
+  2018-11-12 : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+   
+   CONDITIONS:
+  2018-11-12 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2018-11-12 : Basic metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 85.8 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 11.2 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.0 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.4 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 143.5 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 3.8 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 105.7 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 27.9 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 76.8 mL/min/{1.73_m2}
+  2018-11-12 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 0.9 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.3 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 6.3 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.0 pH
+           - Protein [Mass/volume] in Urine by Test strip 236.6 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+   
+   OBSERVATIONS:
+  2018-11-12 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2018-11-12 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2018-11-12 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2018-11-12 : Protein [Presence] in Urine by Test strip Urine protein test = ++ (finding) {nominal}
+  2018-11-12 : Protein [Mass/volume] in Urine by Test strip 236.6 mg/dL
+  2018-11-12 : pH of Urine by Test strip                6.0 pH
+  2018-11-12 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2018-11-12 : Ketones [Presence] in Urine by Test strip Urine ketone test = + (finding) {nominal}
+  2018-11-12 : Ketones [Mass/volume] in Urine by Test strip 6.3 mg/dL
+  2018-11-12 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2018-11-12 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.3 mg/dL
+  2018-11-12 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2018-11-12 : Glucose [Mass/volume] in Urine by Test strip 0.9 mg/dL
+  2018-11-12 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2018-11-12 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2018-11-12 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2018-11-12 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2018-11-12 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 76.8 mL/min/{1.73_m2}
+  2018-11-12 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 27.9 mmol/L
+  2018-11-12 : Chloride [Moles/volume] in Serum or Plasma 105.7 mmol/L
+  2018-11-12 : Potassium [Moles/volume] in Serum or Plasma 3.8 mmol/L
+  2018-11-12 : Sodium [Moles/volume] in Serum or Plasma 143.5 mmol/L
+  2018-11-12 : Calcium [Mass/volume] in Serum or Plasma 9.4 mg/dL
+  2018-11-12 : Creatinine [Mass/volume] in Serum or Plasma 2.0 mg/dL
+  2018-11-12 : Urea nitrogen [Mass/volume] in Serum or Plasma 11.2 mg/dL
+  2018-11-12 : Glucose [Mass/volume] in Serum or Plasma 85.8 mg/dL
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2018-09-24 : Stress (finding)
+  2018-09-24 : Full-time employment (finding)
+  2016-08-30 : Chronic sinusitis (disorder)
+  2015-09-07 : Chronic kidney disease stage 2 (disorder)
+  2014-09-01 : Chronic kidney disease stage 1 (disorder)
+  2014-02-05 : Chronic neck pain (finding)
+  2014-02-05 : Chronic pain (finding)
+  2010-03-11 : History of renal transplant (situation)
+  2007-01-08 : Osteoporosis (disorder)
+  2000-03-20 : Proteinuria due to type 2 diabetes mellitus (disorder)
+  1999-08-23 : Microalbuminuria due to type 2 diabetes mellitus (disorder)
+  1998-06-01 : Has a criminal record (finding)
+  1996-12-23 : Disorder of kidney due to diabetes mellitus (disorder)
+  1984-03-12 : Essential hypertension (disorder)
+  1978-03-13 : Miscarriage in first trimester
+  1965-02-15 : Received higher education (finding)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2014-03-25 : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavioral therapy (regime/therapy)
+  2010-03-11 : Care plan (record artifact)
+                         Activity: Transplantation of kidney regime (regime/therapy)
+                         Activity: Post-surgical wound care (regime/therapy)
+                         Activity: Renal function monitoring (regime/therapy)
+                         Activity: Very low sodium diet (finding)
+  2005-12-15 : Dialysis care plan (record artifact)
+                         Activity: Low salt diet education (procedure)
+                         Activity: Lower limb exercises (regime/therapy)
+                         Activity: Diet education (procedure)
+  1984-03-12 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

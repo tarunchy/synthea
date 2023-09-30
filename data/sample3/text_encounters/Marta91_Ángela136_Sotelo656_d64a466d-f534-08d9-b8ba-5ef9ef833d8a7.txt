@@ -1,0 +1,135 @@
+Marta91 Ángela136 Sotelo656
+========Á==================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 53
+Birth Date:          1969-09-25
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-05-21 : Encounter at DIMOCK COMMUNITY HEALTH CENTER, INC
+Type: wellness
+   
+   MEDICATIONS:
+  2020-05-21 : lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2020-05-21 : Hydrochlorothiazide 25 MG Oral Tablet for Essential hypertension (disorder)
+   
+   CONDITIONS:
+  2020-05-21 : Stress (finding)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-05-21 : Basic metabolic panel - Blood
+           - Glucose [Mass/volume] in Blood           64.7 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     17.8 mg/dL
+           - Creatinine [Mass/volume] in Blood        1.1 mg/dL
+           - Calcium [Mass/volume] in Blood           8.9 mg/dL
+           - Sodium [Moles/volume] in Blood           142.2 mmol/L
+           - Potassium [Moles/volume] in Blood        4.6 mmol/L
+           - Chloride [Moles/volume] in Blood         108.8 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 27.3 mmol/L
+  2020-05-21 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-05-21 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+   
+   OBSERVATIONS:
+  2020-05-21 : Total score [DAST-10]                    1.0 {score}
+  2020-05-21 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-05-21 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - Within the last year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress level                             Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 98355 /a
+           - Primary insurance                        Private insurance 
+           - Employment status - current              Full-time work 
+           - Highest level of education               More than high school 
+           - Address                                  111 Nicolas Byway Unit 72 
+           - Are you worried about losing your housing? No 
+           - Housing status                           I have housing 
+           - How many people are living or staying at this address? 5.0 {#}
+           - Preferred language                       Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Race                                     White 
+           - Do you consider yourself Hispanic/Latino? No 
+  2020-05-21 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-05-21 : Carbon dioxide, total [Moles/volume] in Blood 27.3 mmol/L
+  2020-05-21 : Chloride [Moles/volume] in Blood         108.8 mmol/L
+  2020-05-21 : Potassium [Moles/volume] in Blood        4.6 mmol/L
+  2020-05-21 : Sodium [Moles/volume] in Blood           142.2 mmol/L
+  2020-05-21 : Calcium [Mass/volume] in Blood           8.9 mg/dL
+  2020-05-21 : Creatinine [Mass/volume] in Blood        1.1 mg/dL
+  2020-05-21 : Urea nitrogen [Mass/volume] in Blood     17.8 mg/dL
+  2020-05-21 : Glucose [Mass/volume] in Blood           64.7 mg/dL
+  2020-05-21 : Respiratory rate                         13.0 /min
+  2020-05-21 : Heart rate                               64.0 /min
+  2020-05-21 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2020-05-21 : Body mass index (BMI) [Ratio]            27.6 kg/m2
+  2020-05-21 : Body Weight                              79.7 kg
+  2020-05-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-05-21 : Body Height                              169.8 cm
+  2020-05-21 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+   
+   PROCEDURES:
+  2020-05-21 : Screening for drug abuse (procedure)
+  2020-05-21 : Assessment of substance use (procedure)
+  2020-05-21 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2020-05-21 : Depression screening (procedure)
+  2020-05-21 : Assessment of health and social care needs (procedure)
+   
+   IMMUNIZATIONS:
+  2020-05-21 : Influenza, seasonal, injectable, preservative free
+  2020-05-21 : zoster vaccine, live
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2019-09-26 : Polyp of colon
+  2019-05-16 : Medication review due (situation)
+  2016-04-28 : Full-time employment (finding)
+  2014-04-17 : Metabolic syndrome X (disorder)
+  2010-11-07 : Osteoarthritis of knee
+  2007-03-08 : Anemia (disorder)
+  2007-03-08 : Prediabetes
+  2002-02-07 : Refugee (person)
+  1993-12-23 : Body mass index 30+ - obesity (finding)
+  1988-11-24 : Transport problem (finding)
+  1987-11-19 : Lack of access to transportation (finding)
+  1987-11-19 : Received higher education (finding)
+  1987-11-19 : Essential hypertension (disorder)
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+  2010-11-07 : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  2007-03-08 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1987-11-19 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

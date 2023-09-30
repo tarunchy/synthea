@@ -1,0 +1,87 @@
+Pasquale620 Hartmann983
+=======================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 3
+Birth Date:          2020-03-28
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2021-06-12 : Peanut (substance)
+  2021-06-12 : Wheat (substance)
+  2021-06-12 : Tree pollen (substance)
+  2021-06-12 : Grass pollen (substance)
+  2021-06-12 : Animal dander (substance)
+  2021-06-12 : House dust mite (organism)
+  2021-06-12 : Mold (organism)
+  2021-06-12 : Bee venom (substance)
+  2021-06-12 : Allergy to substance (finding)
+--------------------------------------------------------------------------------
+ENCOUNTER
+2020-03-28 : Encounter at MANET COMMUNITY HEALTH CENTER, INC.
+Type: wellness
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2020-03-28 : Medication review due (situation)
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2020-03-28 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.5 %
+           - MCV [Entitic volume] by Automated count  84.3 fL
+           - MCH [Entitic mass] by Automated count    32.9 pg
+           - MCHC [Mass/volume] by Automated count    33.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.6 fL
+           - Platelets [#/volume] in Blood by Automated count 284.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 210.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+   
+   OBSERVATIONS:
+  2020-03-28 : Tobacco smoking status                   Never smoked tobacco (finding) 
+  2020-03-28 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2020-03-28 : Platelet distribution width [Entitic volume] in Blood by Automated count 210.8 fL
+  2020-03-28 : Platelets [#/volume] in Blood by Automated count 284.7 10*3/uL
+  2020-03-28 : Erythrocyte distribution width [Entitic volume] by Automated count 41.6 fL
+  2020-03-28 : MCHC [Mass/volume] by Automated count    33.8 g/dL
+  2020-03-28 : MCH [Entitic mass] by Automated count    32.9 pg
+  2020-03-28 : MCV [Entitic volume] by Automated count  84.3 fL
+  2020-03-28 : Hematocrit [Volume Fraction] of Blood by Automated count 43.5 %
+  2020-03-28 : Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+  2020-03-28 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2020-03-28 : Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+  2020-03-28 : Respiratory rate                         16.0 /min
+  2020-03-28 : Heart rate                               74.0 /min
+  2020-03-28 : Blood pressure panel with all children optional
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2020-03-28 : Head Occipital-frontal circumference     33.9 cm
+  2020-03-28 : Head Occipital-frontal circumference Percentile 17.5 %
+  2020-03-28 : Weight-for-length Per age and sex        62.0 %
+  2020-03-28 : Body Weight                              3.6 kg
+  2020-03-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2020-03-28 : Body Height                              50.1 cm
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2020-03-28 : Hep B, adolescent or pediatric
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+   
+   MEDICATIONS:
+   
+   CAREPLANS:
+   
+--------------------------------------------------------------------------------

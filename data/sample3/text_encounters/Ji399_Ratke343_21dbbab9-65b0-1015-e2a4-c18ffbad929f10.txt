@@ -1,0 +1,69 @@
+Ji399 Ratke343
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 67
+Birth Date:          1956-05-04
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2021-08-13 : Encounter at FAIRVIEW HOSPITAL
+Type: outpatient
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+  2021-08-13 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2021-01-22 : Social isolation (finding)
+  2021-01-22 : Medication review due (situation)
+  2021-01-22 : Atrial fibrillation (disorder)
+  2019-01-11 : Stress (finding)
+  2019-01-11 : Full-time employment (finding)
+  2014-06-23 : Osteoarthritis of knee
+  1997-05-09 : Body mass index 30+ - obesity (finding)
+  1987-07-17 : Essential hypertension (disorder)
+  1981-04-17 : Miscarriage in first trimester
+  1974-06-28 : Received higher education (finding)
+  1974-06-28 : Housing unsatisfactory (finding)
+   
+   MEDICATIONS:
+  2021-01-22 + Digoxin 0.125 MG Oral Tablet for Atrial fibrillation (disorder)
+  2021-01-22 + Warfarin Sodium 5 MG Oral Tablet for Atrial fibrillation (disorder)
+  2021-01-22 + verapamil hydrochloride 80 MG Oral Tablet for Atrial fibrillation (disorder)
+  2021-01-22 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2014-06-23 + Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+   
+   CAREPLANS:
+  2014-06-23 : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  1987-07-17 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

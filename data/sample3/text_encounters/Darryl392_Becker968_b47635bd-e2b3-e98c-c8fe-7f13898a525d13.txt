@@ -1,0 +1,145 @@
+Darryl392 Becker968
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 67
+Birth Date:          1955-09-17
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2022-05-04 : Encounter at Springfield Outpatient Clinic : Encounter for Malignant tumor of colon
+Type: ambulatory
+   
+   MEDICATIONS:
+  2022-05-04 : 10 ML oxaliplatin 5 MG/ML Injection for Malignant tumor of colon
+  2022-05-04 : Leucovorin 100 MG Injection for Malignant tumor of colon
+   
+   CONDITIONS:
+   
+   CARE PLANS:
+   
+   REPORTS:
+  2022-05-04 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Blood           92.7 mg/dL
+           - Urea nitrogen [Mass/volume] in Blood     9.6 mg/dL
+           - Creatinine [Mass/volume] in Blood        2.5 mg/dL
+           - Calcium [Mass/volume] in Blood           10.2 mg/dL
+           - Sodium [Moles/volume] in Blood           136.0 mmol/L
+           - Potassium [Moles/volume] in Blood        4.7 mmol/L
+           - Chloride [Moles/volume] in Blood         109.7 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Blood 22.6 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 8.4 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.5 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.7 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.7 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.6 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 128.7 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 25.3 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 7.7 U/L
+  2022-05-04 : CBC panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 31.2 %
+           - MCV [Entitic volume] by Automated count  95.0 fL
+           - MCH [Entitic mass] by Automated count    33.0 pg
+           - MCHC [Mass/volume] by Automated count    35.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.5 fL
+           - Platelets [#/volume] in Blood by Automated count 394.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 386.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+   
+   OBSERVATIONS:
+  2022-05-04 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2022-05-04 : Platelet distribution width [Entitic volume] in Blood by Automated count 386.8 fL
+  2022-05-04 : Platelets [#/volume] in Blood by Automated count 394.5 10*3/uL
+  2022-05-04 : Erythrocyte distribution width [Entitic volume] by Automated count 42.5 fL
+  2022-05-04 : MCHC [Mass/volume] by Automated count    35.2 g/dL
+  2022-05-04 : MCH [Entitic mass] by Automated count    33.0 pg
+  2022-05-04 : MCV [Entitic volume] by Automated count  95.0 fL
+  2022-05-04 : Hematocrit [Volume Fraction] of Blood by Automated count 31.2 %
+  2022-05-04 : Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+  2022-05-04 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2022-05-04 : Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+  2022-05-04 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 7.7 U/L
+  2022-05-04 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 25.3 U/L
+  2022-05-04 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 128.7 U/L
+  2022-05-04 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.6 mg/dL
+  2022-05-04 : Globulin [Mass/volume] in Serum by calculation 2.7 g/L
+  2022-05-04 : Albumin [Mass/volume] in Serum or Plasma 3.7 g/dL
+  2022-05-04 : Protein [Mass/volume] in Serum or Plasma 6.5 g/dL
+  2022-05-04 : Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD) 8.4 mL/min
+  2022-05-04 : Carbon dioxide, total [Moles/volume] in Blood 22.6 mmol/L
+  2022-05-04 : Chloride [Moles/volume] in Blood         109.7 mmol/L
+  2022-05-04 : Potassium [Moles/volume] in Blood        4.7 mmol/L
+  2022-05-04 : Sodium [Moles/volume] in Blood           136.0 mmol/L
+  2022-05-04 : Calcium [Mass/volume] in Blood           10.2 mg/dL
+  2022-05-04 : Creatinine [Mass/volume] in Blood        2.5 mg/dL
+  2022-05-04 : Urea nitrogen [Mass/volume] in Blood     9.6 mg/dL
+  2022-05-04 : Glucose [Mass/volume] in Blood           92.7 mg/dL
+  2022-05-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+   
+   PROCEDURES:
+  2022-05-04 : Combined chemotherapy and radiation therapy (procedure) for Malignant tumor of colon
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2022-02-27 : Malignant tumor of colon
+  2022-02-24 : Recurrent rectal polyp
+  2021-05-16 : Full-time employment (finding)
+  2021-05-15 : Medication review due (situation)
+  2020-09-17 : Polyp of colon
+  2020-05-09 : Hyperlipidemia
+  2016-04-16 : Osteoporosis (disorder)
+  2009-03-07 : Prediabetes
+  2009-03-07 : Metabolic syndrome X (disorder)
+  2002-07-06 : Alcoholism
+  2002-01-27 : Unhealthy alcohol drinking behavior (finding)
+  2001-01-20 : Body mass index 30+ - obesity (finding)
+  1993-12-11 : Disorder of kidney due to diabetes mellitus (disorder)
+  1993-12-11 : Chronic kidney disease stage 1 (disorder)
+  1992-12-05 : Essential hypertension (disorder)
+  1973-11-10 : Only received primary school education (finding)
+  1973-11-10 : Served in armed forces (finding)
+   
+   MEDICATIONS:
+  2021-05-30 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2021-05-10 + Alendronic acid 10 MG Oral Tablet for Osteoporosis (disorder)
+  2021-05-10 + lisinopril 10 MG Oral Tablet for Essential hypertension (disorder)
+  2021-05-10 + insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin] for Prediabetes
+  2020-05-30 + Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+   
+   CAREPLANS:
+  2022-02-27 : Cancer care plan
+                         Reason: Malignant tumor of colon
+                         Activity: Healthy diet
+                         Activity: Colonoscopy planned
+                         Activity: Cancer education
+  2020-05-30 : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: Low salt diet education
+                         Activity: Physical exercises (regime/therapy)
+  2009-03-07 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2002-01-26 : Care Plan
+                         Activity: Alcoholism counseling
+  1992-12-05 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+   
+--------------------------------------------------------------------------------

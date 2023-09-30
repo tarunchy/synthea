@@ -1,0 +1,64 @@
+Micah422 Willms744
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 39
+Birth Date:          1984-05-28
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+ENCOUNTER
+2019-12-07 : Encounter at BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH INC : Encounter for Acute viral pharyngitis (disorder)
+Type: ambulatory
+   
+   MEDICATIONS:
+   
+   CONDITIONS:
+  2019-12-07 : Acute viral pharyngitis (disorder)
+   
+   CARE PLANS:
+   
+   REPORTS:
+   
+   OBSERVATIONS:
+  2019-12-07 : Body temperature                         37.3 Cel
+   
+   PROCEDURES:
+   
+   IMMUNIZATIONS:
+   
+   IMAGING STUDIES:
+   
+--------------------------------------------------------------------------------
+CONTINUING
+   
+   CONDITIONS:
+  2017-12-04 : Severe anxiety (panic) (finding)
+  2017-12-04 : Full-time employment (finding)
+  2010-10-18 : Essential hypertension (disorder)
+  2003-07-28 : Anemia (disorder)
+  2003-07-28 : Prediabetes
+  2002-07-22 : Received higher education (finding)
+  2002-07-22 : Housing unsatisfactory (finding)
+  2001-07-16 : Risk activity involvement (finding)
+   
+   MEDICATIONS:
+  2018-12-10 + amLODIPine 2.5 MG Oral Tablet for Essential hypertension (disorder)
+  2003-08-04 : Vitamin B12 5 MG/ML Injectable Solution
+   
+   CAREPLANS:
+  2010-10-18 : Lifestyle education regarding hypertension
+                         Reason: Essential hypertension (disorder)
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  2003-07-28 : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+   
+--------------------------------------------------------------------------------
